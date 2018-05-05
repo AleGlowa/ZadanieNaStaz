@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="091120-2018"
+            EDITION="2018042">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-085193-001</RECEPTION_ID>
+      <DELETION_DATE>20180602</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>42</NO_OJ>
+         <DATE_PUB>20180301</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 042-091120</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:091120-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://www.eda.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="80600000">Training services in defence and security materials</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="80660000">Training and simulation in military electronic systems</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="UK">UNITED KINGDOM</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="UK">UNITED KINGDOM</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">7000000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 164-337354</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180222</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Tjenesteydelser til støtte for EDA's helikopterportefølje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Dienstleistungen zur Unterstützung des Hubschrauberbestands der EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Services in Support of EDA’s Helicopter Portfolio</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de asistencia a la gama de helicópteros de la AED</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Palvelut Euroopan puolustusviraston (EDA) helikopteritoiminnan tukemiseksi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Services de soutien en faveur de la flotte d'hélicoptères de l'AED</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες προς υποστήριξη του χαρτοφυλακίου του ΕΟΑ για τον στόλο ελικοπτέρων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di sostegno a favore della flotta di elicotteri dell'AED</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Diensten ter ondersteuning van de helicopterportefeuille van het EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de apoio à gama de helicópteros da AED</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tjänster till stöd för Europeiska försvarsbyråns helikopterportfölj</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Služby na podporu vrtulníkového portfolia Evropské ochranné agentury</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Teenused EDA helikopterite portfelli toetamiseks</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Az Európai Védelmi Ügynökség helikopterflottáját támogató szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Paslaugos remiant EGA sraigtasparnių portfelį</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Pakalpojumi EAA helikopteru apkalpes apmācību kopuma atbalstam</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi b'appoġġ tal-portafoll tal-ħelikopters tal-EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi wspierające portfel śmigłowcowy EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Služby na podporu vrtuľníkového portfólia Európskej obrannej agentúry</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Podporne storitve za floto helikopterjev EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Seirbhísí chun tacú le punann héileacaptar GEC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги за подкрепа на портфолиото за хеликоптери на EDA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de susținere pentru flota de elicoptere a AEA</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge podrške za portfelj EDA-e o helikopterima</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Forsvarsagentur</AA_NAME>
+         <AA_NAME LG="DE">Europäische Verteidigungsagentur</AA_NAME>
+         <AA_NAME LG="EN">European Defence Agency</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de Defensa</AA_NAME>
+         <AA_NAME LG="FI">Euroopan puolustusvirasto</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de défense</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός Άμυνας</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea per la difesa</AA_NAME>
+         <AA_NAME LG="NL">Europees Defensieagentschap</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia de Defesa</AA_NAME>
+         <AA_NAME LG="SV">Europeiska försvarsbyrån</AA_NAME>
+         <AA_NAME LG="CS">Evropská obranná agentura</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Kaitseagentuur</AA_NAME>
+         <AA_NAME LG="HU">Európai Védelmi Ügynökség</AA_NAME>
+         <AA_NAME LG="LT">Europos gynybos agentūra</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Aizsardzības aģentūra</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għad-Difiża</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Obrony</AA_NAME>
+         <AA_NAME LG="SK">Európska obranná agentúra</AA_NAME>
+         <AA_NAME LG="SL">Evropska obrambna agencija</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um Chosaint</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция по отбрана</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană de Apărare</AA_NAME>
+         <AA_NAME LG="HR">Europska obrambena agencija</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Forsvarsagentur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tjenesteydelser til støtte for EDA's helikopterportefølje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Hovedformålet med denne kontrakt er at levere de påkrævede tjenesteydelser til vedligeholdelse og udvikling af EDA's helikopterportefølje. Tjenesterne omfatter levering af undervisningskurser samt drift og vedligeholdelse af simulatoranlægget på RAF Linton-on-Ouse i Det Forenede Kongerige.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulatoranlægget på RAF Linton-on-Ouse i Det Forenede Kongerige.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der henvises til udbudsmaterialet, der er tilgængeligt på e-tendering-adressen angivet ovenfor i punkt I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>som anført i udbudsspecifikationerne</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Tjenesteydelser til støtte for EDA's helikopterportefølje</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Underkontrahent: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Der henvises til udbudsmaterialet, der er tilgængeligt på e-tendering-adressen angivet ovenfor i punkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Verteidigungsagentur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dienstleistungen zur Unterstützung des Hubschrauberbestands der EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Das Hauptziel dieses Auftrags besteht in der Erbringung von Unterstützungsdienstleistungen, die für die Erhaltung und Entwicklung des Hubschrauberbestands der EDA erforderlich sind. Die Dienstleistungen umfassen die Durchführung von Schulungen sowie den Betrieb und die Instandhaltung der Simulatoranlage der RAF Linton-on-Ouse im Vereinigten Königreich.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulatoranlage der RAF Linton-on-Ouse im Vereinigten Königreich.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Siehe Ausschreibungsunterlagen, die unter der in Ziffer I.3 angegebenen e-Tendering-Adresse verfügbar sind.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>gemäß den Angaben in den Ausschreibungsunterlagen</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Dienstleistungen zur Unterstützung des Hubschrauberbestands der EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>1 Unterauftragnehmer: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Siehe Ausschreibungsunterlagen, die unter der in Ziffer I.3 angegebenen e-Tendering-Adresse verfügbar sind.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Defence Agency</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Services in Support of EDA’s Helicopter Portfolio</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The main objective of this contract is to provide support services required to maintain and develop EDA’s Helicopter Portfolio. The services encompass the provision of training courses as well as the operation and maintenance of the simulator facility at RAF Linton-on-Ouse in the UK.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulator facility at RAF Linton-on-Ouse in the UK.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Please refer to the tender documents, available at the e-tendering address specified above under point I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>as defined in the published tendering specifications</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Services in Support of EDA’s Helicopter Portfolio</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subcontractor: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Please refer to the tender documents, available at the e-tendering address specified above under point I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de Defensa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servicios de asistencia a la gama de helicópteros de la AED</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objetivo principal del presente contrato es prestar los servicios de asistencia necesarios para mantener y desarrollar la gama de helicópteros de la Agencia Europea de Defensa (AED). Los servicios abarcan la impartición de cursos de formación, así como la gestión y el mantenimiento de la instalación de simulación de RAF Linton-on-Ouse en el Reino Unido.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Instalación de simulación de RAF Linton-on-Ouse en el Reino Unido.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Véase la documentación del concurso, disponible en la dirección de «e-tendering» indicada en el apartado I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tal y como se indica en el pliego de condiciones publicado</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Servicios de asistencia a la gama de helicópteros de la AED</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subcontratista: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Véase la documentación del concurso, disponible en la dirección de «e-tendering» indicada en el apartado I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan puolustusvirasto</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Palvelut Euroopan puolustusviraston (EDA) helikopteritoiminnan tukemiseksi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen pääasiallisena tarkoituksena on sellaisten tukipalvelujen toimittaminen, jotka ovat tarpeen Euroopan puolustusviraston (EDA) helikopteritoiminnan ylläpitämiseksi ja kehittämiseksi. Palveluihin sisältyvät koulutuskurssien tarjoaminen sekä kuninkaallisten ilmavoimien (Royal Air Force – RAF) Linton-On-Ousen lentotukikohdassa Yhdistyneessä kuningaskunnassa sijaitsevan simulaattoritilan hoito ja ylläpito.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>kuninkaallisten ilmavoimien Linton-On-Ousen lentotukikohdassa Yhdistyneessä kuningaskunnassa sijaitseva simulaattoritila.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Katso tarjousasiakirjat, jotka ovat saatavissa edellä kohdassa I.3 annetusta sähköistä tarjoamista koskevasta osoitteesta.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tarjouseritelmissä määritellyn mukaisesti</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Palvelut Euroopan puolustusviraston (EDA) helikopteritoiminnan tukemiseksi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Alihankkija: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Katso tarjousasiakirjat, jotka ovat saatavissa edellä kohdassa I.3 annetusta sähköistä tarjoamista koskevasta osoitteesta.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de défense</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Services de soutien en faveur de la flotte d'hélicoptères de l'AED</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le présent marché porte principalement sur la prestation des services de soutien requis pour assurer l'entretien et le développement de la flotte d'hélicoptères de l'AED. Les services comprennent la dispense de cours de formation ainsi que l'exploitation et la maintenance de l'installation de simulation sur la base de la RAF de Linton-on-Ouse, au Royaume-Uni.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Installation de simulation sur la base de la RAF de Linton-on-Ouse, au Royaume-Uni.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir dossier d'appel d'offres disponible à l'adresse de soumission en ligne indiquée au point I.3 ci-dessus.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Comme prévu dans le cahier des charges</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Services de soutien en faveur de la flotte d'hélicoptères de l'AED</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Sous-traitant : Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Voir dossier d'appel d'offres disponible à l'adresse de soumission en ligne indiquée au point I.3 ci-dessus.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκός Οργανισμός Άμυνας</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Υπηρεσίες προς υποστήριξη του χαρτοφυλακίου του ΕΟΑ για τον στόλο ελικοπτέρων</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Κύριος στόχος της παρούσας σύμβασης είναι η παροχή υπηρεσιών υποστήριξης που απαιτούνται για τη διατήρηση και την ανάπτυξη του χαρτοφυλακίου του ΕΟΑ για τον στόλο ελικοπτέρων. Στις υπηρεσίες συμπεριλαμβάνονται η παροχή μαθημάτων κατάρτισης καθώς και η λειτουργία και συντήρηση του εγκατάστασης προσομοίωσης στη βάση της RAF στο Linton-on-Ouse, Ηνωμένο Βασίλειο.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Εγκατάσταση προσομοίωσης στη βάση της RAF στο Linton-on-Ouse, Ηνωμένο Βασίλειο.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Παρακαλείσθε να ανατρέξετε στα έγγραφα του διαγωνισμού, που διατίθενται στη διεύθυνση ηλεκτρονικής υποβολής προσφορών που αναφέρεται ανωτέρω στο σημείο I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>όπως ορίζονται στη δημοσιευμένη συγγραφή υποχρεώσεων</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Υπηρεσίες προς υποστήριξη του χαρτοφυλακίου του ΕΟΑ για τον στόλο ελικοπτέρων</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Yπεργολάβος: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Παρακαλείσθε να ανατρέξετε στα έγγραφα του διαγωνισμού, που διατίθενται στη διεύθυνση ηλεκτρονικής υποβολής προσφορών που αναφέρεται ανωτέρω στο σημείο I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea per la difesa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servizi di sostegno a favore della flotta di elicotteri dell'AED</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'obiettivo principale del presente appalto consiste nella prestazione di servizi di sostegno necessari per mantenere e sviluppare la flotta di elicotteri dell'AED. I servizi comprendono la fornitura di corsi di formazione nonché la gestione e la manutenzione della struttura di simulazione presso la base della RAF di Linton-on-Ouse nel Regno Unito.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Struttura di simulazione presso la base della RAF di Linton-on-Ouse nel Regno Unito.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cfr. documenti di gara, disponibili all'indirizzo e-tendering indicato al punto I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>come indicato nel capitolato d’appalto pubblicato</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Servizi di sostegno a favore della flotta di elicotteri dell'AED</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subcontraente: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Cfr. documenti di gara, disponibili all'indirizzo e-tendering indicato al punto I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Defensieagentschap</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Diensten ter ondersteuning van de helicopterportefeuille van het EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De hoofddoelstelling van deze opdracht is het verlenen van ondersteuning die nodig is voor het behoud en de ontwikkeling van de helicopterportefeuille van het EDA. De diensten omvatten de verlening van opleidingscursussen, alsook de exploitatie en het onderhoud van de simulatorfaciliteit bij de RAF in Linton-on-Ouse in het Verenigd Koninkrijk.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>simulatorfaciliteit bij de RAF in Linton-on-Ouse in het Verenigd Koninkrijk.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie de aanbestedingsstukken, beschikbaar op het in I.3 vermelde adres voor elektronische inschrijving.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zoals bepaald in de gepubliceerde aanbestedingsstukken</AC_CRITERION>
+                  <AC_WEIGHTING>70 %.</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %.</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Diensten ter ondersteuning van de helicopterportefeuille van het EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Onderaannemer: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zie de aanbestedingsstukken, beschikbaar op het in I.3 vermelde adres voor elektronische inschrijving.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia de Defesa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Serviços de apoio à gama de helicópteros da AED</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objetivo principal do presente contrato consiste em prestar serviços de apoio requeridos para manter e desenvolver a gama de helicópteros da AED. Os serviços abrangem a ministração de cursos de formação bem como o funcionamento e manutenção da instalação do simulador na base aérea de Linton-on-Ouse no Reino Unido.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Instalação do simulador na base aérea de Linton-on-Ouse no Reino Unido.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Deve consultar a documentação do concurso que se encontra disponível no endereço de «e-tendering» especificado no ponto I.3 supra.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tal como indicado no caderno de encargos</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Serviços de apoio à gama de helicópteros da AED</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subcontratante: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Deve consultar a documentação do concurso que se encontra disponível no endereço de «e-tendering» especificado no ponto I.3 supra.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska försvarsbyrån</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tjänster till stöd för Europeiska försvarsbyråns helikopterportfölj</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Det huvudsakliga målet med detta kontrakt är att tillhandahålla stödtjänster som krävs för att underhålla och utveckla Europeiska försvarsbyråns (European Defence Agency – EDA) helikopterportfölj. Tjänsterna omfattar tillhandahållande av utbildningskurser samt drift och underhåll av simulatoranläggningen vid det kungliga flygvapnet (Royal Air Force – RAF) i Linton-on-Ouse i Förenade kungariket.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulatoranläggningen vid RAF i Linton-on-Ouse i Förenade kungariket.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se upphandlingsdokumenten som finns tillgängliga på adressen för e-upphandling som anges ovan i punkt I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>enligt vad som fastställts i det publicerade förfrågningsunderlaget</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Tjänster till stöd för Europeiska försvarsbyråns helikopterportfölj</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Underleverantör: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se upphandlingsdokumenten som finns tillgängliga på adressen för e-upphandling som anges ovan i punkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská obranná agentura</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Služby na podporu vrtulníkového portfolia Evropské ochranné agentury</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Hlavním cílem této zakázky je poskytnutí podpůrných služeb potřebných pro údržbu a rozvoj vrtulníkového portfolia Evropské ochranné agentury. Služby zahrnují poskytování vzdělávacích kurzů, jakož i provoz a údržbu zařízení simulátoru ve středisku RAF Linton-on-Ouse ve Spojeném království.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Zařízení simulátoru ve středisku RAF Linton-on-Ouse ve Spojeném království.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nahlédněte prosím do zadávací dokumentace, která je k dispozici na internetové adrese pro elektronické podávání nabídek (e-tendering) uvedené výše v bodě I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jak to je uvedeno ve specifikacích nabídkového řízení</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Služby na podporu vrtulníkového portfolia Evropské ochranné agentury</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subdodavatel: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Nahlédněte prosím do zadávací dokumentace, která je k dispozici na internetové adrese pro elektronické podávání nabídek (e-tendering) uvedené výše v bodě I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Kaitseagentuur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Teenused EDA helikopterite portfelli toetamiseks</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kõnealuse lepingu peamine eesmärk on osutada tugiteenuseid, mida on vaja EDA helikopterite portfelli hooldamiseks ja arendamiseks. Teenused hõlmavad koolituskursuste pakkumist ning RAF Linton-on-Ouse'is Ühendkuningriigis simulaatori seadme käitamist ja hooldamist.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulaatori seade RAF Linton-on-Ouse'is Ühendkuningriigis.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vt pakkumisdokumente, mis on avaldatud eespool punktis I.3 nimetatud elektroonilise pakkumise aadressil.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>nagu määratletud pakkumuse iseloomustuses</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Teenused EDA helikopterite portfelli toetamiseks</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Alltöövõtja:  Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vt pakkumisdokumente, mis on avaldatud eespool punktis I.3 nimetatud elektroonilise pakkumise aadressil.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Védelmi Ügynökség</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Az Európai Védelmi Ügynökség helikopterflottáját támogató szolgáltatások</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A szerződés fő célkitűzése az Európai Védelmi Ügynökség helikopterflottájának karbantartásához és fejlesztéséhez szükséges támogató szolgáltatások nyújtása. A szolgáltatások tanfolyamok lebonyolítását, valamint a királyi légierőnek (Royal Air Force, RAF) az egyesült királysági Linton-on-Ouse-ban található szimulátorlétesítményének üzemeltetését és karbantartását foglalják magukban.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>A királyi légierőnek (Royal Air Force, RAF) az egyesült királysági Linton-on-Ouse-ban található szimulátorlétesítménye.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lásd a pályázati dokumentációt, amely a fenti I.3. pontban megadott e-tendering címen érhető el.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>A kiadott pályázati dokumentációban meghatározottak szerint</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Az Európai Védelmi Ügynökség helikopterflottáját támogató szolgáltatások</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Alvállalkozó: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lásd a pályázati dokumentációt, amely a fenti I.3. pontban megadott e-tendering címen érhető el.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos gynybos agentūra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Paslaugos remiant EGA sraigtasparnių portfelį</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pagrindinis šios sutarties tikslas – teikti paramos paslaugas, reikalingas EGA sraigtasparnių portfeliui išlaikyti ir vystyti. Paslaugos apima mokymo kursų teikimą bei imitatoriaus įrenginio eksploatavimą ir priežiūrą Karališkųjų oro pajėgų bazėje Linton-on-Ouse, Jungtinėje Karalystėje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Imitatoriaus įrenginys RAF Linton-on-Ouse, Jungtinėje Karalystėje.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Prašome žr. pirkimo dokumentus, kurie yra paskelbti elektroninio viešojo pirkimo adresu, nurodytu pirmiau I.3 dalyje.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>kaip apibrėžta paskelbtose pirkimo specifikacijose</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Paslaugos remiant EGA sraigtasparnių portfelį</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subrangovas: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Prašome žr. pirkimo dokumentus, kurie yra paskelbti elektroninio viešojo pirkimo adresu, nurodytu pirmiau I.3 dalyje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Aizsardzības aģentūra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pakalpojumi EAA helikopteru apkalpes apmācību kopuma atbalstam</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā līguma galvenais mērķis ir nodrošināt atbalsta pakalpojumus, kas nepieciešami, lai uzturētu un attīstītu Eiropas Aizsardzības aģentūras (EAA) helikopteru apkalpes apmācību kopumu. Pakalpojumi ietver apmācību kursu nodrošināšanu, kā arī simulatora darbības nodrošināšanu un uzturēšanu Karalisko gaisa spēku (Royal Air Force – RAF) stacijā, kas atrodas Linton-on-Ouse, Apvienotajā Karalistē.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>simulators RAF stacijā, kas atrodas Linton-on-Ouse, Apvienotajā Karalistē.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lūdzam skatīt konkursa dokumentus, kas pieejami iepriekš I.3. iedaļā norādītajā “eTendering” adresē.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>kā norādīts konkursa specifikācijās</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Pakalpojumi EAA helikopteru apkalpes apmācību kopuma atbalstam</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Apakšuzņēmējs: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lūdzam skatīt konkursa dokumentus, kas pieejami iepriekš I.3. iedaļā norādītajā “eTendering” adresē.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għad-Difiża</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servizzi b'appoġġ tal-portafoll tal-ħelikopters tal-EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-objettiv ewlieni ta' dan il-kuntratt hu li jipprovdi servizzi ta' appoġġ meħtieġa biex imantnu u jizviluppaw il-portafoll tal-ħelikopters tal-EDA. Is-servizzi jiġbru fihom il-provvista ta' korsijiet ta' taħriġ kif ukoll it-tħaddim u l-manutenzjoni tal-faċilità ta' simulatur għand l-RAF Lintin-on-Ouse fir-Renju Unit.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Il-faċilità ta' simultaur għand l-RAF Linton-on-Ouse fir-Renju Unit.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Jekk jogħġbok irreferi għad-dokumenti tas-sejħa għall-offerti, disponibbli fl-indirizz għat-tfigħ tal-offerti b'mod elettroniku speċifikat hawn fuq taħt il-punt I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kif iddefinit fl-ispeċifikazzjonijiet tas-sejħa għall-offerti ppubblikata</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Servizzi b'appoġġ tal-portafoll tal-ħelikopters tal-EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Sottokuntrattur: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Jekk jogħġbok irreferi għad-dokumenti tas-sejħa għall-offerti, disponibbli fl-indirizz għat-tfigħ tal-offerti b'mod elettroniku speċifikat hawn fuq taħt il-punt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Obrony</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Usługi wspierające portfel śmigłowcowy EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Głównym celem niniejszego zamówienia jest świadczenie usług wsparcia koniecznych w celu utrzymania i rozwoju portfela śmigłowcowego EDA. Usługi obejmują zapewnienie kursów szkoleniowych, a także eksploatację i utrzymanie symulatora w bazie RAF w Linton-on-Ouse w Zjednoczonym Królestwie.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Symulator w bazie RAF w Linton-on-Ouse w Zjednoczonym Królestwie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zob. dokumentacja przetargowa dostępna pod adresem platformy elektronicznych zamówień publicznych (eTendering) podanym w pkt I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>jak zdefiniowano w specyfikacji istotnych warunków zamówienia</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Usługi wspierające portfel śmigłowcowy EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Podwykonawca: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zob. dokumentacja przetargowa dostępna pod adresem platformy elektronicznych zamówień publicznych (eTendering) podanym w pkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska obranná agentúra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Služby na podporu vrtuľníkového portfólia Európskej obrannej agentúry</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Hlavným cieľom tejto zákazky je poskytnúť podporné služby požadované na udržiavanie a rozvoj vrtuľníkového portfólia Európskej obrannej agentúry (EDA). Služby zahŕňajú poskytnutie vzdelávacích kurzov, ako aj prevádzku a údržbu simulačného zariadenia na stanici RAF v Linton-on-Ouse v Spojenom kráľovstve.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulačné zariadenie na stanici RAF v Linton-on-Ouse v Spojenom kráľovstve.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pozri súťažné podklady dostupné na adrese pre elektronické obstarávanie uvedenej vyššie v bode I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>ako je vymedzené v špecifikáciách zákazky</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Služby na podporu vrtuľníkového portfólia Európskej obrannej agentúry</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subdodávateľ: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Pozri súťažné podklady dostupné na adrese pre elektronické obstarávanie uvedenej vyššie v bode I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska obrambna agencija</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podporne storitve za floto helikopterjev EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Glavni cilj tega naročila je zagotoviti podporne storitve, ki so potrebne za vzdrževanje in razvoj flote helikopterjev EDA. Storitve zajemajo zagotavljanje tečajev usposabljanja ter upravljanje in vzdrževanje simulacijskega objekta v bazi kraljevih zračnih sil (Royal Air Force – RAF) Linton-on-Ouse v Združenem kraljestvu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulacijski objekt v bazi RAF Linton-on-Ouse v Združenem kraljestvu.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Glej razpisno dokumentacijo, ki je na voljo na naslovu spletnega mesta za e-razpise, navedenem zgoraj v točki I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>kakor je opredeljeno v objavljenih razpisnih specifikacijah</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Podporne storitve za floto helikopterjev EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Podizvajalec: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Glej razpisno dokumentacijo, ki je na voljo na naslovu spletnega mesta za e-razpise, navedenem zgoraj v točki I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um Chosaint</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Seirbhísí chun tacú le punann héileacaptar GEC</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é príomhchuspóir an chonartha seo na seirbhísí tacaíochta a chur ar fáil atá riachtanach chun punann héileacaptar GEC a chothabháil agus a fhorbairt. Cuimsíonn na seirbhísí soláthar cúrsaí oiliúna maille le saoráid ionsamhlóra a oibriú agus a chothabháil ag RAF Linton-on-Ouse sa Ríocht Aontaithe.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Saoráid ionsamhlóra ag RAF Linton-on-Ouse sa Ríocht Aontaithe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Féach doiciméid na tairisceana, atá ar fáil ag an seoladh ríomhsholáthair atá sainithe thuas faoi phointe I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>faoi mar atá sainithe sna sonraíochtaí tairisceana</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Seirbhísí chun tacú le punann héileacaptar GEC</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Fochonraitheoir: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Féach doiciméid na tairisceana, atá ar fáil ag an seoladh ríomhsholáthair atá sainithe thuas faoi phointe I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция по отбрана</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Услуги за подкрепа на портфолиото за хеликоптери на EDA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Основната цел на настоящата поръчка е да се предоставят услуги за подкрепа за поддръжката и развитието на портфолиото за хеликоптери на EDA. Услугите обхващат осигуряване на курсове за обучение, както и експлоатация и поддръжка на симулатора на RAF Linton-on-Ouse в Обединеното кралство.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Симулатор на RAF Linton-on-Ouse в Обединеното кралство.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Моля, направете справка с тръжните документи, достъпни на адреса за e-tendering, посочен по-горе в точка I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>както е определено в тръжните спецификации</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Услуги за подкрепа на портфолиото за хеликоптери на EDA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Подизпълнител: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Моля, направете справка с тръжните документи, достъпни на адреса за e-tendering, посочен по-горе в точка I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană de Apărare</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servicii de susținere pentru flota de elicoptere a AEA</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectivul principal al acestui contract este de a furniza servicii de susținere necesare pentru menținerea și dezvoltarea flotei de elicoptere a AEA. Serviciile includ furnizarea de cursuri de formare, precum și exploatarea și întreținerea simulatorului de la RAF Linton-on-Ouse din Regatul Unit.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Simulatorul de la RAF Linton-on-Ouse din Regatul Unit.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A se consulta dosarul licitației, disponibil la adresa e-tendering specificată mai sus la punctul I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Astfel cum este definit în caietul de sarcini al licitației publicat</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Servicii de susținere pentru flota de elicoptere a AEA</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Subcontractant: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A se consulta dosarul licitației, disponibil la adresa e-tendering specificată mai sus la punctul I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska obrambena agencija</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Usluge podrške za portfelj EDA-e o helikopterima</P>
+            </TITLE>
+            <REFERENCE_NUMBER>17.CPS.OP.B-1377/1420/1450</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Glavni cilj ovoga ugovora pružiti je usluge podrške koje su potrebne za održavanje i razvijanje portfelja EDA-e o helikopterima. Usluge obuhvaćaju pružanje tečajeva osposobljavanja kao i vođenje i održavanje objekta za simulacije na lokaciji RAF Linton-on-Ouse u Ujedinjenoj Kraljevini.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80660000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="UK"/>
+               <MAIN_SITE>
+                  <P>Objekt za simulacije na lokaciji RAF Linton-on-Ouse u Ujedinjenoj Kraljevini.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Molimo vidjeti dokumentaciju za nadmetanje dostupnu na adresi e-nadmetanja navedenoj u prethodnoj točki I.3.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kako je određeno u objavljenim uputama za nadmetanje</AC_CRITERION>
+                  <AC_WEIGHTING>70 %</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30 %</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 164-337354</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>17.CPS.OP.B-1377/1420/1450</CONTRACT_NO>
+            <TITLE>
+               <P>Usluge podrške za portfelj EDA-e o helikopterima</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Inzpire Ltd</OFFICIALNAME>
+                     <NATIONALID>05456427</NATIONALID>
+                     <ADDRESS>Landmark House West, Unit 1B Alpha Court, Kingsley Road</ADDRESS>
+                     <TOWN>Lincoln</TOWN>
+                     <POSTAL_CODE>LN6 3TA</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">7000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">7000000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>8</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Podizvoditelj: Bohemia Interactive Simulations.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Molimo vidjeti dokumentaciju za nadmetanje dostupnu na adresi e-nadmetanja navedenoj u prethodnoj točki I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

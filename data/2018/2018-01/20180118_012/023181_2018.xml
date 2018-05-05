@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="023181-2018"
+            EDITION="2018012">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-021926-001</RECEPTION_ID>
+      <DELETION_DATE>20180305</DELETION_DATE>
+      <FORM_LG_LIST>HU </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>12</NO_OJ>
+         <DATE_PUB>20180118</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 012-023181</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:023181-2018:TEXT:HU:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>HU</LG_ORIG>
+         <ISO_COUNTRY VALUE="HU"/>
+         <IA_URL_GENERAL>http://honvedelmibeszerzes.kormany.hu</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://honvedelmibeszerzes.kormany.hu/2011-evi-cviii-torveny</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="90700000">Environmental services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="HU311">Borsod-Abaúj-Zemplén</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="HU232">Somogy</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="HU110">Budapest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU110">Budapest</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="HUF">1</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180116</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180305 10:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+         <HEADING>01C02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Унгapия</TI_CY>
+            <TI_TOWN>Будапеща</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги, свързани с околната среда</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Environmentální služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Tjenester på miljøområdet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Dienstleistungen im Umweltschutz</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ουγγαρία</TI_CY>
+            <TI_TOWN>Βουδαπέστη</TI_TOWN>
+            <TI_TEXT>
+               <P>Περιβαλλοντικές υπηρεσίες</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Hungary</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Environmental services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Hungría</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios medioambientales</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Ungari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Keskkonnateenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Unkari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Ympäristöön liittyvät palvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Hongrie</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Services relatifs à l'environnement</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ungáir, an</TI_CY>
+            <TI_TOWN>Búdaipéist</TI_TOWN>
+            <TI_TEXT>
+               <P>Environmental services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Mađarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge u području zaštite okoliša</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Magyarország</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Környezetvédelemmel kapcsolatos szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Ungheria</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi ambientali</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vengrija</TI_CY>
+            <TI_TOWN>Budapeštas</TI_TOWN>
+            <TI_TEXT>
+               <P>Aplinkosauginės paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Ungārija</TI_CY>
+            <TI_TOWN>Budapešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Vides pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Ungerija</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ambjentali</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Hongarije</TI_CY>
+            <TI_TOWN>Boedapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Milieuzorgdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Węgry</TI_CY>
+            <TI_TOWN>Budapeszt</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi środowiska naturalnego</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Hungria</TI_CY>
+            <TI_TOWN>Budapeste</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços ambientais</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Ungaria</TI_CY>
+            <TI_TOWN>Budapesta</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii privind mediul</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Environmentálne služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Madžarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Okoljske storitve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Ungern</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Miljötjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="HU">HM Védelemgazdasági Hivatal</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>HM Védelemgazdasági Hivatal</OFFICIALNAME>
+               <NATIONALID>AK03174</NATIONALID>
+               <ADDRESS>Lehel utca 35–37.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1135</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fodor Péter dandártábornok, főigazgató</CONTACT_POINT>
+               <PHONE>+36 12365226</PHONE>
+               <E_MAIL>beszerzes@hm.gov.hu</E_MAIL>
+               <FAX>+36 12365128</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://honvedelmibeszerzes.kormany.hu</URL_GENERAL>
+               <URL_BUYER>http://honvedelmibeszerzes.kormany.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://honvedelmibeszerzes.kormany.hu/2011-evi-cviii-torveny</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>Honvédelmi Minisztérium Védelemgazdasági Hivatal</OFFICIALNAME>
+               <NATIONALID>AK03174</NATIONALID>
+               <ADDRESS>Pf. 74.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1155</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fodor Péter dandártábornok, főigazgató</CONTACT_POINT>
+               <PHONE>+36 14338015</PHONE>
+               <E_MAIL>beszerzes@hm.gov.hu</E_MAIL>
+               <FAX>+36 14338007</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://honvedelmibeszerzes.kormany.hu</URL_GENERAL>
+               <URL_BUYER>http://honvedelmibeszerzes.kormany.hu</URL_BUYER>
+            </ADDRESS_FURTHER_INFO>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>HM Védelemgazdasági Hivatal Beszerzési Igazgatóság Közbeszerzési Okmányátvevő helyiség</OFFICIALNAME>
+               <NATIONALID>AK03174</NATIONALID>
+               <ADDRESS>Dózsa György út 51. II. épület földszint 17.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1134</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fodor Péter dandártábornok, főigazgató</CONTACT_POINT>
+               <PHONE>+36 14338015</PHONE>
+               <E_MAIL>beszerzes@hm.gov.hu</E_MAIL>
+               <FAX>+36 14338007</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://honvedelmibeszerzes.kormany.hu</URL_GENERAL>
+               <URL_BUYER>http://honvedelmibeszerzes.kormany.hu</URL_BUYER>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="MINISTRY"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>KEHOP-3.3.0 Taszár, Repülőtér, „A” és „B” üzemanyagtelepek, valamint Mezőkövesd, üzemanyagbázis kármentesítése, tervezési feladat (beszerzési azonosító: 6-103/VGH/KBT/1254/2017).</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="90700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>1.RK: Taszár, Repülőtér, „A” és „B” üzemanyagtelepek kármentesítése, tervezési feladat</P>
+               <P>2.RK: Mezőkövesd, üzemanyagbázis kárm., tervezési feladat</P>
+               <P>Elkészítendő tervdok.:</P>
+               <P>— Tényfeltárási záródok.,4 pld.+1 CD,</P>
+               <P>— Műszaki beavatkozási terv,4 pld.+1 CD,</P>
+               <P>— Vízjogi létesítési eng. terv,4 pld.+1 CD,</P>
+               <P>— Megvalósíthatósági Tanulmány (MT) és Költség- haszon elemzés (CBA),4 pld.+1 CD,</P>
+               <P>— Tartálypark bontási tervek,4 pld.+1 CD,</P>
+               <P>— Vasúti lefejtő bontási tervek,4 pld.+1 CD - amennyiben releváns,</P>
+               <P>— Vasúti vonalszakasz bontási tervek,4 pld.+1 CD - amennyiben releváns,</P>
+               <P>— Épület bontási tervek,4 pld.+1 CD(szükség esetén),</P>
+               <P>— Fakivágási eng. tervek,4 pld.+1 CD(szükség esetén),</P>
+               <P>— A kárm. kivitelezőjének kiválasztására irányuló, kiírásra kerülő eljárás (kiviteli terv szintű) tenderdok., árazott és árazatlan költségvetéssel,4 pld.+1 CD,</P>
+               <P>— Környezetvédelmi Hatósági átvételi elismervény: az engedélykérelmek benyújtására vonatkozó igazoló elismervény,</P>
+               <P>— Környezetvédelmi Hatósági engedélyek, határozatok megléte,</P>
+               <P>— MT és CBA, minőségbizt. megléte.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="HUF">1</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tervezési szerződés / KEHOP-3.3.0 Taszár, Repülőtér, „A” és „B” üzemanyagtelepek kármentesítése, tervezési feladat.</P>
+               </TITLE>
+               <LOT_NO>1.</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <n2016:NUTS CODE="HU232"/>
+               <MAIN_SITE>
+                  <P>HM VGH BEFKI (1135 Budapest, Lehel utca 35–37.), illetve a teljes tervezési terület: Taszár 037/1 és Taszár 038, 039, 040/4, 041/1, 041/3, 041/6, 041/7, 042/1, 042/2, 045 hrsz.-ú ingatlanok.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Taszár, Repülőtér, „A” és „B” üzemanyagtelepek környezetvédelmi kármentesítése, tervezési feladat.</P>
+                  <P>AT általános kötelezettségei a feladat teljesítése során:</P>
+                  <P>— Meglévő adatok összegyűjtése (helyszínre vonatkozó információk), rendszerezése, értékelése,</P>
+                  <P>— A feladat teljesítéséhez szükséges geodéziai és egyéb felmérések készítése és a meglévő felmérések szüksége szerinti kiegészítése, aktualizálása,</P>
+                  <P>— Konzultáció a AK-val, az illetékes környezetvédelmi hatóságokkal: a beavatkozási terv tartalmának véglegesítése és a szükségesnek tartott helyszíni munkák megkezdése előtt,</P>
+                  <P>— A tényfeltárási záródokumentáció, műszaki beavatkozási-, vízjogi létesítési engedélyezési tervek, bontási terv elkészítése a vonatkozó jogszabályokban rögzített tartalommal,</P>
+                  <P>— Engedélyezési tervdokumentációk környezetvédelmi hatóság általi jóváhagyatása, az engedélyek beszerzése,</P>
+                  <P>— Az engedélyezési eljárásokhoz szükséges frissességű tulajdoni lapok és birtokhatár sarokpontok beszerzésének költsége AT-t terheli,</P>
+                  <P>— A tenderdokumentációk elkészítése a vonatkozó jogszabályoknak megfelelő műszaki tartalommal,</P>
+                  <P>— A tervezési munkálatokhoz szükséges laboratóriumi és mintavételi munkákat végző laboratóriumnak akkreditációval kell rendelkeznie,</P>
+                  <P>— A feladat-végrehajtásban részt vevő személyek, gépjárművek számára belépési engedélyt kell kérni írásban, elektronikus úton (e-mailben). A beléptetés kérése a szerződéstervezet „Honvédségi területen történő beléptetés szabályai” pontban leírt tartalommal történjen,</P>
+                  <P>— A munkavégzés során fokozott figyelemmel kell lenni a környezet tisztaságára,</P>
+                  <P>— A jelen műszaki dokumentációban előírt jelentések elkészítése és benyújtása az AK-nek,</P>
+                  <P>— Folyamatos kapcsolattartás, lényegi egyeztetésekről jegyzőkönyv vagy emlékeztető készítése.</P>
+                  <P>A teljes tervezési terület: 90 000 négyzetméter. AK teljes tervezési terület alatt a Taszár 037/1 és Taszár 038, 039, 040/4, 041/1, 041/3, 041/6, 041/7, 042/1, 042/2, 045 hrsz.-ú ingatlanokat érti.</P>
+                  <P>Elkészítendő tervdokumentációk:</P>
+                  <P>a) Tényfeltárási záródok., 4 nyomtatott és 1 elektronikus példányban digitális adathordozón (CD) (továbbiakban: 4 pld.+1 CD)</P>
+                  <P>b) Műszaki beavatkozási terv, 4 pld.+1 CD</P>
+                  <P>c) Vízjogi létesítési engedélyezi terv, 4 pld.+1 CD</P>
+                  <P>d) Megvalósíthatósági Tanulmány (MT) és Költség- haszon elemzés (CBA), 4 pld.+1 CD</P>
+                  <P>Üzemanyagtelepenként (1-1 terv):</P>
+                  <P>e) Tartálypark bontási tervek, 4 pld.+1 CD (CD)</P>
+                  <P>f) Vasúti lefejtő bontási tervek, 4 pld.+1 CD - amennyiben releváns</P>
+                  <P>g) Vasúti vonalszakasz bontási tervek, 4 pld.+1 CD (CD) - amennyiben releváns.</P>
+                  <P>h) Épület bontási tervek, 4 pld.+1 CD (szükség esetén)</P>
+                  <P>i) Fakivágási engedélyezési tervek, 4 pld.+1 CD (szükség esetén)</P>
+                  <P>j) A környezetvédelmi kármentesítés kivitelezőjének kiválasztására irányuló, kiírásra kerülő eljárás (kiviteli terv szintű) tenderdokumentációja, árazott és árazatlan költségvetéssel, 4 pld.+1 CD</P>
+                  <P>k) Környezetvédelmi Hatósági átvételi elismervény: az engedélykérelmek benyújtására vonatkozó igazoló elismervény</P>
+                  <P>l) Környezetvédelmi Hatósági engedélyek, határozatok megléte;</P>
+                  <P>m) Megvalósíthatósági Tanulmány (MT) és Költség- haszon elemzés (CBA), minőségbiztosítás megléte.</P>
+                  <P>A részletes műszaki követelményeket a kiegészítő közbeszerzési dokumentumok tartalmazzák.</P>
+                  <P>Kiegészítés a felhívás II.2.5) Értékelési szempontok, minőségi kritérium pontjához:</P>
+                  <P>M2.) 1 fő szakember - Vízimérnöki tervezési és/vagy vízgazdálkodási építmények tervezése, területi vízgazdálkodás építmények tervezése jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 2.</P>
+                  <P>M3.) 1 fő szakember - SZKV környezetvédelem szakterületen környezetvédelmi szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 1,5.</P>
+                  <P>M4.) 1 fő szakember - SZVV Vízanalitika, vízminőség-védelem, vízminőségi kárelhárítás részterületen szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 1,5.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>M2.) 1 fő szakember - Vízimérnöki tervezési és/vagy vízgazdálkodási építmények tervezése, területi vízgazdálkodás építmények tervezése (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>2</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>M3.) 1 fő szakember - SZKV környezetvédelem szakterületen környezetvédelmi szakértő (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>1,5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>M4.) 1 fő szakember - SZVV Vízanalitika, vízminőség-védelem, vízminőségi kárelhárítás részterületen szakértő (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>1,5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">7</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Környezeti és Energiahatékonysági Operatív Program KEHOP-3.3.0 projekt. Címe: KEHOP-3.3.0 Taszár, Repülőtér, „A” és „B” üzemanyagtelepek kármentesítése. Azonosító száma: KEHOP-3.3.0-15-2017-00004</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>II.2.6.) pont kitöltése azért történt, hogy a hirdetmény feladható legyen a kiadó hivatalnak.</P>
+                  <P>II.2.7.) pont kiegészítése: Kötbérterhes részhatáridő: a szerződéskötést követő 3. hónap vége, Kötbérterhes véghatáridő: a szerződéskötést követő 6. hónap vége, Rendelkezésre állás a szerződéskötést követő 7. hónap végéig.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Tervezési szerződés / Mezőkövesd, üzemanyagbázis kármentesítése, tervezési feladat.</P>
+               </TITLE>
+               <LOT_NO>2.</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <n2016:NUTS CODE="HU311"/>
+               <MAIN_SITE>
+                  <P>HM VGH BEFKI (1135 Budapest, Lehel utca 35–37.), illetve a teljes tervezési terület: Mezőkövesd 0456/2 és 0456/4-21 hrsz.-ú ingatlanok.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Mezőkövesd, üzemanyagbázis környezetvédelmi kármentesítése, tervezési feladat.</P>
+                  <P>AT általános kötelezettségei a feladat teljesítése során:</P>
+                  <P>— Meglévő adatok összegyűjtése (helyszínre vonatkozó információk), rendszerezése, értékelése,</P>
+                  <P>— A feladat teljesítéséhez szükséges geodéziai és egyéb felmérések készítése és a meglévő felmérések szüksége szerinti kiegészítése, aktualizálása,</P>
+                  <P>— Konzultáció a AK-val, az illetékes környezetvédelmi hatóságokkal: a beavatkozási terv tartalmának véglegesítése és a szükségesnek tartott helyszíni munkák megkezdése előtt,</P>
+                  <P>— A tényfeltárási záródokumentáció, műszaki beavatkozási-, vízjogi létesítési engedélyezési tervek, bontási terv elkészítése a vonatkozó jogszabályokban rögzített tartalommal,</P>
+                  <P>— Engedélyezési tervdokumentációk környezetvédelmi hatóság általi jóváhagyatása, az engedélyek beszerzése,</P>
+                  <P>— Az engedélyezési eljárásokhoz szükséges frissességű tulajdoni lapok és birtokhatár sarokpontok beszerzésének költsége AT-t terheli,</P>
+                  <P>— A tenderdokumentációk elkészítése a vonatkozó jogszabályoknak megfelelő műszaki tartalommal,</P>
+                  <P>— A tervezési munkálatokhoz szükséges laboratóriumi és mintavételi munkákat végző laboratóriumnak akkreditációval kell rendelkeznie,</P>
+                  <P>— A feladat-végrehajtásban részt vevő személyek, gépjárművek számára belépési engedélyt kell kérni írásban, elektronikus úton (e-mailben). A beléptetés kérése a szerződéstervezet „Honvédségi területen történő beléptetés szabályai” pontban leírt tartalommal történjen,</P>
+                  <P>— A munkavégzés során fokozott figyelemmel kell lenni a környezet tisztaságára,</P>
+                  <P>— A jelen műszaki dokumentációban előírt jelentések elkészítése és benyújtása az AK-nek,</P>
+                  <P>— Folyamatos kapcsolattartás, lényegi egyeztetésekről jegyzőkönyv vagy emlékeztető készítése.</P>
+                  <P>Elkészítendő tervdokumentációk:</P>
+                  <P>a) Tényfeltárási záródokumentáció, 4 pld.+1 CD</P>
+                  <P>b) Műszaki beavatkozási terv, 4 pld.+1 CD</P>
+                  <P>c) Vízjogi létesítési engedélyezi terv, 4 pld.+1 CD</P>
+                  <P>d) Megvalósíthatósági Tanulmány (MT) és Költség- haszon elemzés (CBA), 4 pld.+1 CD</P>
+                  <P>e) Tartálypark bontási tervek, 4 pld.+1 CD</P>
+                  <P>f) Vasúti lefejtő bontási tervek, 4 pld.+1 CD - amennyiben releváns</P>
+                  <P>g) Vasúti vonalszakasz bontási tervek, 4 pld.+1 CD - amennyiben releváns.</P>
+                  <P>h) Épület bontási tervek, 4 pld.+1 CD (szükség esetén)</P>
+                  <P>i) Fakivágási engedélyezési tervek, 4 pld.+1 CD (szükség esetén)</P>
+                  <P>j) A környezetvédelmi kármentesítés kivitelezőjének kiválasztására irányuló, kiírásra kerülő eljárás (kiviteli terv szintű) tenderdokumentációja, árazott és árazatlan költségvetéssel, 4 pld.+1 CD</P>
+                  <P>k) Környezetvédelmi Hatósági átvételi elismervény: az engedélykérelmek benyújtására vonatkozó igazoló elismervény</P>
+                  <P>l) Környezetvédelmi Hatósági engedélyek, határozatok megléte;</P>
+                  <P>m) Megvalósíthatósági Tanulmány (MT) és Költség- haszon elemzés (CBA), minőségbiztosítás megléte.</P>
+                  <P>A teljes tervezési terület: 241 000 négyzetméter. AK teljes tervezési terület alatt Mezőkövesd 0456/2 és 0456/4-21 hrsz.-ú ingatlanokat érti.</P>
+                  <P>A részletes műszaki követelményeket a kiegészítő közbeszerzési dokumentumok tartalmazzák.</P>
+                  <P>Kiegészítés a felhívás II.2.5) Értékelési szempontok, minőségi kritérium pontjához:</P>
+                  <P>M2.) 1 fő szakember - Vízimérnöki tervezési és/vagy vízgazdálkodási építmények tervezése, területi vízgazdálkodás építmények tervezése jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 2.</P>
+                  <P>M3.) 1 fő szakember - SZKV környezetvédelem szakterületen környezetvédelmi szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 1,5.</P>
+                  <P>M4.) 1 fő szakember - SZVV Vízanalitika, vízminőség-védelem, vízminőségi kárelhárítás részterületen szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati időt meghaladó többlet szakmai gyakorlati idő mértéke (hónap): Súlyszám: 1,5.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>M2.) 1 fő szakember - Vízimérnöki tervezési és/vagy vízgazdálkodási építmények tervezése, területi vízgazdálkodás építmények tervezése (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>2</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>M3.) 1 fő szakember - SZKV környezetvédelem szakterületen környezetvédelmi szakértő (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>1,5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>M4.) 1 fő szakember - SZVV Vízanalitika, vízminőség-védelem, vízminőségi kárelhárítás részterületen szakértő (kiegészítés lsd.: II.2.4)</AC_CRITERION>
+                  <AC_WEIGHTING>1,5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">7</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Környezeti és Energiahatékonysági Operatív Program KEHOP-3.3.0 projekt. Címe: KEHOP-3.3.0 Mezőkövesd, üzemanyagbázis kármentesítése. Azonosító száma: KEHOP-3.3.0-15-2017-00005</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>II.2.6.) pont kitöltése azért történt, hogy a hirdetmény feladható legyen a kiadó hivatalnak.</P>
+                  <P>II.2.7.) pont kiegészítése: Kötbérterhes részhatáridő: a szerződéskötést követő 3. hónap vége, Kötbérterhes véghatáridő: a szerződéskötést követő 6. hónap vége, Rendelkezésre állás a szerződéskötést követő 7. hónap végéig.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>1-2. részajánlati körök:</P>
+               <P>Az eljárásban nem lehet ajánlattevő, alvállalkozó, és nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki a Kbt. 62.§ (1)-(2) bekezdésben meghatározott kizáró okok hatálya alatt áll.</P>
+               <P>Öntisztázás: Ajánlatkérő hivatkozik a Kbt. 64.§ (1)-(2) bekezdéseire.</P>
+               <P>Igazolás: A 321/2015. (X. 30.) Korm. rendelet (továbbiakban: Korm.r.) 1.§ (1) bekezdése, és a 3. § (1)-(3) alapján az Ajánlattevőnek az ajánlatában a Korm.r. II. Fejezetének megfelelően, az egységes európai közbeszerzési dokumentum (EEKD) benyújtásával kell előzetesen igazolnia, hogy nem tartozik a Kbt. 62.§ (1) és (2) bekezdésének hatálya alá.</P>
+               <P>Közös Ajánlattétel esetén a Közös Ajánlattevők mindegyikének, továbbá az alkalmassági igazolásában részt vevő szervezeteknek is külön EEKD-t kell benyújtania.</P>
+               <P>Az Ajánlatkérő a kiegészítő közbeszerzési dokumentumokkal együtt elektronikus formában az Ajánlattevők rendelkezésére bocsátja az eljáráshoz tartozó egységes európai közbeszerzési dokumentum mintáját.</P>
+               <P>Az Ajánlatkérő által a Kbt. 69. § (4) bekezdése alapján a kizáró okokra vonatkozó igazolások benyújtására felhívott gazdasági szereplőnek a Korm.r. 8., 10., 12-16.§ szerint kell igazolnia, hogy nem tartozik az eljárásban előírt kizáró okok hatálya alá.</P>
+               <P>A Korm.r. 1.§ (5) bekezdése alapján, a nem Magyarországon letelepedett gazdasági szereplő esetén az Ajánlatkérő az igazolások hitelességét a VI. Fejezetnek megfelelően ellenőrzi.</P>
+               <P>A kizáró okok fenn nem állására vonatkozó nyilatkozatot tárgyi eljárásra vonatkozóan szükséges megtenni, így az nem lehet korábbi az ajánlati felhívás feladásának napjánál.</P>
+               <P>A Kbt. 67.§ (4) bekezdés alapján az ajánlatban be kell nyújtani az Ajánlattevő arra vonatkozó nyilatkozatát, hogy nem vesz igénybe a szerződés teljesítéséhez a Kbt. 62.§ (1)-(2) bekezdése szerinti kizáró okok hatálya alá eső alvállalkozót.</P>
+               <P>A Kbt. 74.§ (1) bekezdés alapján Ajánlatkérő kizárja az eljárásból azt az ajánlattevőt, alvállalkozót vagy az alkalmasság igazolásában részt vevő szervezetet, aki részéről a kizáró ok az eljárás során következett be.</P>
+               <P>A Korm.r. 13. § alapján ajánlattevő köteles ajánlatához csatolni a folyamatban lévő változásbejegyzési eljárás esetében a cégbírósághoz benyújtott változásbejegyzési kérelmet és az annak érkezéséről a cégbíróság által megküldött igazolást (a változásbejegyzési eljárásra vonatkozó nemleges nyilatkozat is benyújtandó).</P>
+               <P>SZ1) AT a 322/2015.(X.30.)Korm.r.8.§(1) bekezdése alapján szerepeljen az építési beruházáshoz kapcsolódó tervezői vagy mérnöki szolgáltatás tárgya szerint illetékes országos szakmai kamara névjegyzékben,ill. a nem Magyarországon letelepedett gazdasági szereplő a letelepedés szerinti ország nyilvántartásában vagy rendelkezzen a letelepedés szerinti országban előírt engedéllyel,jogosítvánnyal vagy szervezeti,kamarai tagsággal.</P>
+               <P>Igazolás: A hazai gazdasági szereplők a tervezői, illetve mérnöki jogosultság meglétét az építési beruházáshoz kapcsolódó tervezői vagy mérnöki szolgáltatás tárgya szerint illetékes országos szakmai kamara névjegyzékében szereplés igazolásával, a nem Magyarországon letelepedett gazdasági szereplők pedig a letelepedésük szerinti ország nyilvántartásában szerepléssel, vagy a letelepedésük szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagság fennállásával biztosítják.</P>
+               <P>AT alkalmatlan, ha nem szerepel az építési beruházáshoz kapcsolódó tervezői vagy mérnöki szolgáltatás tárgya szerint illetékes országos szakmai kamara névjegyzékben, illetve a nem Magyarországon letelepedett gazdasági szereplő a letelepedés szerinti ország nyilvántartásában vagy a letelepedés szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagsággal nem rendelkezik.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>1-2. részajánlati körök:</P>
+               <P>P1) Az ajánlattevő – figyelemmel a Kbt. 65. § (1) bekezdés a) pontjára – a 321/2015. (X. 30.) Korm. rendelet 19.§ (1) bekezdés a) pontja alapján rendelkezzen valamennyi számlavezető pénzügyi intézményétől származó igazolással az alábbi tartalommal:</P>
+               <P>— a pénzügyi intézmény által ajánlattevő számára vezetett számla(k) pénzforgalmi jelölőszáma(i),</P>
+               <P>— mióta vezeti az Ajánlattevő számláját,</P>
+               <P>— számláján az eljárást megindító felhívás feladásától visszafelé számított egy éven (12 hónapon) belül volt-e 30 napot meghaladó sorbaállítás.</P>
+               <P>Attól függően, hogy az Ajánlattevő mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak.</P>
+               <P>A „sorbaállítás” kitétel alatt Ajánlatkérő a 2009. évi LXXXV. törvény 2.§ 25. pontjában meghatározott fogalmat érti.</P>
+               <P>Igazolás: A Korm.r. 1.§ (1) bekezdése alapján az Ajánlattevőnek az ajánlatában a Korm.r. II. Fejezetének megfelelően, az egységes európai közbeszerzési dokumentum (továbbiakban: EEKD) benyújtásával kell előzetesen igazolnia, hogy megfelel az Ajánlatkérő által meghatározott alkalmassági követelményeknek. Ajánlatkérő a Korm.r. 2. § (5) bekezdése alapján elfogadja a gazdasági szereplők egyszerű nyilatkozatát (Ajánlattevőnek az EEKD IV. rész a. szakaszát kell kitöltenie, a IV. rész további (A-D) szakaszait nem.).</P>
+               <P>A Kbt. 69. § (4)-(7) bekezdése alapján az eljárás eredményéről szóló döntés meghozatalát megelőzően az ajánlatkérő az értékelési szempontokra figyelemmel legkedvezőbbnek tekinthető ajánlattevőt megfelelő határidő tűzésével felhívja az alkalmassági követelmények tekintetében az alábbi igazolás benyújtására:</P>
+               <P>Valamennyi számlavezető - pénzügyi intézményétől származó igazolás az alábbi tartalommal:</P>
+               <P>— a pénzügyi intézmény által ajánlattevő számára vezetett számla(k) pénzforgalmi jelölőszáma(i),</P>
+               <P>— mióta vezeti az ajánlattevő számláját,</P>
+               <P>— számláján az eljárást megindító felhívás megküldésétől visszafelé számított egy éven (12 hónapon) belül volt-e 30 napot meghaladó sorbaállítás.</P>
+               <P>Attól függően, hogy az ajánlattevő mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak.</P>
+               <P>Ajánlatkérő a vizsgált időszakban megszűnt pénzforgalmi számlákat is vizsgálja, ebben az esetben bármely, a megszűnés dátumát követően kelt igazolás elfogadható az alkalmassági minimumkövetelmény alátámasztására.</P>
+               <P>Ajánlatkérő felhívja a figyelmet a Korm.r. 19. § (7) bekezdésében foglaltakra.</P>
+               <P>Ajánlatkérő hivatkozik a Kbt. 65.§ (6) - (8) és (11) bekezdéseire.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>P1) Alkalmatlan ajánlattevő, ha az 1-2. részajánlati körök vonatkozásában valamely számlavezető pénzügyi intézmény nyilatkozata alapján az eljárást megindító felhívás feladásától visszafelé számított egy éven (12 hónapon) belül volt bármely pénzforgalmi számláján 30 napot meghaladó időtartamú sorbaállítás.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>1-2. részajánlati kör:</P>
+               <P>M1) AT a 321/2015.(X.30.)Korm.r.21.§(3)a) alapján ismertesse a felhívás feladásától visszafelé számított 3 éven (36 hónap) belül befejezett, de legfeljebb 6 éven (72 hónap) belül megkezdett,szerződésszerűen teljesített,,környezetvédelmi kármentesítés tervezési szolgáltatásra vonatkozó legjelentősebb szolgáltatásait.</P>
+               <P>AT a Korm.r.21.§(3)b) alapján rendelkezzen az alábbi végzettséggel vagy képzettséggel,szakmai tapasztalattal rendelkező személlyel,akit a teljesítésbe be kíván vonni (M2-M4):</P>
+               <P>M2) 1fő 104/2006 (IV. 28.) Korm. rendelet 1. melléklet 8.3. pontja szerinti vízimérnöki tervezési és/vagy 266/2013 (VII. 11) Korm. rendelet 1. melléklet I. 2. rész vízgazdálkodási építmények tervezése,területi vízgazdálkodás építmények tervezése jogosultság megszerzéséhez szükséges,okleveles építőmérnökként 3év,építőmérnökként/vízépítési üzemmérnökként 5év szakmai gyakorlati idővel és okleveles építőmérnöki vagy építőmérnöki/vízépítési üzemmérnöki végzettséggel rendelkező szakember.</P>
+               <P>M3) 1fő a 297/2009.(XII.21.)Korm.r.2. sz. melléklet I/3.pontjában feltüntetett végzettségek bármelyikével,és a rendelet 6. § (3) bekezdésében felsorolt területek bármelyikében.</P>
+               <P>a)egyetemi szintű képzésben(ESZK) vagy mesterképzésben(M) szerzett oklevél esetén 5év</P>
+               <P>b)főiskolai szintű képzésben(FSZK) vagy alapképzésben(A) szerzett oklevél esetén 8év</P>
+               <P>Szakmai gyakorlati idővel rendelkező szakember.</P>
+               <P>M4) 1fő a 297/2009.(XII. 21.)Korm.r.2.sz. melléklet III/10.pontjában feltüntetett végzettségek bármelyikével, és a rendelet 6.§(3)bekezdésében felsorolt területek bármelyikében.</P>
+               <P>a)ESZK vagy M szerzett oklevél esetén 5 év</P>
+               <P>b)FSZK vagy legalább 8 féléves A szerzett oklevél esetén 10 év</P>
+               <P>c)ESZK vagy M szerzett oklevél esetén továbbá szakirányú,legalább kétéves posztgraduális végzettség esetén 5 év,</P>
+               <P>d)FSZK vagy legalább 8 féléves A szerzett oklevél esetén továbbá szakirányú,legalább kétéves posztgraduális végzettség esetén 6 év</P>
+               <P>Szakmai gyakorlati idővel rendelkező szakember.</P>
+               <P>A 3 terület (M2, M3, M4) vonatkozásában adott részajánlati körön belül a szakemberek átfedése megengedett.</P>
+               <P>Az 1-2. részajánlati körben ugyanazon területen (M2, M3, M4) ugyanaz a szakember nem vonható be.</P>
+               <P>M1-M4) Igazolás: A Korm.r.1.§(1) bekezdése alapján az AT-nek az ajánlatában a Korm.r. II. Fejezetének megfelelően,az EEKD benyújtásával kell előzetesen igazolnia,hogy megfelel az alkalmassági követelményeknek. AK a Korm.r.2.§(5) bekezdése alapján elfogadja a gazdasági szereplők egyszerű nyilatkozatát. (Ajánlattevőnek az EEKD IV. rész a. szakaszát kell kitöltenie, a IV. rész további (A-D) szakaszait nem.).</P>
+               <P>A Kbt.69.§(4)-(7) alapján az eljárás eredményéről szóló döntés meghozatalát megelőzően az AK az értékelési szempontokra figyelemmel legkedvezőbbnek tekinthető AT-t megfelelő határidő tűzésével felhívja az alábbi igazolások benyújtására:</P>
+               <P>M1)szerinti referencianyilatkozat vagy igazolás az alábbi tartalommal a Korm. rendelet 22.§ (1)-(2) bek. alapján:</P>
+               <P>— a szolgáltatás tárgya,</P>
+               <P>— a szolgáltatás mennyisége,</P>
+               <P>— szerződéskötő másik fél megnevezése,</P>
+               <P>— a teljesítés ideje év/hó/napban (kezdő és befejező időpontját),</P>
+               <P>— nyilatkozni kell arról, hogy a teljesítés az előírásoknak és a szerződésnek megfelelően történt-e.</P>
+               <P>M2)-M4)szerinti,a teljesítésbe bevonni kívánt szakember ismertetése, önéletrajza, rendelkezésre állási nyilatkozata, végzettséget vagy képzettséget igazoló dokumentumok egyszerű másolata.</P>
+               <P>AK hivatkozik a Kbt.65.§(6)-(7),(9) és (11), 140.§(9) és a Korm.r.24.§(1) bekezdésére.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>M1) AT alkalmatlan, ha nem rendelkezik az eljárást megindító felhívás feladásától visszafelé számított 3 éven (36 hónap) belül befejezett, de legfeljebb 6 éven (72 hónap) belül megkezdett</P>
+               <P>— 1. részajánlati kör vonatkozásában: legalább 1 db, szerződésszerűen teljesített, legalább 65 000 négyzetméter teljes tervezési területen végzett,</P>
+               <P>— 2. részajánlati kör vonatkozásában: legalább 1 db, szerződésszerűen teljesített, legalább 180 000 négyzetméter teljes tervezési területen végzett</P>
+               <P>környezetvédelmi kármentesítés tervezési szolgáltatásra vonatkozó referenciával.</P>
+               <P>M2) AT alkalmatlan, ha nem rendelkezik legalább az 1-2. részajánlati körök vonatkozásában részajánlati körönként 1 fő 104/2006 (IV. 28.) Korm. rendelet 1. melléklet 8.3. pontja szerinti vízimérnöki tervezési és / vagy 266/2013 (VII. 11) Korm. rendelet 1. melléklet I. 2. rész vízgazdálkodási építmények tervezése, területi vízgazdálkodás építmények tervezése jogosultság megszerzéséhez szükséges, okleveles építőmérnökként 3 év, építőmérnökként/vízépítési üzemmérnökként 5 év szakmai gyakorlati idővel és okleveles építőmérnöki vagy építőmérnöki/vízépítési üzemmérnöki végzettséggel rendelkező szakemberrel.</P>
+               <P>M3) AT alkalmatlan, ha nem rendelkezik az 1-2. részajánlati körök vonatkozásában részajánlati körönként legalább 1 fő a 297/2009. (XII. 21.) Korm. rendelet 2. sz. melléklet I/3. pontjában feltüntetett végzettségek bármelyikével, és a rendelet 6. § (3) bekezdésében felsorolt területek bármelyikében.</P>
+               <P>a)egyetemi szintű képzésben vagy mesterképzésben szerzett oklevél esetén 5 év,</P>
+               <P>b)főiskolai szintű képzésben vagy alapképzésben szerzett oklevél esetén 8 év</P>
+               <P>Szakmai gyakorlati idővel rendelkező szakemberrel.</P>
+               <P>M4) AT alkalmatlan, ha nem rendelkezik az 1-2. részajánlati körök vonatkozásában részajánlati körönként legalább 1 fő a 297/2009. (XII. 21.) Korm. rendelet 2. sz. melléklet III/10. pontjában feltüntetett végzettségek bármelyikével, és a rendelet 6. § (3) bekezdésében felsorolt területek bármelyikében.</P>
+               <P>a)egyetemi szintű képzésben vagy mesterképzésben szerzett oklevél esetén 5 év,</P>
+               <P>b)főiskolai szintű képzésben vagy legalább 8 féléves alapképzésben szerzett oklevél esetén 10 év,</P>
+               <P>c)egyetemi szintű képzésben vagy mesterképzésben szerzett oklevél esetén továbbá szakirányú, legalább kétéves posztgraduális végzettség esetén 5 év,</P>
+               <P>d)főiskolai szintű képzésben vagy legalább 8 féléves alapképzésben szerzett oklevél esetén továbbá szakirányú, legalább kétéves posztgraduális végzettség esetén 6 év</P>
+               <P>Szakmai gyakorlati idővel rendelkező szakemberrel.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>A szerződés teljesítésével kapcsolatos feltételeket, a fizetési és kötbérfeltételeket a kiegészítő közbeszerzési dokumentumok részeként kiadott Tervezési szerződéstervezet tartalmazza.</P>
+               <P>Ajánlatkérő hivatkozik a Kbt. 135.§ (1), (4), (5) és (6) bekezdéseire, a Ptk. 6:130.§ (1)-(2) bekezdésére.</P>
+               <P>A kifizetés szállítói finanszírozással történik.</P>
+               <P>Késedelmi kamat a Ptk. 6:155. §-ban foglalt rendelkezések szerint. A 272/2014. (XI.5.) Korm. rendelet 119. § (1) bekezdés alapján Ajánlatkérő a szállító részére a szerződés elszámolható összege 30 %-ának megfelelő mértékű szállítói előleg igénylésének lehetőségét biztosítja.</P>
+               <P>A részszámla összege a tervezői díj 70 %-a, a végszámla összege a tervezői díj 30 %-a.</P>
+               <P>A szállítói előleg összege a részszámlából kerül jóváírásra.</P>
+               <P>Ajánlatkérő tájékoztatja Ajánlattevőket, hogy a szerződés megkötésére a mindenkor hatályos jogszabályoknak és a támogatási szerződésben foglaltaknak megfelelően kerül sor.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="HU"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">2</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-05</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>HM Védelemgazdasági Hivatal Beszerzési Igazgatóság Közbeszerzési Okmányátvevő helység, 1134 Budapest, Dózsa György út 51. II. épület földszint 17.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A bontáson a Kbt. 68. § (3) bekezdés szerinti személyek vehetnek részt. A bontáson történő részvétel esetén a képviseleti jogosultságot igazolni kell.</P>
+                  <P>Ajánlatkérő hivatkozik a Kbt. 68. § (1), (4) és (6) bekezdéseire.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>a. A közbeszerzés 100 %-ban a Környezeti és Energiahatékonysági Operatív Program keretéből származó, vissza nem térítendő EU-s támogatásból, szállítói finanszírozási formában valósul meg.</P>
+               <P>b. Az ajánlat benyújtásának formai követelményeit a KKD tartalmazza.</P>
+               <P>c. A Korm.r.30.§(4)értelmében AK a P1),M1)-M4),SZ1) pontok szerinti alkalmassági feltételeket a minősített AT jegyzékéhez képest szigorúbban határozta meg.</P>
+               <P>d. AK nem követeli meg, és nem teszi lehetővé gazdálkodó szervezet létrehozását a szerződés teljesítéséhez.</P>
+               <P>e. A KKD korlátlanul, teljeskörűen, közvetlenül, térítésmentesen, elektronikusan elérhetők a http://honvedelmibeszerzes.kormany.hu/ weboldalon.</P>
+               <P>A KKD a Kbt.57.§(2)bekezdése alapján ajánlatonként legalább egy AT-nek vagy az ajánlatban megnevezett alvállalkozónak elektronikus úton el kell érnie az ajánlattételi határidő lejártáig.</P>
+               <P>f. AK a Kbt. 77.§(1)bekezdésre tekintettel az alábbi feltételeket határozza meg:</P>
+               <P>Az ajánlat összpontszámát a részszempontok pontszámainak súlyszámokkal megszorzott értékek összege adja. A bírálat során a maximálisan adható összpontszám 100 pont.</P>
+               <P>Ajánlati ár.</P>
+               <P>— Az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése során adható pontszám alsó és felső határa:0 -10,</P>
+               <P>— Ajánlati ár esetében AK a Felolvasólapon szereplő nettó árat értékeli,</P>
+               <P>— A legalacsonyabb ellenszolgáltatást tartalmazó ajánlat kap 10 pontot. A többi ajánlat pontszámát fordított arányosítás módszerével számítja AK.</P>
+               <P>M2)-M4) műszaki szakmai alkalmasság megszerzéséhez szükséges szakmai tapasztalattal és végzettséggel vagy képzettséggel rendelkező szakember többlet szakmai gyakorlati ideje.</P>
+               <P>— Az ajánlati elem legkedvezőbb szintjére (36 hónap) és az annál még kedvezőbb vállalásokra egyaránt maximális (10) pontot ad. A legkedvezőtlenebb megajánlás 0 hónap,</P>
+               <P>— Az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése során adható pontszám alsó és felső határa:0-10,</P>
+               <P>— Ajánlatkérő a Felolvasólapon szereplő szakmai többlet gyakorlati időt értékeli. Az ajánlat pontszámát egyenes arányosítás módszerével számítja AK,</P>
+               <P>— A képletébe AK abban az esetben is a legkedvezőbbként meghatározott értéket (36 hónap) helyettesíti be, ha a legkedvezőbb ajánlat tartalmi eleme ezen értéknél kedvezőbb.</P>
+               <P>AK hivatkozik a KH 2016. évi 147.számú útmutatójára.</P>
+               <P>g. AK hivatkozik a Kbt.47.§(2)-re.</P>
+               <P>h. A IV.2.6.)pontban megadott ajánlati kötöttség vonatkozásában AK 2 hónap alatt 60 napot ért.</P>
+               <P>i. FAKSZ: dr. Mondschein Anita (00556), Helyettes: Székesi Tamás (00877).</P>
+               <P>Lev.cím: HM VGH 1555 Bp., Pf.:74.;e-mail: beszerzes@hm.gov.hu.</P>
+               <P>j. AK nem alkalmazza a Kbt. 75.§(2)e)pontja szerinti eredménytelenségi okot.</P>
+               <P>k. A szerződést biztosító mellékkötelezettségek:</P>
+               <P>1. késedelmi kötbér:</P>
+               <P>— a késedelemmel érintett szolgáltatás nettó tervezési díjának 1 %-a/nap,</P>
+               <P>— maximális mértéke a késedelemmel érintett szolgáltatás nettó tervezési díjának 20 %-a.</P>
+               <P>2. meghiúsulási kötbér:</P>
+               <P>— alapja a tervezési díj nettó értéke,mértéke annak 20 %-a.</P>
+               <P>l. Ajánlattevő nyújtsa be:</P>
+               <P>1. az ajánlatban szereplő nyilatkozatokat aláíró, az AT és az alkalmasság igazolásában résztvevő gazdasági szereplő írásbeli képviseletére jogosult személy aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírás mintáját, adott esetben meghatalmazást,</P>
+               <P>2. a nemzeti vagyonról szóló 2011.évi CXCVI. törvény átlátható szervezet fogalmára vonatkozó feltételeknek való megfelelőségről,</P>
+               <P>3. nyilatkozatát a Kbt.66.§(2)alapján(eredeti aláírt példányban),</P>
+               <P>4. nyilatkozatát a Kbt.66.§(4)alapján,</P>
+               <P>5. nyilatkozatát a Kbt.66.§(6)alapján,</P>
+               <P>6. a KKD II.8.A. pontja szerinti nyilatkozatokat,</P>
+               <P>7. nyilatkozatát a szállítói előleg igénylésére vonatkozóan,</P>
+               <P>8. nyilatkozatát a Kbt.134.§(5)alapján,</P>
+               <P>9. nyilatkozatát a teljesítésbe bevonni kívánt szakemberek értékelési részszempontok szerint megajánlott többlet szakmai gyakorlati idejének alátámasztására.</P>
+               <P>m. AK ajánlati biztosíték nem ír elő.</P>
+               <P>n. Helyszíni bejárás (lsd:KKD II.10.):</P>
+               <P>2018.02.01. 10:00. Helyszín:Mezőkövesd üzemanyagbázis bejárat, Mezőkövesd 0456/2 hrsz,</P>
+               <P>2018.02.06. 10:00. Helyszín:MH Kapos Bázisrepülőtér,Taszár 037/1 hrsz.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A Kbt. 148. § szerint.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-16</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

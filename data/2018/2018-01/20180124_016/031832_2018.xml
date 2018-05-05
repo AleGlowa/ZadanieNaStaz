@@ -1,0 +1,2978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="031832-2018"
+            EDITION="2018016">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-026187-001</RECEPTION_ID>
+      <DELETION_DATE>20180427</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>16</NO_OJ>
+         <DATE_PUB>20180124</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 016-031832</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:031832-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="DE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="38126000">Surface observing apparatus</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="38636100">Lasers</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="38510000">Microscopes</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DE12">Karlsruhe</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DE12">Karlsruhe</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="DE713">Offenbach am Main, Kreisfreie Stadt</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">133300.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 200-410769</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180117</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Indkøb af et 3D-laserprofilometer til analyse af nukleart materiale</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Deutschland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Lieferung eines 3D-Laserprofilometers zur Analyse von Kernmaterial</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Germany</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Supply of a laser 3D profilometer to be used for analysis of nuclear material</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Alemania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Suministro de un perfilómetro láser 3D que se utilizará para el análisis de material nuclear</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Saksa</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Ydinmateriaalin analyysiin käytettävän 3D-laserpinnankarheusmittarin toimitus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Allemagne</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture d'un profilomètre 3D laser pour l'analyse de matières nucléaires</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Γερμανία</TI_CY>
+            <TI_TOWN>Καρλσρούη</TI_TOWN>
+            <TI_TEXT>
+               <P>Προμήθεια τρισδιάστατου κατατόμετρου λέιζερ το οποίο θα χρησιμοποιηθεί για την ανάλυση πυρηνικών υλικών</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di un profilometro laser 3D da utilizzare per l'analisi di materiale nucleare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Duitsland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering van een 3D-profielmeter met laser die zal worden gebruikt voor de analyse van nucleair materiaal</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Alemanha</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de um perfilómetro 3D a laser a utilizar na análise de material nuclear</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av en 3D-laserprofilmätare som ska användas vid analys av kärnämne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Německo</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka laserového 3D profilometru, který se bude používat na analýzu jaderného materiálu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Saksamaa</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tuumamaterjali analüüsimiseks kasutatava laseriga 3D profilomeetri tarne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Németország</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Nukleáris anyagok vizsgálatához használandó lézeres 3D profilométer beszerzése</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vokietija, VFR</TI_CY>
+            <TI_TOWN>Karlsrūhė</TI_TOWN>
+            <TI_TEXT>
+               <P>Lazerinio 3D profilometro, kuris bus naudojamas branduolinės medžiagos analizei, tiekimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Vācija</TI_CY>
+            <TI_TOWN>Karlsrūe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tāda trīsdimensiju lāzera profilometra piegāde, kas tiks izmantots kodolmateriālu analīzei</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Ġermanja</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista ta' profilometru 3D bil-lejżer li se jkun użat għall-analiżi ta' materjal nukleari</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Niemcy</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Dostawa laserowego profilometru 3D na potrzeby analizy materiału jądrowego</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Nemecko</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka laserového 3D profilometra, ktorý sa bude používať na analýzu jadrového materiálu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Nemčija</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Dobava laserskega 3D profilometra, ki se bo uporabljal za analizo jedrskih snovi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ghearmáin, an</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Próifíliméadar 3T léasair a sholáthar a bheidh le húsáid chun ábhar núicléach a anailísiú</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Гepмaния</TI_CY>
+            <TI_TOWN>Карлсруе</TI_TOWN>
+            <TI_TEXT>
+               <P>Доставка на лазерен 3D профилометър, който ще се използва за анализ на ядрен материал</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizarea unui profilometru 3D cu laser care va fi utilizat pentru analiza materialelor nucleare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Njemačka</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava laserskog 3D profilometra koji će se koristiti za analizu nuklearnog materijala</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="EN">European Commission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, JRC - Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Indkøb af et 3D-laserprofilometer til analyse af nukleart materiale</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe planlægger indkøb af et 3D-laserprofilometer.</P>
+               <P>3D-laserprofilometeret vil blive anvendt på flere forskningsområder på JRC Karlsruhe, navnlig:</P>
+               <P>— karakterisering af overfladekorrosionsfænomener vedrørende stabiliteten af brugt nukleart brændsel</P>
+               <P>— bestemmelse af urandioxids og andre brændselsmaterialers mekaniske og termodynamiske egenskaber</P>
+               <P>— identificering af nukleart brændsels topologiske fingeraftryk til kriminalteknisk brug.</P>
+               <P>Indkøbet omfatter levering af udstyr, undervisning og 24 måneders garantiperiode.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, DE.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Indkøb af et 3D-laserprofilometer til analyse af nukleart materiale.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Som angivet i udbudsmaterialet.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Indkøb af et 3D-laserprofilometer til analyse af nukleart materiale</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lieferung eines 3D-Laserprofilometers zur Analyse von Kernmaterial</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Die JRC Karlsruhe beabsichtigt den Kauf eines 3D-Laserprofilometers.</P>
+               <P>Mit dem 3D-Profilometer soll ein Beitrag zu verschiedenen Forschungsbereichen der JRC Karlsruhe geleistet werden, insbesondere den folgenden:</P>
+               <P>— die Charakterisierung von Oberflächenkorrosionserscheinungen für die Stabilität von abgebranntem Kernbrennstoff,</P>
+               <P>— die Ermittlung von mechanischen und thermodynamischen Eigenschaften von Urandioxid und anderen Brennstoffen,</P>
+               <P>— die Ermittlung von topologischen Fingerabdrücken von Kernbrennstoffen für forensische Zwecke.</P>
+               <P>Die Beschaffung umfasst die Lieferung der Ausrüstung, die Schulung und den 24-monatigen Garantiezeitraum.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Deutschland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lieferung eines 3D-Laserprofilometers zur Analyse von Kernmaterial.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Wie in den Ausschreibungsunterlagen angegeben.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Lieferung eines 3D-Laserprofilometers zur Analyse von Kernmaterial</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supply of a laser 3D profilometer to be used for analysis of nuclear material</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>The JRC Karlsruhe plans the purchase of a laser 3D profilometer.</P>
+               <P>The 3D profilometer will contribute to several research areas of the JRC-Karlsruhe, in particular:</P>
+               <P>— the characterization of surface corrosion phenomena for the stability of spent nuclear fuel,</P>
+               <P>— the determination of mechanical and thermodynamical properties of uranium dioxide and other fuel materials,</P>
+               <P>— the identification of topological finger prints of nuclear fuel for forensic purposes.</P>
+               <P>The purchase shall cover the delivery of the equipment, the training and the 24 months warranty period.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, DE.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Supply of a laser 3D profilometer to be used for analysis of nuclear material.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>As stated in the procurement documents.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Supply of a laser 3D profilometer to be used for analysis of nuclear material</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro de un perfilómetro láser 3D que se utilizará para el análisis de material nuclear</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>El JRC de Karlsruhe tiene la intención de adquirir un perfilómetro láser 3D.</P>
+               <P>El perfilómetro 3D contribuirá a varias áreas de investigación del JRC de Karlsruhe, en particular:</P>
+               <P>— la caracterización de los fenómenos de corrosión superficial para la estabilidad de combustible nuclear gastado,</P>
+               <P>— la determinación de las propiedades mecánicas y termodinámicas del dióxido de uranio y otros materiales combustibles,</P>
+               <P>— la identificación de las huellas digitales topológicas del combustible nuclear con fines forenses.</P>
+               <P>La adquisición deberá cubrir la entrega del equipo, la impartición de formación y el período de garantía de 24 meses.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Alemania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Suministro de un perfilómetro láser 3D que se utilizará para el análisis de material nuclear.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Véase la documentación del concurso.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Suministro de un perfilómetro láser 3D que se utilizará para el análisis de material nuclear</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ydinmateriaalin analyysiin käytettävän 3D-laserpinnankarheusmittarin toimitus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa suunnitellaan 3D-laserprofilometrin (3D-laserpinnankarheusmittarin) hankintaa.</P>
+               <P>3D-profilometrin avulla edistetään useita JRC:n Karlsruhen-toimipaikan tutkimusalueita, erityisesti seuraavia:</P>
+               <P>— pintasyöpymään liittyvien ilmiöiden luonnehdinta käytetyn ydinpolttoaineen vakautta varten,</P>
+               <P>— uraanidioksidin ja muiden polttoainemateriaalien mekaanisten ja termodynaamisten ominaisuuksien määrittäminen,</P>
+               <P>— ydinpolttoaineisiin liittyvien topologisten sormenjälkien tunnistaminen rikosoikeudellisen tutkinnan tarkoituksiin.</P>
+               <P>Hankintaan on sisällyttävä laitteen toimitus, sitä koskeva koulutus sekä 24 kuukauden mittainen takuuaika.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Saksa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ydinmateriaalin analyysiin käytettävän 3D-laserpinnankarheusmittarin toimitus.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>ilmoitetaan hankinta-asiakirjoissa.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Ydinmateriaalin analyysiin käytettävän 3D-laserpinnankarheusmittarin toimitus</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture d'un profilomètre 3D laser pour l'analyse de matières nucléaires</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Le JRC de Karlsruhe envisage d'acquérir un profilomètre 3D laser.</P>
+               <P>Le profilomètre 3D sera utilisé dans plusieurs domaines de recherche du JRC de Karlsruhe, notamment :</P>
+               <P>— caractérisation des phénomènes de corrosion superficielle en vue de déterminer la stabilité du combustible nucléaire irradié,</P>
+               <P>— détermination des propriétés mécaniques et thermodynamiques du dioxyde d'uranium et d'autres matières combustibles,</P>
+               <P>— identification d'empreintes topologiques de combustible nucléaire à des fins médico-légales.</P>
+               <P>L'acquisition couvrira la livraison de l'équipement, la formation et la période de garantie de 24 mois.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Allemagne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fourniture d'un profilomètre 3D laser pour l'analyse de matières nucléaires.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Voir dossier d'appel d'offres.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Fourniture d'un profilomètre 3D laser pour l'analyse de matières nucléaires</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Προμήθεια τρισδιάστατου κατατόμετρου λέιζερ το οποίο θα χρησιμοποιηθεί για την ανάλυση πυρηνικών υλικών</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Το JRC στην Καρλσρούη σκοπεύει να αγοράσει ένα τρισδιάστατο κατατομόμετρο λέιζερ.</P>
+               <P>Το τρισδιάστατο κατατομόμετρο θα συνδράμει σε διάφορους τομείς έρευνας του JRC στην Καρλσρούη, πιο συγκεκριμένα:</P>
+               <P>— στον χαρακτηρισμό φαινομένων διάβρωσης επιφανειών για τη σταθερότητα αναλωμένων πυρηνικών καυσίμων,</P>
+               <P>— στον προσδιορισμό μηχανικών και θερμοδυναμικών ιδιοτήτων του διοξειδίου του ουρανίου και άλλων καύσιμων υλικών,</P>
+               <P>— στον προσδιορισμό τοπογραφικών δακτυλικών αποτυπωμάτων πυρηνικών καυσίμων για εγκληματολογικούς σκοπούς.</P>
+               <P>Η αγορά θα καλύψει την παράδοση του εξοπλισμού, την κατάρτιση και την 24μηνη εγγυητική περίοδο.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Γερμανία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Προμήθεια τρισδιάστατου κατατόμετρου λέιζερ το οποίο θα χρησιμοποιηθεί για την ανάλυση πυρηνικών υλικών.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Όπως ορίζονται στα έγγραφα διαγωνισμού.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Προμήθεια τρισδιάστατου κατατόμετρου λέιζερ το οποίο θα χρησιμοποιηθεί για την ανάλυση πυρηνικών υλικών</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di un profilometro laser 3D da utilizzare per l'analisi di materiale nucleare</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Il Centro di ricerca comune (JCR) di Karlsruhe ha in programma l'acquisto di un profilometro laser 3D.</P>
+               <P>Il profilometro 3D contribuirà a diversi settori di ricerca del JRC di Karlsruhe, in particolare:</P>
+               <P>— la caratterizzazione di fenomeni di corrosione superficiale per la stabilità del combustibile nucleare esaurito,</P>
+               <P>— la determinazione delle proprietà meccaniche e termodinamiche del biossido di uranio e di altri materiali combustibili,</P>
+               <P>— l'individuazione di impronte digitali topologiche di combustibile nucleare per scopi forensi.</P>
+               <P>L'acquisto dovrà comprendere la consegna dell'attrezzatura, la formazione e 24 mesi di garanzia.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Germania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornitura di un profilometro laser 3D da utilizzare per l'analisi di materiale nucleare.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Come indicato nel capitolato d'appalto.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Fornitura di un profilometro laser 3D da utilizzare per l'analisi di materiale nucleare</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van een 3D-profielmeter met laser die zal worden gebruikt voor de analyse van nucleair materiaal</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Het JRC te Karlsruhe plant de aankoop van een 3D-profielmeter met laser.</P>
+               <P>De 3D-profielmeter moet een bijdrage leveren op verschillende onderzoeksgebieden van het JRC in Karlsruhe, met name:</P>
+               <P>— de karakterisering van verschijnselen van oppervlaktecorrosie voor de stabiliteit van verbruikte splijtstof,</P>
+               <P>— de bepaling van de mechanische en thermodynamische eigenschappen van uraniumdioxide en overige brandstoffen,</P>
+               <P>— de identificatie van topologische vingerafdrukken van splijtstoffen voor forensische doeleinden.</P>
+               <P>De aankoop omvat tevens de levering van de uitrusting, de opleiding en de garantieperiode van 24 maanden.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Duitsland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Levering van een 3D-profielmeter met laser die zal worden gebruikt voor de analyse van nucleair materiaal.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>zoals aangegeven in de aanbestedingsstukken.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Levering van een 3D-profielmeter met laser die zal worden gebruikt voor de analyse van nucleair materiaal</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de um perfilómetro 3D a laser a utilizar na análise de material nuclear</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>O JRC de Karlsruhe planeia adquirir um perfilómetro 3D a laser.</P>
+               <P>O perfilómetro 3D contribuirá para várias áreas de investigação do JRC de Karlsruhe, nomeadamente:</P>
+               <P>— a caracterização de fenómenos de corrosão de superfícies para a estabilidade de combustível nuclear irradiado,</P>
+               <P>— a determinação de propriedades mecânicas e termodinâmicas de dióxido de urânio e outros materiais combustíveis,</P>
+               <P>— a identificação de impressões digitais topológicas de combustível nuclear para fins forenses.</P>
+               <P>A aquisição deverá englobar a entrega do equipamento, a formação e o período de garantia de 24 meses.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Alemanha.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornecimento de um perfilómetro 3D a laser a utilizar na análise de material nuclear.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Tal como indicado na documentação do concurso.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Fornecimento de um perfilómetro 3D a laser a utilizar na análise de material nuclear</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av en 3D-laserprofilmätare som ska användas vid analys av kärnämne</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe planerar att köpa in en 3D-laserprofilmätare.</P>
+               <P>3D-profilmätaren kommer att bidra till flera forskningsområden vid JRC Karlsruhe, i synnerhet:</P>
+               <P>— karakterisering av ytkorrosion för stabiliteten hos använt kärnbränsle,</P>
+               <P>— fastställande av mekaniska och termodynamiska egenskaper avseende urandioxid och andra bränsleämnen,</P>
+               <P>— identifiering av topologiska fingeravtryck avseende kärnbränsle för kriminaltekniska ändamål.</P>
+               <P>Inköpet ska omfatta leverans av utrustningen, utbildning och en garantiperiod på 24 månader.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Tyskland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tillhandahållande av en 3D-laserprofilmätare som ska användas vid analys av kärnämne.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Enligt vad som anges i upphandlingsdokumenten.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Tillhandahållande av en 3D-laserprofilmätare som ska användas vid analys av kärnämne</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka laserového 3D profilometru, který se bude používat na analýzu jaderného materiálu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe má v plánu zakoupit laserový 3D profilometr.</P>
+               <P>3D profilometr přispěje k několika výzkumným oblastem JRC Karlsruhe, zejména co se týká:</P>
+               <P>— charakterizace jevů povrchové koroze pro stabilitu vyhořelého jaderného paliva,</P>
+               <P>— určení mechanických a termodynamických vlastností oxidu uraničitého a jiných palivových materiálů,</P>
+               <P>— identifikace topologických stop jaderného paliva pro forenzní účely.</P>
+               <P>Nákup má zahrnovat dodávku zařízení, školení a 24měsíční záruční dobu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Německo.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka laserového 3D profilometru, který se bude používat na analýzu jaderného materiálu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Jak je uvedeno v zadávací dokumentaci.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Dodávka laserového 3D profilometru, který se bude používat na analýzu jaderného materiálu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tuumamaterjali analüüsimiseks kasutatava laseriga 3D profilomeetri tarne</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe kavatseb osta laseriga 3D profilomeetri.</P>
+               <P>3D profilomeetriga aidatakse kaasa mitmele JRC Karlsruhe uurimisvaldkonnale, eelkõige järgmistele:</P>
+               <P>– pinna korrosiooni nähtuse iseloomustamine kasutatud tuumakütuse stabiilsuse jaoks;</P>
+               <P>– uraandioksiidi ja muude kütuse materjalide mehaaniliste ja termodünaamiliste omaduste määramine;</P>
+               <P>– tuumakütuse topoloogiliste sõrmejälgede tuvastamine kohtuekspertiisi eesmärgil.</P>
+               <P>Ost peab hõlmama seadmete kohaletoimetamist, koolitust ja 24 kuu pikkust garantiiperioodi.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Saksamaa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tuumamaterjali analüüsimiseks kasutatava laseriga 3D profilomeetri tarne.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>vt hankedokumente.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Tuumamaterjali analüüsimiseks kasutatava laseriga 3D profilomeetri tarne</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Euroopa Liidu Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nukleáris anyagok vizsgálatához használandó lézeres 3D profilométer beszerzése</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A JRC Karlsruhe egy lézeres 3D profilométert tervez beszerezni.</P>
+               <P>A 3D profilométer a JRC Karlsruhe számos kutatási területéhez, különösen a következőkhöz fog hozzájárulni:</P>
+               <P>— a felületi korrózió jelenségének osztályozása a kiégett fűtőelemek stabilitása érdekében,</P>
+               <P>— az urán-dioxid és más fűtőanyagok mechanikai és termodinamikai jellemzőinek meghatározása,</P>
+               <P>— nukleáris fűtőanyagok topológiai ujjlenyomatának meghatározása kriminalisztikai célokra.</P>
+               <P>A beszerzés a berendezések leszállítását, a betanítást és a 24 hónapos garanciális időszakot foglalja magában.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Németország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nukleáris anyagok vizsgálatához használandó lézeres 3D profilométer beszerzése.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Lásd a közbeszerzési dokumentációt.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Nukleáris anyagok vizsgálatához használandó lézeres 3D profilométer beszerzése</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lazerinio 3D profilometro, kuris bus naudojamas branduolinės medžiagos analizei, tiekimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsrūhėje planuoja pirkti lazerinį 3D profilometrą.</P>
+               <P>3D profilometras prisidės prie kelių mokslinių tyrimų sričių JRC Karlsrūhėje, ypač:</P>
+               <P>– apibūdinant paviršiaus korozijos fenomeną, susijusį su panaudoto branduolinio kuro stabilumu,</P>
+               <P>– nustatant mechanines ir termodinamines urano dioksido ir kitų degalų medžiagų savybes,</P>
+               <P>– nustatant topologinius branduolinių degalų atspaudus teismo ekspertizės tikslais.</P>
+               <P>Pirkimas turi apimti įrangos pristatymą, mokymus ir 24 mėnesių garantinį laikotarpį.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Vokietija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lazerinio 3D profilometro, kuris bus naudojamas branduolinės medžiagos analizei, tiekimas.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Kaip nurodyta pirkimo dokumentuose.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Lazerinio 3D profilometro, kuris bus naudojamas branduolinės medžiagos analizei, tiekimas</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tāda trīsdimensiju lāzera profilometra piegāde, kas tiks izmantots kodolmateriālu analīzei</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kopīgais pētniecības centrs (JRC) Karlsrūē plāno iegādāties trīsdimensiju lāzera profilometru.</P>
+               <P>Trīsdimensiju profilometrs atbalstīs vairākas pētniecības jomas JRC Karlsrūē, jo īpaši šādas jomas:</P>
+               <P>— virsmas korozijas parādības raksturošana ar mērķi nodrošināt nostrādātās kodoldegvielas stabilitāti,</P>
+               <P>— urāna dioksīda un citu degvielas materiālu mehānisko un termodinamisko īpašību noteikšana,</P>
+               <P>— kodoldegvielas topoloģisko nospiedumu identifikācija tiesu ekspertīzes nolūkā.</P>
+               <P>Iepirkums aptver aprīkojuma piegādi, lietotāju apmācību un 24 mēnešu garantijas periodu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Vācija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tāda trīsdimensiju lāzera profilometra piegāde, kas tiks izmantots kodolmateriālu analīzei.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>kā norādīts iepirkuma dokumentos.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Tāda trīsdimensiju lāzera profilometra piegāde, kas tiks izmantots kodolmateriālu analīzei</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista ta' profilometru 3D bil-lejżer li se jkun użat għall-analiżi ta' materjal nukleari</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Il-JRC ta' Karlsruhe jippjana x-xiri ta' profilometru 3D bil-lejżer.</P>
+               <P>Il-profilometru 3D se jikkontribwixxi lejn diversi oqsma ta' riċerka tal-JRC ta' Karlsruhe, b'mod partikolari:</P>
+               <P>— l-ikkaratterizzar ta' fenomeni ta' korrużjoni tal-wiċċ għall-istabilità ta' fjuwil nukleari moħli,</P>
+               <P>— id-determinazzjoni tal-karatteristiċi mekkaniċi u termodinamiċi tad-dijossidu tal-uranju u materjali oħrajn tal-fjuwil,</P>
+               <P>— l-identifikazzjoni ta' marki tas-swaba topoloġiċi ta' fjuwil nukleari għal skopijiet forensiċi.</P>
+               <P>Ix-xiri se jkopri l-kunsinna tat-tagħmir, it-taħriġ u l-perijodu ta' garanzija ta' 24 xahar.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, il-Ġermanja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-provvista ta' profilometru 3D bil-lejżer li se jkun użat għall-analiżi ta' materjal nukleari.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Kif mistqarr fid-dokumenti tal-ksib.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Il-provvista ta' profilometru 3D bil-lejżer li se jkun użat għall-analiżi ta' materjal nukleari</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa laserowego profilometru 3D na potrzeby analizy materiału jądrowego</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Placówka JRC w Karlsruhe zamierza zakupić laserowy profilometr 3D.</P>
+               <P>Profilometr 3D zostanie wykorzystany w kilku obszarach badań prowadzonych w placówce JRC w Karlsruhe, w szczególności w:</P>
+               <P>— ustalaniu charakterystyki zjawiska korozji powierzchniowej na potrzeby określenia stabilności wypalonego paliwa jądrowego,</P>
+               <P>— określaniu właściwości mechanicznych i termodynamicznych ditlenku uranu i innych materiałów paliwowych,</P>
+               <P>— identyfikowaniu topologicznych śladów postępowania z materiałami jądrowymi na potrzeby forensyki jądrowej.</P>
+               <P>Zakup obejmuje dostawę sprzętu, przeszkolenie z obsługi oraz 24-miesięczny okres gwarancji.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Niemcy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dostawa laserowego profilometru 3D na potrzeby analizy materiału jądrowego.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Jak określono w dokumentacji przetargowej.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Dostawa laserowego profilometru 3D na potrzeby analizy materiału jądrowego</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 – Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka laserového 3D profilometra, ktorý sa bude používať na analýzu jadrového materiálu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe plánuje nákup laserového 3D profilometra.</P>
+               <P>3D profilometer bude podporovať rôzne výskumné oblasti JRC Karlsruhe, najmä čo sa týka:</P>
+               <P>— charakterizácie javov povrchovej korózie pre stabilitu vyhoreného jadrového paliva,</P>
+               <P>— určenia mechanických a termodynamických vlastností oxidu uraničitého a iných palivových materiálov,</P>
+               <P>— identifikácie topologických odtlačkov jadrového paliva na súdne ciele.</P>
+               <P>Nákup má zahŕňať dodávku zariadenia, školenie a 24-mesačnú záručnú dobu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Nemecko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka laserového 3D profilometra, ktorý sa bude používať na analýzu jadrového materiálu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Ako je uvedené v súťažných podkladoch.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Dodávka laserového 3D profilometra, ktorý sa bude používať na analýzu jadrového materiálu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dobava laserskega 3D profilometra, ki se bo uporabljal za analizo jedrskih snovi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe načrtuje nakup laserskega 3D profilometra.</P>
+               <P>3D profilometer bo uporabljen na več raziskovalnih področjih JRC Karlsruhe, in sicer za:</P>
+               <P>— karakterizacijo površinskih korozijskih pojavov za stabilnost izrabljenega jedrskega goriva,</P>
+               <P>— določanje mehanskih in termodinamičnih lastnosti uranovega dioksida in drugih snovi goriva,</P>
+               <P>— identifikacijo topoloških odtisov jedrskega goriva za forenzične namene.</P>
+               <P>Nakup zajema dostavo opreme, usposabljanje in 24-mesečno garancijsko obdobje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Nemčija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dobava laserskega 3D profilometra, ki se bo uporabljal za analizo jedrskih snovi.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Kakor je navedeno v dokumentaciji javnega naročila.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Dobava laserskega 3D profilometra, ki se bo uporabljal za analizo jedrskih snovi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Próifíliméadar 3T léasair a sholáthar a bheidh le húsáid chun ábhar núicléach a anailísiú</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tá sé beartaithe ag JRC Karlsruhe próifíliméadar 3T léasair a cheannach.</P>
+               <P>Beidh an próifíliméadar 3T léasair ina rannchuidiú le roinnt limistéar taighde den JRC-Karlsruhe, go háirithe:</P>
+               <P>— feiniméin um chreimeadh dromchlaí a shaintréithriú maidir le cobhsaíocht breosla núicléigh spíonta,</P>
+               <P>— airíonna meicniúla agus teirmidinimiciúla a bhreithniú maidir le dé-ocsaíd úráiniam agus ábhair bhreosla eile,</P>
+               <P>— loirg thoipeolaíocha breosla núicléigh a shainaithint chun críche na fóiréinsice.</P>
+               <P>Cuimseofar seachadadh an trealaimh, an oiliúint agus tréimhse bharánta 24 mí leis an gceannachán.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, An Ghearmáin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Próifíliméadar 3T léasair a sholáthar a bheidh le húsáid chun ábhar núicléach a anailísiú.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Mar atá luaite i ndoiciméid an tsoláthair.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Próifíliméadar 3T léasair a sholáthar a bheidh le húsáid chun ábhar núicléach a anailísiú</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Доставка на лазерен 3D профилометър, който ще се използва за анализ на ядрен материал</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Карлсруе планира да закупи лазерен 3D профилометър.</P>
+               <P>3D профилометърът ще допринесе за няколко изследователски области на JRC Карлсруе, по-специално:</P>
+               <P>— характеризиране на повърхностните корозионни процеси за стабилността на отработеното ядрено гориво,</P>
+               <P>— определяне на механични и термодинамични свойства на уранов двуокис и други горивни материали,</P>
+               <P>— идентифициране на топологични отпечатъци на ядреното гориво за съдебни цели.</P>
+               <P>Закупуването ще обхване доставката на оборудването, обучението и 24-месечния гаранционен период.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Германия.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Доставка на лазерен 3D профилометър, който ще се използва за анализ на ядрен материал.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Както е определено в документите за обществена поръчка.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Доставка на лазерен 3D профилометър, който ще се използва за анализ на ядрен материал</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizarea unui profilometru 3D cu laser care va fi utilizat pentru analiza materialelor nucleare</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC din Karlsruhe intenționează să achiziționeze un profilometru 3D cu laser.</P>
+               <P>Profilometrul 3D va contribui la mai multe domenii de cercetare ale JRC din Karlsruhe, în special:</P>
+               <P>— caracterizarea fenomenului de coroziune superficială pentru stabilitatea combustibilului nuclear uzat,</P>
+               <P>— determinarea proprietăților mecanice și termodinamice ale bioxidului de uraniu și ale altor materiale din combustibil,</P>
+               <P>— identificarea amprentelor topologice ale combustibilului nuclear în scopuri de medicină legală.</P>
+               <P>Procedura de achiziționare va acoperi livrarea echipamentelor, formarea și o perioadă de garanție de 24 de luni.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Germania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Furnizarea unui profilometru 3D cu laser care va fi utilizat pentru analiza materialelor nucleare.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Astfel cum se indică în dosarul licitației.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Furnizarea unui profilometru 3D cu laser care va fi utilizat pentru analiza materialelor nucleare</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, JRC - Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.8 — Waste Management</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Public procurement</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava laserskog 3D profilometra koji će se koristiti za analizu nuklearnog materijala</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.III.8/0112/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38126000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC u Karlsruheu planira kupnju laserskog 3D profilometra.</P>
+               <P>3D profilometrom doprinijet će se nizu istraživačkih područja JRC-a u Karlsruheu, osobito:</P>
+               <P>— karakterizaciji fenomena površinske korozije za stabilnost istrošenog nuklearnog goriva,</P>
+               <P>— određivanju mehaničkih i termodinamičkih svojstava uranijevog dioksida i drugih gorivnih materijala,</P>
+               <P>— identifikaciji topoloških otisaka nuklearnog goriva za forenzičke svrhe.</P>
+               <P>Kupnja će obuhvaćati isporuku opreme, osposobljavanje i 24-mjesečno jamstveno razdoblje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38126000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38636100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>PO Box 2340, 76125 Karlsruhe, Njemačka.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabava laserskog 3D profilometra koji će se koristiti za analizu nuklearnog materijala.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Kako je navedeno u dokumentaciji o nabavi.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410769</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <TITLE>
+               <P>Nabava laserskog 3D profilometra koji će se koristiti za analizu nuklearnog materijala</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Keyence Deutschland GmbH</OFFICIALNAME>
+                     <ADDRESS>Siemensstrasse 1</ADDRESS>
+                     <TOWN>Neu-Isenburg</TOWN>
+                     <POSTAL_CODE>63263</POSTAL_CODE>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DE713"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">133300.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2954</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

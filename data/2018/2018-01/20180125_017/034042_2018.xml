@@ -1,0 +1,2566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="034042-2018"
+            EDITION="2018017">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-028604-001</RECEPTION_ID>
+      <DELETION_DATE>20180428</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>17</NO_OJ>
+         <DATE_PUB>20180125</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 017-034042</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:034042-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>DE</LG_ORIG>
+         <ISO_COUNTRY VALUE="DE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="50000000">Repair and maintenance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="50413000">Repair and maintenance services of checking apparatus</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="50700000">Repair and maintenance services of building installations</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DE12">Karlsruhe</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DE12">Karlsruhe</n2016:CA_CE_NUTS>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 139-284577</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180118</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Vedligeholdelse og istandsættelse af de tekniske anlæg på JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Deutschland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Wartung und Instandhaltung der technischen Anlagen im JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Germany</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Repair and maintenance of technical installations at the JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Alemania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Reparación y mantenimiento de instalaciones técnicas en el JRC de Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Saksa</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Teknisten laitteiden korjaus ja huolto yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Allemagne</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Maintenance et entretien des installations techniques au JRC de Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Γερμανία</TI_CY>
+            <TI_TOWN>Καρλσρούη</TI_TOWN>
+            <TI_TEXT>
+               <P>Επισκευή και συντήρηση τεχνικών εγκαταστάσεων στο JRC στην Καρλσρούη</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Riparazione e manutenzione degli impianti tecnici presso il JRC di Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Duitsland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Service- en onderhoudswerkzaamheden aan de technische installaties in het JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Alemanha</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Reparação e manutenção de instalações técnicas no JRC de Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Reparation och underhåll av tekniska installationer vid JRC i Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Německo</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Oprava a údržba technických zařízení ve Společném výzkumném středisku (JRC) v Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Saksamaa</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehniliste seadmete remont ja hooldus Teadusuuringute Ühiskeskuse (JRC) Karlsruhe tegevuskohas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Németország</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Műszaki berendezések javítási és karbantartási munkálatai a JRC karlsruhei telephelyén</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vokietija, VFR</TI_CY>
+            <TI_TOWN>Karlsrūhė</TI_TOWN>
+            <TI_TEXT>
+               <P>Techninių įrenginių JRC Karlsrūhėje remontas ir techninė priežiūra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Vācija</TI_CY>
+            <TI_TOWN>Karlsrūe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehnisko iekārtu remonts un uzturēšana JRC Karlsrūē</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Ġermanja</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Tiswija u manutenzjoni ta' installazzjonijiet tekniċi fil-JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Niemcy</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Konserwacja zapobiegawcza i naprawcza instalacji technicznych w placówce JRC w Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Nemecko</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Oprava a údržba technických zariadení na pracovisku JRC v Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Nemčija</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Popravila in vzdrževanje tehničnih napeljav na JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ghearmáin, an</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Suiteálacha teicniúla a dheisiú agus a chothabháil ag JRC Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Гepмaния</TI_CY>
+            <TI_TOWN>Карлсруе</TI_TOWN>
+            <TI_TEXT>
+               <P>Поддръжка и ремонт на технически инсталации в JRC Карлсруе</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Repararea și întreținerea instalațiilor tehnice de la situl JRC din Karlsruhe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Njemačka</TI_CY>
+            <TI_TOWN>Karlsruhe</TI_TOWN>
+            <TI_TEXT>
+               <P>Popravak i održavanje tehničkih instalacija u JRC-u u Karlsruheu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission,Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="EN">European Commission, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Joint Research Centre, (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Joint Research Centre (JRC), Karlsruhe</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Vedligeholdelse og istandsættelse af de tekniske anlæg på JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe planlægger udbud af følgende arbejder som del af en rammeaftale:</P>
+               <P>— vedligeholdelses-, ombygnings-, og reparationsarbejder i forbindelse med infrastrukturens tekniske anlæg, hovedsageligt ventilations-, klima-, varme-, returkøle- og nitrogenrensningsanlæg, tilslutning af handskekasser til udsugning af luft eller kvælstof, installering af gasledninger i laboratorier og hotceller</P>
+               <P>— installeringsarbejder hovedsageligt i forbindelse med montering af videnskabeligt og teknisk udstyr i handskekasser, laboratorier og hotceller</P>
+               <P>— drift, varetagelse og vedligeholdelse af samlestationer for spildevand og varmecentral</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europa-Kommissionen</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vedligeholdelse og istandsættelse af de tekniske anlæg på JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Vedligeholdelse og istandsættelse af de tekniske anlæg på JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Det modtagne bud er blevet afvist af finansielle årsager. Udbudsproceduren blev annulleret i henhold til artikel 113 og 114 i Europa-Parlamentets og Rådets forordning (EU, Euratom) nr. 966/2012 af 25.10.2012.</P>
+               <P>Udbudsproceduren vil blive genoptaget i henhold til artikel 104 og artikel 135, stk. 1, litra a), i Europa-Parlamentets og Rådets forordning (EU, Euratom) nr. 966/2012 af 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission,Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Wartung und Instandhaltung der technischen Anlagen im JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Das JRC Karlsruhe plant innerhalb eines Rahmenvertrages die Vergabe von folgenden Arbeiten:</P>
+               <P>— Wartungs-, Umbau-, und Reparaturarbeiten an den technischen Anlagen der Infrastruktur hauptsächlich an Lüftungs-, Klima-, Heizung-, Rückkühlanlagen-, Stickstoffreinigungsanlagen, Anschluss von Handschuhkästen an Luft- oder Stickstoffabsaugungen, Gasleitungsverlegung in Labors und an den heißen Zellen,</P>
+               <P>— Installationsarbeiten hauptsächlich im Zusammenhang mit dem Einbau von wissenschaftlichen und technischen Geräten in Handschuhkästen, Labors und heißen Zellen,</P>
+               <P>— Betrieb, Betreuung und Wartung der Abwassersammelstationen und der Heizzentrale</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europäische Kommission.</P>
+                  <P>JRC Karlsruhe.</P>
+                  <P>Hermann-von-Helmholtz-Platz 1.</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wartung und Instandhaltung der technischen Anlagen im JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Wartung und Instandhaltung der technischen Anlagen im JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Das eingereichte Angebot wurde aus finanziellen Gründen abgelehnt. Gemäß Artikel 113 und 114 derVerordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates vom 25.10.2012 wurde das Verfahren annulliert.</P>
+               <P>Das Verfahren wird gemäß Artikel 104 und 135 Absatz 1 Buchstabe a der Verordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates vom 25.10.2012 neu eingeleitet.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Repair and maintenance of technical installations at the JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The JRC Karlsruhe is planning to have the following works undertaken under a framework contract:</P>
+               <P>— maintenance, modernisation and repair works on the infrastructure's technical installations, chiefly the ventilation, air conditioning, heating, re-cooling and nitrogen-cleaning installations, connection of glove boxes to air or nitrogen extractors, installation of gas lines in laboratories and in hot cells,</P>
+               <P>— installation work, mainly involving the fitting of scientific and technical apparatus in glove boxes, laboratories and hot cells,</P>
+               <P>— management, operation and maintenance of wastewater collection stations and heating control room</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>European Commission.</P>
+                  <P>JRC Karlsruhe.</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Repair and maintenance of technical installations at the JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Repair and maintenance of technical installations at the JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>The submitted tender was rejected for financial reasons. Pursuant to Articles 113 and 114 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25.10.2012, the procedure was cancelled.</P>
+               <P>Pursuant to Articles 104 and 135(1)(a) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25.10.2012, the procedure will be relaunched.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Reparación y mantenimiento de instalaciones técnicas en el JRC de Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El JRC Karlsruhe tiene prevista la realización de los siguientes trabajos bajo la forma de un contrato marco:</P>
+               <P>— trabajos de mantenimiento, modernización y reparación de las instalaciones técnicas de la infraestructura, incluidos la ventilación, el aire acondicionado, la calefacción, la refrigeración de retorno y las instalaciones de limpieza con nitrógeno, la conexión de cajas de guantes a extractores de aire o de nitrógeno y la instalación de conductos de gas en laboratorios y en celdas calientes,</P>
+               <P>— trabajo de instalación, principalmente en lo relativo al montaje de aparatos científicos y técnicos en cajas de guantes, laboratorios y celdas calientes,</P>
+               <P>— gestión, explotación y mantenimiento de las estaciones de recogida de aguas residuales y de la sala de control de la calefacción.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Comisión Europea</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Reparación y mantenimiento de instalaciones técnicas en el JRC de Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Reparación y mantenimiento de instalaciones técnicas en el JRC de Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>La oferta presentada se rechazó por motivos financieros. El procedimiento ha sido anulado de conformidad con los artículos 113 y 114 del Reglamento (UE, Euratom) n.º 966/2012 del Parlamento Europeo y del Consejo, de 25.10.2012.</P>
+               <P>El procedimiento volverá a iniciarse de conformidad con el artículo 104 y el artículo 135, apartado 1, letra a), del Reglamento (UE, Euratom) n.º 966/2012 del Parlamento Europeo y del Consejo, de 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Teknisten laitteiden korjaus ja huolto yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa suunnitellaan seuraavia töitä toteutettaviksi puitesopimuksen yhteydessä:</P>
+               <P>— infrastruktuuriin liittyvien teknisten laitteiden huolto-, uudistamis- ja korjaustyöt pääasiassa ilmanvaihto-, ilmastointi-, lämmitys-, jälleenjäähdytys- ja typpipuhdistuslaitteiden osalta, hansikaskaappien yhdistäminen ilma- tai typpi-imureihin sekä kaasuputkien asennus laboratorioissa ja kuumakammioissa,</P>
+               <P>— asennustyöt, joihin kuuluu pääasiassa tieteellisten ja teknisten laitteiden asentaminen hansikaskaappeihin, laboratorioihin ja kuumakammioihin,</P>
+               <P>— jäteveden keruuasemien ja lämmönsäätötilan hallinta, toiminta ja huolto</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Euroopan komissio</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Teknisten laitteiden korjaus ja huolto yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Teknisten laitteiden korjaus ja huolto yhteisen tutkimuskeskuksen (JRC) Karlsruhen-toimipaikassa</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Jätetty tarjous hylättiin rahoituksellisista syistä. Menettely peruttiin 25.10.2012 annetun Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) N:o 966/2012 113 ja 114 artiklan nojalla.</P>
+               <P>Menettely käynnistetään uudelleen 25.10.2012 annetun Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) N:o 966/2012 104 artiklan ja 135 artiklan 1 kohdan a alakohdan nojalla.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Maintenance et entretien des installations techniques au JRC de Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le JRC de Karlsruhe envisage d'attribuer les travaux suivants au titre d'un contrat-cadre :</P>
+               <P>— Travaux de maintenance, de transformation et de réparation des installations techniques de l'infrastructure, notamment des installations de ventilation, de climatisation, de chauffage, de refroidissement et de nettoyage à l'azote, de raccordement de boîtes à gants à des extractions d'air ou d'azote, de pose de conduites de gaz dans les laboratoires et les cellules chaudes,</P>
+               <P>— Travaux d'installation principalement liés à la mise en place d'appareils scientifiques et techniques dans des boîtes à gants, des laboratoires et des cellules chaudes,</P>
+               <P>— Gestion, exploitation et maintenance des stations de collecte des eaux usées et de la centrale de chauffage</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Commission européenne</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Maintenance et entretien des installations techniques au JRC de Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Maintenance et entretien des installations techniques au JRC de Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>L'offre reçue a été rejetée pour des raisons financières. La procédure a été annulée conformément aux articles 113 et 114 du règlement (UE, Euratom) no 966/2012 du Parlement européen et du Conseil du 25.10.2012.</P>
+               <P>La procédure est relancée conformément à l’article 104 et à l’article 135, paragraphe 1, point a), du règlement (UE, Euratom) no 966/2012 du Parlement européen et du Conseil du 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Επισκευή και συντήρηση τεχνικών εγκαταστάσεων στο JRC στην Καρλσρούη</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Το JRC στην Καρλσρούη στοχεύει στην εκτέλεση των ακόλουθων εργασιών στο πλαίσιο σύμβασης-πλαίσιο:</P>
+               <P>— εργασίες συντήρησης, εκσυγχρονισμού και επισκευής στις τεχνικές εγκαταστάσεις της υποδομής, κυρίως στις εγκαταστάσεις εξαερισμού, κλιματισμού, θέρμανσης, επανάψυξης και καθαρισμού αζώτου, σύνδεση των κυτίων χειροκτίων σε συστήματα εξαγωγής αέρα ή αζώτου, εγκατάσταση αγωγών αερίου σε εργαστήρια και σε θερμούς θαλάμους,</P>
+               <P>— εργασίες εγκατάστασης, οι οποίες περιλαμβάνουν, κυρίως, την τοποθέτηση επιστημονικών και τεχνικών συσκευών σε κυτία χειροκτίων, εργαστήρια και θερμούς θαλάμους,</P>
+               <P>— διαχείριση, λειτουργία και συντήρηση των σταθμών συλλογής αποβλήτων και του θαλάμου ελέγχου της θέρμανσης</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Ευρωπαϊκή Επιτροπή</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Επισκευή και συντήρηση τεχνικών εγκαταστάσεων στο JRC στην Καρλσρούη</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Επισκευή και συντήρηση τεχνικών εγκαταστάσεων στο JRC στην Καρλσρούη</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Η υποβληθείσα προσφορά απερρίφθη για οικονομικούς λόγους. Η διαδικασία ακυρώνεται σύμφωνα με τα άρθρα 113 και 114 του κανονισμού (ΕΕ, Ευρατόμ) αριθ. 966/2012 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 25.10.2012.</P>
+               <P>Η διαδικασία θα επαναδρομολογηθεί σύμφωνα με τα άρθρα 104 και 135 παράγραφος 1 στοιχείο α) του κανονισμού (ΕΕ, Ευρατόμ) αριθ. 966/2012 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Riparazione e manutenzione degli impianti tecnici presso il JRC di Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il JRC di Karlsruhe intende aggiudicare, nell'ambito di un contratto quadro, i seguenti lavori:</P>
+               <P>— lavori di manutenzione, conversione e riparazione degli impianti tecnici dell'infrastruttura, principalmente gli impianti di ventilazione, climatizzazione, riscaldamento, raffreddamento e purificazione dell'azoto, raccordo di scatole a guanti a sistemi di aspirazione dell'aria o dell'azoto, spostamento di condotte di gas in laboratori e celle calde,</P>
+               <P>— lavori di installazione riguardanti principalmente il montaggio di apparecchi scientifici e tecnici in scatole a guanti, laboratori e celle calde,</P>
+               <P>— operazione, monitoraggio e manutenzione delle stazioni di raccolta delle acque reflue e della centrale di riscaldamento</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Commissione europea</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Riparazione e manutenzione degli impianti tecnici presso il JRC di Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Riparazione e manutenzione degli impianti tecnici presso il JRC di Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>L'offerta pervenuta è stata rifiutata per motivi finanziari. Ai sensi degli articoli nn. 113 e 114 del regolamento (UE, Euratom) n. 966/2012 del Parlamento europeo e del Consiglio, del 25.10.2012, la procedura è stata annullata.</P>
+               <P>Ai sensi degli articoli nn. 104 e 135, paragrafo 1, lettera a) del regolamento (UE, Euratom) n. 966/2012 del Parlamento europeo e del Consiglio, del 25.10.2012, la procedura verrà nuovamente indetta.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Service- en onderhoudswerkzaamheden aan de technische installaties in het JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Het JRC Karlsruhe wil in het kader van een raamovereenkomst de volgende werken gunnen:</P>
+               <P>— service-, verbouwings- en reparatiewerkzaamheden aan de technische installaties van de infrastructuur, hoofdzakelijk aan ventilatie-, airconditionings-, verwarmings-, terugkoel- en stikstofreinigingsinstallaties, aansluiting van handschoenkasten aan lucht- of stikstofafzuiginstallaties, aanleggen van gasleidingen in laboratoria en aan de hete cellen,</P>
+               <P>— installatiewerkzaamheden, hoofdzakelijk in verband met de inbouw van wetenschappelijke en technische toestellen in handschoenkasten, laboratoria en hete cellen,</P>
+               <P>— beheer, verzorging en onderhoud van de afvalwaterinzamelingsstations en van de verwarmingscentrale</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europese Commissie</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Service- en onderhoudswerkzaamheden aan de technische installaties in het JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Service- en onderhoudswerkzaamheden aan de technische installaties in het JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>De ontvangen inschrijving is om financiële redenen geweigerd. Op grond van artikelen 113 en 114 van Verordening (EU, Euratom) nr. 966/2012 van het Europees Parlement en de Raad van 25.10.2012 werd de procedure geannuleerd.</P>
+               <P>De procedure wordt overeenkomstig artikel 104 en artikel 135, lid 1, onder a), van Verordening (EU, Euratom) nr. 966/2012 van het Europees Parlement en de Raad van 25.10.2012 opnieuw uitgeschreven.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Reparação e manutenção de instalações técnicas no JRC de Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O JRC de Karlsruhe pretende ver realizados os seguintes trabalhos no âmbito de um contrato-quadro:</P>
+               <P>— trabalhos de manutenção, modernização e reparação nas instalações técnicas da infraestrutura, essencialmente em instalações de ventilação, climatização, aquecimento, refrigeração e depuração por azoto, ligação de caixas de luvas a extratores de ar ou azoto, instalação de condutas de gás em laboratórios e em células quentes,</P>
+               <P>— trabalho de instalação que envolve principalmente a colocação de aparelhos científicos e técnicos em caixas de luvas, laboratórios e células quentes,</P>
+               <P>— gestão, operação e manutenção de estações de recolha de águas residuais e da sala de controlo do aquecimento</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Comissão Europeia</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Reparação e manutenção de instalações técnicas no JRC de Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Reparação e manutenção de instalações técnicas no JRC de Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>A proposta apresentada foi rejeitada por motivos financeiros. Em conformidade com os artigos 113.º e 114.º do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25.10.2012, o concurso foi anulado.</P>
+               <P>Em conformidade com os artigos 104.º e 135.º n.º1, alínea a) do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25.10.2012, o concurso será lançado novamente.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Reparation och underhåll av tekniska installationer vid JRC i Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC i Karlsruhe planerar att låta utföra följande arbeten genom ett ramavtal:</P>
+               <P>— underhåll, modernisering och reparation av infrastrukturens tekniska installationer, främst ventilations-, luftkonditionerings-, värme-, återkylnings- och kvävereningsanläggningar, anslutning av handskboxar till utsug för luft eller kväve, installation av gasledningar i laboratorier och i högaktiva celler,</P>
+               <P>— installationsarbete, huvudsakligen montering av vetenskaplig och teknisk apparatur i handskboxar, laboratorier och högaktiva celler,</P>
+               <P>— förvaltning, drift och underhåll av uppsamlingsstationer för avloppsvatten och värmecentral</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europeiska kommissionen</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Reparation och underhåll av tekniska installationer vid JRC i Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Reparation och underhåll av tekniska installationer vid JRC i Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Det anbud som lämnades in förkastades av ekonomiska skäl. Förfarandet annullerades i enlighet med artiklarna 113 och 114 i Europaparlamentets och rådets förordning (EU, Euratom) nr 966/2012 av den 25.10.2012.</P>
+               <P>Förfarandet kommer att återinledas i enlighet med artiklarna 104 och 135.1 a i Europaparlamentets och rådets förordning (EU, Euratom) nr 966/2012 av den 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Oprava a údržba technických zařízení ve Společném výzkumném středisku (JRC) v Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Společné výzkumné středisko (JRC) v Karlsruhe má v úmyslu nechat si v rámci této rámcové smlouvy provést tyto práce:</P>
+               <P>— údržba, modernizace a opravy infrastruktury technických instalací, zejména větracích, klimatizačních, vytápěcích zařízení, zařízení pro opakované chlazení a čištění dusíkem, zapojení rukavicových boxů na extraktory vzduchu a dusíku, instalace plynovodních potrubí v laboratořích a horkých komorách,</P>
+               <P>— instalační práce, zejména montáž vědeckých a technických zařízení v rukavicových boxech, laboratořích a horkých komorách,</P>
+               <P>— řízení, provoz a údržba stanic na shromažďování odpadních vod a místnosti pro řízení vytápění.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Evropská komise</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Oprava a údržba technických zařízení ve Společném výzkumném středisku (JRC) v Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Oprava a údržba technických zařízení ve Společném výzkumném středisku (JRC) v Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Předložená nabídka byla odmítnuta z finančních důvodů. Na základě článků 113 a 114 nařízení Evropského parlamentu a Rady (EU, Euratom) č. 966/2012 ze dne 25.10.2012 bylo řízení zrušeno.</P>
+               <P>Na základě článků 104 a 135 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU, Euratom) č. 966/2012 ze dne 25.10.2012 bude řízení znovu zahájeno.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehniliste seadmete remont ja hooldus Teadusuuringute Ühiskeskuse (JRC) Karlsruhe tegevuskohas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Teadusuuringute Ühiskeskuse Karlsruhe üksus kavatseb tellida raamlepingu raames järgmisi töid:</P>
+               <P>– infrastruktuuri tehniliste seadmete, eeskätt ventilatsiooni-, kliima-, kütte-, taasjahutus- ja lämmastikpuhastusseadmete ning laminaarbokse õhku või lämmastikku imavate ventilaatoritega ühendavate torude hoolduse, uuendamise ja remondi tööd, samuti laborites ja kuumkambrites gaasijuhtmete paigaldamine;</P>
+               <P>– paigaldustööd, mis hõlmavad peamiselt teadusliku ja tehnilise aparatuuri paigaldamist laminaarboksidesse, laboritesse ja kuumkambritesse;</P>
+               <P>– reoveekogumisjaamade ning küttereguleerimisruumi juhtimine, käitamine ja hooldamine</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Euroopa Komisjon</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tehniliste seadmete remont ja hooldus Teadusuuringute Ühiskeskuse (JRC) Karlsruhe tegevuskohas</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Tehniliste seadmete remont ja hooldus Teadusuuringute Ühiskeskuse (JRC) Karlsruhe tegevuskohas</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Esitatud pakkumine lükati rahalistel põhjustel tagasi. Menetlus katkestati kooskõlas Euroopa Parlamendi ja nõukogu 25.10.2012 määruse (EL, Euratom) nr 966/2012 artiklitega 113 ja 114.</P>
+               <P>Menetlus taasalgatatakse kooskõlas Euroopa Parlamendi ja nõukogu 25.10.2012 määruse (EL, Euratom) nr 966/2012 artikliga 104 ja artikli 135 lõike 1 punktiga a.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Műszaki berendezések javítási és karbantartási munkálatai a JRC karlsruhei telephelyén</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A JRC Karlsruhe az alábbi munkálatok elvégeztetését tervezi egy keretszerződés keretében:</P>
+               <P>— az infrastruktúra műszaki berendezéseinek karbantartási, korszerűsítési és javítási munkálatai, elsősorban a következőkre kiterjedően: szellőzés, légkondicionálás, fűtés, visszahűtés és nitrogéntisztító berendezések, kesztyűs manipulátorok csatlakoztatása légelszívó, illetve nitrogénelszívó berendezésekhez, gázvezetékek telepítése laboratóriumokban és melegkamrákban,</P>
+               <P>— beszerelési munkálatok, elsősorban a tudományos és műszaki eszközök kesztyűs manipulátorokban, laboratóriumokban és melegkamrákban történő felszerelésére kiterjedően,</P>
+               <P>— szennyvízgyűjtő állomások és a fűtésszabályozó helyiség irányítása, üzemeltetése és karbantartása</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Európai Bizottság</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Műszaki berendezések javítási és karbantartási munkálatai a JRC karlsruhei telephelyén</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Műszaki berendezések javítási és karbantartási munkálatai a JRC karlsruhei telephelyén</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>A benyújtott pályázatot pénzügyi okok miatt elutasították. A 25.10.2012 keltezésű, 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 113. és 114. cikke értelmében az eljárást érvénytelenítették.</P>
+               <P>A 25.10.2012 keltezésű, 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 104. cikke és 135. cikke (1) bekezdésének (a) pontja értelmében az eljárást ismételten meghirdetik.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Techninių įrenginių JRC Karlsrūhėje remontas ir techninė priežiūra</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsrūhėje planuoja sudaryti preliminariąją sutartį dėl šių darbų:</P>
+               <P>— techninės priežiūros, modernizavimo ir remonto darbų, skirtų infrastruktūros techniniams įrenginiams, daugiausia ventiliacijos, oro kondicionavimo, šildymo, vėsinimo ir azoto šalinimo įrenginiams, blokų skyrių sąsajoms su oro arba azoto trauktuvais, dujų tiekimo linijų montavimui laboratorijose ir karštosiose kamerose;</P>
+               <P>— įrengimo darbų, kurie daugiausia apima mokslinės ir techninės aparatūros įrengimą blokų skyriuose, laboratorijose ir karštosiose kamerose;</P>
+               <P>— nuotekų surinkimo stočių ir šildymo kontrolės patalpų valymo, eksploatavimo bei techninės priežiūros</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europos Komisija</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Techninių įrenginių JRC Karlsrūhėje remontas ir techninė priežiūra</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Techninių įrenginių JRC Karlsrūhėje remontas ir techninė priežiūra</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Pateiktas pasiūlymas buvo atmestas dėl finansinių priežasčių. Pagal 25.10.2012 Europos Parlamento ir Tarybos reglamento (ES, Euratomas) Nr. 966/2012 113 ir 114 straipsnius procedūra buvo atšaukta.</P>
+               <P>Pagal 25.10.2012 Europos Parlamento ir Tarybos reglamento (ES, Euratomas) Nr. 966/2012 104 straipsnį ir 135 straipsnio 1 dalies a punktą procedūra bus skelbiama iš naujo.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehnisko iekārtu remonts un uzturēšana JRC Karlsrūē</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kopīgais pētniecības centrs (JRC) Karlsrūē saskaņā ar pamatnolīgumu plāno šādu darbu izpildi:</P>
+               <P>— infrastruktūras tehnisko iekārtu, galvenokārt ventilācijas, gaisa kondicionēšanas, apkures, atkārtotās dzesēšanas un slāpekļa tīrīšanas iekārtu, uzturēšana, modernizācija un remonts, cimdu kameru sasaiste ar gaisa vai slāpekļa izsūkšanas iekārtām, gāzes vadu uzstādīšana laboratorijās un karstajās kamerās,</P>
+               <P>— uzstādīšanas darbi, kas galvenokārt ietver zinātnisku un tehnisku aparātu ierīkošanu cimdu kamerās, laboratorijās un karstajās kamerās,</P>
+               <P>— notekūdeņu savākšanas staciju un apkures kontroles telpas pārvaldība, ekspluatācija un uzturēšana</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Eiropas Komisija</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tehnisko iekārtu remonts un uzturēšana JRC Karlsrūē</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Tehnisko iekārtu remonts un uzturēšana JRC Karlsrūē</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Iesniegtais piedāvājums tika noraidīts finansiālu iemeslu dēļ. Procedūra tika atcelta saskaņā ar Eiropas Parlamenta un Padomes 25.10.2012 Regulas (ES, Euratom) Nr. 966/2012 113. un 114. pantu.</P>
+               <P>Procedūra tiks izsludināta atkārtoti saskaņā ar Eiropas Parlamenta un Padomes 25.10.2012 Regulas (ES, Euratom) Nr. 966/2012 104. pantu un 135. panta 1. punkta a) apakšpunktu.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Joint Research Centre, (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tiswija u manutenzjoni ta' installazzjonijiet tekniċi fil-JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il-JRC Karlsruhe qed jippjana li jkollu x-xogħlijiet li ġejjin imwettqa taħt qafas ta' kuntratt:</P>
+               <P>— il-manutenzjoni, il-modernizzazzjoni u x-xogħlijiet ta' tiswija fuq l-installazzjonijiet tekniċi tal-infrastruttura, prinċipalment l-installazzjonijiet tal-ventilazzjoni, l-arja kkundizzjonata, it-tisħin, it-tkessiħ mill-ġdid u t-tindif tan-nitroġenu, il-konnessjoni ta' kompartimenti żgħar mal-estratturi tal-arja jew tan-nitroġenu, l-installazzjoni ta' linji tal-gass fil-laboratorji u f'kompartimenti b'kisja kontra r-radjazzjoni,</P>
+               <P>— xogħol ta' installazzjoni, prinċipalment li jinvolvi l-iffittjar ta' apparat xjentifiku u tekniku f'kompartimenti żgħar, laboratorji u kompartimenti b'kisja kontra r-radjazzjoni,</P>
+               <P>— I-immaniġġjar, l-operat u l-manutenzjoni ta' stazzjonijiet fejn jinġabar l-ilma tad-drenaġġ u kamra li tikkontrolla s-sħana</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Il-Kummissjoni Ewropea</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tiswija u manutenzjoni ta' installazzjonijiet tekniċi fil-JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Tiswija u manutenzjoni ta' installazzjonijiet tekniċi fil-JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>L-offerta li ntefgħet ġiet imwarrba għal raġunijiet finanzjarji. Skont l-Artikli 113 u 114 tar-Regolament (UE, Euratom) Nru 966/2012 tal-Parlament Ewropew u tal-Kunsill tal-25 ta' Ottubru 2012, il-proċedura ġiet imħassra.</P>
+               <P>Skont l-Artikli 104 u 135(1)(a) tar-Regolament (UE, Euratom) Nru 966/2012 tal-Parlament Ewropew u tal-Kunsill tal-25 ta' Ottubru 2012, il-proċedura se tkun imnedija mill-ġdid.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Konserwacja zapobiegawcza i naprawcza instalacji technicznych w placówce JRC w Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Placówka JRC w Karlsruhe planuje zlecić na podstawie umowy ramowej następujące prace:</P>
+               <P>— konserwację, przebudowę i naprawę instalacji technicznych infrastruktury, głównie instalacji wentylacyjnej, klimatyzacyjnej, grzewczej, chłodniczej, oczyszczania azotu, podłączenie komór rękawicowych do urządzeń odsysających powietrze lub azot, układanie przewodów gazowych w laboratoriach oraz do komór gorących,</P>
+               <P>— prace instalacyjne związane głównie z montażem urządzeń naukowych i technicznych w komorach rękawicowych, w laboratoriach i komorach gorących,</P>
+               <P>— obsługę i konserwację kolektora ściekowego i centrali grzewczej oraz zarządzanie nimi</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>European Commission</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Konserwacja zapobiegawcza i naprawcza instalacji technicznych w placówce JRC w Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Konserwacja zapobiegawcza i naprawcza instalacji technicznych w placówce JRC w Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Złożona oferta została odrzucona ze względów finansowych. Postępowanie zostało unieważnione zgodnie z art. 113 i 114 rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 966/2012 z dnia 25.10.2012.</P>
+               <P>Postępowanie zostanie wszczęte na nowo zgodnie z art. 104 i 135 ust. 1 lit. a) rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 966/2012 z dnia 25.10.2012.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Oprava a údržba technických zariadení na pracovisku JRC v Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pracovisko Spoločného výskumného centra (JRC) v Karlsruhe plánuje zadať na základe rámcovej zmluvy realizáciu nasledujúcich prác:</P>
+               <P>— práce týkajúce sa údržby, modernizácie a opráv technických zariadení infraštruktúry, hlavne ventilačných, klimatizačných, vykurovacích, zariadení na opakované chladenie a čistenie dusíkom, pripojenie manipulačných boxov k odsávačom vzduchu alebo dusíka, inštalácia plynovodnej siete v laboratóriách a v horúcich komorách,</P>
+               <P>— inštalačné práce, ktoré sa týkajú predovšetkým montáže vedeckých a technických prístrojov v manipulačných boxoch, laboratóriách a horúcich komorách,</P>
+               <P>— riadenie, prevádzka a údržba staníc na zber odpadových vôd a miestností na riadenie kúrenia</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Európska komisia</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Oprava a údržba technických zariadení na pracovisku JRC v Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Oprava a údržba technických zariadení na pracovisku JRC v Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Predložená ponuka bola odmietnutá z finančných dôvodov. V súlade s článkami 113 a 114 nariadenia Európskeho parlamentu a Rady (EÚ, Euratom) č. 966/2012 z 25.10.2012 bolo konanie zrušené.</P>
+               <P>V súlade s článkami 104 a 135 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ, Euratom) č. 966/2012 z 25.10.2012 sa konanie vypíše znovu.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Popravila in vzdrževanje tehničnih napeljav na JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe v okviru okvirnega naročila načrtuje izvedbo naslednjih del:</P>
+               <P>— vzdrževanje, posodobitvena dela in popravila tehničnih napeljav infrastrukture, zlasti prezračevanja, klimatskih naprav, naprav za ogrevanje, ponovno hlajenje in čiščenje z dušikom, povezave med rokavičnimi komorami in odstranjevalci zraka ali dušika, plinske napeljave v laboratorijih in vročih celicah,</P>
+               <P>— namestitvena dela, zlasti v povezavi z opremljanjem rokavičnih komor, laboratorijev in vročih celic z znanstvenimi in tehničnimi napravami,</P>
+               <P>— vodenje, upravljanje in vzdrževanje postaj za zbiranje odpadnih voda in nadzorne sobe za ogrevanje</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Evropska komisija</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Popravila in vzdrževanje tehničnih napeljav na JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Popravila in vzdrževanje tehničnih napeljav na JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Oddana ponudba je bila zavrnjena iz finančnih razlogov. V skladu s členoma 113 in 114 Uredbe (EU, Euratom) št. 966/2012 Evropskega parlamenta in Sveta z dne 25.10.2012 je bil postopek preklican.</P>
+               <P>V skladu s členoma 104 in 135(1)(a) Uredbe (EU, Euratom) št. 966/2012 Evropskega parlamenta in Sveta z dne 25.10.2012 bo postopek ponovno sprožen.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suiteálacha teicniúla a dheisiú agus a chothabháil ag JRC Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tá sé á bheartú ag JRC Karlsruhe go ndéanfar na hoibreacha seo a leanas faoi chreatchonradh:</P>
+               <P>— oibreacha cothabhála, nuachóirithe agus deisiúcháin ar shuiteálacha teicniúla an bhonneagair, go príomha ar na suiteálacha aeraithe, aerchóirithe, téimh, athfhuaraithe agus glanta nítrigine, lámhainnbhoscaí a nascadh le hasbhainteoirí aeir nó nítrigine, línte gáis a shuiteáil i saotharlanna agus i dteo-chealla,</P>
+               <P>— obair shuiteála, lena mbaineann den chuid is mó feistiú gléasra eolaíocha agus teicniúla sna lámhainnbhoscaí, sna saotharlanna agus sna teo-chealla,</P>
+               <P>— stáisiúin bailithe fuíolluisce agus an seomra rialaithe teasa a bhainistiú, a oibriú agus a chothabháil</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>An Coimisiún Eorpach</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Suiteálacha teicniúla a dheisiú agus a chothabháil ag JRC Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Suiteálacha teicniúla a dheisiú agus a chothabháil ag JRC Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Rinneadh an tairiscint a cuireadh isteach a dhiúltú ar chúiseanna airgeadais. De bhun Airteagail 113 agus 114 de Rialachán (AE, Euratom) Uimh. 966/2012 ó Pharlaimint na hEorpa agus ón gComhairle an 25.10.2012, cuireadh an nós imeachta ar ceal.</P>
+               <P>De bhun Airteagail 104 agus 135(1)(a) de Rialachán (AE, Euratom) Uimh. 966/2012 ó Pharlaimint na hEorpa agus ón gComhairle an 25.10.2012, déanfar an nós imeachta a athsheoladh.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Поддръжка и ремонт на технически инсталации в JRC Карлсруе</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC Карлсруе планира да бъдат изпълнени следните дейности по рамков договор:</P>
+               <P>— дейности по поддръжка, модернизиране и ремонт на инфраструктурните технически инсталации, главно вентилационните, климатичните, отоплителните инсталации, инсталациите за повторно охлаждане и инсталациите за пречистване на азот, свързване на изолирани работни кутии до смукателни вентилатори или екстрактори на азот, монтиране на линии за газ в лаборатории и в горещи камери,</P>
+               <P>— инсталационни дейности, основно включващи монтирането на научни и технически уреди в изолирани работни кутии, лаборатории и горещи камери,</P>
+               <P>— управление, функциониране и поддръжка на станциите за събиране на отпадни води и контролната зала за отоплението.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Европейска комисия</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Поддръжка и ремонт на технически инсталации в JRC Карлсруе</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Поддръжка и ремонт на технически инсталации в JRC Карлсруе</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Подадената оферта бе отхвърлена поради финансови причини. Съгласно членове 113 и 114 от Регламент (ЕС, Евратом) № 966/2012 на Европейския парламент и на Съвета от 25.10.2012 г. процедурата е анулирана.</P>
+               <P>Съгласно членове 104 и 135, параграф 1, буква а) от Регламент (ЕС, Евратом) № 966/2012 на Европейския парламент и на Съвета от 25.10.2012 г. процедурата ще бъде стартирана повторно.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Repararea și întreținerea instalațiilor tehnice de la situl JRC din Karlsruhe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Situl JRC din Karlsruhe dorește executarea în baza unui contract-cadru a următoarelor lucrări:</P>
+               <P>— lucrări de întreținere, de modernizare și de reparare a instalațiilor tehnice ale infrastructurii, în special instalațiile de ventilație, de climatizare, de încălzire, de rerăcire și de curățare cu azot, racordarea cutiilor cu mănuși la dispozitive de extragere a aerului sau a azotului, instalarea de conducte de gaz în laboratoare și în camere fierbinți,</P>
+               <P>— lucrări de instalare care implică în principal montarea de echipamente științifice și tehnice în camerele izolate pentru manipularea materialelor radioactive, în laboratoare și în celulele fierbinți,</P>
+               <P>— gestionarea, exploatarea și întreținerea de stații de colectare a apelor uzate și a sălii de control al sistemului de încălzire</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Comisia Europeană</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Repararea și întreținerea instalațiilor tehnice de la situl JRC din Karlsruhe</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Repararea și întreținerea instalațiilor tehnice de la situl JRC din Karlsruhe</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Oferta depusă a fost respinsă din motive financiare. În conformitate cu articolele 113 și 114 din Regulamentul (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului din 25.10.2012, procedura a fost anulată.</P>
+               <P>În conformitate cu articolele 104 și 135 alineatul (1) litera (a) din Regulamentul (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului din 25.10.2012, procedura va fi relansată.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Joint Research Centre (JRC), Karlsruhe</OFFICIALNAME>
+               <ADDRESS>PO Box 2340</ADDRESS>
+               <TOWN>Karlsruhe</TOWN>
+               <POSTAL_CODE>76125</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Abteilung Auftragsvergabe</CONTACT_POINT>
+               <E_MAIL>jrc-procurement-karlsruhe@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DE12"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Popravak i održavanje tehničkih instalacija u JRC-u u Karlsruheu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/KRU/2017/G.1/0076/RC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC Karlsruhe namjerava poduzeti sljedeće radove u sklopu okvirnog ugovora:</P>
+               <P>— radove održavanja i modernizacije te popravke na tehničkim instalacijama infrastrukture, poglavito na instalacijama za ventilaciju, klimatizaciju, grijanje, ponovno hlađenje i čišćenje dušikom, spajanje komora za rukovanje s rukavicama s ekstraktorima zraka i dušika, radove instaliranja dovoda plina u laboratorije i „vruće ćelije”,</P>
+               <P>— radove instaliranja, koji se uglavnom odnose na postavljanje znanstvenih i tehničkih aparata u komore za rukovanje s rukavicama, laboratorije i „vruće ćelije”,</P>
+               <P>— radove upravljanja, korištenja i održavanja stanica za prikupljanje otpadnih voda i sobe za nadzor temperature</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50413000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50700000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE12"/>
+               <MAIN_SITE>
+                  <P>Europska komisija</P>
+                  <P>JRC Karlsruhe</P>
+                  <P>Hermann-von-Helmholtz-Platz 1</P>
+                  <P>D-76344 Eggenstein-Leopoldshafen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Popravak i održavanje tehničkih instalacija u JRC-u u Karlsruheu</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 139-284577</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Popravak i održavanje tehničkih instalacija u JRC-u u Karlsruheu</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dostavljena ponuda odbijena je zbog financijskih razloga. U skladu s člancima 113. i 114. Uredbe (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća od 25.10.2012, postupak je poništen.</P>
+               <P>U skladu s člankom 104. i člankom 135. stavkom 1. točkom (a) Uredbe (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća od 25.10.2012, postupak će se ponovno pokrenuti.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2720</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

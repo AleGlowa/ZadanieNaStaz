@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="067977-2018"
+            EDITION="2018031">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-070233-001</RECEPTION_ID>
+      <DELETION_DATE>20180327</DELETION_DATE>
+      <FORM_LG_LIST>DE </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>31</NO_OJ>
+         <DATE_PUB>20180214</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 031-067977</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:067977-2018:TEXT:DE:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>DE</LG_ORIG>
+         <ISO_COUNTRY VALUE="DE"/>
+         <IA_URL_GENERAL>http://www.bundesimmobilien.de</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://www.evergabe-online.de/tenderdetails.html?id=186154</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="90620000">Snow-clearing services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="90630000">Ice-clearing services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DE300">Berlin</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DE300">Berlin</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180213</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180327 12:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>01C02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Гepмaния</TI_CY>
+            <TI_TOWN>Берлин</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги по почистване на улици от сняг</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Německo</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Odklízení sněhu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Snerydning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Deutschland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Schneeräumung</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Γερμανία</TI_CY>
+            <TI_TOWN>Βερολίνο</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες εκχιονισμού</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Germany</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Snow-clearing services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Alemania</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de limpieza y eliminación de nieve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Saksamaa</TI_CY>
+            <TI_TOWN>Berliin</TI_TOWN>
+            <TI_TEXT>
+               <P>Lumekoristusteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Saksa</TI_CY>
+            <TI_TOWN>Berliini</TI_TOWN>
+            <TI_TEXT>
+               <P>Lumenaurauspalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Allemagne</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Services de déneigement</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ghearmáin, an</TI_CY>
+            <TI_TOWN>Beirlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Snow-clearing services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Njemačka</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge čišćenja snijega</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Németország</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Hólapátolási szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Berlino</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di sgombero neve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vokietija, VFR</TI_CY>
+            <TI_TOWN>Berlynas</TI_TOWN>
+            <TI_TEXT>
+               <P>Sniego valymo paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Vācija</TI_CY>
+            <TI_TOWN>Berlīne</TI_TOWN>
+            <TI_TEXT>
+               <P>Sniega tīrīšanas pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Ġermanja</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi tat-tindif tal-borra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Duitsland</TI_CY>
+            <TI_TOWN>Berlijn</TI_TOWN>
+            <TI_TEXT>
+               <P>Sneeuwruimingsdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Niemcy</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi odśnieżania</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Alemanha</TI_CY>
+            <TI_TOWN>Berlim</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de limpeza de neve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de deszăpezire</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Nemecko</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Odpratávanie snehu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Nemčija</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve odstranjevanja snega</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Snöröjning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DE">Bundesanstalt für Immobilienaufgaben</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bundesanstalt für Immobilienaufgaben</OFFICIALNAME>
+               <ADDRESS>Fasanenstraße 87</ADDRESS>
+               <TOWN>Berlin</TOWN>
+               <POSTAL_CODE>10623</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <PHONE>+49 30-31811559</PHONE>
+               <E_MAIL>verdingung@bundesimmobilien.de</E_MAIL>
+               <FAX>+49 30-31811560</FAX>
+               <n2016:NUTS CODE="DE300"/>
+               <URL_GENERAL>http://www.bundesimmobilien.de</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://www.evergabe-online.de/tenderdetails.html?id=186154</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://www.evergabe-online.de/tenderdetails.html?id=186154</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY_OTHER>Immobilienverwaltung und -verwertung</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Winterdienstleistungen auf öffentlichen und nicht öffentlichen Flächen in Berlin – 11 Lose (VOEK-238-17)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>VOEK-238-17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="90620000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Winterdienstleistungen, Glatteis- und Streugutbeseitigung auf öffentlichen und nicht öffentlichen Flächen auf Liegenschaften der Bundesanstalt für Immobilienaufgaben in verschiedenen Stadtbezirken Berlins aufgeteilt in 11 Lose.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Winterdienstleistungen in Berlin Charlottenburg-Wilmersdorf</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Charlottenburg-Wilmersdorf</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (1.11. bis einschließlich 30.4.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende. Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.4.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.4.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten „Saison“.</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 „Tourenplanung“ und 2 „Reaktionszeit für Beanstandungen“ sind in den Anhang „Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 „Angaben zur Qualitätssicherung“ sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Winterdienstleistungen in Berlin Pankow und Reinickendorf</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, in den Stadtbezirken Pankow und Reinickendorf.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeiten für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.4.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.4.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten „Saison“.</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 „Tourenplanung“ und 2 „Reaktionszeit für Beanstandungen“ sind in den Anhang „Zuschlagskriterien-Gewichtung“ einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 „Angaben zur Qualitätssicherung“ sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Winterdienst in Berlin Tempelhof-Schöneberg</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Tempelhof-Schöneberg</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (1.11. bis einschließlich 30.4.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.4.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.4.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten „Saison“.</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 „Tourenplanung“ und 2 „Reaktionszeit für Beanstandungen“ sind in den Anhang „Zuschlagskriterien-Gewichtung“ einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 „Angaben zur Qualitätssicherung“ sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Winterdienst in Berlin Mitte</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Mitte.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Winterdienst in Berlin Spandau</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Spandau.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Winterdienst in Berlin, Stadtbezirke Charlottenburg-Wilmersdorf und Steglitz-Zehlendorf</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirke Charlottenburg-Wilmersdorf und Steglitz-Zehlendorf.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reakionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Winterdienst in Berlin Zehlendorf</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Steglitz-Zehlendorf.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Winterdienst in Berlin Mitte und Friedrichshain-Kreuzberg</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin,Stadtbezirk Mitte und Friedrichshain-Kreuzberg.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Winterdienst in Berlin Lichtenberg und Pankow</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin,Stadtbezirk Lichtenberg und Pankow.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkte 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Winterdienst in Berlin Treptow-Köpenick</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Mehrere Liegenschaften in Berlin, Stadtbezirk Treptow-Köpenick.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Winterdienst auf Bundesliegenschaften mit Geheimschutzanforderungen, diverse Stadtbezirke in Berlin</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90620000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90630000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE300"/>
+               <MAIN_SITE>
+                  <P>Winterdienst auf öffentlichen und nicht öffentlichen Flächen von Bundesliegenschaften mit Geheimschutzanforderungen gemäß SÜG (Ü1) in diversen Stadtbezirken von Berlin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erbringung des Winterdienstes auf öffentlichen und nicht öffentlichen Flächen während der Winterdienstperiode (01.11. bis einschließlich 30.04.). Dieser umfasst die Schneeräumung, das Abstreuen von Schnee- und Eisglätte sowie die Beseitigung von Eisbildungen einschließlich der einmaligen Streugutbeseitigung zum Saisonende.</P>
+                  <P>Außerhalb der Saison kann bei Bedarf durch die Auftraggeberin der Abruf von Winterdienstleitungen, Schneeabtransport sowie zusätzlicher Streugutbeseitigungen erfolgen.</P>
+                  <P>Die Leistung kann nur mit nach Sicherheitsüberprüfungsgesetz - SÜG (Ü1) überprüftem Personal ausgeführt werden. Nähere Hinweise in den Vergabeunterlagen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tourenplanung</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Reaktionszeit für Beanstandungen</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Angaben zur Qualitätssicherung</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DATE_START>2018-11-01</DATE_START>
+               <DATE_END>2022-04-30</DATE_END>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Das Vertragsverhältnis wird zunächst bis zum 30.04.2022 abgeschlossen. Danach verlängert es sich jeweils um ein weiteres Jahr. Das Vertragsverhältnis kann max. 2 mal verlängert werden. Die Vertragslaufzeit endet spätestens am 30.04.2024.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Winterdienstsleistungen außerhalb der festgelegten "Saison".</P>
+                  <P>Schneeabfuhr nach Einzelbeauftragung.</P>
+                  <P>Streugutbeseitigung nach Einzelbeauftragung.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zu II. 2.5) Zuschlagskriterien:</P>
+                  <P>Die Angaben zu den Punkten 1 "Tourenplanung" und 2 "Reaktionszeit für Beanstandungen" sind in den Anhang "Zuschlagskriterien-Gewichtung" einzutragen und mit dem Angebot einzureichen.</P>
+                  <P>Die Angaben zu Punkt 3 "Angaben zur Qualitätssicherung" sind schriftlich auf maximal 3 DIN-A4 Seiten mit dem Angebot einzureichen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Der Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen nach den §§ 123 und 124 GWB kann ganz oder teilweise durch die Teilnahme an Präqualifizierungssystemen erbracht werden.</P>
+               <P>Angaben, die mit Vordruck „Bieterauskunft gem. § 15 VgV“ einzureichen sind:</P>
+               <P>1. Angaben zu Einzelbieter/Bietergemeinschaft</P>
+               <P>Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung in einem Berufs- oder Handelsregister.</P>
+               <P>  2.1 Allgemeine Angaben zum Unternehmen;</P>
+               <P>  2.2 Zusätzliche Angaben, sofern das Unternehmen ein Einzelunternehmen oder Freiberufler ist (Angaben zur Inhaberin/zum Inhaber bzw. zu dem nach Satzung oder Gesetz Vertretungsberechtigten).</P>
+               <P>3. Eigenerklärung über zwingende und fakultative Ausschlussgründe nach § 123 und § 124 GWB</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>Angaben, die mit Vordruck „Bieterauskunft gem. § 15 VgV“ einzureichen sind:</P>
+               <P>4. Eigenerklärung zur bestehenden Betriebs-/Berufshaftpflichtversicherung</P>
+               <P>Die Betriebshaftpflichtversicherung hat mindestens folgende Deckungssummen pro Schadensfall aufzuweisen: Personenschäden, Sach- und sonstige Vermögensschäden 3 000 000 EUR., wobei die Gesamtleistung für alle Versicherungsfälle eines Versicherungsjahres mindestens das 2-fache der vereinbarten Versicherungssummen betragen muss. Sollte die Betriebshaftpflichtversicherung die vorgenannten Deckungssummen derzeit nicht erreichen oder noch keine Betriebshaftpflichtversicherung abgeschlossen sein, so ist der Bieter verpflichtet, im Falle der Zuschlagserteilung die Deckungssummen entsprechend zu erhöhen bzw. abzuschließen.</P>
+               <P>5.Angaben zu Umsätzen</P>
+               <P>Eigenerklärung zum Gesamtumsatz des Unternehmens sowie zum Umsatz bezüglich der ausgeschriebenen Leistungsart, jeweils bezogen auf die letzten 3 abgeschlossenen Geschäftsjahre.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Einhaltung der Deckungssummen in der Betriebshaftpflichtversicherung.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Angaben, die mit Vordruck „Bieterauskunft gem. § 15 VgV“ einzureichen sind:</P>
+               <P>6.Angaben zu Unterauftragnehmerleistungen bzw. zur Eignungsleihe nach § 47 VgV</P>
+               <P>Eigenerklärung zu Unterauftragnehmerleistungen; Beschreibung der Teilleistungen mit Umfang, für die der Einsatz von Unterauftragnehmern geplant ist. Der Bieter ist verpflichtet, auf gesonderte Anforderung der Auftraggeberin die zur Auftragsdurchführung vorgesehenen Unterauftragnehmer vor Zuschlagserteilung zu benennen und deren Verpflichtungserklärungen vorzulegen. Dies ist Voraussetzung für eine Wertung des Angebotes (siehe Vordruck „VHB 235“ und „VHB 236“).</P>
+               <P>Auf gesonderte Anforderung der Vergabestelle hat der Bieter die Eigenerklärungen und Nachweise für jeden der zu beauftragenden Unterauftragnehmer vorzulegen.</P>
+               <P>7. Angaben zum praktizierten Qualitätsmanagement (nicht zwingend erforderlich)</P>
+               <P>8. Eigenerklärung über die Leistungserbringung,</P>
+               <P>Dass ausreichend qualifiziertes Personal zur Erfüllung der ausgeschriebenen Leistung beschäftigt wird;</P>
+               <P>Dass dem Unternehmen auch die notwendigen Maschinen, Werkzeuge und Materialien zur Verfügung stehen, um die ausgeschriebene Leistung sachgerecht und unter Einhaltung notwendiger Sicherheitsbestimmungen auszuführen.</P>
+               <P>9. Angaben zu Referenzen (Vordruck Referenzbescheinigung)</P>
+               <P>Einreichung von mindestens drei vergleichbaren Referenzen der Leistungsart aus dem Zeitraum der letzten drei Jahre unter Nutzung des Vordruckes „Referenzbescheinigung“ unterschrieben vom jeweiligen Referenzgeber. Vergleichbarkeit: Winterdienst auf öffentlichen und nichtöffentlichen Flächen.</P>
+               <P>Mindestanforderung an die Referenzen:</P>
+               <P>Wenn durch die Referenzprüfung festgestellt wird, dass das Unternehmen eine wesentliche Anforderung bei der Ausführung eines früheren öffentlichen Auftrags erheblich oder fortdauernd mangelhaft erfüllt hat und dies zu einer vorzeitigen Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge geführt hat, wird das Angebot des Unternehmens vom weiteren Vergabeverfahren ausgeschlossen.</P>
+               <P>10. Angaben zum Tarif und Stundenverrechnungssatz im Vordruck „Angaben zur Kalkulation“</P>
+               <P>11. nur für Los 11: Eigenerklärung zur Sicherheitsüberprüfung laut Sicherheitsüberprüfungsgesetz</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Mindesanforderung an die Referenzen:</P>
+               <P>Wenn durch die Referenzprüfung festgestellt wird, dass das Unternehmen eine wesentliche Anforderung bei der Ausführung eines früheren öffentlichen Auftrags erheblich oder fortdauernd mangelhaft erfüllt hat und dies zu einer vorzeitigen Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge geführt hat, wird das Angebot des Unternehmens vom weiteren Vergabeverfahren ausgeschlossen.</P>
+               <P>Nur für Los 11: unterschriebene Eigenerklärung zur Sicherheitsüberprüfung.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-27</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="DE"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-08-31</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-28</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>00:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>1) Die Vergabeunterlagen können unentgeltlich, uneingeschränkt, vollständig und direkt über die e-Vergabe-Plattform des Bundes (http://www. evergabe-online.de) heruntergeladen werden.</P>
+               <P>Die Lagepläne und Aufmaße der Liegenschaften für das o.g. Los 11 unterliegen dem Schutz der Vertraulichkeit und stehen nicht uneingeschränkt, allgemein und direkt zur Verfügung. Auf die Lagepläne und Aufmaße kann nur zugegriffen werden, wenn die beiliegende Verschwiegenheitserklärung unterschrieben an die Verdingungsstelle vor Angebotsfrist einreicht wird. Die Unterlagen werden dann zur Verfügung gestellt.</P>
+               <P>Die Verwendung der in den Bewerbungsunterlagen vorgegebenen Vordrucke ist zwingend. Änderungen an diesen Vordrucken sind unzulässig und führen zum Ausschluss des Angebotes.</P>
+               <P>2) Der Vordrucke „Angebotsschreiben VHB 633“ ist zu unterzeichnen bzw. elektronisch zu signieren. Bei Bietergemeinschaften ist das Angebotsschreiben entweder von allen Mitgliedern der Bietergemeinschaft oder dem bevollmächtigten Vertreter zu unterzeichnen bzw. elektronisch zu signieren.</P>
+               <P>3) Das Angebot ist in elektronischer Form oder postalisch in einem verschlossenen Umschlag bis zum Ende der Frist für die Abgabe der Angebote bei der unter I.1) genannten Kontaktstelle einzureichen.</P>
+               <P>Hinweise gemäß § 11 Abs. 3 VgV.</P>
+               <P>Die zur Nutzung der e-Vergabe-Plattform einzusetzenden elektronischen Mittel sind die Clients der e-Vergabe-Plattform und die elektronischen Werkzeuge der e-Vergabe-Plattform. Diese werden über die mit „Anwendungen“ bezeichneten Menüpunkte auf www.evergabe-online.de zur Verfügung gestellt. Hierzu gehören für Unternehmen der Angebots-Assistenten (AnA) und der Signatur-Client für Bieter (Sig-Client) für elektronische Signaturen. Die technischen Parameter zur Einreichung von Teilnahmeanträgen, Angeboten und Interessensbestätigungen verwendeten elektronischen Mittel sind durch die Clients der e-Vergabe-Plattform und die elektronischen Werkzeuge der e-Vergabe-Plattform bestimmt. Verwendete Verschlüsselungs- und Zeiterfassungsverfahren sind Bestandteil der Clients der e-Vergabe-Plattform sowie der Plattform selber und der elektronischen Werkzeuge der e-Vergabe-Plattform. Weitergehende Informationen stehen auf https://www.evergabe-online.info bereit.</P>
+               <P>4)Geforderte Erklärungen und Nachweise sind mit dem Angebot, spätestens zu dem in IV.2.2) genannten Termin vorzulegen. Geforderte Erklärungen und Nachweise, die bis zum Ablauf der in IV.2.2) genannten Frist nicht vorgelegt wurden, können auf Anforderung des Auftraggebers innerhalb einer angemessenen Frist nachgereicht werden. Werden auf diese Weise nachgeforderte Erklärungen und Nachweise nicht innerhalb der Nachforderungsfrist vorgelegt, wird das Angebot ausgeschlossen.</P>
+               <P>5) Bei ausländischen Bewerbern genügen gleichwertige Bescheinigungen des Herkunftslandes. Bei Dokumenten in anderen Sprachen sind beglaubigte Übersetzungen ins Deutsche beizufügen.</P>
+               <P>6) Die geforderten Angaben und Erklärungen gemäß Ziffer III. 1.1) bis III. 1.3) sind von jedem Mitglied einer Bietergemeinschaft einzureichen.</P>
+               <P>7) Die Anforderungsfrist für zusätzliche Auskünfte (Bewerberfragen), die elektronisch oder schriftlich an die unter Ziffer I.1) genannten Kontaktstelle zu stellen sind, endet am 20.03.2018, 12 Uhr.</P>
+               <P>Eine Beantwortung gestellter Fragen erfolgt ebenfalls ausschließlich in Textform. Telefonische Auskünfte werden nicht erteilt.</P>
+               <P>8) Preisnachlässe</P>
+               <P>Es werden nur Preisnachlässe gewertet, die.</P>
+               <P>— ohne Bedingungen als Vomhundertsatz auf die Angebotssumme gewährt werden und,</P>
+               <P>— an der im Angebotsschreiben bezeichneten Stelle aufgeführt sind.</P>
+               <P>Die Einhaltung allgemeinverbindlicher tarifrechtlicher Regelungen ist zu beachten. Nicht zu wertende Preisnachlässe bleiben Inhalt des Angebotes und werden im Fall der Auftragserteilung Vertragsinhalt.</P>
+               <P>9) Die Teilnahme der Bieter am Eröffnungstermin ist nicht gestattet. Die Zuschlagserteilung erfolgt schriftlich.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bundeskartellamt – Vergabekammer des Bundes</OFFICIALNAME>
+               <ADDRESS>Villemombler Straße 76</ADDRESS>
+               <TOWN>Bonn</TOWN>
+               <POSTAL_CODE>53123</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <URL>http://www.bundeskartellamt.de</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Genaue Angaben zu den Fristen für die Einlegung von Rechtsbehelfen:</P>
+               <P>Es gelten die Regelungen der §§ 155 ff. GWB. Insbesondere ist § 160 Abs. 3 GWB zu beachten: Ein Nachprüfungsantrag ist gemäß § 160 Abs. 3 GWB unzulässig, soweit.</P>
+               <P>1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt,</P>
+               <P>2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,</P>
+               <P>3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,</P>
+               <P>4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zuwollen, vergangen sind.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Bundesanstalt für Immobilienaufgaben</OFFICIALNAME>
+               <ADDRESS>Ellerstraße 56</ADDRESS>
+               <TOWN>Bonn</TOWN>
+               <POSTAL_CODE>53119</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <URL>http://www.bundesimmobilien.de</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-13</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

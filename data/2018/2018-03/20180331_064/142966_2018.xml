@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="142966-2018"
+            EDITION="2018064">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-145133-001</RECEPTION_ID>
+      <DELETION_DATE>20180707</DELETION_DATE>
+      <FORM_LG_LIST>SK </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>64</NO_OJ>
+         <DATE_PUB>20180331</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 064-142966</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:142966-2018:TEXT:SK:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>SK</LG_ORIG>
+         <ISO_COUNTRY VALUE="SK"/>
+         <IA_URL_GENERAL>http://www.zmos.sk</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="66510000">Insurance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="66515200">Property insurance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="66516400">General liability insurance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="66512100">Accident insurance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="66514110">Motor vehicle insurance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="66516100">Motor vehicle liability insurance services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="SK023">Nitriansky kraj</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="SK023">Nitriansky kraj</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="SK010">Bratislavský kraj</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">612573.94</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2018/S 010-018622</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180329</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01C03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Cлoвaшкo</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Застрахователни услуги</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Slovensko</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Pojištění</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Slovakiet</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Forsikringstjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>die Slowakei</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Versicherungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Σλοβακία</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες ασφάλισης</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Slovakia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Insurance services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Eslovaquia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de seguros</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Slovakkia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Kindlustusteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Slovakia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Vakuutuspalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Slovaquie</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Services d'assurance</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Slóvaic, an t</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Insurance services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Slovačka</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Osigurateljne usluge</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Szlovákia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Biztosítási szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Slovacchia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi assicurativi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Slovakija</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Draudimo paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Slovākija</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Apdrošināšanas pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>is-Slovakkja</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ta' assigurazzjoni</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Slowakije</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Verzekeringsdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Słowacja</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi ubezpieczeniowe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Eslováquia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de seguros</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Slovacia</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de asigurare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Slovensko</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Poisťovacie služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Slovaška</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Zavarovalniške storitve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Slovakien</TI_CY>
+            <TI_TOWN>Jelšovce</TI_TOWN>
+            <TI_TEXT>
+               <P>Försäkringar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="SK">Nitrianske regionálne združenie obcí - ZMOS</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Nitrianske regionálne združenie obcí - ZMOS</OFFICIALNAME>
+               <NATIONALID>42120861</NATIONALID>
+               <ADDRESS>Obecný úrad Jelšovce č. 37</ADDRESS>
+               <TOWN>Jelšovce</TOWN>
+               <POSTAL_CODE>951 43</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Mgr. Jozef Balkó, Jókelova záhrada 555, 951 78 Kolíňany</CONTACT_POINT>
+               <PHONE>+421 903218403</PHONE>
+               <E_MAIL>jozefbalko@mail.telekom.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://www.zmos.sk</URL_GENERAL>
+               <URL_BUYER>https://www.uvo.gov.sk/vyhladavanie-profilov/zakazky/10691</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Báb</OFFICIALNAME>
+               <NATIONALID>00307742</NATIONALID>
+               <ADDRESS>č. 465</ADDRESS>
+               <TOWN>Obec Báb</TOWN>
+               <POSTAL_CODE>951 34</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Peter Nemeček</CONTACT_POINT>
+               <PHONE>+421 911203031</PHONE>
+               <E_MAIL>obecbab@obecbab.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://www.obecbab.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Babindol</OFFICIALNAME>
+               <NATIONALID>35626348</NATIONALID>
+               <ADDRESS>140</ADDRESS>
+               <TOWN>Obec Babindol</TOWN>
+               <POSTAL_CODE>951 53</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Peter Ďurica</CONTACT_POINT>
+               <PHONE>+421 904607745</PHONE>
+               <E_MAIL>obec@babindol.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://babindol.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Cabaj - Čápor</OFFICIALNAME>
+               <NATIONALID>00307785</NATIONALID>
+               <ADDRESS>543</ADDRESS>
+               <TOWN>Obec Cabaj - Čápor</TOWN>
+               <POSTAL_CODE>951 17</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Jozef Ligač</CONTACT_POINT>
+               <PHONE>+421 905457207</PHONE>
+               <E_MAIL>starosta@cabajcapor.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://cabajcapor.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Čab</OFFICIALNAME>
+               <NATIONALID>36105724</NATIONALID>
+               <ADDRESS>1</ADDRESS>
+               <TOWN>Obec Čab</TOWN>
+               <POSTAL_CODE>951 24</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Eva Andacká</CONTACT_POINT>
+               <PHONE>+421 918547731</PHONE>
+               <E_MAIL>starosta@obeccab.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://obeccab.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Čakajovce</OFFICIALNAME>
+               <NATIONALID>00307807</NATIONALID>
+               <ADDRESS>58</ADDRESS>
+               <TOWN>Obec Čakajovce</TOWN>
+               <POSTAL_CODE>951 43</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Milan Greguš</CONTACT_POINT>
+               <PHONE>+421 905797675</PHONE>
+               <E_MAIL>starosta@cakajovce.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://cakajovce.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola s materskou školou Čakajovce</OFFICIALNAME>
+               <NATIONALID>37865366</NATIONALID>
+               <ADDRESS>Nová 201</ADDRESS>
+               <TOWN>Obec Čakajovce</TOWN>
+               <POSTAL_CODE>951 43</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Jaroš Jaroslav</CONTACT_POINT>
+               <PHONE>+421 377793173</PHONE>
+               <E_MAIL>zsc@centrum.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zscakajovce.edu.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>OZ Radošinka</OFFICIALNAME>
+               <NATIONALID>42113091</NATIONALID>
+               <ADDRESS>Zbehy č. 267</ADDRESS>
+               <TOWN>Obec Zbehy</TOWN>
+               <POSTAL_CODE>951 42</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. J. Stankovský, PhD</CONTACT_POINT>
+               <PHONE>+421 911760996</PHONE>
+               <E_MAIL>info@radosinka.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://radosinka.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Čeľadice</OFFICIALNAME>
+               <NATIONALID>00307831</NATIONALID>
+               <ADDRESS>143</ADDRESS>
+               <TOWN>Obec Čeľadice</TOWN>
+               <POSTAL_CODE>951 03</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Anton Laca</CONTACT_POINT>
+               <PHONE>+421 903781795</PHONE>
+               <E_MAIL>obecceladice@stonline.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://celadice.webnode.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Dolné Obdokovce</OFFICIALNAME>
+               <NATIONALID>00307891</NATIONALID>
+               <ADDRESS>103</ADDRESS>
+               <TOWN>Obec Dolné Obdokovce</TOWN>
+               <POSTAL_CODE>951 02</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Marián Paulisz</CONTACT_POINT>
+               <PHONE>+421 905478099</PHONE>
+               <E_MAIL>dolneobdokovce@mail.t-com.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://dolneobdokovce.ocu.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Golianovo</OFFICIALNAME>
+               <NATIONALID>00307939</NATIONALID>
+               <ADDRESS>400</ADDRESS>
+               <TOWN>Obec Golianovo</TOWN>
+               <POSTAL_CODE>951 08</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Ľuboš Kolárik</CONTACT_POINT>
+               <PHONE>+421 918477929</PHONE>
+               <E_MAIL>obec.golianovo@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://golianovo.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola s materskou školou Golianovo</OFFICIALNAME>
+               <NATIONALID>37865251</NATIONALID>
+               <ADDRESS>60</ADDRESS>
+               <TOWN>Obec Golianovo</TOWN>
+               <POSTAL_CODE>951 08</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>PaedDr. J. Ferenczyová</CONTACT_POINT>
+               <PHONE>+421 376581163</PHONE>
+               <E_MAIL>zsgolianovo@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zsgolianovo.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Horné Lefantovce</OFFICIALNAME>
+               <NATIONALID>00399418</NATIONALID>
+               <ADDRESS>Farská 25</ADDRESS>
+               <TOWN>Obec Horné Lefantovce</TOWN>
+               <POSTAL_CODE>951 45</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Jaroslav Jazvinský</CONTACT_POINT>
+               <PHONE>+421 905207191</PHONE>
+               <E_MAIL>obec@hornelefantovce.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://hornelefantovce.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola Horné Lefantovce</OFFICIALNAME>
+               <NATIONALID>37865633</NATIONALID>
+               <ADDRESS>Farská 20</ADDRESS>
+               <TOWN>Horné Lefantovce</TOWN>
+               <POSTAL_CODE>951 45</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Jana Jankulová</CONTACT_POINT>
+               <PHONE>+421 377786009</PHONE>
+               <E_MAIL>skolalefantovce@post.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zslefantovce.edupage.org</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Hosťová</OFFICIALNAME>
+               <NATIONALID>00656143</NATIONALID>
+               <ADDRESS>120</ADDRESS>
+               <TOWN>Obec Hosťová</TOWN>
+               <POSTAL_CODE>951 02</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Miroslav Barth</CONTACT_POINT>
+               <PHONE>+421 904104376</PHONE>
+               <E_MAIL>obec.hostova@stonline.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://hostova.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Ivánka pri Nitre</OFFICIALNAME>
+               <NATIONALID>31827004</NATIONALID>
+               <ADDRESS>Novozámocká 326</ADDRESS>
+               <TOWN>Obec Ivánka pri Nitre</TOWN>
+               <POSTAL_CODE>951 12</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ľuboš Gál</CONTACT_POINT>
+               <PHONE>+421 905568620</PHONE>
+               <E_MAIL>obec@ivankaprinitre.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://ivankaprinitre.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Jarok</OFFICIALNAME>
+               <NATIONALID>00308056</NATIONALID>
+               <ADDRESS>Hlavná 283</ADDRESS>
+               <TOWN>Obec Jarok</TOWN>
+               <POSTAL_CODE>951 48</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Stanislav Sťahel</CONTACT_POINT>
+               <PHONE>+421 91153894</PHONE>
+               <E_MAIL>ocujarok@jarok.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://jarok.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola s materskou školou Jarok</OFFICIALNAME>
+               <NATIONALID>37865617</NATIONALID>
+               <ADDRESS>Školská 16</ADDRESS>
+               <TOWN>Obec Jarok</TOWN>
+               <POSTAL_CODE>951 48</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Ľubica Zaujecová</CONTACT_POINT>
+               <PHONE>+421 901703071</PHONE>
+               <E_MAIL>zssmsjarok@post.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zssmsjarok.edupage.org</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Jelenec</OFFICIALNAME>
+               <NATIONALID>00308072</NATIONALID>
+               <ADDRESS>Hlavná 126</ADDRESS>
+               <TOWN>Obec Jelenec</TOWN>
+               <POSTAL_CODE>951 73</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. L. Púchovský</CONTACT_POINT>
+               <PHONE>+421 376313204</PHONE>
+               <E_MAIL>obec.jelenec@jelenec.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://jelenec.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Jelšovce</OFFICIALNAME>
+               <NATIONALID>00308081</NATIONALID>
+               <ADDRESS>37</ADDRESS>
+               <TOWN>Obec Jelšovce</TOWN>
+               <POSTAL_CODE>951 43</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ladislav Hroššo</CONTACT_POINT>
+               <PHONE>+421 903270882</PHONE>
+               <E_MAIL>info@jelsovce.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://jelsovce.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Klasov</OFFICIALNAME>
+               <NATIONALID>00308102</NATIONALID>
+               <ADDRESS>951 53</ADDRESS>
+               <TOWN>Obec Klasov</TOWN>
+               <POSTAL_CODE>951 53</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ján Balázs</CONTACT_POINT>
+               <PHONE>+421 918500772</PHONE>
+               <E_MAIL>starosta@klasov.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://klasov.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Kolíňany</OFFICIALNAME>
+               <NATIONALID>00308111</NATIONALID>
+               <ADDRESS>Nám. L. A. Aranya 528</ADDRESS>
+               <TOWN>Obec Kolíňany</TOWN>
+               <POSTAL_CODE>951 78</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Róbert Balkó</CONTACT_POINT>
+               <PHONE>+421 376316220</PHONE>
+               <E_MAIL>starosta@kolinany.eu</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://kolinany.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Lehota</OFFICIALNAME>
+               <NATIONALID>00308153</NATIONALID>
+               <ADDRESS>16</ADDRESS>
+               <TOWN>Obec Lehota</TOWN>
+               <POSTAL_CODE>951 36</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Milan Chmelár</CONTACT_POINT>
+               <PHONE>+421 911220861</PHONE>
+               <E_MAIL>obeclehota@lehota.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://lehota.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola Lehota</OFFICIALNAME>
+               <NATIONALID>37865340</NATIONALID>
+               <ADDRESS>144</ADDRESS>
+               <TOWN>Obec Lehota</TOWN>
+               <POSTAL_CODE>951 36</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Anna Burdová</CONTACT_POINT>
+               <PHONE>+421 918832472</PHONE>
+               <E_MAIL>skola@zslehota.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zslehota.edupage.org</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Lužianky</OFFICIALNAME>
+               <NATIONALID>34003517</NATIONALID>
+               <ADDRESS>Rastislavova 266</ADDRESS>
+               <TOWN>Obec Lužianky</TOWN>
+               <POSTAL_CODE>951 41</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Jozef Bojda</CONTACT_POINT>
+               <PHONE>+421 903731624</PHONE>
+               <E_MAIL>obecluzianky@stonline.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://luzianky.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Močenok</OFFICIALNAME>
+               <NATIONALID>00308439</NATIONALID>
+               <ADDRESS>Sv. Gorazda 629/82</ADDRESS>
+               <TOWN>Obec Močenok</TOWN>
+               <POSTAL_CODE>951 31</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>PaedDr. R. Urbánik</CONTACT_POINT>
+               <PHONE>+421 918815995</PHONE>
+               <E_MAIL>sekretariat@mocenok.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://mocenok.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Mojmírovce</OFFICIALNAME>
+               <NATIONALID>00308269</NATIONALID>
+               <ADDRESS>Námestie sv. Ladislava 931/7</ADDRESS>
+               <TOWN>Obec Mojmírovce</TOWN>
+               <POSTAL_CODE>951 15</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Martin Palka</CONTACT_POINT>
+               <PHONE>+421 905503828</PHONE>
+               <E_MAIL>starosta@mojmirovce.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://mojmirovce.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>PZO pre separovný zber a nakladanie s odpadmi</OFFICIALNAME>
+               <NATIONALID>37969358</NATIONALID>
+               <ADDRESS>Výčapy - Opatovce 204</ADDRESS>
+               <TOWN>Výčapy Opatovce</TOWN>
+               <POSTAL_CODE>951 44</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Ľuboš Kolárik</CONTACT_POINT>
+               <PHONE>+421 918477929</PHONE>
+               <E_MAIL>info@pzo.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://pzo.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Paňa</OFFICIALNAME>
+               <NATIONALID>00308366</NATIONALID>
+               <ADDRESS>26</ADDRESS>
+               <TOWN>Paňa</TOWN>
+               <POSTAL_CODE>951 05</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Milan Korenči</CONTACT_POINT>
+               <PHONE>+421 903158264</PHONE>
+               <E_MAIL>obec.pana@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://pana.ocu.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Pohranice</OFFICIALNAME>
+               <NATIONALID>00308382</NATIONALID>
+               <ADDRESS>185</ADDRESS>
+               <TOWN>Pohranice</TOWN>
+               <POSTAL_CODE>951 02</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Bc. Ladislav Hajdu</CONTACT_POINT>
+               <PHONE>+421 377871201</PHONE>
+               <E_MAIL>st.pohranice@mail.t-com.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://pohranice.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Poľný Kesov</OFFICIALNAME>
+               <NATIONALID>00308391</NATIONALID>
+               <ADDRESS>68</ADDRESS>
+               <TOWN>Poľný Kesov</TOWN>
+               <POSTAL_CODE>951 14</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing, Ľubica Poluchová</CONTACT_POINT>
+               <PHONE>+421 377787127</PHONE>
+               <E_MAIL>obec@polnykesov.eu</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://starostka@polnykesov.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Rumanová</OFFICIALNAME>
+               <NATIONALID>00308412</NATIONALID>
+               <ADDRESS>1</ADDRESS>
+               <TOWN>Rumanová</TOWN>
+               <POSTAL_CODE>951 37</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Jozef Jankovič</CONTACT_POINT>
+               <PHONE>+421 905865178</PHONE>
+               <E_MAIL>rumanova@rumanova.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://rumanova.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Svätoplukovo</OFFICIALNAME>
+               <NATIONALID>00611191</NATIONALID>
+               <ADDRESS>Hlavná 76</ADDRESS>
+               <TOWN>Svätoplukovo</TOWN>
+               <POSTAL_CODE>951 16</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Ivan Lobodáš</CONTACT_POINT>
+               <PHONE>+421 377798788</PHONE>
+               <E_MAIL>obecsvatoplukovo@stonline.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://slovakregion.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Štitáre</OFFICIALNAME>
+               <NATIONALID>37869531</NATIONALID>
+               <ADDRESS>Pri prameni 14</ADDRESS>
+               <TOWN>Štitáre</TOWN>
+               <POSTAL_CODE>951 01</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Z. Vinkovičová</CONTACT_POINT>
+               <PHONE>+421 918320846</PHONE>
+               <E_MAIL>oustitare@nevernet.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://stitare.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Šurianky</OFFICIALNAME>
+               <NATIONALID>00308498</NATIONALID>
+               <ADDRESS>Hlavná 54</ADDRESS>
+               <TOWN>Šurianky</TOWN>
+               <POSTAL_CODE>951 26</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Viliam Búcora</CONTACT_POINT>
+               <PHONE>+421 907753108</PHONE>
+               <E_MAIL>ousurianky@stonline.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://obecsurianky.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Veľká Dolina</OFFICIALNAME>
+               <NATIONALID>00308498</NATIONALID>
+               <ADDRESS>282</ADDRESS>
+               <TOWN>Veľká Dolina</TOWN>
+               <POSTAL_CODE>951 15</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Dana Cesneková</CONTACT_POINT>
+               <PHONE>+421 377788181</PHONE>
+               <E_MAIL>starostka.vd@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://velkadolina.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Veľké Zálužie</OFFICIALNAME>
+               <NATIONALID>00308595</NATIONALID>
+               <ADDRESS>Obecná 955</ADDRESS>
+               <TOWN>Obec Veľké Zálužie</TOWN>
+               <POSTAL_CODE>951 35</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Milan Bíro</CONTACT_POINT>
+               <PHONE>+421 911740982</PHONE>
+               <E_MAIL>ou@velkezalutie.eu</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://velkezaluzie.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Veľký Cetín</OFFICIALNAME>
+               <NATIONALID>00308609</NATIONALID>
+               <ADDRESS>Kostolná 1</ADDRESS>
+               <TOWN>Veľký Cetín</TOWN>
+               <POSTAL_CODE>951 05</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. František Mészáros</CONTACT_POINT>
+               <PHONE>+421 911597490</PHONE>
+               <E_MAIL>obecnyurad@velkycetin.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://velkycetin.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Základná škola - Alapiskola Veľký Cetín</OFFICIALNAME>
+               <NATIONALID>37865480</NATIONALID>
+               <ADDRESS>Hlavná 638</ADDRESS>
+               <TOWN>Veľký Cetín</TOWN>
+               <POSTAL_CODE>951 05</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>PaedDr. I. Gregorová</CONTACT_POINT>
+               <PHONE>+421 376597211</PHONE>
+               <E_MAIL>zscetin@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zscetin.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Veľký Lapáš</OFFICIALNAME>
+               <NATIONALID>00308145</NATIONALID>
+               <ADDRESS>488</ADDRESS>
+               <TOWN>Veľký Lapáš</TOWN>
+               <POSTAL_CODE>951 04</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ján Medáček</CONTACT_POINT>
+               <PHONE>+421 905544669</PHONE>
+               <E_MAIL>velkylapas@velkylapas.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://velkylapas.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Regionálne združenie Dolná Nitra O.Z.</OFFICIALNAME>
+               <NATIONALID>42116252</NATIONALID>
+               <ADDRESS>Golianovo 399</ADDRESS>
+               <TOWN>Golianovo</TOWN>
+               <POSTAL_CODE>951 08</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Mgr. Ľuboš Kolárik</CONTACT_POINT>
+               <PHONE>+421 918477929</PHONE>
+               <E_MAIL>lubos.kolarik@gmail.com</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://dolnanitra.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Zbehy</OFFICIALNAME>
+               <NATIONALID>00308668</NATIONALID>
+               <ADDRESS>69</ADDRESS>
+               <TOWN>Zbehy</TOWN>
+               <POSTAL_CODE>951 42</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Ivan Habiňák</CONTACT_POINT>
+               <PHONE>+421 903718326</PHONE>
+               <E_MAIL>obec@zbehy.sk</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zbehy.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Obec Žirany</OFFICIALNAME>
+               <NATIONALID>00308706</NATIONALID>
+               <ADDRESS>194</ADDRESS>
+               <TOWN>Žirany</TOWN>
+               <POSTAL_CODE>951 71</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <CONTACT_POINT>Ing. Jozef Zsebi</CONTACT_POINT>
+               <PHONE>+421 903203979</PHONE>
+               <E_MAIL>starosta@zirany.eu</E_MAIL>
+               <n2016:NUTS CODE="SK023"/>
+               <URL_GENERAL>http://zirany.sk</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <CA_TYPE_OTHER>Združenie subjektov miestnej samosprávy</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Príležitostné spoločné obstarávanie poistných služieb - Nitrianske RZO - ZMOS</P>
+            </TITLE>
+            <REFERENCE_NUMBER>POI/VO/01-2018</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="66510000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predmet zákazky tvorí poistenie majetku, poistenie zodpovednosti za škodu právnických osôb, poistenie zodpovednosti za škodu štatutárnych zástupcov organizácií, poistenie motorových vozidiel, poistenie zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a poistenie úrazu osôb pre obce patriace do Nitrianskeho regionálneho združenia obcí ZMOS a pre ďalšie organizácie v ich zriaďovateľskej alebo zakladateľskej pôsobnosti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">612573.94</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Poistenie majetku a zodpovednosti za škodu</P>
+               </TITLE>
+               <LOT_NO>1.</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66515200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66516400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66512100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SK023"/>
+               <MAIN_SITE>
+                  <P>Sídla obcí patriacich do Nitrianskeho regionálneho združenia obcí ZMOS a sídla organizácií v ich zriaďovateľskej alebo zakladateľskej pôsobnosti.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Predmet I. časti predmetu zákazky tvorí poistenie majetku, poistenie zodpovednosti za škodu právnických osôb, poistenie zodpovednosti za škodu štatutárnych zástupcov organizácií a poistenie úrazu osôb pre obce patriace do Nitrianskeho regionálneho združenia obcí ZMOS a pre ďalšie organizácie v ich zriaďovateľskej alebo zakladateľskej pôsobnosti.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Poistenie motorových vozidiel a zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla</P>
+               </TITLE>
+               <LOT_NO>2.</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66514110"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66516100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SK023"/>
+               <MAIN_SITE>
+                  <P>Sídla obcí patriacich do Nitrianskeho regionálneho združenia obcí ZMOS a sídla organizácií v ich zriaďovateľskej alebo zakladateľskej pôsobnosti.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Predmet II. časti zákazky tvorí poistenie motorových vozidiel a poistenie zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla pre obce patriace do Nitrianskeho regionálneho združenia obcí ZMOS a pre ďalšie organizácie v ich zriaďovateľskej alebo zakladateľskej pôsobnosti.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 010-018622</NOTICE_NUMBER_OJ>
+            <TERMINATION_PIN/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Poistenie majetku a zodpovednosti za škodu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-03-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Komunálna poisťovňa, a.s. Vienna Insurance Group</OFFICIALNAME>
+                     <NATIONALID>31595545</NATIONALID>
+                     <ADDRESS>Štefánikova 17</ADDRESS>
+                     <TOWN>Bratislava</TOWN>
+                     <POSTAL_CODE>811 05</POSTAL_CODE>
+                     <COUNTRY VALUE="SK"/>
+                     <PHONE>+421 376515881 / 376515882</PHONE>
+                     <E_MAIL>eklenkova@kpas.sk</E_MAIL>
+                     <FAX>+421 376515880</FAX>
+                     <n2016:NUTS CODE="SK010"/>
+                     <URL>http://www.kpas.sk</URL>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">348182.79</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">348182.79</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <LOT_NO>2.</LOT_NO>
+            <TITLE>
+               <P>Poistenie motorových vozidiel a zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-03-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Komunálna poisťovňa, a.s. Vienna Insurance Group</OFFICIALNAME>
+                     <NATIONALID>31595545</NATIONALID>
+                     <ADDRESS>Štefánikova 17</ADDRESS>
+                     <TOWN>Bratislava</TOWN>
+                     <POSTAL_CODE>811 05</POSTAL_CODE>
+                     <COUNTRY VALUE="SK"/>
+                     <PHONE>+421 376515881 / 376515882</PHONE>
+                     <E_MAIL>eklenkova@kpas.sk</E_MAIL>
+                     <FAX>+421 376515880</FAX>
+                     <n2016:NUTS CODE="SK010"/>
+                     <URL>http://www.kpas.sk</URL>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">264391.15</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">264391.15</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>1. Pôvodne odhadovaná hodnota 1. časti zákazky (PHZ) uvedená v bode V.2.4) bola stanovená v rozpätí od 290 152,32 EUR do 348 182,79 EUR.</P>
+               <P>Celková hodnota 1. časti zákazky uvedená v bode V.2.4) bola prostredníctvom zadávania tejto zákazky vygenerovaná v rozpätí od 217 021,88 EUR do 348 182,79 EUR, ktorá predstavuje celkovú maximálnu predpokladanú hodnotu všetkých poistných zmlúv uzatvorených počas platnosti a účinnosti Rámcovej dohody - č. RD č. 01/2018 pre poistenie majetku a zodpovednosti za škodu.</P>
+               <P>2. Pôvodne odhadovaná hodnota 2. časti zákazky (PHZ) uvedená v bode V.2.4) bola stanovená v rozpätí od 220 325,96 EUR do 264 391,15 EUR.</P>
+               <P>Celková hodnota 2. časti zákazky uvedená v bode V.2.4) bola prostredníctvom zadávania tejto zákazky vygenerovaná v rozpätí od 203 152,44 EUR do 264 391,15 EUR, ktorá predstavuje celkovú maximálnu predpokladanú hodnotu všetkých poistných zmlúv uzatvorených počas platnosti a účinnosti Rámcovej dohody - č. RD č. 02/2018 pre poistenie motorových vozidiel a zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla.</P>
+               <P>3. Rámcová dohoda - č. RD č. 01/2018 pre poistenie majetku a zodpovednosti za škodu a Rámcová dohoda - č. RD č. 02/2018 pre poistenie motorových vozidiel a zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla na základe ktorých budú jednotlivé organizácie pristupujúce k verejnému obstarávaniu uzatvárať poistné zmluvy boli uzatvorené na obdobie 48 mesiacov od dátumu ich podpisu.</P>
+               <P>4. Cena za služby poistenia nepodlieha dani z pridanej hodnoty.</P>
+               <P>5. Ponuky vyhodnocovala Komisia na vyhodnotenie ponúk v nasledovnom zložení: Predseda komisie: Ladislav Hroššo, členovia komisie: Milan Greguš, Ing. Jozef Holúbek. Člen komisie bez práva vyhodnocovať ponuky: Ing. Mgr. Jozef Balkó</P>
+               <P>6. Predmetné verejné obstarávanie nie je zelené VO, jeho predmetom nie je obstarávanie inovácií a nejedná sa ani o obstarávanie zamerané na sociálne aspekty.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Úrad pre verejné obstarávanie</OFFICIALNAME>
+               <ADDRESS>Ružová dolina 10, P.O.Box 98</ADDRESS>
+               <TOWN>Bratislava</TOWN>
+               <POSTAL_CODE>820 05</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <PHONE>+421 250264176</PHONE>
+               <FAX>+421 250264219</FAX>
+               <URL>http://www.uvo.gov.sk</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Úrad pre verejné obstarávanie</OFFICIALNAME>
+               <ADDRESS>Ružová dolina 10, P.O.Box 98</ADDRESS>
+               <TOWN>Bratislava</TOWN>
+               <POSTAL_CODE>820 05</POSTAL_CODE>
+               <COUNTRY VALUE="SK"/>
+               <PHONE>+421 250264176</PHONE>
+               <FAX>+421 250264219</FAX>
+               <URL>http://www.uvo.gov.sk</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-29</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

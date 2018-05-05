@@ -1,0 +1,2949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="156360-2018"
+            EDITION="2018071">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-154201-001</RECEPTION_ID>
+      <DELETION_DATE>20180714</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>71</NO_OJ>
+         <DATE_PUB>20180412</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 071-156360</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:156360-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="BE">BELGIQUE-BELGIË</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">83495293.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180405</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-tjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-Dienstleistungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Servicios Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-palvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Services Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Άδειες χρήσης της Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Licenze Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoftdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Serviços Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-tjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 služby Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsofti teenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 „Microsoft“ paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Servizzi tal-Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Usługi Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 – storitve Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 seirbhísí Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Услуги на Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Servicii Microsoft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>DIGIT/A3/PN/2017/040 Microsoftove usluge</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="EN">European Commission, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3 : ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-tjenester</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Erhvervelse af Microsoft-tjenester på avanceret niveau (proceduren DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Leverings-/udførelsesstederne er de deltagende EU-institutioners lokaler eller enhver anden lokalitet inden for Den Europæiske Unions territorium.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erhvervelse af Microsoft-tjenester på avanceret niveau (support og rådgivning).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU's administrative bevillinger</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ud over Europa-Kommissionen har 66 andre institutioner, agenturer eller andre organer tilsluttet sig den endelige aftale.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Den angivne support og rådgivning på avanceret niveau er i sagens natur knyttet til produkterne omfattet af licensaftalen (proceduren DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Følgende institutioner m.v. er parter i henhold til den endelige aftale:</P>
+               <P>ACER, fællesforetagendet BBI, BEREC-kontoret, CdT, Cedefop, Chafea, fællesforetagendet Clean Sky 2, Rådet, Regionsudvalget, CPVO, EU-Domstolen, EACEA, EASA, EASME, EASO, EBA, Revisonsretten, ECB, ECHA, fællesforetagendet ECSEL, EEA, EU-Udenrigstjenesten, EØSU, EIB, EIOPA, EIT, EMA, EONN, EMSA, Ombudsmanden, Parlamentet, ERCEA, Euratoms Forsyningsagentur, ESMA, EUIPO, eu-LISA, EU-OSHA, Den Europæiske Unions Agentur for Strafferetligt Samarbejde (Eurojust), Europol, fællesforetagendet Fusion for Energy, fællesforetagendet FCH 2, Frontex, fællesforetagendet IMI 2, INEA, REA, fællesforetagendet F4E, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europa-Kommissionen, Directorat General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-Dienstleistungen</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kauf von hochwertigen Microsoft-Dienstleistungen (Verfahren DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Liefer-/Erbringungsort sind die Räumlichkeiten der teilnehmenden Organe der Europäischen Union oder jeglicher anderer Ort in der Union.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kauf von hochwertigen Microsoft-Dienstleistungen (Unterstützung und Beratung).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU-Verwaltungsmittel</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Neben der Europäischen Kommission nehmen 66 weitere Organe, Agenturen und sonstige Einrichtungen an der resultierenden Rahmenvereinbarung teil.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Die hochwertigen Unterstützungs- und Beratungsleistungen sind untrennbar mit den von der Lizenzvereinbarung (Verfahren DIGIT/A3/PN/2017/041) abgedeckten Produkten verbunden.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Die folgenden Einrichtungen usw. sind Parteien der resultierenden Rahmenvereinbarung:</P>
+               <P>ACER, Gemeinsames Unternehmen BBI, GEREK, CDT, Cedefop, Cepol, Chafea, Gemeinsames Unternehmen Clean Sky 2, Rat, CdR, CPCC, CPVO, EuGH, ECDC, EACEA, EASA, EASME, EASO, EBA, Europäischer Rechnungshof, EZB, ECDC, ECHA, Gemeinsames Unternehmen ECSEL, EVA, EDSB, EUA, EAD, EWSA, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EBDD, EMSA, ENISA, Bürgerbeauftragter, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Gemeinsames Unternehmen Fusion for Energy, Gemeinsames Unternehmen FCH 2, FRA, Frontex, GSA, Gemeinsames Unternehmen IMI 2, INEA, REA, Gemeinsames Unternehmen S2R, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europäische Kommission, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Acquisition of high-level Microsoft services (procedure DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>The places of delivery/performance are the premises of the participating EUIs, or any other location in theterritory of the Union.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Acquisition of high-level Microsoft services (support and consultancy).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU administrative appropriations</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Apart from the European Commission, 66 other institutions, agencies or other bodies joined the resulting agreement.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>The high-level support and consultancy services are intrinsically linked to the products covered by the License Agreement (procedure DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>The following institutions, etc. are parties under the resulting agreement:</P>
+               <P>ACER, BBI Joint Undertaking, BEREC, CDT, Cedefop, Cepol, Chafea, Clean Sky 2 Joint Undertaking, Council, CoR, CPCC, CPVO, CJEU, EACEA, EASA, EASME, EASO, EBA, ECA, ECB, ECDC, ECHA, ECSEL Joint Undertaking, EDA, EDPS, EEA,EEAS, EESC, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Ombudsman, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, F4E Joint Undertaking, FCH 2 Joint Undertaking, FRA, Frontex, GSA, IMI 2Joint Undertaking, INEA, REA, S2R Joint Undertaking, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>European Commission, Directorate-Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Servicios Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Adquisición de servicios de Microsoft de alto nivel (procedimiento DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>El lugar de entrega/ejecución son las instalaciones de las instituciones participantes de la Unión Europea o cualquier otro lugar dentro del territorio de la UE.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Adquisición de servicios de Microsoft de alto nivel (asistencia y consultoría).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>créditos administrativos de la Unión Europea</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Junto a la Comisión Europea, participan del contrato resultante, otras 66 instituciones, agencias y otros organismos.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Los servicios de asistencia y consultoría de alto nivel están intrínsecamente vinculados con los productos cubiertos por el contrato de licencia (procedimiento DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Se detallan a continuación todas las partes (instituciones, organismos, empresas, etc) del contrato resultante:</P>
+               <P>ACER, Empresa Común BBI, ORECE, CDT, Cedefop, Cepol, Chafea, Empresa Común Clean Sky 2, Consejo, CDR, CPCC, OCVV, Tribunal de Justicia de la Unión Europea, EACEA, AESA, EASME, EASO, ABE, Tribunal de Cuentas Europeo, BCE, ECDC, ECHA, Empresa Común ECSEL, AED, SEPD, AEMA, SEAE, CESE, AECP, EFSA, BEI, FEI, EIGE, AESPJ, EIT, EMA, OEDT, AESM, ENISA, Defensor del Pueblo, Parlamento Europeo, OEPP, EEI, ERCEA, AEE, AEVM, ETF, EUIPO, IESUE, eu-LISA, EU-OSHA, Eurofund, Eurojust, Europol, Empresa Común F4E, Empresa Común FCH 2, FRA, Frontex, GSA, Empresa Común IMI 2, Empresa Común S2R, INEA, REA, Empresa Común S2R, SATCEN, SESAR2, JUR.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Comisión Europea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-palvelut</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen kohteena on korkean tason Microsoft-palvelujen hankinta (menettely DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Toimitus-/suorituspaikkoja ovat osallistuvien EU:n toimielinten toimitilat sekä mikä tahansa muu paikka EU:n alueella.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sopimuksen kohteena on korkean tason Microsoft-palvelujen hankinta (tuki ja konsultointi).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU:n hallintomäärärahat</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Euroopan komission lisäksi 66 muuta toimielintä, virastoa tai muuta elintä osallistuivat tehtävään sopimukseen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>korkean tason tuki- ja konsultointipalvelut liittyvät olennaisesti lisenssisopimuksen kohteena oleviin tuotteisiin (menettely DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Seuraavat toimielimet jne. ovat tehtävän sopimuksen osapuolia:</P>
+               <P>ACER, BBI-yhteisyritys, BEREC, CDT, Cedefop, Cepol, Chafea, Clean Sky 2 -yhteisyritys, neuvosto, AK, CPCC, CPVO, Euroopan unionin tuomioistuin (Court of Justice of the European Union – CJEU, EACEA, EASA, EASME, EASO, EPV, ETT, EKP, ECDC, ECHA, ECSEL-yhteisyritys, EDA, EDPS, EEA, EUHS, ETSK, EFCA, EFSA, EIP, EIR, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, oikeusasiamies, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUTT, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Fusion for Energy -yhteisyritys, FCH 2 -yhteisyritys, FRA, Frontex, GSA, IMI 2 -yhteisyritys, INEA, REA, S2R-yhteisyritys, EUSK, SESAR 2 -yhteisyritys, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Euroopan komissio, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3 : ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Services Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Acquisition de services Microsoft de haut niveau (procédure DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Les lieux de livraison/de performance sont les locaux des IUE participant, ou n’importe quelle autre lieu sur le territoire de l’Union.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Acquisition de services Microsoft de haut niveau (soutien et consultation).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Crédits administratifs de l'UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Outre la Commission européenne, 66 autres institutions, agences ou autres organismes participent conjointement au contrat-cadre résultant de la procédure.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Le soutien et la consultation de haut niveau sont intrinsèquement liés aux produits couverts par le contrat de licence (procédure DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Les institutions suivantes, etc. sont parties dans le cadre du contrat-cadre résultant de la présente procédure :</P>
+               <P>ACER, entreprise commune Bio-industries, Office de l'ORECE, CdT, Cedefop, Chafea, entreprise commune Clean Sky 2, Conseil, CdR, OCVV, CJUE, EACEA, AESA, EASME, EASO, ABE, Cour des comptes européenne, BCE, ECHA, entreprise commune ECSEL, AEE, SEAE, CESE, AECP, EFSA, BEI, AEAPP, EIT, EMA, OEDT, AESM, Médiateur, PE, ERCEA, Agence d'approvisionnement d'Euratom, AEMF, OUEPI, eu-LISA, EU-OSHA, Eurofound, Agence de l'Union européenne pour la coopération judiciaire en matière pénale (Eurojust), Europol, entreprise commune Fusion for Energy, entreprise commune PCH 2, Frontex, entreprise commune IMI 2, INEA, REA, entreprise commune S2R, CSUE, SESAR2, CRU.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Commission européenne, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3 : ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Άδειες χρήσης της Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Απόκτηση υπηρεσιών υψηλού επιπέδου της Microsoft (διαδικασία DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Οι τόποι παράδοσης/εκτέλεσης είναι οι εγκαταστάσεις των ευρωπαϊκών κέντρων τεκμηρίωσης (EUIs), ή οποιαδήποτε τοποθεσία στην επικράτεια της ΕΕ.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Απόκτηση υπηρεσιών υψηλού επιπέδου της Microsoft (υποστήριξη και συμβουλευτική).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Διοικητικές πιστώσεις της ΕΕ</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Εκτός από την Ευρωπαϊκή Επιτροπή, άλλα 66 θεσμικά και λοιπά όργανα και οργανισμοί συμμετείχαν στη σύμβαση που προέκυψε.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Οι υψηλού επιπέδου υπηρεσίες υποστήριξης και οι συμβουλευτικές υπηρεσίες είναι άρρηκτα συνδεδεμένες με τα προϊόντα που καλύπτονται από τη Συμφωνία Αδειοδότησης (διαδικασία DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Τα ακόλουθα θεσμικά όργανα, κ.λπ. αποτελούν συμβαλλόμενα μέρη της προκύπτουσας σύμβασης:</P>
+               <P>ACER, BBI Κοινή Επιχείρηση, BEREC, CDT, Cedefop, Cepol, Chafea, Clean Sky 2 Κοινή Επιχείρηση, Council, CoR, CPCC, CPVO, CJEU, EACEA, EASA, EASME, EASO, EBA, ECA, ECB, ECDC, ECHA, ECSEL Κοινή επιχείρηση, EDA, EDPS, EEA,EEAS, EESC, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Ombudsman, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, F4E Κοινή επιχείρηση, FCH 2 Κοινή Επιχείρηση, FRA, Frontex, GSA, IMI 2 Κοινή Επιχείρηση, INEA, REA, S2R Κοινή Επιχείρηση, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Licenze Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Acquisizione di servizi Microsoft di alto livello (procedura DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>I luoghi di fornitura/esecuzione saranno le sedi delle istituzioni dell’UE partecipanti, o qualsiasi altra località nel territorio dell’Unione.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Acquisizione di servizi Microsoft di alto livello (supporto e consulenza).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Stanziamenti amministrativi dell'UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Oltre alla Commissione europea, altre 66 istituzioni, agenzie o altri organismi hanno aderito all’accordo risultante.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>I servizi di supporto e consulenza ad alto livello sono intrinsecamente vincolati ai prodotti coperti dall’accordo di licenza (procedura DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Le seguenti istituzioni ecc. fanno parte del contratto quadro risultante:</P>
+               <P>ACER, IC BBI, BEREC, CDT, Cedefop, Cepol, Chafea, IC Clean Sky 2, Consiglio, CdR, CPCC, UCVV, CGUE, EACEA, EASME, EASO, EBA, CCE, BCE, ECHA, IC ECSEL, AED, GEPD, AEA, SEAE, CESE, EFCA, EFSA, BEI, FEI, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Mediatore, PE, EPPO, SER, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, IC F4E, FRA, Frontex, GSA, IC IMI 2, INEA, REA, IC S2R, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Commissione europea, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoftdiensten</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Verwerving van Microsoftdiensten van hoog niveau (procedure DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>de plaatsen van levering/uitvoering zijn de kantoren van de deelnemende EU-instellingen of elke andere locatie op het grondgebied van de EU.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Verwerving van Microsoftdiensten van hoog niveau (ondersteuning en advies).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>administratieve kredieten van de EU</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Naast de Europese Commissie nemen 66 andere instellingen, agentschappen of andere organen deel aan de resulterende raamovereenkomst.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>De ondersteunings- en adviesdiensten op hoog niveau zijn onlosmakelijk verbonden met de producten die onder de licentieovereenkomst vallen (procedure DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>De volgende instellingen, enz. zijn partij bij de resulterende raamovereenkomst:</P>
+               <P>ACER, Gemeenschappelijke Onderneming BBI, BEREC, CDT, Cedefop, Cepol, Chafea, Gemeenschappelijke Onderneming Clean Sky 2, Raad, CvdR, CPCC, CPVO, HvJ, EACEA, EASA, Easme, EASO, EBA, ECA, ECB, ECDC, ECHA, Gemeenschappelijke Onderneming Ecsel, EDA, EDPS, EEA, EDEO, EESC, EFCA, EFSA, EIB, EIF, EIGE, Eiopa, EIT, EMA, EWDD, EMSA, Enisa, Ombudsman, EP, EPPO, ESB, ERCEA, Voorzieningsagentschap van Euratom, ESMA, ETF, EUIPO, IVSEU, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Gemeenschappelijke Onderneming Fusion for Energy, Gemeenschappelijke Onderneming FCH 2, FRA, Frontex, GSA, Gemeenschappelijke Onderneming IMI 2, INEA, REA, Gemeenschappelijke Onderneming S2R, SatCen, Sesar2, GAR.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Serviços Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Aquisição de serviços Microsoft de alto nível (procedimento DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Os locais de entrega/desempenho são as instalações das instituições da UE participantes, ou qualquer outro local no território da União.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Aquisição de serviços Microsoft de alto nível (apoio e consultoria).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Dotações administrativas da UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Para além da Comissão Europeia, 66 outras instituições, agências ou outros organismos aderiram ao acordo resultante.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Os serviços de apoio e consultoria de alto nível estão intrinsecamente ligados aos produtos abrangidos pelo acordo de licença (procedimento DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>As seguintes instituições, etc. são partes no âmbito do acordo resultante:</P>
+               <P>ACER, Empresa Comum BBI, ORECE, CDT, Cedefop, Cepol Chafea, Empresa Comum Clean Sky 2, Conselho, CR, CPCC, ICVV, TJUE, EACEA, AESA, EASME, EASO, EBA, TCE, BCE, ECDC, ECHA, Empresa Comum ECSEL, EDA, EDPS, AEA, SEAE, CESE, AECP, EFSA, BEI, EIF, EIGE, EIOPA, EIT, EMA, OEDT, EMSA, ENISA, Provedor de Justiça Europeu, PE, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Agência Europeia para a Cooperação Judiciária Penal (Eurojust), Europol, Empresa Comum F4E, Empresa Comum PCH 2, FRA, Frontex, GSA, Empresa Comum IMI 2, INEA, REA, Empresa Comum S2R, SATCEN, SESAR2, CUR.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Comissão Europeia, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft-tjänster</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Anskaffning av avancerade Microsoft-tjänster (förfarande DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Platserna för leverans/utförande är de deltagande EUI-ländernas lokaler, eller någon annan plats inom unionens territorium.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Anskaffning av avancerade Microsoft-tjänster (stöd och rådgivningsverksamhet).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU:s administrativa anslag</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Förutom Europeiska kommissionen har 66 andra institutioner, byråer eller andra organ anslutit sig till det resulterande avtalet.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>De avancerade stöd- och rådgivningstjänsterna är i grunden kopplade till de produkter, som omfattas av licensavtalet (förfarande DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Följande institutioner etc. är parter inom ramen för det resulterande ramavtalet:</P>
+               <P>Acer, gemensamma företaget BBI, Berec-byrån, CdT, Cedefop, Cepol, Chafea, gemensamma företaget Clean Sky 2, ReK, CPCC, CPVO, Europeiska unionens domstol, Eacea, Easa, Easme, Easo, EBA, Europeiska revisionsrätten, ECB, ECDC, Echa, gemensamma företaget Ecsel, EDA, EDPS, EEA, EESK, EFCA, Efsa, EIB, EIF, EIGE, Eiopa, EIT, EMA, EMCDDA, Emsa, Enisa, Europeiska ombudsmannen, Europaparlamentet, Eppo, ERA, Ercea, ESA, Esma, ETF, EUIPO, EUISS, eu-LISA, EU-Osha, Eurofound, Eurojust, Europol, det europeiska gemensamma företaget för ITER och utveckling av fusionsenergi, gemensamma företaget FCH 2, FRA, Frontex, GSA, IMI, Inea, REA, gemensamma företaget Shift2Rail, Satcen, Sesar2, och SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 služby Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zajištění vysoce odborných služeb poskytnutých společností Microsoft (řízení DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Místem dodání/plnění jsou prostory účastnících se orgánů Evropské unie, nebo jakékoli jiné místo na území Unie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zajištění vysoce odborných služeb poskytnutých společností Microsoft (podpora a poradenství).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Administrativní rozpočtové prostředky EU</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Kromě Evropské komise k výsledné dohodě přistoupilo 66 dalších orgánů, agentur a dalších institucí.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Služby vysoce odborné podpory a poradenství jsou ve své podstatě spjaty s produkty, na které se vztahuje licenční dohoda (řízení DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Následující orgány atd. jsou stranami této výsledné dohody:</P>
+               <P>ACER, společný podnik BBI, BEREC, CdT, Cedefop, CEPOL, Chafea, společný podnik Clean Sky 2, Rada, VR, CPCC, CPVO, SDEU, EACEA, EASA, EASME, EASO, EBA, EÚD, ECB, ECDC, ECHA, společný podnik ECSEL, EDA, EIOÚ, EEA, ESVČ, EHSV, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, evropský veřejný ochránce práv, EP, EPPO, ERA, ERCEA, Zásobovací agentura Euratomu, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, společný podnik F4E, společný podnik PČV 2, FRA, Frontex, GSA, společný podnik IIL 2, INEA, REA, společný podnik S2R, Satcen, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Evropská komise, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsofti teenused</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kõrgtasemeliste Microsofti teenuste hankimine (menetlus DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Tarnimise/teostamise kohad asuvad osalevates Euroopa Liidu institutsioonides ja teistes Liidu territooriumil asuvates kohtades.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kõrgtasemeliste Microsofti teenuste hankimine (tugi ja nõustamine).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ELi haldusassigneeringud</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Lisaks Euroopa Komisjonile ühinesid tulemusena sõlmitava raamlepinguga 66 muud institutsiooni, ametit või muud asutust.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Kõrgtasemel tugi ja konsultatsiooniteenused on olemuslikult seotud litsentsilepinguga hõlmatud toodetega (menetlus DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Järgmised institutsioonid jm on tulemusena sõlmitava lepingu pooled:</P>
+               <P>ACER, BPT ühisettevõte, BEREC, CDT, Cedefop, Cepol, Chafea, ühisettevõte Clean Sky 2, Euroopa Liidu Nõukogu, CoR, CPCC, CPVO, CJEU, EACEA, EASA, EASME, EASO, EBA, ECA, EKP, ECDC, ECHA, ühisettevõte ECSEL, EDA, EDPS, EEA,EEAS, EESC, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Ombudsman, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, ühisettevõte Fusion for Energy, ühisettevõte FCH 2, FRA, Frontex, GSA, ühisettevõte IMI 2, INEA, REA, ühisettevõte Shift2Rail, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Magas színvonalú Microsoft-szolgáltatások beszerzése (DIGIT/A3/PN/2017/040. sz. eljárás).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Teljesítés helye: a részt vevő uniós intézmények helyszínei vagy bármely más helyszín az Unió területén.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Magas színvonalú Microsoft-szolgáltatások (támogatás és tanácsadás).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Európai uniós adminisztratív előirányzatok</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Az Európai Bizottságon kívül 66 egyéb intézmény, ügynökség és szerv csatlakozott a létrejött megállapodáshoz.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>A magas színvonalú támogatási és tanácsadási szolgáltatások lényegében a licencmegállapodásban szereplő termékekhez kapcsolódnak (DIGIT/A3/PN/2017/041. sz. eljárás).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Az alábbi intézmények stb. részesei az eljárás eredményeképpen létrejövő megállapodásnak:</P>
+               <P>ACER, BBI Közös Vállalkozás, BEREC, CDT, Cedefop, CEPOL, CHAFEA, Tiszta Égbolt 2 közös vállalkozás, Tanács, RB, Polgári Tervezési és Végrehajtási Szolgálat, CPVO, az Európai Unió Bírósága, EACEA, EASA, EASME, EASO, EBH, Európai Számvevőszék, EKB, ECDC, ECHA, ECSEL közös vállalkozás, EDA, európai adatvédelmi biztos, EEA, EKSZ, EGSZB, EFCA, EFSA, EBB, EBA, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, ombudsman, EP, Európai Ügyészség, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, EUROFOUND, Eurojust, Europol, Fusion for Energy közös vállalkozás, FCH 2 közös vállalkozás, FRA, Frontex, GSA, IMI 2 közös vállalkozás, INEA, REA, S2R közös vállalkozás, Satcen, SESAR2, ESZT.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Európai Bizottság, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 „Microsoft“ paslaugos</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>„Microsoft“ aukšto lygio paslaugų įsigijimas (procedūra DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Pristatymo ar vykdymo vietos – dalyvaujančių Europos Sąjungos institucijų patalpos ar kitos vietos Sąjungos teritorijoje.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>„Microsoft“ aukšto lygio paslaugų įsigijimas (pagalba ir konsultacijos).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ES administraciniai asignavimai</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Be Europos Komisijos, 66 kitos institucijos, agentūros arba kitos įstaigos prisijungė prie sudaryto susitarimo.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Aukšto lygio pagalbos ir konsultacinės paslaugos yra susijusios su produktais, kuriuos apima licencijos susitarimas (procedūra DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Šios institucijos ir pan. yra šalys pagal sudarytą susitarimą:</P>
+               <P>ACER, BPS bendroji įmonė, EERRI, CdT, „Cedefop“, „Cepol“, „Chafea“, bendroji įmonė „Švarus dangus 2“, Taryba, RK, CPCC, BAVT, ESTT, EACEA, EASA, EASME, EASO, EBI, ECA, ECB, ECDC, ECHA, bendroji įmonė ECSEL, EGA, EDAPP, EEA, EIVT, EESRK, EŽKA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, ENNSC, EMSA, ENISA, ombudsmenas, EP, Europos prokuratūra, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, ESSSI, eu-LISA, EU-OSHA, „Eurofound“, „Eurojustas“, „Europolas“, bendroji įmonė F4E, bendroji įmonė FCH 2, FRA, „Frontex“, GSA, bendroji įmonė IMI 2, INEA, REA, bendroji įmonė S2R, SATCEN, SESAR2, BPV.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europos Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft pakalpojumi</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Augsta līmeņa Microsoft pakalpojumu iegāde (procedūra DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>piegādes/darbu veikšanas vietas ir iesaistīto ES iestāžu telpas vai jebkura cita vieta ES teritorijā.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Augsta līmeņa Microsoft pakalpojumu iegāde (atbalsts un konsultācijas).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ES administratīvās apropriācijas</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Procedūras rezultātā noslēgtajā pamatnolīgumā piedalās ne tikai Eiropas Komisija, bet arī 66 citas iestādes, aģentūras vai citas struktūras.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Augsta līmeņa atbalsta un konsultāciju pakalpojumi ir cieši saistīti ar produktiem, uz kuriem attiecas Licences līgums (procedūra DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Procedūras rezultātā noslēgtajā pamatnolīgumā piedalās šādas iestādes u. c.:</P>
+               <P>ACER, kopuzņēmums BBI, BEREC birojs, CdT, Cedefop, Cepol, Chafea, kopuzņēmums Clean Sky 2, Padome, CoR, CPĪC, CPVO, ES Tiesa, EACEA, EASA, EASME, EASO, EBI, Revīzijas palāta, ECB, ECDC, ECHA, kopuzņēmums ECSEL, EAA, EDAU, EVA, EĀDD, EESK, EFCA, EFSA, EIB, EIF, EIGE, EAAPI, EIT, EMA, EMCDDA, EMSA, ENISA, Eiropas Ombuds, EP, EPPO, ERA, ERCEA, Euratom Apgādes aģentūra, EVTI, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eiropas Savienības Aģentūra tiesu iestāžu sadarbībai krimināllietās (Eurojust), Eiropols, kopuzņēmums Fusion for Energy, kopuzņēmums FCH 2, FRA, Frontex, GSA, kopuzņēmums IMI 2, INEA, REA, kopuzņēmums S2R, Satcen, kopuzņēmums SESAR2, VNV.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Eiropas Komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Servizzi tal-Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ksib ta' servizzi tal-Microsoft ta' livell għoli (proċedura DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il-postijiet tal-kunsinna/il-prestazzjoni huma l-bini tal-EUIs parteċipanti, jew kwalunkwe post ieħor fit-territorju tal-Unjoni.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ksib ta' servizzi tal-Microsoft ta' livell għoli (appoġġ u konsulenza).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>L-approprjazzjonijiet amministrattivi tal-UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Minbarra l-Kummissjoni Ewropea, 66 istituzzjoni oħra, aġenziji jew korpi oħra ngħaqdu mal-ftehim li jirriżulta.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Is-servizzi ta' appoġġ u ta' konsulenza ta' livell għoli huma intrinsikament marbuta mal-prodotti koperti mill-Ftehim ta' Liċenzja (proċedura DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>L-istituzzjonijiet li ġejjin, eċċ. huma partijiet taħt il-ftehim li jirriżulta:</P>
+               <P>ACER, l-Impriża Konġunta BBI, BEREC, CDT, Cedefop, Cepol, Chafea, l-Impriża Konġunta Clean Sky 2, KtR, CPCC, CPVO, QtĠ, EACEA, EASA, EASME, EASO, EBA, QEA, BĊE, ECDC, ECHA, l-Impriża Konġunta ECSEL, EDA, KEPD, EEA, SEAE, KESE, EFCA, EFSA, BEI, FEI, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, l-Ombudsman, PE, UPPE, ERA, ERCEA, ASE, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, l-Impriża Konġunta F4E, l-Impriża Konġunta FCH 2, FRA, Frontex, GSA, l-Impriża Konġunta IMI 2, INEA, REA, l-Impriża Konġunta S2R, Satcen, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Usługi Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nabycie wysokiej jakości usług Microsoft (procedura DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Miejscem dostawy/wykonania są siedziby uczestniczących instytucji Unii Europejskiej lub inne lokalizacje na terenie Unii.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabycie wysokiej jakości usług Microsoft (wsparcie i doradztwo).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>środki administracyjne UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Oprócz Komisji Europejskiej do umowy, która będzie wynikiem procedury, przystąpiło jeszcze 66 innych instytucji, agencji i innych organów.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Usługi wysokiej jakości wsparcia są nierozerwalnie związane z produktami objętymi umową licencyjnej (procedura DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Stronami umowy będącej wynikiem tego postępowania są następujące instytucje:</P>
+               <P>ACER, Wspólne Przedsięwzięcie BBI, BEREC, CDT, Cedefop, Cepol, Chafea, Wspólne Przedsięwzięcie „Czyste niebo 2”, Rada, KR, CPCC, CPVO, TSUE, EACEA, EASA, EASME, EASO, EUNB, ETO, EBC, ECDC, ECHA, Wspólne Przedsięwzięcie ECSEL, EDA, EIOD, EEA, ESDZ, EKES, EFCA, EFSA, EBI, EFI, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Europejski Rzecznik Praw Obywatelskich, PE, Prokuratura Europejska, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, IUESB, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Wspólne Przedsięwzięcie Fusion for Energy, Wspólne Przedsięwzięcie FCH 2, FRA, Frontex, GSA, Wspólne Przedsięwzięcie IMI 2, Agencja Wykonawcza ds. Innowacyjności i Sieci, REA, Wspólne Przedsięwzięcie SR2, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Komisja Europejska, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoft services</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obstaranie služieb spoločnosti Microsoft na vysokej úrovni (postup DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Miestami dodania / výkonu sú priestory zúčastnených EUI alebo akéhokoľvek iného miesta na území Únie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Obstaranie služieb spoločnosti Microsoft na vysokej úrovni (podpora a poradenstvo).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>administratívne rozpočtové prostriedky EÚ</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Okrem Európskej komisie sa zúčastní 66 ďalších inštitúcií, agentúr a iných organov v následnej rámcovej zmluve.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Služby podpory a poradenstva na vysokej úrovni sú neoddeliteľne spojené s výrobkami, na ktoré sa vzťahuje licenčná zmluva (postup DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Stranami výslednej dohody sú nasledujúce inštitúcie atď.:</P>
+               <P>Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER), spoločný podnik BBI, BEREC, Prekladateľské stredisko pre orgány Európskej únie (CDT), Cedefop, Cepol, Chafea, spoločný podnik Čisté nebo 2, Rada, Výbor regiónov, CPCC, CPVO, Súdny dvor Európskej únie, EACEA, EASA, EASME, EASO, Európsky investičný fond, Európsky dvor audítorov, ECB, ECDC, ECHA, spoločný podnik ECSEL, EDA, EDPS, EEA, Európska služba pre vonkajšiu činnosť (ESVČ), Európsky hospodársky a sociálny výbor (EHSV), EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, európsky ombudsman, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUÍPO, EUISS, eu-LISA, eu-OSHA, Eurofound, Európska jednotka pre justičnú spoluprácu (Eurojust), Europol, Európsky spoločný podnik pre ITER a rozvoj energie jadrovej syntézy, spoločný podnik pre palivové články a vodík 2, FRA, Frontex, GSA, spoločný podnik IIL 2, INEA, REA, spoločný podnik Shift2Rail, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Európska komisia, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 – storitve Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nakup storitev Microsoft na visoki ravni (postopek DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Kraji dobave/izvedbe so prostori sodelujočih institucij EU ali katera koli druga lokacija na ozemlju Unije.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nakup storitev Microsoft na visoki ravni (podpora in svetovanje).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>sredstva EU za upravo</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Poleg Evropske komisije se temu sporazumu pridružuje še 66 drugih institucij, agencij ali drugih organov.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Podporne in svetovalne storitve na visoki ravni so neločljivo povezane z izdelki, ki jih zajema licenčni sporazum (postopek DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Naslednje institucije itd. so stranke v tem sporazumu:</P>
+               <P>ACER, CdT, Cedefop, CEPOL, Chafea, CPCC, CPVO, EACEA, EASA, EASME, EASO, EBA, ECB, ECDC, ECHA, EDA, EEA, EESO, EFCA, EFSA, EIB, EIGE, EIOPA, EIS, EIT, EJT, EMA, EMCDDA, EMSA, ENISA, ENVP, EP, ERA, ERCEA, ERS, ESA, ESMA, ESZD, ETF, EUIPO, EUISS, eu‑LISA, EU‑OSHA, Eurofound, Eurojust, Europol, Evropski varuh človekovih pravic, FRA, Frontex, GSA, INEA, OR, REA, Satcen, SESAR, Skupno podjetje BBI, Skupno podjetje „Čisto nebo 2“, Skupno podjetje ECSEL, Skupno podjetje „Fusion for Energy“, Skupno podjetje IMI 2, Skupno podjetje S2R, Skupno podjetje za GCV 2, Sodišče Evropske unije, SRB, Svet, Urad BEREC.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Evropska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 seirbhísí Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Seirbhísí ardleibhéil Microsoft a fháil (nós imeachta DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Is iad áitreabh na nEUI rannpháirteach, nó aon láthair eile i gcríoch an Aontais, na láithreacha seachadta/feidhmíóchta.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Seirbhísí ardleibhéil Microsoft a fháil (tacaíocht agus sainchomhairleoireacht).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Leithreasuithe riaracháin AE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Seachas an Coimisiún Eorpach, chuaigh 66 institiúid, gníomhaireacht nó comhlacht eile i bpáirt leis an gcomhaontú dá bharr.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Tá an tacaíocht ardleibhéil agus na seirbhísí sainchomhairleoireachta nasctha go dlúth leis na táirgí atá clúdaithe faoin gComhaontú Ceadúnaithe (nós imeachta DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Is páirtithe faoin gcomhaontú dá thoradh iad na hinstitiúidí, etc. seo a leanas:</P>
+               <P>ACER, Comhghnóthas BBI, BEREC, CdT, Cedefop, Cepol, Chafea, Comhghnóthas Spéir Ghlan 2, an Chomhairle, CER, CPCC, CPVO, CBAE, EACEA, EASA, EASME, EASO, ÚBE, CIE, BCE, ECDC, ECHA, Comhghnóthas ECSEL, GEC, MECS, EEA, SEGS, CESE, EFCA, EFSA, BEI, EIF, EIGE, ÚEÁPC, EIT, EMA, EMCDDA, EMSA, ENISA, an tOmbudsman, PE, OIPE, ERA, ERCEA, GSE, ESMA, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Comhghnóthas F4E, Comhghnóthas FCH 2, FRA, Frontex, GSA, Comhghnóthas IMI 2, INEA, REA, Comhghnóthas S2R, SATCEN, SESAR2, BRA.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Услуги на Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Придобиване на Услуги на високо ниво на Microsoft (процедура DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Местата на доставка/изпълнение са помещенията на участващите институции на ЕС или всяко друго местоположение на територията на Съюза.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Придобиване на Услуги на високо ниво на Microsoft (подкрепа и консултации).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Бюджетни кредити за административни разходи на ЕС</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Освен Европейската комисия, 66 други институции, агенции и органи са включени в произтичащото споразумение.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Услугите по подкрепа и консултации на високо ниво са неразривно свързани с продуктите, включени в Лицензионния договор (процедура DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>По произтичащото споразумение страни са следните институции и др.:</P>
+               <P>ACER, Съвместно предприятие БП, Служба на ОЕРЕС, CdT, Cedefop, Chafea, Съвместно предприятие „Чисто небе 2“, Съвет, CoR, CPVO, CJEU, EACEA, ЕААБ, EASME, EASO, ЕБО, ECA, ЕЦБ, ECHA, Съвместно предприятие ECSEL, ЕАОС, ЕСВД, ЕИСК, EFCA, ЕОБХ, ЕИБ, EIOPA, EIT, EMA, ЕЦМНН, ЕАМБ, Омбудсман, ЕП, ERCEA, Агенция за снабдяване към Евратом, ESMA, EUIPO, eu-LISA, EU-OSHA, Eurofound, Агенцията на Европейския съюз за сътрудничество в областта на наказателното правосъдие (Евроюст), Европол, Съвместно предприятие „Fusion for Energy“, Съвместно предприятие ГКВ 2, Frontex, Съвместно предприятие на ИИЛ 2, INEA, REA, Съвместно предприятие F4E, ЕСП.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Европейска комисия, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Servicii Microsoft</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Achiziționarea de servicii Microsoft la nivel înalt (procedura DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Locurile de livrare/prestare sunt sediile Institutelor Universitare Europene participante sau orice altă locație pe teritoriul Uniunii.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Achiziționarea de servicii Microsoft la nivel înalt (asistență și consultanță).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Creditele administrative ale UE</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>În plus față de Comisia Europeană, alte 66 de instituții, agenții sau alte organisme s-au alăturat acordului rezultat.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Serviciile de asistență și consultanță la nivel înalt sunt intrinsec legate de produsele care fac obiectul acordului de licențiere (procedura DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Următoarele instituții etc. sunt părți ale acordului rezultat:</P>
+               <P>ACER, Întreprinderea comună pentru bioindustrii, OAREC, CDT, Cedefop, Cepol, Chafea, Întreprinderea comună Clean Sky 2, Consiliul, CoR, CPCC, OCSP, CJUE, EACEA, AESA, EASME, EASO, ABE, CEC, BCE, ECDC, ECHA, Întreprinderea comună ECSEL, AEA, AEPD, SEE, SEAE, CESE, AECP, EFSA, BEI, FEI, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Ombudsmanul, PE, OEMPP, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Întreprinderea comună Fusion for Energy, Întreprinderea comună FCH 2, FRA, Frontex, GSA, Întreprinderea comună IMI 2, INEA, REA, Întreprinderea comună S2R, SATCEN, SESAR2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Comisia Europeană, Directorate General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, 7th floor, Office P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Digit Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+322 2960762</PHONE>
+               <E_MAIL>DIGIT-CONTRACTS-INFO-CENTRE@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en#related</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>DIGIT/A3/PN/2017/040 Microsoftove usluge</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nabava Microsoftovih usluga na visokoj razini (postupak DIGIT/A3/PN/2017/040).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Mjesta isporuke/izvedbe prostori su sudjelujućih institucija Europske unije ili bilo koja druga lokacija na teritoriju Unije.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabava Microsoftovih usluga na visokoj razini (podrška i savjetovanje).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Administrativna sredstva EU-a</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Osim Europske komisije 66 ostalih institucija, agencija ili drugih tijela pridružilo se sporazumu koji je rezultat ovog postupka.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Usluge podrške i savjetovanja na visokoj razini suštinski su povezane s proizvodima obuhvaćenim sporazumom o licenciranju (postupak DIGIT/A3/PN/2017/041).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Microsoft NV/SA</OFFICIALNAME>
+                     <NATIONALID>0437.910.359</NATIONALID>
+                     <ADDRESS>Da Vincilaan 3</ADDRESS>
+                     <TOWN>Zaventem</TOWN>
+                     <POSTAL_CODE>1935</POSTAL_CODE>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">83495293.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Sljedeće institucije itd. strane su sporazuma koji proizlazi iz ovog postupka:</P>
+               <P>ACER, Zajedničko poduzeće za bioindustriju BBI, Ured BEREC-a, CdT, Cedefop, CEPOL, Chafea, Zajedničko poduzeće Clean Sky 2, Vijeće, OR, CPCC, CPVO, Sud Europske unije, EACEA, EASA, Izvršna agencija za mala i srednja poduzeća EASME, EASO, EBA, ECA, ESB, ECDC, ECHA, Zajedničko poduzeće ECSEL, EDA, EDPS, EEA, ESVD, EGSO, EFCA, EFSA, EIB, EIF, EIGE, EIOPA, EIT, EMA, EMCDDA, EMSA, ENISA, Ombudsman, EP, EPPO, ERA, ERCEA, ESA, ESMA, ETF, EUIPO, EUISS, eu-LISA, EU-OSHA, Eurofound, Eurojust, Europol, Zajedničko poduzeće „Fuzija za energiju” F4E, Zajedničko poduzeće FCH 2, FRA, Frontex, Agencija za europski GNSS, Zajedničko poduzeće IMI 2, INEA, REA, Zajedničko poduzeće S2R, Satcen, SESAR 2, SRB.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Europska komisija, Directorate General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15, Office: 07/P001</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22960762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 22957702</FAX>
+               <URL>https://ec.europa.eu/info/departments/informatics_en#related</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-05</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

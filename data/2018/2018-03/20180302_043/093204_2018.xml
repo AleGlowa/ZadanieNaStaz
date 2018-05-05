@@ -1,0 +1,3502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="093204-2018"
+            EDITION="2018043">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-089195-001</RECEPTION_ID>
+      <DELETION_DATE>20180412</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>43</NO_OJ>
+         <DATE_PUB>20180302</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 043-093204</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:093204-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="IT"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="38433100">Mass spectrometer</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC41">Varese</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ITC41">Varese</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">810000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180223</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180412 15:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering og vedligeholdelse af et multi-element ICPMS-apparat med høj opløsning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Lieferung und Wartung eines ICP-MS mit hochauflösender Multikollektor-Anordnung</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Italy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Supply and maintenance of a high resolution multi-collector ICP-MS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Suministro y mantenimiento de un ICP-MS de colector múltiple de alta resolución</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Korkean resoluution monta näytettä ottavan ja induktiivisesti kytketyn plasma-massaspektrometrin (ICP-MS) toimitus ja huolto</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Italie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture et maintenance d’un spectromètre de masse par plasma à couplage inductif (ICP-MS) multi-collecteurs à haute résolution</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ιταλία</TI_CY>
+            <TI_TOWN>Ίσπρα</TI_TOWN>
+            <TI_TEXT>
+               <P>Προμήθεια και συντήρηση ενός πολυσυλλέκτη ICP-MS υψηλής ανάλυσης</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura e manutenzione di un multi collettore ICP-MS ad alta risoluzione</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Italië</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering en onderhoud van een multicollector-ICP-MS met een hoge resolutie.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Itália</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento e manutenção de um ICP-MS multicoletor de alta resolução</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Leverans och underhåll av en ICP-MS för insamling av flera prover med hög upplösning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Itálie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka a údržba hromadného sběrače ICP-MS s vysokým rozlišením</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Itaalia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Kõrge lahutusvõimega mitme kollektoriga induktiivsidestatud plasma massi-spektromeetri (Inductively coupled plasma mass spectrometer (ICP-MS)) tarne ja hooldus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Olaszország</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Nagy felbontású, többszörös mintavevős indukciós csatolású plazmatömeg-spektrométer (ICP-MS) beszerzése és karbantartása</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Didelės rezoliucijos daug kolektorių turinčių indukciškai sujungtų plazmos masės spektrometrų (ICP-MS) tiekimas ir priežiūra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Itāija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Augstas izšķirtspējas vairāku kolektoru ICP-MS piegāde un uzturēšana</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Italja</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Provvista u manutenzjoni ta' multikollettur b'riżoluzzjoni għolja ICP-MS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Włochy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dostawa i konserwacja wielokolektorowego systemu ICP-MS o wysokiej rozdzielczości</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Taliansko</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka a údržba multikolektorového hmotnostného spektrometra (ICP-MS) s vysokým rozlíšením</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dobava in vzdrževanje multikolektorja ICP-MS visoke ločljivosti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Iodáil, an</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Soláthar agus cothabháil iltiomsaitheora ICP-MS ardtaifigh</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Итaлия</TI_CY>
+            <TI_TOWN>Испра</TI_TOWN>
+            <TI_TEXT>
+               <P>Доставка и поддръжка на мултиколекторен индуктивно свързан плазмен мас спектрометър (ICP-MS) с висока резолюция</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizarea și întreținerea unui spectrometru de masă cu plasmă cuplată inductiv (ICP-MS) multi-colector de rezoluție înaltă</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava i održavanje multi-kolektorskog ICP-MS-a visoke razlučivosti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="EN">European Commission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="IT">Commissione Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, JRC — Joint Research Centre JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering og vedligeholdelse af et multi-element ICPMS-apparat med høj opløsning</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Leveringen består af et multi-element, koblet ICPMS-apparat med høj opløsning. Tilknyttede tjenesteydelser inkluderer installation af apparatet, uddannelse på stedet og vedligeholdelsesydelser.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italien</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Leveringen består af et multi-element, koblet ICPMS-apparat med høj opløsning. Tilknyttede tjenesteydelser inkluderer installation af apparatet, uddannelse på stedet og vedligeholdelsesydelser.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italien, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forschung</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lieferung und Wartung eines ICP-MS mit hochauflösender Multikollektor-Anordnung</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Die Lieferung besteht aus einem doppelt-fokussierendem ICP-MS-System mit hochauflösender Multikollektor-Anordnung. Die zugehörigen Dienstleistungen umfassen die Installation des Instruments, Schulungen vor Ort und Wartungsdienste.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italien</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Die Lieferung besteht aus einem doppelt-fokussierendem ICP-MS-System mit hochauflösender Multikollektor-Anordnung. Die zugehörigen Dienstleistungen umfassen die Installation des Instruments, Schulungen vor Ort und Wartungsdienste.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italien, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Reasearch</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supply and maintenance of a high resolution multi-collector ICP-MS</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>The supply consists of a high resolution multi-collector double focusing ICP-MS system. The associated services include installation of the instrument, training on-site and maintenance services.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italy</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The supply consists of a high resolution multi-collector double focusing ICP-MS system. The associated services include installation of the instrument, training on-site and maintenance services.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italy, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigación</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro y mantenimiento de un ICP-MS de colector múltiple de alta resolución</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>El suministro consiste en un sistema ICP-MS de doble foco de colector múltiple de alta resolución. Los servicios asociados incluyen la instalación del instrumento, formación «in situ» y servicios de mantenimiento.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El suministro consiste en un sistema ICP-MS de doble foco de colector múltiple de alta resolución. Los servicios asociados incluyen la instalación del instrumento, formación «in situ» y servicios de mantenimiento.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Joint Research Centre (JRC), JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>tutkimus</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Korkean resoluution monta näytettä ottavan ja induktiivisesti kytketyn plasma-massaspektrometrin (ICP-MS) toimitus ja huolto</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Toimitus koostuu korkean resoluution monta näytettä ottavasta, kaksoisfokusoivasta ja induktiivisesti kytketystä plasma-massaspektrometrijärjestelmästä (inductively coupled plasma mass spectrometry – ICP-MS). Oheispalveluihin kuuluvat välineen asennus, koulutus paikan päällä ja huoltopalvelut.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Toimitus koostuu korkean resoluution monta näytettä ottavasta, kaksoisfokusoivasta ja induktiivisesti kytketystä plasma-massaspektrometrijärjestelmästä (ICP-MS). Oheispalveluihin kuuluvat välineen asennus, koulutus paikan päällä ja huoltopalvelut.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture et maintenance d’un spectromètre de masse par plasma à couplage inductif (ICP-MS) multi-collecteurs à haute résolution</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>La fourniture consiste en un système de spectromètre de masse par plasma à couplage inductif (ICP-MS) multi-collecteurs à haute résolution. Les services connexe comprennent l’installation de l’instrument, la formation sur site, et les services de maintenance.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italie</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>La fourniture consiste en un système de spectromètre de masse par plasma à couplage inductif (ICP-MS) multi-collecteurs à haute résolution. Les services connexe comprennent l’installation de l’instrument, la formation sur site, et les services de maintenance.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italie, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal de l'Union européenne</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Έρευνα</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Προμήθεια και συντήρηση ενός πολυσυλλέκτη ICP-MS υψηλής ανάλυσης</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Η προμήθεια συνίσταται σε ένα σύστημα πολυσυλλέκτη ICP-MS υψηλής ανάλυσης διπλής εστίασης. Οι συναφείς υπηρεσίες περιλαμβάνουν εγκατάσταση του οργάνου, επί τόπου εκπαίδευση και υπηρεσίες συντήρησης.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Ιταλία</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Η προμήθεια συνίσταται σε ένα σύστημα πολυσυλλέκτη ICP-MS υψηλής ανάλυσης διπλής εστίασης. Οι συναφείς υπηρεσίες περιλαμβάνουν εγκατάσταση του οργάνου, επί τόπου εκπαίδευση και υπηρεσίες συντήρησης.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Ιταλία, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione Europea, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ricerca</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura e manutenzione di un multi collettore ICP-MS ad alta risoluzione</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>La fornitura consiste in un sistema ICP-MS di multi collettore con doppia focalizzazione ad alta risoluzione. I servizi associati comprendono l'installazione dello strumento, la formazione in loco e i servizi di manutenzione.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>La fornitura consiste in un sistema ICP-MS di multi collettore con doppia focalizzazione ad alta risoluzione. I servizi associati comprendono l'installazione dello strumento, la formazione in loco e i servizi di manutenzione.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia, Edificio 58A, piano terra, stanza 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>onderzoek.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering en onderhoud van een multicollector-ICP-MS met een hoge resolutie.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>De levering betreft een multi-collector met een dubbelfocusserend ICP-MS-systeem met een hoge resolutie. De aanverwante diensten omvatten de installatie van het instrument, de opleiding ter plaatse en onderhoudsdiensten.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italië.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>De levering betreft een multi-collector met een dubbelfocusserend ICP-MS-systeem met een hoge resolutie. De aanverwante diensten omvatten de installatie van het instrument, de opleiding ter plaatse en onderhoudsdiensten.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italië, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigação</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento e manutenção de um ICP-MS multicoletor de alta resolução</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>O fornecimento consiste num sistema ICP-MS multi-coletor de alta resolução com dupla focalização. Os serviços conexos incluem a instalação do instrumento, formação no local e serviços de manutenção.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itália</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O fornecimento consiste num sistema ICP-MS multi-coletor de alta resolução com dupla focalização. Os serviços conexos incluem a instalação do instrumento, formação no local e serviços de manutenção.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itália, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Leverans och underhåll av en ICP-MS för insamling av flera prover med hög upplösning</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Leveransen består av en ICP-MS för insamling av flera prover med hög upplösning och dubbel fokusering. Tillhörande tjänster inkluderar installation av instrumentet, utbildning på plats och underhållstjänster.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027, Ispra (VA) Italien</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Leveransen består av en ICP-MS för insamling av flera prover med hög upplösning och dubbel fokusering. Tillhörande tjänster inkluderar installation av instrumentet, utbildning på plats och underhållstjänster.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italien, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Výzkum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka a údržba hromadného sběrače ICP-MS s vysokým rozlišením</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Jedná se o dodání systému hromadného sběrače ICP-MS s dvojitým ostřením a vysokým rozlišením. Související služby zahrnují instalaci přístroje, školení na místě a služby údržby.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itálie</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Jedná se o dodání systému hromadného sběrače ICP-MS s dvojitým ostřením a vysokým rozlišením. Související služby zahrnují instalaci přístroje, školení na místě a služby údržby.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itálie, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Teadusuuringud</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Kõrge lahutusvõimega mitme kollektoriga induktiivsidestatud plasma massi-spektromeetri (Inductively coupled plasma mass spectrometer (ICP-MS)) tarne ja hooldus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tarne koosneb kõrge lahutusvõimega mitme kollektoriga topeltfookusega ICP-MS-süsteemist. Seotud teenused hõlmavad aparaadi paigaldamist, kohapealset koolitust ja hooldusteenuseid.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itaalia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tarne koosneb kõrge lahutusvõimega mitme kollektoriga topeltfookusega ICP-MS-süsteemist. Seotud teenused hõlmavad aparaadi paigaldamist, kohapealset koolitust ja hooldusteenuseid.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itaalia, Building 58A, I korrus, ruum 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Euroopa Liidu Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Joint Research Centre (JRC), JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Kutatás</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nagy felbontású, többszörös mintavevős indukciós csatolású plazmatömeg-spektrométer (ICP-MS) beszerzése és karbantartása</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Az árubeszerzés egy nagy felbontású, többszörös mintavevős, kettős fókuszálású ICP-MS-rendszert foglal magában. A kapcsolódó szolgáltatások az eszköz telepítésére, helyszíni képzésre és karbantartási szolgáltatásokra terjednek ki.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Olaszország</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Az árubeszerzés egy nagy felbontású, többszörös mintavevős, kettős fókuszálású ICP-MS-rendszert foglal magában. A kapcsolódó szolgáltatások az eszköz telepítésére, helyszíni képzésre és karbantartási szolgáltatásokra terjednek ki.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Olaszország, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Tyrimas</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Didelės rezoliucijos daug kolektorių turinčių indukciškai sujungtų plazmos masės spektrometrų (ICP-MS) tiekimas ir priežiūra</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Reikalaujama tiekti didelės rezoliucijos daug kolektorių turinčių dviejų fokusavimo sistemų indukciškai sujungtų plazmos masės spektrometrų sistemą. Susijusios paslaugos – instrumentų montavimas, vietoje rengiami mokymai ir techninės priežiūros paslaugos.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Reikalaujama tiekti didelės rezoliucijos daug kolektorių turinčių dviejų fokusavimo sistemų indukciškai sujungtų plazmos masės spektrometrų sistemą. Susijusios paslaugos – instrumentų montavimas, vietoje rengiami mokymai ir techninės priežiūros paslaugos.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>pētniecība</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Augstas izšķirtspējas vairāku kolektoru ICP-MS piegāde un uzturēšana</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Piegāde ietver augstas izšķirtspējas vairāku kolektoru dubultās fokusēšanās ICP-MS sistēmu. Saistītie pakalpojumi ietver instrumenta uzstādīšanu, apmācību uz vietas un uzturēšanas pakalpojumus.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Itālija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Piegāde ietver augstas izšķirtspējas vairāku kolektoru dubultās fokusēšanās ICP-MS sistēmu. Saistītie pakalpojumi ietver instrumenta uzstādīšanu, apmācību uz vietas un uzturēšanas pakalpojumus.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italy, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, JRC — Joint Research Centre JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Riċerka</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provvista u manutenzjoni ta' multikollettur b'riżoluzzjoni għolja ICP-MS</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Il-provvista tikkonsisti f'sistema ta' multikollettur b'riżoluzzjoni għolja li jiffoka b'mod doppju ICP-MS. Is-servizzi assoċjati jinkludu l-installazzjoni tal-istrument, it-taħriġ fuq il-post u servizzi ta' manutenzjoni.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), l-Italja</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-provvista tikkonsisti f'sistema ta' multikollettur b'riżoluzzjoni għolja li jiffoka b'mod doppju ICP-MS. Is-servizzi assoċjati jinkludu l-installazzjoni tal-istrument, it-taħriġ fuq il-post u servizzi ta' manutenzjoni.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), l-Italja, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>badania</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa i konserwacja wielokolektorowego systemu ICP-MS o wysokiej rozdzielczości</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dostawa dotyczy wielokolektorowego systemu ICP-MS o wysokiej rozdzielczości, z podwójnym ogniskowaniem. Powiązane usługi obejmują instalację aparatu, szkolenie na miejscu i usługi serwisowe.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Włochy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dostawa dotyczy wielokolektorowego systemu ICP-MS o wysokiej rozdzielczości, z podwójnym ogniskowaniem. Powiązane usługi obejmują instalację aparatu, szkolenie na miejscu i usługi serwisowe.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Włochy, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, JRC – Joint Research Centre, JRC.G – Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 – JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>výskum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka a údržba multikolektorového hmotnostného spektrometra (ICP-MS) s vysokým rozlíšením</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dodávka pozostáva zo systému multikolektorového ICP-MS s vysokým rozlíšením a s dvojitou fokusáciou. Súvisiace služby zahŕňajú inštaláciu nástroja, školenie na mieste a služby údržby.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA),Taliansko</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka pozostáva zo systému multikolektorového ICP-MS s vysokým rozlíšením a s dvojitou fokusáciou. Súvisiace služby zahŕňajú inštaláciu nástroja, školenie na mieste a služby údržby.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Taliansko, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd Európskej únie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>raziskave</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dobava in vzdrževanje multikolektorja ICP-MS visoke ločljivosti</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dobava zajema sistem multikolektorja ICP-MS visoke ločljivosti z dvojnim fokusiranjem (double-focusing system – DFS). Povezane storitve vključujejo namestitev instrumenta, usposabljanje na lokaciji in storitve vzdrževanja.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dobava zajema sistem multikolektorja ICP-MS visoke ločljivosti z dvojnim fokusiranjem (double-focusing system – DFS). Povezane storitve vključujejo namestitev instrumenta, usposabljanje na lokaciji in storitve vzdrževanja.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Taighde</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar agus cothabháil iltiomsaitheora ICP-MS ardtaifigh</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Baineann an soláthar le córas ICP-MS fócasúcháin dhúbailte iltiomsaitheora ardtaifigh. Áirítear leis na seirbhísí comhbhainteacha suiteáil na hionstraime, oiliúint ar an láthair agus seirbhísí cothabhála.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), an Iodáil</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Baineann an soláthar le córas ICP-MS fócasúcháin dhúbailte iltiomsaitheora ardtaifigh. Áirítear leis na seirbhísí comhbhainteacha suiteáil na hionstraime, oiliúint ar an láthair agus seirbhísí cothabhála.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), an Iodáil, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Проучване</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Доставка и поддръжка на мултиколекторен индуктивно свързан плазмен мас спектрометър (ICP-MS) с висока резолюция</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Доставката се състои в мултиколекторна ICP-MS система с двоен фокус с висока резолюция. Свързаните услуги включват инсталация на инструмента, обучение на място и услуги по поддръжката.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Италия</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Доставката се състои в мултиколекторна ICP-MS система с двоен фокус с висока резолюция. Свързаните услуги включват инсталация на инструмента, обучение на място и услуги по поддръжката.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Италия, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Cercetare</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizarea și întreținerea unui spectrometru de masă cu plasmă cuplată inductiv (ICP-MS) multi-colector de rezoluție înaltă</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Furnizarea constă în sistem ICP-MS multi-colector de înaltă rezoluție cu dublă focalizare. Serviciile asociate includ instalarea instrumentului, cursuri de formare la fața locului și servicii de întreținere.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Furnizarea constă în sistem ICP-MS multi-colector de înaltă rezoluție cu dublă focalizare. Serviciile asociate includ instalarea instrumentului, cursuri de formare la fața locului și servicii de întreținere.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italia, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul Uniunii Europene</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, JRC — Joint Research Centre, JRC.G — Nuclear Safety and Security (Karlsruhe), JRC.G.III.9 — JRC Nuclear Decommissioning</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Desiree Marinescu</CONTACT_POINT>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Istraživanje</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava i održavanje multi-kolektorskog ICP-MS-a visoke razlučivosti</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/G.III.9/0013/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38433100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Nabava obuhvaća multi-kolektorski ICP-MS sustav visoke razlučivosti s dvostrukim fokusiranjem. Povezane usluge obuhvaćaju postavljanje instrumenta, osposobljavanje na lokaciji i usluge održavanja.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">810000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="38433100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabava obuhvaća multi-kolektorski ICP-MS sustav visoke razlučivosti s dvostrukim fokusiranjem. Povezane usluge obuhvaćaju postavljanje instrumenta, osposobljavanje na lokaciji i usluge održavanja.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">810000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-16</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Via Enrico Fermi 2749, 21027 Ispra (VA), Italija, Building 58A, ground floor, room 12 A/B.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3202</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

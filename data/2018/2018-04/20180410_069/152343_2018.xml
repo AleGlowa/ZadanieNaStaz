@@ -1,0 +1,2520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="152343-2018"
+            EDITION="2018069">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-151709-001</RECEPTION_ID>
+      <DELETION_DATE>20180713</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>69</NO_OJ>
+         <DATE_PUB>20180410</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 069-152343</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:152343-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="IT"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="42520000">Ventilation equipment</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC41">Varese</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ITC41">Varese</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITC4C">Milano</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">350000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 197-404074</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180404</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Indkøb af HEPA-udskiftningsfiltre og beslægtet tilbehør til de nukleare ventilationssystemer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Lieferung von HEPA-Ersatzfiltern und entsprechendem Zubehör für die nuklearen Lüftungsanlagen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Italy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Supply of HEPA replacement filters and their accessories for the nuclear ventilation systems</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Suministro de filtros HEPA de recambio y sus accesorios para los sistemas de ventilación nuclear</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Korvaavien HEPA-suodattimien ja niiden lisätarvikkeiden toimitus ydinlaitoksia koskevia ilmanvaihtojärjestelmiä varten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Italie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture de filtres HEPA de remplacement et de leurs accessoires pour les systèmes de ventilation nucléaire</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ιταλία</TI_CY>
+            <TI_TOWN>Ίσπρα</TI_TOWN>
+            <TI_TEXT>
+               <P>Προμήθεια φίλτρων αντικατάστασης HEPA («φίλτρα αέρα σωματιδίων υψηλής απόδοσης») και των εξαρτημάτων τους για τα συστήματα πυρηνικού εξαερισμού</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di filtri di sostituzione HEPA e loro accessori per i sistemi di ventilazione nucleare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Italië</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering van HEPA-vervangingsfilters en toebehoren voor de nucleaireventilatiesystemen.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Itália</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de filtros HEPA de substituição e respetivos acessórios para os sistemas de ventilação nuclear</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av HEPA-ersättningsfilter och tillbehör till dessa, för de kärntekniska ventilationssystemen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Itálie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka náhradních filtrů HEPA a jejich příslušenství pro ventilační systémy v jaderných zařízeních</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Itaalia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>HEPA asendusfiltrite ja nende lisaseadmete tarne tuumaalade ventilatsioonisüsteemide jaoks</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Olaszország</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>HEPA pótszűrők és tartozékaik beszerzése nukleáris létesítmények szellőztetési rendszereihez</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>HEPA pakeitimo filtrų ir jų priedų tiekimas branduolinio vėdinimo sistemoms</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Itāija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Kodolventilācijas sistēmām paredzētu HEPA maiņas filtru un to piederumu piegāde</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Italja</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista ta' filtri għall-bdil HEPA u l-aċċessorji tagħhom għas-sistemi ta' ventilazzjoni nukleari</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Włochy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dostawa wymienników filtrów HEPA do systemów wentylacji instalacji jądrowych wraz z akcesoriami</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Taliansko</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka náhradných filtrov HEPA a ich príslušenstva pre jadrové ventilačné systémy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dobava nadomestnih filtrov HEPA in pribora za jedrske prezračevalne sisteme</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Iodáil, an</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Scagairí athsholáthair HEPA (scagairí ardéifeachtúla cáithníní aeir) agus oiriúintí ina leith a sholáthar do na córais aeraithe núicléacha</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Итaлия</TI_CY>
+            <TI_TOWN>Испра</TI_TOWN>
+            <TI_TEXT>
+               <P>Доставка на резервни филтри HEPA и аксесоари за тях за ядрените вентилационни системи</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizare de filtre HEPA de schimb și de accesorii conexe pentru sistemele de ventilație nucleare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava zamjenskih filtara HEPA i njihovog dodatnog pribora za nuklearne ventilacijske sustave</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="EN">European Commission, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Joint Research Centre</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, JRC - Joint Research Centre</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Joint Research Centre (JRC)</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Joint Research Centre (JRC)</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Indkøb af HEPA-udskiftningsfiltre og beslægtet tilbehør til de nukleare ventilationssystemer</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC's afdeling for nedlukning af nukleare anlæg (NDU) er ansvarlig for driften af nukleare anlæg og tilhørende nukleare ventilationssystemer og højeffektive filtreringssystemer til partikulær luft (HEPA (high efficiency particulate air)), der er installeret i de nukleare områder (»klassificerede områder« i henhold til lovdekret 230/95) på JRC-anlægsområde Ispra. HEPA-filtersystemerne er væsentlige med hensyn til at garantere sikre driftsforhold i disse anlæg. Denne kontrakt omfatter indkøb af HEPA-udskiftningsfiltre og beslægtet tilbehør til nukleare ventilationssystemer.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Indkøb af HEPA-udskiftningsfiltre og beslægtet tilbehør til de nukleare ventilationssystemer.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Indkøb af HEPA-udskiftningsfiltre og beslægtet tilbehør til de nukleare ventilationssystemer</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumentation og kommunikation vedrørende denne procedure er gratis tilgængelige på det følgende websted: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Alle yderligere oplysninger og svar på anmodninger om præciseringer vil blive offentliggjort dér. Det er derfor den økonomiske aktørs ansvar regelmæssigt at rådføre sig med dette websted.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forschung</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lieferung von HEPA-Ersatzfiltern und entsprechendem Zubehör für die nuklearen Lüftungsanlagen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Das Referat für die Stilllegung kerntechnischer Anlagen ist für den Betrieb von kerntechnischen Anlagen und der entsprechenden zugehörigen nuklearen Lüftungsanlagen und Schwebstofffilter-Filtrationssysteme (High Efficiency Particulate Air — HEPA) verantwortlich, die sich in den kerntechnischen Bereichen („zugangsbeschränkte Bereiche“ gemäß D.Lgs. 230/95) am Standort der JRC Ispra befinden. Die HEPA-Filtersysteme sind für die Gewährleistung sicherer Betriebsbedingungen in diesen Anlagen unabdingbar. Dieser Auftrag deckt die Lieferung von HEPA-Ersatzfiltern und entsprechendem Zubehör für die nuklearen Lüftungsanlagen ab.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lieferung von HEPA-Ersatzfiltern und entsprechendem Zubehör für die nuklearen Lüftungsanlagen.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Lieferung von HEPA-Ersatzfiltern und entsprechendem Zubehör für die nuklearen Lüftungsanlagen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Unterlagen und Mitteilungen im Zusammenhang mit dem vorliegenden Verfahren sind kostenfrei auf der folgenden Website abrufbar: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Sämtliche zusätzlichen Informationen und Antworten auf Anforderungen von Erläuterungen werden dort veröffentlicht. Es obliegt daher dem Wirtschaftsteilnehmer, die Website regelmäßig zu überprüfen.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Research</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supply of HEPA replacement filters and their accessories for the nuclear ventilation systems</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Nuclear Decommissioning Unit (NDU) is responsible for the operation of nuclear installations and their corresponding nuclear ventilation and HEPA (High Efficiency Particulate Air) filtration systems which are located in the nuclear areas ("classified areas" according to D.Lgs. 230/95) of the JRC Ispra site. The HEPA filter systems are essential to guarantee safe operating conditions in these installations. This contract is to cover the supply of HEPA replacement filters and their accessories for the nuclear ventilation systems.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Supply of HEPA replacement filters and their accessories for the nuclear ventilation systems.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Supply of HEPA replacement filters and their accessories for the nuclear ventilation systems</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Documents and communication related to this procedure are available free of charge at the following website: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Any additional information and reply to requests for clarifications will be published there. It is therefore the responsibility of economic operators to check the website on a regular basis.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigación</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro de filtros HEPA de recambio y sus accesorios para los sistemas de ventilación nuclear</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>La Unidad de Desmantelamiento Nuclear del JRC es la responsable de la explotación de instalaciones nucleares y su correspondiente ventilación nuclear y sistemas de filtración HEPA (filtros de aire de partículas de elevada eficacia), que se encuentran en las zonas nucleares («zonas clasificadas» según el Decreto legislativo 230/95) de la sede del JRC de Ispra. Los sistemas de filtración HEPA son cruciales para garantizar unas condiciones de trabajo seguras en estas instalaciones. El objetivo del presente contrato consiste en cubrir el suministro de filtros HEPA de recambio y sus accesorios para los sistemas de ventilación nuclear.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Suministro de filtros HEPA de recambio y sus accesorios para los sistemas de ventilación nuclear.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Suministro de filtros HEPA de recambio y sus accesorios para los sistemas de ventilación nuclear</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>La documentación y la información relacionadas con este procedimiento están disponibles de forma gratuita en el siguiente sitio web: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Cualquier información adicional y respuesta a las solicitudes de clarificación se publicarán aquí. Por lo tanto, será responsabilidad de los operadores económicos comprobar el sitio web con regularidad.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>tutkimus</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Korvaavien HEPA-suodattimien ja niiden lisätarvikkeiden toimitus ydinlaitoksia koskevia ilmanvaihtojärjestelmiä varten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Yhteisen tutkimuskeskuksen (JRC) ydinlaitosten käytöstäpoistosta vastaava yksikkö (Nuclear Decommissioning Unit – NDU) on vastuussa JRC:n Ispran-toimipaikan ydinlaitosalueilla (parlamentin valtuutuksella annetun asetuksen 230/95 mukaisesti ”luokitellut alueet”) sijaitsevien ydinlaitosten ja niissä olevien ydinlaitoksia koskevien ilmanvaihtojärjestelmien ja suuritehoisia ilman hiukkassuodattimia (HEPA) koskevien suodatusjärjestelmien toiminnasta.  HEPA-suodattimia koskevat järjestelmät ovat välttämättömiä turvallisten käyttöolosuhteiden takaamiseksi kyseisissä laitoksissa. Sopimukseen on sisällyttävä korvaavien HEPA-suodattimien ja niiden lisätarvikkeiden toimitus ydinlaitoksia koskevia ilmanvaihtojärjestelmiä varten.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sopimuksen kohteena on korvaavien HEPA-suodattimien ja niiden lisätarvikkeiden toimitus ydinlaitoksia koskevia ilmanvaihtojärjestelmiä varten.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Korvaavien HEPA-suodattimien ja niiden lisätarvikkeiden toimitus ydinlaitoksia koskevia ilmanvaihtojärjestelmiä varten</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Tähän menettelyyn liittyvät asiakirjat ja tiedonannot ovat saatavilla maksutta seuraavalta verkkosivustolta: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Mahdolliset lisätiedot ja vastaukset selvityspyyntöihin julkaistaan kyseisellä sivustolla. Näin ollen on talouden toimijoiden omalla vastuulla vierailla tällä sivustolla säännöllisesti.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture de filtres HEPA de remplacement et de leurs accessoires pour les systèmes de ventilation nucléaire</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L'unité « Démantèlement des installations nucléaires » du JRC est chargée du fonctionnement des installations nucléaires et de leurs systèmes correspondants de ventilation nucléaire et de filtration HEPA (haute efficacité pour les particules de l'air) qui sont situés dans les zones nucléaires (« zones classifiées » conformément au décret législatif 230/95) du site du JRC d'Ispra. Les systèmes de filtres HEPA sont essentiels pour garantir des conditions de fonctionnement sûres dans ces installations. Le présent contrat couvrira la fourniture des filtres HEPA de remplacement et de leurs accessoires pour les systèmes de ventilation nucléaire.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fourniture de filtres HEPA de remplacement et de leurs accessoires pour les systèmes de ventilation nucléaire.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Fourniture de filtres HEPA de remplacement et de leurs accessoires pour les systèmes de ventilation nucléaire</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Les documents et les communications relatifs à la présente procédure sont disponibles gratuitement sur le site Internet suivant : https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Les renseignements supplémentaires et les réponses aux demandes de clarification seront publiés sur le même site. Il appartient donc aux opérateurs économiques de vérifier le site Internet en question de manière régulière.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Έρευνα</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Προμήθεια φίλτρων αντικατάστασης HEPA («φίλτρα αέρα σωματιδίων υψηλής απόδοσης») και των εξαρτημάτων τους για τα συστήματα πυρηνικού εξαερισμού</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Η Μονάδα Παροπλισμού Πυρηνικών Σταθμών (NDU) είναι υπεύθυνη για τη συντήρηση των πυρηνικών εγκαταστάσεων και των αντίστοιχων συστημάτων πυρηνικού εξαερισμού και συστημάτων φίλτρων HEPA (φίλτρα αέρα σωματιδίων υψηλής απόδοσης) τα οποία βρίσκονται στις πυρηνικές ζώνες («διαβαθμισμένες ζώνες» σύμφωνα με το D.Lgs. 230/95) των εγκαταστάσεων του JRC στην Ίσπρα. Τα συστήματα φίλτρων HEPA είναι σημαντικά για τη διασφάλιση των ασφαλών συνθηκών λειτουργίας στις εν λόγω εγκαταστάσεις. Η εν λόγω σύμβαση αναμένεται να καλύψει την προμήθεια φίλτρων αντικατάστασης HEPA και των εξαρτημάτων τους για τα συστήματα πυρηνικού εξαερισμού.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Ιταλία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Προμήθεια φίλτρων αντικατάστασης HEPA («φίλτρα αέρα σωματιδίων υψηλής απόδοσης») και των εξαρτημάτων τους για τα συστήματα πυρηνικού εξαερισμού.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Προμήθεια φίλτρων αντικατάστασης HEPA («φίλτρα αέρα σωματιδίων υψηλής απόδοσης») και των εξαρτημάτων τους για τα συστήματα πυρηνικού εξαερισμού</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Τα έγγραφα και οι πληροφορίες σχετικά με την παρούσα διαδικασία διατίθενται δωρεάν στον ακόλουθο δικτυακό τόπο: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Συμπληρωματικές πληροφορίες και απαντήσεις σε αιτήματα για διευκρινίσεις θα δημοσιευθούν στον παραπάνω διαδικτυακό τόπο. Συνεπώς, αποτελεί ευθύνη των οικονομικών φορέων να ελέγχουν τακτικά τον δικτυακό τόπο.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ricerca</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di filtri di sostituzione HEPA e loro accessori per i sistemi di ventilazione nucleare</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L'unità di smantellamento nucleare del JCR è responsabile del funzionamento degli impianti nucleari e della loro corrispondente ventilazione nucleare e dei sistemi di filtrazione HEPA (filtro antiparticolato ad alta efficienza) situati nelle zone nucleari («zone classificate» ai sensi del D.Lgs. 230/95) del sito JRC di Ispra. I sistemi di filtri HEPA sono essenziali a garantire delle condizioni di lavoro sicure in questi impianti. Il presente appalto riguarda la fornitura di filtri di sostituzione HEPA e loro accessori per i sistemi di ventilazione nucleare.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornitura di filtri di sostituzione HEPA e loro accessori per i sistemi di ventilazione nucleare.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Fornitura di filtri di sostituzione HEPA e loro accessori per i sistemi di ventilazione nucleare</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>I documenti e le comunicazioni connessi alla presente procedura sono disponibili a titolo gratuito sul seguente sito web: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Qualunque informazione aggiuntiva e le risposte alle domande di chiarimento verranno pubblicate su tale sito. Spetta pertanto agli operatori economici controllare regolarmente il sito web.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>onderzoek.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van HEPA-vervangingsfilters en toebehoren voor de nucleaireventilatiesystemen.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>De JRC-eenheid Ontmanteling en beheer van nucleaire installaties is verantwoordelijk voor de exploitatie van nucleaire installaties en de bijbehorende nucleaire ventilatie- en HEPA-filtersystemen („high efficiency particulate air”) die zijn gelegen in de nucleaire zones („geheime zones” volgens D.Lgs. 230/95) van de JRC-standplaats in Ispra. De HEPA-filtersystemen zijn essentieel om veilige operationele omstandigheden te waarborgen in deze installaties. Deze opdracht betreft de levering van HEPA-vervangingsfilters en toebehoren voor de nucleaireventilatiesystemen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italië.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Levering van HEPA-vervangingsfilters en toebehoren voor de nucleaireventilatiesystemen.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Levering van HEPA-vervangingsfilters en toebehoren voor de nucleaireventilatiesystemen.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Documenten en mededelingen in verband met deze procedure zijn gratis beschikbaar op de volgende website: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Bijkomende inlichtingen en antwoorden op verzoeken om verduidelijkingen zullen hierop worden bekendgemaakt. Het is bijgevolg de verantwoordelijkheid van de ondernemers om de website op regelmatige basis te controleren.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigação</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de filtros HEPA de substituição e respetivos acessórios para os sistemas de ventilação nuclear</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A Unidade de Desmantelamento Nuclear (NDU) é responsável pela exploração de instalações nucleares e respetivos sistemas de filtração HEPA (filtros de partículas de alta eficiência) e ventilação nuclear correspondentes que se encontram localizados nas áreas nucleares («áreas classificadas» em conformidade com o Decreto Lei n.º 230/95) da instalação de Ispra do JRC. Os sistemas de filtros HEPA são essenciais para garantir condições de funcionamento em segurança nas referidas instalações. O presente contrato consiste em abranger o fornecimento de filtros HEPA de substituição e respetivos acessórios para os sistemas de ventilação nuclear.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornecimento de filtros HEPA de substituição e respetivos acessórios para os sistemas de ventilação nuclear.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Fornecimento de filtros HEPA de substituição e respetivos acessórios para os sistemas de ventilação nuclear</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Os documentos e comunicações relativos ao presente concurso estão disponíveis gratuitamente no seguinte sítio: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Qualquer informação complementar e resposta a pedidos de esclarecimentos serão publicadas no sítio supramencionado. Por conseguinte, os operadores económicos devem consultar o sítio de forma regular.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av HEPA-ersättningsfilter och tillbehör till dessa, för de kärntekniska ventilationssystemen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC:s enhet för avveckling av kärntekniska anläggningar (Nuclear Decommissioning Unit – NDU) ansvarar för driften av kärntekniska anläggningar och dessas motsvarande kärntekniska ventilation och HEPA-filtreringssystem (HEPA - högeffektivt partikelfilter för luft), som är placerade i de kärntekniska områdena (”klassade områden” enligt D.Lgs. 230/95) vid JRC:s anläggning i Ispra. HEPA-filtersystemen är nödvändiga för att garantera säkra driftförhållanden i dessa installationer. Detta kontrakt ska omfatta tillhandahållande av HEPA-ersättningsfilter och tillbehör till dessa, för de kärntekniska ventilationssystemen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tillhandahållande av HEPA-ersättningsfilter och tillbehör till dessa, för de kärntekniska ventilationssystemen.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Tillhandahållande av HEPA-ersättningsfilter och tillbehör till dessa, för de kärntekniska ventilationssystemen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokument och meddelanden med anknytning till detta förfarande finns tillgängliga utan kostnad på följande webbplats: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Eventuella ytterligare upplysningar och svar på begäranden om förtydliganden kommer att publiceras där. Det åligger därför ekonomiska aktörerna att regelbundet kontrollera webbplatsen.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Výzkum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka náhradních filtrů HEPA a jejich příslušenství pro ventilační systémy v jaderných zařízeních</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Oddělení JRC na vyřazování jaderných zařízení je zodpovědné za provoz jaderných zařízení a jejich příslušných jaderných ventilačních systémů a filtračních systémů HEPA (filtr vzduchových částic s vysokou účinností), které se nacházejí v jaderných oblastech („klasifikované oblasti“ podle D.Lgs. 230/95) pracoviště JRC v Ispře. Systémy pro filtraci HEPA jsou zásadně důležité k zajištění bezpečných provozních podmínek v těchto zařízeních. Cílem této dodávky je pokrýt dodávku náhradních filtrů HEPA a jejich příslušenství pro ventilační systémy v jaderných zařízeních.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itálie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka náhradních filtrů HEPA a jejich příslušenství pro ventilační systémy v jaderných zařízeních.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Dodávka náhradních filtrů HEPA a jejich příslušenství pro ventilační systémy v jaderných zařízeních</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumentace a sdělení týkající se tohoto řízení jsou k dispozici bezplatně na této webové stránce: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Budou tam zveřejňovány případné další informace a odpovědi na žádosti o objasnění. Je tedy na odpovědnosti hospodářských subjektů pravidelně kontrolovat změny na této internetové stránce.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Teadusuuringud</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>HEPA asendusfiltrite ja nende lisaseadmete tarne tuumaalade ventilatsioonisüsteemide jaoks</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Teadusuuringute Ühiskeskuse (JRC) tuumarajatiste dekomisjoneerimise üksus (Nuclear Decommissioning Unit (NDU)) vastutab JRC Ispra tegevuskoha tuumaaladel (seadusandliku dekreedi 230/95 kohaselt eritingimustega aladel) asuvate tuumarajatiste ja neile vastavate tuumaalade ventilatsioonisüsteemide ning ülitõhusate õhust kübemete eraldamise (high efficiency particulate air (HEPA)) filtrisüsteemide hooldamise eest . HEPA filtrisüsteemid on nimetatud rajatiste ohutu käitamise tingimuste tagamisel üliolulised. Kõnealune leping hõlmab HEPA asendusfiltrite ja nende lisaseadmete tagamist tuumaalade ventilatsioonisüsteemide jaoks.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Itaalia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>HEPA asendusfiltrite ja nende lisaseadmete tarne tuumaalade ventilatsioonisüsteemide jaoks.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>HEPA asendusfiltrite ja nende lisaseadmete tarne tuumaalade ventilatsioonisüsteemide jaoks</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Kõnealuse menetlusega seonduvad dokumendid ja teated on saadaval tasuta järgmisel veebisaidil: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917.</P>
+               <P>Sellel avaldatakse mis tahes lisateave ja vastused selgitamise nõuetele. Seetõttu peavad ettevõtjad nimetatud veebisaiti korrapäraselt kontrollima.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Kutatás</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>HEPA pótszűrők és tartozékaik beszerzése nukleáris létesítmények szellőztetési rendszereihez</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A JRC Nukleáris Leszerelési Egysége (Nuclear Decommissioning Unit, NDU) felel a JRC isprai telephelyén a nukleáris területeken (a D.Lgs.  230/95 szerinti „kijelölt területeken”) lévő nukleáris létesítmények, valamint szellőztető és HEPA (nagy hatékonyságú részecskeszűrő) szűrőrendszereik üzemeltetéséért. A HEPA szűrőrendszerek elengedhetetlenek az előbbi létesítményekben a biztonságos működési feltételek biztosításához. A jelen szerződés tárgya HEPA pótszűrők és tartozékaik beszerzése a nukleáris létesítmények szellőztető rendszereihez.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Olaszország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>HEPA pótszűrők és tartozékaik beszerzése nukleáris létesítmények szellőztetési rendszereihez.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>HEPA pótszűrők és tartozékaik beszerzése nukleáris létesítmények szellőztetési rendszereihez</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Az említett eljárással kapcsolatos dokumentumok és közlemények ingyenesen letölthetők a következő weboldalról: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Bármely további információ és kérdésre adott válasz ott kerül közzétételre. Ezért a gazdasági szereplők felelőssége, hogy a weboldalt rendszeresen látogassák.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Moksliniai tyrimai</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>HEPA pakeitimo filtrų ir jų priedų tiekimas branduolinio vėdinimo sistemoms</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>JRC Branduolinių įrenginių eksploatacijos nutraukimo skyrius (Nuclear Decommissioning Unit, NDU) yra atsakingas už branduolinės energetikos objektų eksploatavimą ir jų atitinkamą branduolinį vėdinimą bei HEPA (didelio veiksmingumo kietųjų dalelių filtras) filtravimo sistemas, kurios yra JRC Ispra branduolinėse srityse („įslaptintos sritys“ pagal Teisėkūros procedūra priimtą dekretą 230/95). HEPA filtrų sistemos yra pagrindas užtikrinant saugias eksploatavimo sąlygas šiuose įrenginiuose. Šia sutartimi siekiama tiekti HEPA pakeitimo filtrus ir jų reikmenis branduolinio vėdinimo sistemoms.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>HEPA pakeitimo filtrų ir jų priedų tiekimas branduolinio vėdinimo sistemoms.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>HEPA pakeitimo filtrų ir jų priedų tiekimas branduolinio vėdinimo sistemoms</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Su šia procedūra susiję dokumentai ir pranešimai yra nemokamai pateikti šioje svetainėje: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Bet kokia papildoma informacija ir atsakymai į klausimus bus skelbiami joje. Todėl ekonominės veiklos vykdytojų pareiga yra tikrinti šią svetainę reguliariai.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>pētniecība</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Kodolventilācijas sistēmām paredzētu HEPA maiņas filtru un to piederumu piegāde</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kopīgā pētniecības centra (JRC) Kodoliekārtu ekspluatācijas pārtraukšanas daļa (Nuclear Decommissioning Unit – NDU) ir atbildīga par kodoliekārtu ekspluatāciju, to attiecīgo kodolventilāciju un augstas efektivitātes cieto daļiņu gaisa (high efficiency particulate air – HEPA) filtrēšanas sistēmām, kas uzstādītas JRC Ispras struktūrvienības kodoldarbību zonās (“klasificētajās zonās” saskaņā ar Likumdošanas dekrētu Nr. 230/95). HEPA filtra sistēmas ir būtisks elements drošu darba apstākļu garantēšanai šajās iekārtās. Šis līgums aptvers kodolventilācijas sistēmām paredzētu HEPA maiņas filtru un to piederumu piegādi.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itālija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kodolventilācijas sistēmām paredzētu HEPA maiņas filtru un to piederumu piegāde.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Kodolventilācijas sistēmām paredzētu HEPA maiņas filtru un to piederumu piegāde</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumenti un paziņojumi, kas saistīti ar šo procedūru, ir bez maksas pieejami šādā tīmekļa vietnē: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Tajā tiks publicēta visa papildu informācija un atbildes uz skaidrojumu pieprasījumiem. Tāpēc uzņēmējiem ir pienākums regulāri apmeklēt šo tīmekļa vietni.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ir-riċerka</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista ta' filtri għall-bdil HEPA u l-aċċessorji tagħhom għas-sistemi ta' ventilazzjoni nukleari</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>It-Taqsima tal-Għeluq ta' Impjanti Nukleari (NDU) tal-JRC hija responsabbli għat-tħaddim tal-installazzjonijiet nukleari u l-ventilazzjoni nukleari korrispondenti tagħhom u s-sistemi ta' filtrazzjoni HEPA (arja b'partikuli b'effiċjenza għolja) li jinsabu f'żoni nukleari ("żoni klassifikati" skont D.Lgs. 230/95) tas-sit tal-JRC Ispra. Is-sistemi ta' filtrazzjoni HEPA huma essenzjali biex jiggarantixxu kondizzjonijiet siguri ta' tħaddim f'dawn l-installazzjonijiet. Dan il-kuntratt għandu jkopri l-provvista ta' filtri tal-bdil HEPA u l-aċċessorji tagħhom għas-sistemi ta' ventilazzjoni nukleari.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), l-Italja</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-provvista ta' filtri għall-bdil HEPA u l-aċċessorji tagħhom għas-sistemi ta' ventilazzjoni nukleari.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Il-provvista ta' filtri għall-bdil HEPA u l-aċċessorji tagħhom għas-sistemi ta' ventilazzjoni nukleari</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Id-dokumenti u l-komunikazzjoni marbutin ma' din il-proċedura huma disponibbli mingħajr ħlas fuq is-sit tal-Internet li ġej: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Kull tagħrif addizzjonali u t-tweġibiet li jingħataw għat-talbiet għall-kjarifiki se jkunu ppubblikati hemm. Għaldaqstant l-operaturi ekonomiċi huma responsabbli biex jidħlu f'dan is-sit tal-Internet b'mod regolari.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Badania</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa wymienników filtrów HEPA do systemów wentylacji instalacji jądrowych wraz z akcesoriami</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dział JRC ds. Likwidacji Instalacji Jądrowych jest odpowiedzialny za eksploatację instalacji jądrowych oraz powiązanych systemów wentylacji i filtracji HEPA (tj. za pomocą wysokosprawnych filtrów powietrza), które są zlokalizowane w strefie jądrowej („strefie kontrolowanej” zgodnie z włoskim dekretem legislacyjnym nr 230/95) placówki JRC w Isprze. Systemy filtracji HEPA mają zasadnicze znaczenie dla zagwarantowania bezpiecznych warunków pracy w tych instalacjach. Zamówienie obejmuje dostawę wymienników filtrów HEPA do systemów wentylacji instalacji jądrowych wraz z akcesoriami.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dostawa wymienników filtrów HEPA do systemów wentylacji instalacji jądrowych wraz z akcesoriami.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Dostawa wymienników filtrów HEPA do systemów wentylacji instalacji jądrowych wraz z akcesoriami</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumenty oraz informacje związane z niniejszą procedurą są dostępne nieodpłatnie w następującej witrynie internetowej: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Będą tam publikowane wszelkie informacje dodatkowe oraz odpowiedzi na wnioski o wyjaśnienia. Dlatego podmioty gospodarcze są zobowiązane do regularnego sprawdzania tej witryny internetowej.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>výskum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka náhradných filtrov HEPA a ich príslušenstva pre jadrové ventilačné systémy</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Oddelenie JRC na vyraďovanie jadrových zariadení je zodpovedné za prevádzku jadrových zariadení a ich príslušných jadrových ventilačných systémov a filtračných systémov HEPA (vysokoúčinný filter vzduchových častíc), ktoré sa nachádzajú v jadrových oblastiach („klasifikované oblasti“ podľa D.Lgs. 230/95) pracoviska JRC v Ispre. Filtračné systémy HEPA sú nevyhnutné na zaručenie bezpečných prevádzkových podmienok v týchto zariadeniach. Táto zákazka sa týka dodávky náhradných filtrov HEPA a ich príslušenstva pre jadrové ventilačné systémy.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka náhradných filtrov HEPA a ich príslušenstva pre jadrové ventilačné systémy.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Dodávka náhradných filtrov HEPA a ich príslušenstva pre jadrové ventilačné systémy</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumenty a oznámenia súvisiace s týmto konaním sú dostupné bezplatne na tejto webovej stránke: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Budú tu uverejnené všetky dodatočné informácie a odpovede na žiadosti o vysvetlenie. Ekonomické subjekty sú preto samy zodpovedné za pravidelnú kontrolu tejto webovej stránky.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>raziskave</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dobava nadomestnih filtrov HEPA in pribora za jedrske prezračevalne sisteme</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Enota za jedrsko razgradnjo (Nuclear Decommissioning Unit – NDU) JRC je pristojna za delovanje jedrskih objektov in povezanih jedrskih prezračevalnih in filtrirnih sistemov HEPA (zelo učinkovito zadrževanje zračnih delcev), ki se nahajajo na jedrskih območjih („varovana območja“ v skladu z Zakonsko uredbo 230/95) JRC v Ispri. Filtrirni sistemi HEPA so bistveni za zagotavljanje varnih pogojev delovanja v teh objektih. To naročilo zajema dobavo nadomestnih filtrov HEPA in povezanega pribora za jedrske prezračevalne sisteme.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>via Enrico Fermi 2749, 21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dobava nadomestnih filtrov HEPA in pribora za jedrske prezračevalne sisteme.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Dobava nadomestnih filtrov HEPA in pribora za jedrske prezračevalne sisteme</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumenti in obvestila v zvezi s tem postopkom so brezplačno na voljo na naslednjem spletnem mestu: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Vse dodatne informacije in odgovori na zahtevke za pojasnila bodo objavljeni na tem spletnem mestu. Zato so gospodarski subjekti odgovorni za redno spremljanje spletnega mesta.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, JRC - Joint Research Centre</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Taighde</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Scagairí athsholáthair HEPA (scagairí ardéifeachtúla cáithníní aeir) agus oiriúintí ina leith a sholáthar do na córais aeraithe núicléacha</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tá Aonad um Dhíchoimisiúnú Núicléach (NDU) an JRC freagrach as na suiteálacha núicléacha agus a gcórais aeraithe núicléacha agus scagacháin HEPA comhfhreagracha a oibriú, atá suite sna limistéir núicléacha (“limistéir rún-aicmithe” de réir D.Lgs. 230/95) de láithreán JRC Ispra. Tá na córais scagacháin HEPA ríthábhachtach chun dálaí oibriúcháin sábháilte sna suiteálacha sin a áirithiú. Is é atá i gceist leis an gconradh seo soláthar scagairí HEPA agus a n-oiriúintí do na córais aeraithe núicléacha a chlúdach.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), IT</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Scagairí athsholáthair HEPA (scagairí ardéifeachtúla cáithníní aeir) agus oiriúintí ina leith a sholáthar do na córais aeraithe núicléacha.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Scagairí athsholáthair HEPA (scagairí ardéifeachtúla cáithníní aeir) agus oiriúintí ina leith a sholáthar do na córais aeraithe núicléacha</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Tá na doiciméid agus an chumarsáid uile a bhaineann leis an nós imeachta seo ar fáil saor in aisce ag an láithreán gréasáin seo a leanas: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Déanfar aon fhaisnéis bhreise agus freagraí ar iarratais ar shoiléirithe a fhoilsiú ansin. Is faoi na hoibreoirí eacnamaíocha, dá réir sin, chun an láithreán gréasáin sin a cheadú ar bhonn rialta.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Научни изследвания</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Доставка на резервни филтри HEPA и аксесоари за тях за ядрените вентилационни системи</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Отделът за извеждане от експлоатация на ядрени съоръжения (NDU) към JRC отговаря за експлоатацията на ядрените инсталации и за техните съответни системи за ядрена вентилация и HEPA (високоефективни филтри за отстраняване на частици от въздуха) филтрационни системи, които са разположени в ядрените зони („класифицирани зони“ съгласно D.Lgs. 230/95) на обекта на JRC Испра. Филтърните системи HEPA са изключително важни за гарантиране на безопасни работни условия в тези инсталации. Тази поръчка има за цел да обхване доставката на резервни филтри HEPA и аксесоари за тях за ядрените вентилационни системи.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Италия</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Доставка на резервни филтри HEPA и аксесоари за тях за ядрените вентилационни системи.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Доставка на резервни филтри HEPA и аксесоари за тях за ядрените вентилационни системи</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Документацията и комуникацията, свързана с тази процедура, са достъпни безплатно на следния интернет адрес: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Всякаква допълнителна информация и отговор на запитвания за разяснения ще бъдат публикувани там. Следователно отговорност на икономическите оператори е да проверяват редовно интернет страницата.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Cercetare</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizare de filtre HEPA de schimb și de accesorii conexe pentru sistemele de ventilație nucleare</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Unitatea JRC de dezafectare a instalațiilor nucleare este responsabilă cu exploatarea instalațiilor nucleare și a sistemelor HEPA corespunzătoare de ventilare și de filtrare care se află în zonele nucleare („zone clasificate” conform D.Lgs. 230/95) ale sitului JRC din Ispra. Sistemele de filtre HEPA sunt esențiale pentru garantarea funcționării în condiții de siguranță a acestor instalații. Obiectul acestui contract este de a asigura furnizarea de filtre HEPA de schimb și de accesorii conexe pentru sistemele de ventilație nucleare.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Furnizare de filtre HEPA de schimb și de accesorii conexe pentru sistemele de ventilație nucleare.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Furnizare de filtre HEPA de schimb și de accesorii conexe pentru sistemele de ventilație nucleare</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Documentele și comunicările legate de această procedură sunt disponibile gratuit pe următorul site: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Toate informațiile suplimentare și răspunsurile la cererile de clarificare vor fi publicate pe același site. Prin urmare, este responsabilitatea operatorilor economici de a verifica acest site cu regularitate.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Joint Research Centre (JRC)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749, T.P 582</ADDRESS>
+               <TOWN>Ispra</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-g9nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Istraživanje</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava zamjenskih filtara HEPA i njihovog dodatnog pribora za nuklearne ventilacijske sustave</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2017/G.III.9/0107/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42520000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Odjel JRC-a za stavljanje nuklearnih elektrana izvan pogona (Nuclear Decommissioning Unit – NDU) odgovoran je za rad nuklearnih instalacija i njihovih pripadajućih nuklearnih ventilacijskih sustava i sustava filtriranja HEPA (filtri za zrak visoke učinkovitosti s razdvajanjem čestica (high efficiency particulate air – HEPA)) koji se nalaze u nuklearnim područjima („zaštićena područja” prema D.Lgs. 230/95) na lokaciji JRC-a u Ispri. Sustavi filtriranja HEPA nužni su za jamčenje sigurnih radnih uvjeta na ovim instalacijama. Ugovorom će biti obuhvaćena nabava zamjenskih filtara HEPA i njihovog dodatnog pribora za nuklearne ventilacijske sustave.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42520000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabava zamjenskih filtara HEPA i njihovog dodatnog pribora za nuklearne ventilacijske sustave.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 197-404074</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934869</CONTRACT_NO>
+            <TITLE>
+               <P>Nabava zamjenskih filtara HEPA i njihovog dodatnog pribora za nuklearne ventilacijske sustave</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-04-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Camfil S.p.A</OFFICIALNAME>
+                     <TOWN>Cinisello Balsamo</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">350000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">350000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dokumentacija i komunikacija povezane s ovim postupkom dostupne su besplatno na sljedećoj internetskoj stranici: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+               <P>Svi dodatni podaci i odgovori na zahtjeve za pojašnjenja bit će objavljeni na toj internetskoj stranici. Stoga je odgovornost gospodarskih subjekata redovito provjeravati mrežnu stranicu.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2917</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="163413-2018"
+            EDITION="2018074">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-166640-001</RECEPTION_ID>
+      <DELETION_DATE>20180529</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>74</NO_OJ>
+         <DATE_PUB>20180417</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 074-163413</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:163413-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://zim.lodz.bip-e.pl/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://zim.lodz.bip-e.pl/zim/zamowienia-publiczne</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="45000000">Construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71000000">Architectural, construction, engineering and inspection services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45100000">Site preparation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45110000">Building demolition and wrecking work and earthmoving work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45200000">Works for complete or part construction and civil engineering work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45220000">Engineering works and construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231220">Construction work for gas pipelines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231300">Construction work for water and sewage pipelines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231400">Construction work for electricity power lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231600">Construction work for communication lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45232000">Ancillary works for pipelines and cables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45232300">Construction and ancillary works for telephone and communication lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233000">Construction, foundation and surface works for highways, roads</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233252">Surface work for streets</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45316110">Installation of road lighting equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45310000">Electrical installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45330000">Plumbing and sanitary works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71240000">Architectural, engineering and planning services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71250000">Architectural, engineering and surveying services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71310000">Consultative engineering and construction services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71322000">Engineering design services for the construction of civil engineering works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71351910">Geology services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71352000">Subsurface surveying services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71354000">Map-making services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71520000">Construction supervision services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71530000">Construction consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71700000">Monitoring and control services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77300000">Horticultural services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45111200">Site preparation and clearance work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45111250">Ground investigation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45111291">Site-development work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45111300">Dismantling works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231000">Construction work for pipelines, communication and power lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45232140">District-heating mains construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233129">Crossroad construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233140">Roadworks</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233200">Various surface works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234116">Track construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234121">Tramway works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234126">Tramline construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45314000">Installation of telecommunications equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45316000">Installation work of illumination and signalling systems</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45316213">Installation of traffic guidance equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71220000">Architectural design services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71222000">Architectural services for outdoor areas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71223000">Architectural services for building extensions</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71248000">Supervision of project and documentation</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71320000">Engineering design services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45112710">Landscaping work for green areas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233294">Installation of road signals</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL711">Miasto Łódź</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="PL">POLSKA</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL711">Miasto Łódź</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180413</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180529 11:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="1">Works</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01A02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Строителни и монтажни работи</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Stavební práce</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Bygge- og anlægsarbejder</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Bauarbeiten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Κατασκευαστικές εργασίες</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Construction work</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Trabajos de construcción</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Ehitustööd</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Rakennustyöt</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Travaux de construction</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Construction work</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Građevinski radovi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Építési munkák</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Lavori di costruzione</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Statybos darbai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Celtniecības darbi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Xogħol tal-kostruzzjoni</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Bouwwerkzaamheden</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Roboty budowlane</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Construção</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Lucrări de construcţii</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Stavebné práce</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Gradbena dela</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Łódź</TI_TOWN>
+            <TI_TEXT>
+               <P>Anläggningsarbete</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Miasto Łódź - Zarząd Inwestycji Miejskich</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Miasto Łódź - Zarząd Inwestycji Miejskich</OFFICIALNAME>
+               <ADDRESS>ul. Piotrkowska 175</ADDRESS>
+               <TOWN>Łódź</TOWN>
+               <POSTAL_CODE>90-447</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Monika Gałuszka</CONTACT_POINT>
+               <PHONE>+48 422726431</PHONE>
+               <E_MAIL>zamowienia@zim.uml.lodz.pl</E_MAIL>
+               <FAX>+48 422726277</FAX>
+               <n2016:NUTS CODE="PL711"/>
+               <URL_GENERAL>http://zim.lodz.bip-e.pl/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://zim.lodz.bip-e.pl/zim/zamowienia-publiczne</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Centrum Usług Wspólnych (Kancelaria ZIM)</OFFICIALNAME>
+               <ADDRESS>ul. Piotrkowska 175</ADDRESS>
+               <TOWN>Łódź</TOWN>
+               <POSTAL_CODE>90-447</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Monika Gałuszka - w zakresie procedury przetargowej</CONTACT_POINT>
+               <PHONE>+48 422726431</PHONE>
+               <E_MAIL>zamowienia@zim.uml.lodz.pl</E_MAIL>
+               <FAX>+48 422726277</FAX>
+               <n2016:NUTS CODE="PL711"/>
+               <URL_GENERAL>http://zim.lodz.bip-e.pl/</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rewitalizacja Obszarowa Centrum Łodzi – Projekty: 4, 7 i 8 – Przebudowa układu drogowego ul. Legionów na odcinku od Pl. Wolności do ul. Żeligowskiego, ul. Cmentarnej na odcinku (...)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ZIM-DZ.3322.5.2018</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="45000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="WORKS"/>
+            <SHORT_DESCR>
+               <P>Rewitalizacja Obszarowa Centrum Łodzi – Projekty: 4, 7 i 8 – Przebudowa układu drogowego ul. Legionów na odcinku od Pl. Wolności do ul. Żeligowskiego, ul. Cmentarnej na odcinku od ul. Legionów do ul. Ogrodowej, wraz z infrastrukturą techniczną i meblami miejskimi w systemie „zaprojektuj i wybuduj” oraz „Przebudowa ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego w systemie „zaprojektuj i wybuduj” realizowanego z wyłączeniem prawa opcji w zakresie przebudowy ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego w ramach Projektów pn.: „Rewitalizacja Obszarowa Centrum Łodzi – obszar o powierzchni 32,5 ha ograniczony ulicami: Zachodnią, Podrzeczną, Stary Rynek, Wolborską (...) Szczegółowy opis przedmiotu zamówienia zawarty jest w TOMIE III SIWZ–Opis Przedmiotu Zamówienia oraz Program funkcjonalno-użytkowy wraz z załącznikami oraz w TOMIE II–Formularz Aktu Umowy.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45100000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45110000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45220000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231220"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231600"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45232000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45232300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233252"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45316110"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45330000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71240000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71322000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71351910"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71352000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71354000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71520000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71530000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71700000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45111200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45111250"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45111291"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45111300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45232140"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233129"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233140"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234116"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234121"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234126"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45316000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45316213"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71220000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71222000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71223000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71248000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45112710"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233294"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL"/>
+               <n2016:NUTS CODE="PL711"/>
+               <MAIN_SITE>
+                  <P>Łódź.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rewitalizacja Obszarowa Centrum Łodzi – Projekty: 4, 7 i 8 – Przebudowa układu drogowego ul. Legionów na odcinku od Pl. Wolności do ul. Żeligowskiego, ul. Cmentarnej na odcinku od ul. Legionów do ul. Ogrodowej, wraz z infrastrukturą techniczną i meblami miejskimi w systemie „zaprojektuj i wybuduj” oraz „Przebudowa ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego w systemie „zaprojektuj i wybuduj” realizowanego z wyłączeniem prawa opcji w zakresie przebudowy ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego w ramach Projektów pn.: „Rewitalizacja Obszarowa Centrum Łodzi – obszar o powierzchni 32,5 ha ograniczony ulicami: Zachodnią, Podrzeczną, Stary Rynek, Wolborską, Franciszkańską, Północną, Wschodnią, Rewolucji 1905 r., Próchnika wraz z pierzejami po drugiej stronie ww. ulic”, „Rewitalizacja Obszarowa Centrum Łodzi – obszar o powierzchni 7 ha ograniczony ulicami: Ogrodową, Zachodnią, Legionów, Gdańską wraz z pierzejami po drugiej stronie ww. ulic” oraz „Rewitalizacja Obszarowa Centrum Łodzi – obszar o powierzchni 14 ha ograniczony ulicami: Ogrodową, Gdańską, Legionów, Cmentarną wraz z pierzejami po drugiej stronie ww. ulic” obejmująca n/w zadania:</P>
+                  <P>Zadanie 1 - przebudowa ul. Legionów od Pl. Wolności do Zachodniej.</P>
+                  <P>Zadanie 2 – przebudowa ul. Legionów na odc. Zachodnia – Gdańska.</P>
+                  <P>Zadanie 3 – przebudowa ul. Legionów na odc. od ul. Gdańskiej do ul. Żeligowskiego.</P>
+                  <P>Zadanie 4 – przebudowa ul. Cmentarnej na odc. od ul. Legionów do ul. Ogrodowej.</P>
+                  <P>Zadanie 5 – przebudowa ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego z uwzględnieniem Projektu Budowlano - Wykonawczego (do realizacji w trybie prawa opcji).</P>
+                  <P>Szczegółowy opis przedmiotu zamówienia zawarty jest w Tomie III SIWZ – Opis Przedmiotu Zamówienia oraz Program funkcjonalno-użytkowy wraz z załącznikami oraz w Tomie II – Formularz Aktu Umowy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zatrudnienie osób bezrobotnych</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>okres gwarancji i rękojmi na roboty budowlane</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>doświadczenie projektanta branży drogowej</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>doświadczenie kierownika budowy</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <DURATION TYPE="MONTH">39</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Zamawiający przewiduje udzielenie zamówień, o których mowa w art. 67 ust 1 pkt 6 Ustawy w zakresie:</P>
+                  <P>Dla Zadań 1-5.</P>
+                  <P>• Branży drogowej,</P>
+                  <P>• Branży torowo-trakcyjnej.</P>
+                  <P>• Branży sanitarnej,</P>
+                  <P>• Branży elektroenergetycznej.</P>
+                  <P>• Branży teletechnicznej.</P>
+                  <P>• Elementów małej architektury i mebli miejskich oraz zagospodarowania terenu,</P>
+                  <P>• Prac projektowych w zakresie robót drogowych i instalacyjnych (...).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający zastrzega możliwość zlecenia zadania 5 w ramach opcji.</P>
+                  <P>Zadanie 5 – przebudowa ulicy Cmentarnej w śladzie planowanego przedłużenia ul. Karskiego z uwzględnieniem Projektu Budowlano - Wykonawczego (do realizacji w trybie prawa opcji).</P>
+                  <P>Zadanie inwestycyjne polega na budowie skrzyżowania ulicy Cmentarnej z projektowanym przedłużeniem ciągu ul. Karskiego na odcinku od ul. Cmentarnej do ul. Ogrodowej w granicach pasa drogowego ulicy Cmentarnej. Zakres robót obejmuje: Przebudowę układu drogowo-torowego, Przebudowę i budowę sieci wod–kan: Przebudowę sieci gazowej; Budowę i przebudowę tramwajowej sieć trakcyjnej; Budowę i przebudowę oświetlenia ulicznego; Przygotowanie kanalizacji kablowej dla sygnalizacji świetlnej; Przebudowę i zabezpieczenie sieci elektroenergetycznej; Budowę kanalizacji kablowej i kabli światłowodowych na potrzeby sterowania ruchem.; Przebudowę i zabezpieczenie sieci teletechnicznych; Zieleń – wycinka i wykonanie nowych nasadzeń.</P>
+                  <P>Szczegółowy opis przedmiotu zamówienia zawarty jest w Tomie III SIWZ – Opis Przedmiotu Zamówienia oraz Program funkcjonalno-użytkowy wraz z załącznikami oraz w Tomie II – Formularz Aktu Umowy.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>WND-RPLD.06.03.03-10-0001/17 oraz WND-RPLD.06.03.03-10-0004/17 oraz WND-RPLD.06.03.03-10-0003/17</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>1. Zamawiający zawarł umowę o dofinansowanie projektów: 4, 7, 8 pn.: „Rewitalizacja Obszarowa Centrum Łodzi (...) - więcej informacji znajduję się w pkt.3 Tom I SIWZ</P>
+                  <P>2. Informacje dotyczące wadium znajdują się w pkt 9 SIWZ - wysokość 1 200 000,00 PLN</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Zamawiający nie wyznacza szczegółowego warunku w tym zakresie.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>1. Dokumenty potwierdzające spełnianie warunków udziału w postępowaniu i brak podstaw wykluczenia, które w oparciu o art. 26 ust. 1 ustawy zobowiązany będzie złożyć wykonawca, którego ofertę najwyżej oceniono - na wezwanie Zamawiającego w wyznaczonym terminie nie krótszym niż 10 dni, aktualne na dzień ich złożenia.</P>
+               <P>2. W celu potwierdzenia spełniania warunków udziału w postępowaniu Zamawiający żąda następujących dokumentów (art. 25 ust 1 pkt 1 Ustawy):</P>
+               <P>— informacji banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową wykonawcy, w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert. Jeżeli z uzasadnionej przyczyny wykonawca nie może złożyć wymaganych przez zamawiającego dokumentów, o których mowa powyżej Zamawiający dopuszcza złożenie przez wykonawcę innych dokumentów, o których mowa w art. 26 ust 2c) Ustawy.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy spełniają poniższe warunki udziału w postępowaniu: Wykonawca na potwierdzenie spełnienia warunku sytuacji finansowej winien wykazać, że: dysponuje środkami finansowymi lub posiada zdolność kredytową na kwotę w wysokości 8 000 000,00 PLN.</P>
+               <P>Uwaga:</P>
+               <P>1. W przypadku złożenia przez Wykonawców dokumentów zawierających kwoty wyrażone w innych walutach niż PLN, dla potrzeb oceny spełniania warunku określonego powyżej, Zamawiający, jako kurs przeliczeniowy waluty przyjmie średni kurs danej waluty publikowany przez Narodowy Bank Polski w dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej. Jeżeli w dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, Narodowy Bank Polski nie publikuje średniego kursu danej waluty, za podstawę przeliczenia przyjmuje się średni kurs waluty publikowany pierwszego dnia, po dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, w którym zostanie on opublikowany.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>1. Dokumenty potwierdzające spełnianie warunków udziału w postępowaniu i brak podstaw wykluczenia, które w oparciu o art. 26 ust. 1 ustawy zobowiązany będzie złożyć wykonawca, którego ofertę najwyżej oceniono - na wezwanie Zamawiającego w wyznaczonym terminie nie krótszym niż 10 dni, aktualne na dzień ich złożenia.</P>
+               <P>2. W celu potwierdzenia spełniania warunków udziału w postępowaniu Zamawiający żąda następujących dokumentów (art. 25 ust 1 pkt 1 Ustawy prawo zamówień publicznych):</P>
+               <P>2.1. wykazu robót budowlanych wykonanych nie wcześniej niż w okresie ostatnich 5 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich rodzaju, wartości, daty, miejsca wykonania i podmiotów, na rzecz których roboty te zostały wykonane, z załączeniem dowodów określających czy te roboty budowlane zostały wykonane należycie, w szczególności informacji o tym czy roboty zostały wykonane zgodnie z przepisami prawa budowlanego i prawidłowo ukończone. Formularz wraz z wykazem robót zostanie przesłany wykonawcy wraz z wezwaniem Zamawiającego, o którym mowa w pkt 7.3 SIWZ.</P>
+               <P>2.2. dowodów, o których mowa powyżej. Dowodami są:</P>
+               <P>a) referencje,</P>
+               <P>b) inne dokumenty wystawione przez podmiot, na rzecz którego roboty budowlane były wykonywane,</P>
+               <P>c) inne dokumenty - jeżeli z uzasadnionej przyczyny o obiektywnym charakterze wykonawca nie jest w stanie uzyskać tych dokumentów.</P>
+               <P>2.3. wykazu osób, skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług, kontrolę jakości lub kierowanie robotami budowlanymi, wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami. Formularz wraz z wykazem osób zostanie przesłany wykonawcy wraz z wezwaniem Zamawiającego, o którym mowa w pkt 7.3 SIWZ.</P>
+               <P>2.4. oświadczenia na temat wykształcenia i kwalifikacji zawodowych wykonawcy lub kadry kierowniczej wykonawcy opisanej w pkt. 6.3.3.2 SIWZ. Formularz wraz z oświadczeniem zostanie przesłany wykonawcy wraz z wezwaniem Zamawiającego, o którym mowa w pkt 7.3 SIWZ.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>1. O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy spełniają poniższe warunki udziału w postępowaniu:</P>
+               <P>1.1. Wykonawca, który wykonał należycie oraz zgodnie z przepisami prawa budowlanego i prawidłowo ukończył nie wcześniej niż w okresie ostatnich 5 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie:</P>
+               <P>— jedną lub dwie roboty budowlane o łącznej wartości nie mniejszej niż 25 000 000,00 PLN brutto, polegające na przebudowie lub budowie drogi publicznej wraz z infrastrukturą podziemną.</P>
+               <P>1.2.Wykonawca, który dysponuje, co najmniej:</P>
+               <P>a) 1 osobą, która będzie pełnić funkcję projektanta przy realizacji niniejszego zamówienia, posiadającą uprawnienia budowlane do projektowania bez ograniczeń w specjalności inżynieryjnej drogowej, która wykonała w okresie 5 lat licząc wstecz od dnia składania ofert, minimum 1 dokumentację projektową, która obejmowała swoim zakresem budowę, przebudowę układu drogowo-torowego na terenie miejskim.</P>
+               <P>b) 1 osobą, która będzie pełniła funkcje kierownika budowy przy realizacji niniejszego zamówienia, posiadająca uprawnienia budowlane do kierowania robotami budowlanymi bez ograniczeń w specjalności inżynieryjnej drogowej oraz min. 5 letnie doświadczenie zawodowe w pełnieniu funkcji kierownika budowy obejmującej swoim zakresem roboty drogowe wraz z infrastrukturą podziemną, która pełniła w okresie 5 lat licząc wstecz od dnia składania ofert, funkcję kierownika budowy przy co najmniej jednej zrealizowanej inwestycji, która obejmowała swoim zakresem budowę, przebudowę układu drogowo-torowego na terenie miejskim.</P>
+               <P>Z uwagi na ograniczoną ilość znaków kryteria kwalifikacji oraz oświadczenia i dokumenty, jakie zobowiązani są dostarczyć wykonawcy, potwierdzające spełnianie warunków udziału w postępowaniu oraz wykazanie braku podstaw wykluczenia zostały określone w dokumentach zamówienia – TOM I SIWZ – Instrukcja dla Wykonawców, zamieszczonych na stronie internetowej zamawiającego. Szczegółowe informacje nt. warunków udziału oraz podstaw wykluczenia i wykaz oświadczeń lub dokumentów potwierdzających spełnienie warunków udziału w postępowaniu oraz brak podstaw wykluczenia znajdują się w pkt 6 i 7 SIWZ.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>Zgodnie z aktem Umowy – Tom II SIWZ. Wymagania zatrudnienia przez Wykonawcę lub podwykonawcę na podstawie umowy o prace, o których mowa w art. 29 ust. 3a ustawy Prawo zamówień publicznych, osób wykonujących wskazane przez Zamawiającego czynności w zakresie realizacji zamówienia zostały określone w SIWZ.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-29</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="PL"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">3</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>12:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Zarząd Inwestycji Miejskich w Łodzi, ul. Piotrkowska 175, pokój nr 308.</P>
+               </PLACE>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>1. O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy wykażą: brak podstaw do wykluczenia z postępowania na podstawie art. 24 ust. 1 (obligatoryjne podstawy wykluczenia) oraz art. 24 ust 5 Ustawy (fakultatywne podstawy wykluczenia) oraz spełniają, na poziomie opisanym poniżej warunki udziału w postępowaniu, o których mowa w art. 22 ust. 1 Ustawy.</P>
+               <P>2. Z uwagi na ograniczoną ilość znaków w Sekcji III.1.2) i III.1.3) kryteria kwalifikacji, oraz oświadczenia i dokumenty, jakie zobowiązani są dostarczyć wykonawcy, potwierdzające spełnianie warunków udziału w postępowaniu oraz wykazanie braku podstaw wykluczenia zostały określone w dokumentach zamówienia – Tom I SIWZ – Instrukcja dla Wykonawców, zamieszczonych na stronie internetowej zamawiającego. Szczegółowe informacje nt. warunków udziału oraz podstaw wykluczenia i wykaz oświadczeń lub dokumentów potwierdzających spełnienie warunków udziału</P>
+               <P>W postępowaniu oraz brak podstaw wykluczenia znajdują się w pkt 6 i 7 SIWZ.</P>
+               <P>3. Oświadczenie, w którym wykonawcy wykażą brak podstaw wykluczenia oraz spełnienie warunków udziału – Wykonawca zobowiązany jest złożyć w formie jednolitego europejskiego dokumentu zamówienia (JEDZ). Zamawiający (na swojej stronie internetowej, w zakładce dotyczącej niniejszego przetargu) przekazuje plik JEDZ w formacie .xml, który po zaimportowaniu winien być uzupełniony przez Wykonawcę, wydrukowany, podpisany</P>
+               <P>I załączony do oferty. Zasady importowania pliku JEDZ w formacie .xml oraz zasady jego uzupełniania oraz formy w jakiej dokument ten należy złożyć wraz z ofertą, zostały opisane w pkt. 7.1.1. pkt 11.10, oraz w pkt. 12.3. – TOM I – SIWZ. Wykonawca, który powołuje się na zasoby innych podmiotów w celu wykazania braku istnienia wobec nich podstaw wykluczenia oraz spełnienia w zakresie, w jakim powołuje się na ich zasoby, warunków udziału w postępowaniu wraz z ofertą składa także jednolite dokumenty dotyczące tych podmiotów.</P>
+               <P>4. Na wezwanie Zamawiającego, w celu potwierdzenia braku podstaw do wykluczenia Wykonawcy z udziału w postępowaniu Wykonawca zobowiązany jest do złożenia informacji, zaświadczeń, odpisu oraz oświadczeń, o których mowa w § 5 Rozporządzenia Ministra Rozwoju z dn. 26.7.2016 r. w sprawie rodzajów dokumentów, jakich może żądać Zamawiający od wykonawcy w postępowaniu o udzielenie zamówienia (Dz. U. z 2016 poz. 1126)</P>
+               <P>5. Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, a także w przypadku osoby, której dany dokument dotyczy ma miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, zastosowanie mają zasady określone w § 7 i 8 ww. Rozporządzenia.</P>
+               <P>6. Zamawiający, zgodnie z art. 24aa ust. 1 ustawy Prawo zamówień publicznych, przewiduje możliwość w pierwszej kolejności dokonania oceny ofert, a następnie zbada czy Wykonawca, którego oferta została oceniona jako najkorzystniejsza, nie podlega wykluczeniu oraz spełnia warunki udziału w postępowaniu.</P>
+               <P>7. Termin związania ofertą - 90 dni.</P>
+               <P>8. Termin Zakończenia Realizacji Inwestycji Strony ustalają na 39 miesięcy od dnia zawarcia Umowy, z tym zastrzeżeniem że: (...)</P>
+               <P>a)Zadanie 1- 39 miesięcy (...); Zadania 2 - 36 miesięcy(...); Zadania 3 - 28 miesięcy(...); Zadania 4 - 28 miesięcy(...); Zadania 5 - w przypadku skorzystania przez Zamawiającego z prawa opcji winno zostać zrealizowane w całości, w terminie zakończenia Zadania 4 tj. w terminie 28 miesięcy od zawarcia Umowy z tym, że Wykonawca zobowiązany jest do przekazania Zamawiającemu Dokumentacji Projektowej niezbędnej do Zgłoszenia robót budowlanych oraz dokonania takiego zgłoszenia, Projektu/ów Budowlanego/ych wraz z ostateczną decyzją o pozwoleniu na budowę (...); Z uwagi na ograniczoną liczbę znaków - więcej szczegółów w pkt 5 SIWZ.</P>
+               <P>9. Wykonawca, w terminie 3 dni od zamieszczenia na stronie internetowej informacji, z otwarcia ofert, przekazuje zamawiającemu oświadczenie o przynależności lub braku przynależności do tej samej grupy kapitałowej, o której mowa w art. 24 ust. 1 pkt 23 Ustawy.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587700</FAX>
+               <URL>http://www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>1. Środki ochrony prawnej przysługują Wykonawcy, a także innemu podmiotowi jeżeli ma lub miał interes w uzyskaniu danego zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów Ustawy.</P>
+               <P>2. Środki ochrony prawnej wobec ogłoszenia o zamówieniu oraz SIWZ przysługują również organizacjom wpisanym na listę, o której mowa w art. 154 pkt 5 Ustawy.</P>
+               <P>3. Odwołanie przysługuje wyłącznie od niezgodnej z przepisami ustawy czynności Zamawiającego podjętej w postępowaniu o udzielenie zamówienia lub zaniechania czynności, do której Zamawiający jest zobowiązany na podstawie Ustawy.</P>
+               <P>4. Odwołanie powinno wskazywać czynność lub zaniechanie czynności Zamawiającego, której zarzuca się niezgodność z przepisami Ustawy, zawierać zwięzłe przedstawienie zarzutów, określać żądania oraz wskazywać okoliczności faktyczne i prawne uzasadniające wniesienie odwołania.</P>
+               <P>5. Odwołanie wnosi się do Prezesa Izby w formie pisemnej w postaci papierowej albo w postaci elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym..</P>
+               <P>6. Odwołujący przesyła kopię odwołania Zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. Domniemywa się, iż zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przesłanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.</P>
+               <P>7. Odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia - jeżeli zostały przesłane przy użyciu środków komunikacji elektronicznej albo w terminie 15 dni - jeżeli zostały przesłane w inny sposób.</P>
+               <P>8. Odwołanie wobec treści ogłoszenia o zamówieniu, a jeżeli postępowanie jest prowadzone w trybie przetargu nieograniczonego, także wobec postanowień specyfikacji istotnych warunków zamówienia, wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia specyfikacji istotnych warunków zamówienia na stronie internetowej.</P>
+               <P>9. Odwołanie wobec czynności innej niż określonej w pkt. 23.7 i 23.8 SIWZ wnosi się</P>
+               <P>W terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.</P>
+               <P>10. Na orzeczenie Izby stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.</P>
+               <P>11. Skargę wnosi się do sądu okręgowego właściwego dla siedziby albo miejsca zamieszkania zamawiającego.</P>
+               <P>12. Skargę wnosi się za pośrednictwem Prezesa Izby w terminie 7 dni od dnia doręczenia orzeczenia Izby, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23.11.2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) jest równoznaczne z jej wniesieniem.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587700</FAX>
+               <URL>http://www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-13</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="002255-2018"
+            EDITION="2018002">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-000298-001</RECEPTION_ID>
+      <DELETION_DATE>20180201</DELETION_DATE>
+      <FORM_LG_LIST>FR NL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>2</NO_OJ>
+         <DATE_PUB>20180104</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 002-002255</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:002255-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:002255-2018:TEXT:NL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <LG_ORIG>NL</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>www.stib.be</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="31220000">Electrical circuit components</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="31224000">Connections and contact elements</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">800000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180102</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180201 00:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="4">Utilities entity</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="4">Negotiated procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="T">Urban railway / light rail, metro, tramway, trolleybus or bus services</MA_MAIN_ACTIVITIES>
+         <HEADING>01F05</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/25/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Composants de circuits électriques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Onderdelen van stroomkringen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Компоненти на електрически вериги</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Části elektrických obvodů</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Komponenter til elektriske kredsløb</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Stromkreiselemente</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Στοιχεία ηλεκτρικού κυκλώματος</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Electrical circuit components</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Componentes de circuitos eléctricos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrivooluahela komponendid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Virtapiirikomponentit</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Electrical circuit components</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Komponente strujnih krugova</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Villamos áramköri részegységek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Componenti di circuiti elettrici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektros grandinių elementai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrisko ķēžu komponenti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Komponenti taċ-ċtkwit elettriku</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Elementy składowe obwodów elektrycznych</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Componentes de circuitos eléctricos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Componente de circuite electrice</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Komponenty elektrických obvodov</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Elementi tokokrogov</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Kretskomponenter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="FR">Société des transports intercommunaux de Bruxelles — Procurement &amp; Logistics Department</AA_NAME>
+         <AA_NAME LG="NL">Maatschappij voor het Intercommunaal Vervoer te Brussel - Procurement &amp; Logistics Department</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F05_2014 CATEGORY="ORIGINAL" FORM="F05" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Société des transports intercommunaux de Bruxelles — Procurement &amp; Logistics Department</OFFICIALNAME>
+               <ADDRESS>Rue Royale 76</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1000</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Cindy Escada</CONTACT_POINT>
+               <PHONE>+32 25637361</PHONE>
+               <E_MAIL>cindy.escada@stib.brussels</E_MAIL>
+               <FAX>+32 25153281</FAX>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>www.stib.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=293691</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=293691</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CE_ACTIVITY VALUE="URBAN_RAILWAY_TRAMWAY_TROLLEYBUS_BUS_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Remplacement préventif de toute la connectique des boîtiers électroniques de la régulation métro</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MIVB - STIB Procurement &amp; Logistics-AL_3843-F05_0</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="31220000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Le marché vise la conclusion d’un accord-cadre pour l’acquisition de fournitures dans le but d’effectuer le remplacement préventif de toute la connectique des boitiers électronique de la régulation métro 3ème série, mais surtout du câblage véhicule.</P>
+               <P>Les connecteurs devront respecter les spécifications de base suivantes.</P>
+               <P>— set comprenant les connecteurs châssis des électroniques et les connecteurs véhicule,</P>
+               <P>— minimum 5 000 manœuvres,</P>
+               <P>— version de 25 à 500 contacts,</P>
+               <P>— largeur maximal du connecteur (hors tout): 45 mm,</P>
+               <P>— longueur du connecteur (hors tout): 97 mm,</P>
+               <P>— hauteur du connecteur hors tout. Comprenant la hauteur de l'embase boîtier + capot + presse étoupe....: 65 mm,</P>
+               <P>— connecteur livré avec une botte de câble (fils, sertissage compris),</P>
+               <P>— livraison par set de connecteurs correspondant à la totalité des connecteurs de la régulation d'un métro,</P>
+               <P>— contact doré (pin tournée à sertir),</P>
+               <P>— connecteur avec verrouillage mécanique,</P>
+               <P>— Ensemble destiné par spécification aux applications ferroviaires.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">800000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31224000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Région de Bruxelles Capitale et communes avoisinantes</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir Description succincte point II.1.4).</P>
+                  <P>Les spécifications techniques complètes seront transmises lors de la remise du cahier spécial des charges.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Voir cahier spécial des charges</P>
+               </RENEWAL_DESCR>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Cet avis de marché concerne un appel à candidatures.</P>
+                  <P>La candidature doit être introduite par la remise d’un dossier tel que décrit dans le paragraphe III.1).</P>
+                  <P>Après l’évaluation des candidatures, les candidats sélectionnés recevront le csc, afin de pouvoir remettre leur offre.</P>
+                  <P>Chaque candidat ne pourra remettre qu’un seul dossier de candidature en son nom. Les sociétés momentanées sont admises.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Voir Document Unique de Marché Européen (DUME) en annexe de l’avis de marché: à compléter obligatoirement sur le site https://ec.europa.eu/tools/espd</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>— La capacité économique et financière sera vérifiée sur base des données financières (le chiffre d’affaires, bilans et comptes de résultats).</P>
+               <P>Le candidat transmettra à la STIB son chiffre d’affaire réalisé au cours des trois derniers exercices sur la partie du marché concernée par l’avis de marché (à remplir dans le DUME Partie IV: Critères de sélection point B).</P>
+               <P>Un candidat peut, le cas échéant et pour un marché déterminé, faire valoir les capacités d'autres entités, quelle que soit la nature juridique des liens existant entre lui-même et ces entités. Il doit, dans ce cas, prouver au pouvoir adjudicateur que, pour l'exécution du marché, il disposera des moyens nécessaires par la production de l'engagement de ces entités de mettre de tels moyens à la disposition du fournisseur. Ces entités devront se porter garantes de tous les engagements qui auront été pris par le candidat et devront s’engager à apporter leur totale collaboration et à mettre tous les moyens nécessaires à la disposition de la STIB dans le cadre de ce marché.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>— Le chiffre d'affaires annuel moyen pour les fournitures demandées calculé pour les 3 derniers exercices disponibles, doit être supérieur à 250 000 EUR,</P>
+               <P>— La STIB écartera les candidats dont les données financières (bilans et comptes de résultats) ne font pas apparaître qu’ils ont la capacité à mener à bien un marché tel que décrit sous le point II.1.4. Elle écartera tout candidat dont les fonds propres sont négatifs.</P>
+               <P>Les pièces justificatives concernant la capacité économique et financière doivent être ajoutées à votre candidature et le document DUME.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Le candidat transmettra obligatoirement.</P>
+               <P>1<FT TYPE="SUP">o</FT>- une liste de références de marchés dans le secteur de transport public ou similaire en fourniture de connecteurs au cours des 5 dernières années indiquant:</P>
+               <P>— la description du marché (y compris les technologies utilisées),</P>
+               <P>— le montant,</P>
+               <P>— la durée, les dates,</P>
+               <P>— le nom de l’entreprise concernée (+ les coordonnées d’une personne de contact).</P>
+               <P>(A remplir dans le DUME Partie IV: Critères de sélection, point C).</P>
+               <P>2<FT TYPE="SUP">o</FT> - des attestations de satisfaction signées établies par les clients. A joindre au dossier de candidature.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Le candidat transmettra au minimum 3 références de qualité.</P>
+               <P>— Le candidat transmettra au minimum 3 attestations établies par ses clients parmi les références citées dans le point 1<FT TYPE="SUP">o</FT>.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <RULES_CRITERIA>
+               <P>Le candidat devra fournir.</P>
+               <P>1/ Une présentation générale de l’entreprise et du groupe dans lequel elle exécute ses activités. Cette présentation reprendra e.a. les coordonnées de l'entreprise ainsi qu’une description de ses principales activités.</P>
+               <P>2/ Les coordonnées de la personne de contact (SPOC) dans l’entreprise dans le cadre du marché. Si plusieurs personnes impliquées, veuillez utiliser la même structure.</P>
+               <P>3/ Dans l’hypothèse d’une candidature sous forme d’une société momentanée, tous les membres de la société momentanée doivent répondre aux conditions de participation et prouver le statut de leur engagement par un document officiel et Indiquer le SPOC</P>
+               <P>4/ Le candidat joint à son offre une déclaration formelle qu’il accepte, sans formalités spéciales, la visite d’une délégation de la STIB dans ses installations, les installations d’éventuels sous-traitants et de clients afin de juger de ses capacités techniques.</P>
+               <P>5/ Le candidat indique la part qu’il entend sous-traiter.</P>
+            </RULES_CRITERIA>
+            <DEPOSIT_GUARANTEE_REQUIRED>
+               <P>Seront précisés dans le cahier spécial des charges</P>
+            </DEPOSIT_GUARANTEE_REQUIRED>
+            <MAIN_FINANCING_CONDITION>
+               <P>Seront précisées dans le cahier spécial des charges</P>
+            </MAIN_FINANCING_CONDITION>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_NEGOTIATED_WITH_PRIOR_CALL/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-01</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>00:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Pour compléter le DUME (Document Unique de Marché Européen):</P>
+               <P>1. Lorsque vous avez téléchargé le présent avis de marché depuis le site e-Notification (https://enot.publicprocurement.be), assurez-vous d'avoir également téléchargé les fichiers annexés (pièces jointes).</P>
+               <P>2. Ouvrez le fichier « espd-request.zip » et sauvegardez (= extraire) le document .PDF d'une part, le fichier .XML d'autre part.</P>
+               <P>3. Aller sur le site: https://ec.europa.eu/tools/espd</P>
+               <P>4. Choisissez votre langue</P>
+               <P>5. Sélectionner «je suis un opérateur économique »</P>
+               <P>6. Sélectionner « importer un DUME »</P>
+               <P>7. Cliquez sur « choose file » (choisir fichier) et sélectionnez le fichier « espd-request.xml » que vous aurez extrait en 2.</P>
+               <P>8. Cliquer sur « suivant »</P>
+               <P>9. Complétez les champs requis en vous aidant du texte de la publication pour déterminer la qualité et la quantité d'informations demandées</P>
+               <P>10. Cliquez sur « aperçu »</P>
+               <P>11. Téléchargez « dans les 2 formats »</P>
+               <P>12. Sauvez ce fichier « espd-request.zip » contenant votre DUME</P>
+               <P>13. Joignez ce fichier DUME appelé « espd-request.zip » à votre dossier de candidature lors de son envoi.</P>
+               <P>Attention, la STIB doit recevoir le fichier .ZIP qui contient tant le .PDF que le .XML !</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Conseil d'Etat</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <E_MAIL>info@raadvst-consetat.be</E_MAIL>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Conformément à l’article 23 de la loi du 17.6.2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics et de certains marchés de travaux, de fournitures et de services, les recours sont, à peine d’irrecevabilité, introduits dans les délais visés aux §§ 2 à 4, à compter de la publication, de la communication ou de la prise de connaissance de l’acte, selon le cas.</P>
+               <P>Le recours en annulation visé à l’article 14 est introduit dans un délai de soixante jours.</P>
+               <P>La demande en suspension visée à l’article 15 est introduite dans un délai de quinze jours. En cas d’application de l’article 18, le délai est de dix jours.</P>
+               <P>Le recours en dommages et intérêts visé à l’article 16 est introduit dans un délai de cinq ans.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Conseil d’Etat</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <E_MAIL>info@raadvst-consetat.be</E_MAIL>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-02</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F05_2014>
+      <F05_2014 CATEGORY="ORIGINAL" FORM="F05" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Maatschappij voor het Intercommunaal Vervoer te Brussel - Procurement &amp; Logistics Department</OFFICIALNAME>
+               <ADDRESS>Koningsstraat 76</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1000</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Cindy Escada</CONTACT_POINT>
+               <PHONE>+32 25637361</PHONE>
+               <E_MAIL>cindy.escada@stib.brussels</E_MAIL>
+               <FAX>+32 25153281</FAX>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>www.stib.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=293691</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=293691</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CE_ACTIVITY VALUE="URBAN_RAILWAY_TRAMWAY_TROLLEYBUS_BUS_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preventieve vervanging van alle connectoren van de elektronische regelkasten van de metro</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MIVB - STIB Procurement &amp; Logistics-AL_3843-F05_0</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="31220000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>De opdracht betreft het sluiten van een raamovereenkomst voor het aankoop van leveringen met als doel het preventief vervangen van alle connectoren van de elektronische regelkasten van de metro van de 3de reeks, maar vooral van den voertuigbekabeling.</P>
+               <P>De connectoren zullen aan de volgende basisbepalingen moeten beantwoorden:</P>
+               <P>— set met de chassisconnectoren voor de elektronische aansluitingen en de voertuigconnectoren,</P>
+               <P>— minimum 5000 bewegingen,</P>
+               <P>— versie met 25 tot 500 contacten,</P>
+               <P>— maximumbreedte van de connector (over alles): 45mm,</P>
+               <P>— lengte van de connector (over alles): 97mm,</P>
+               <P>— hoogte van de connector over alles, inclusief de hoogte van de kastsokkel + dekplaat + pakkingbus: 65mm,</P>
+               <P>— connector geleverd met een kabelbundel (inclusief draden, vatting),</P>
+               <P>— levering per set connectoren die overeenkomt met alle regelconnectoren voor een metro,</P>
+               <P>— goudcontact (draaipin voor de vatting),</P>
+               <P>— connector met mechanische vergrendeling,</P>
+               <P>— set door specificatie bestemd voor spoortoepassingen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">800000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31224000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Brussels Gewest.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie korte beschrijving van de opdracht punt II.1.4).</P>
+                  <P>De volledige technische specificaties zullen overgemaakt worden op het moment dat het bestek bezorgd wordt.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Zie bestek.</P>
+               </RENEWAL_DESCR>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Deze aankondiging betreft een oproep tot kandidaatstelling.</P>
+                  <P>De kandidatuur dient gesteld te worden door overmaking van een dossier zoals beschreven in III.1).</P>
+                  <P>Na de evaluatie van de kandidaatstellingen, zal aan de geselecteerde bedrijven het bestek worden overgemaakt.</P>
+                  <P>Elke inschrijver mag slechts één kandidatuur dossier indienen in zijn naam. Tijdelijke handelsvennootschappen zijn toegelaten.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Zie Uniform Europees Aanbestedingsdocument (UEA) in bijlage bij de aankondiging van de opdracht: moet verplicht ingevuld worden via website https://ec.europa.eu/tools/espd</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>— De economische en financiële draagkracht van de kandidaten zal gecontroleerd worden op basis van financiële gegevens (de omzet, balansen en resultatenrekeningen),</P>
+               <P>— De kandidaat zal aan de MIVB zijn omzetcijfer overmaken dat hij in de loop van de drie laatste boekjaren gerealiseerd heeft op het gedeelte van de opdracht waar deze aankondiging van een opdracht betrekking op heeft (In te vullen in het UEA Deel IV: Selectiecriteria IV punt B).</P>
+               <P>Een kandidaat kan zich desgevallend en voor een specifieke opdracht beroepen op de capaciteiten van andere entiteiten, ongeacht de juridische aard van zijn band met die entiteiten. In dat geval toont hij de aanbestedende overheid aan dat hij zal beschikken over de voor de uitvoering van de opdracht noodzakelijke middelen, door overlegging van de verbintenis van deze entiteiten om de leverancier dergelijke middelen ter beschikking te stellen. Deze entiteiten moeten zich garant stellen voor alle verbintenissen aangegaan door de kandidaat en zich verbinden tot volledige medewerking en tot de terbeschikkingstelling van alle in het kader van deze opdracht vereiste middelen aan de MIVB.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>— De gemiddelde jaaromzet voor de gevraagde leveringen, berekend voor de 3 meest recente beschikbare boekjaren, moet meer dan 250.000 EUR bedragen,</P>
+               <P>— De MIVB zal de kandidaten uitsluiten waarvan de financiële gegevens (balansen en resultatenrekeningen) niet bewijzen dat zij over de capaciteit beschikken om de opdracht zoals beschreven in de rubriek II.1.4 tot een goed einde te brengen. Zij zal alle kandidaten uitsluiten waarvan het eigen vermogen negatief is.</P>
+               <P>De bewijsstukken betreffende de economische en financiële draagkracht moeten bij uw kandidaatstelling worden gevoegd en het document UEA.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>De kandidaat zal verplicht de volgende documenten overmaken:</P>
+               <P>1<FT TYPE="SUP">o</FT>- een lijst met referenties van leveringen van connectoren uitgevoerd in de afgelopen 5 jaar binnen de openbare vervoersector of gelijkwaardig, met vermelding van:</P>
+               <P>— een beschrijving van de opdracht (met beschrijving van de gebruikte technologieën),</P>
+               <P>— het bedrag,</P>
+               <P>— duur van het contract en de datum,</P>
+               <P>— de naam van de betreffende onderneming (+ de gegevens van een contactpersoon).</P>
+               <P>(In te vullen in het UEA Deel IV: Selectiecriteria IV punt C).</P>
+               <P>2<FT TYPE="SUP">o</FT>- getekende tevredenheidsattesten, opgemaakt door de klanten (bij het kandidaatstellingsdossier te voegen).</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>— De kandidaat zal minstens 3 kwaliteitsreferenties opgeven,</P>
+               <P>— De kandidaat zal minstens 3 getekende tevredenheidsattesten opgeven, opgemaakt door deze klanten uit de referenties vermeld in punt 1.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <RULES_CRITERIA>
+               <P>De kandidaat moet ingediend.</P>
+               <P>— Een algemene presentatie van de onderneming en de groep waarin haar activiteiten uitvoert. Deze presentatie bevat oa de gegevens van de onderneming en een beschrijving van haar hoofdactiviteiten,</P>
+               <P>— De gegevens van de contactpersoon (SPOC) in het kader van de opdracht. Indien meerdere personen betrokken zijn, gelieve dezelfde structuur te gebruiken,</P>
+               <P>— In het geval van een kandidatuur onder de vorm van een tijdelijke vennootschap, moeten alle leden samen beantwoorden aan de deelnemingsvoorwaarden en het statuut van hun verbintenis bewijzen door middel van een officieel document &amp; de SPOC vermelden,</P>
+               <P>— De kandidaat voorziet zijn offerte van een formele verklaring dat hij, zonder bijz. formaliteiten, een bezoek aanvaardt van een delegatie van de MIVB aan zijn inrichtingen, de inrichtingen van eventuele onderaannemers &amp; de klanten teneinde zijn technische bekwaamheden te beoordelen,</P>
+               <P>— De kandidaat geeft het gedeelte op dat hij van plan is in onderaanneming te geven.</P>
+            </RULES_CRITERIA>
+            <DEPOSIT_GUARANTEE_REQUIRED>
+               <P>Zullen gespecificeerd worden in het bestek.</P>
+            </DEPOSIT_GUARANTEE_REQUIRED>
+            <MAIN_FINANCING_CONDITION>
+               <P>Zullen gespecificeerd worden in het bestek.</P>
+            </MAIN_FINANCING_CONDITION>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_NEGOTIATED_WITH_PRIOR_CALL/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-01</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>00:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Om het UEA (Uniform Europees Aanbestedingsdocument) in te vullen:</P>
+               <P>1. Nadat u onderhavige aankondiging van een opdracht hebt gedownload van de website e-Notification (https://enot.publicprocurement.be), vergewist u zich ervan of u ook de bijgevoegde bestanden (bijlagen) gedownload hebt.</P>
+               <P>2. Nu moet u het bestand « espd-request.zip » openen en enerzijds het .PDF-document en anderzijds het .XML-bestand opslaan (= eruit halen).</P>
+               <P>3. Surf naar de website: https://ec.europa.eu/tools/espd</P>
+               <P>4. Kies uw taal</P>
+               <P>5. Selecteer « Ik ben een ondernemer »</P>
+               <P>6. Selecteer « Een UEA importeren »</P>
+               <P>7. Klik op “Choose file” (bestand kiezen) en selecteer het bestand “espc-request.xml” dat u onder punt 2 uit de .ZIP hebt gehaald</P>
+               <P>8. Klik op “Volgende”</P>
+               <P>9. Vul de vereiste velden in met behulp van de tekst van de publicatie om de kwaliteit van en de hoeveelheid gevraagde informatie te bepalen</P>
+               <P>10. Klik op "Overzicht"</P>
+               <P>11. Downloaden in “ beide formaten”</P>
+               <P>12. Dit bestand “espc-request.zip” met daarin uw UEA opslaan</P>
+               <P>13. Voeg dit UEA-bestand, “espc-request.zip” genaamd, bij uw kandidaatstellingsdossier bij de verzending ervan. Opgelet: de MIVB moet het .ZIP-bestand ontvangen dat zowel de .PDF als de.XML bevat.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapsstraat 33</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <E_MAIL>info@raadvst-consetat.be</E_MAIL>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>In overeenstemming met artikel 23 van de wet van 17 juni 2013 betreffende de motivering, informatie en rechtsmiddelen inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten worden de verhaalprocedures, op straffe van niet-ontvankelijkheid, ingesteld binnen de in §2 tot §4 bedoelde termijnen vanaf de bekendmaking, de kennisgeving of de kennisneming van de rechtshandeling, naargelang het geval.</P>
+               <P>De in artikel 14 bedoelde vordering tot vernietiging wordt ingesteld binnen een termijn van zestig dagen.</P>
+               <P>De in artikel 15 bedoelde vordering tot schorsing wordt ingesteld binnen een termijn van vijftien dagen. Ingeval toepassing van artikel 18 wordt gemaakt, bedraagt de termijn tien dagen.</P>
+               <P>De in artikel 16 bedoelde vordering tot schadevergoeding wordt ingesteld binnen een termijn van vijf jaar.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapsstraat 33</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <E_MAIL>info@raadvst-consetat.be</E_MAIL>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-02</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F05_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

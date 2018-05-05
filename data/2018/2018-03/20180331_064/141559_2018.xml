@@ -1,0 +1,3219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="141559-2018"
+            EDITION="2018064">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-137702-001</RECEPTION_ID>
+      <DELETION_DATE>20180704</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>64</NO_OJ>
+         <DATE_PUB>20180331</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 064-141559</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:141559-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="DK"/>
+         <IA_URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="79420000">Management-related services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DK011">Byen København</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DK011">Byen København</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="DK">DANMARK</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE_RANGE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VALUE_RANGE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 155-321209</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180326</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Danmark</TI_CY>
+            <TI_TOWN>København</TI_TOWN>
+            <TI_TEXT>
+               <P>Informationstjenesteydelser og bistand til besøgende samt kommunikationsaktiviteter i Europahuset for Europa-Kommissionens og Europa-Parlamentets repræsentation i København — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Dänemark</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Informationsdienstleistungen und Hilfe für Besucher sowie Kommunikationstätigkeiten im Europa-Haus für die Vertretung der Europäischen Kommission und das Europäische Parlament in Kopenhagen — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Denmark</TI_CY>
+            <TI_TOWN>Copenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Information services and assistance to visitors and communication activities in the Europe House for the European Commission Representation and the European Parliament in Copenhagen — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Dinamarca</TI_CY>
+            <TI_TOWN>Copenhague</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de información y asistencia a los visitantes y actividades de comunicación en la Casa Europea a favor de la Representación de la Comisión Europea y del Parlamento Europeo en Copenhague — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Tanska</TI_CY>
+            <TI_TOWN>Kööpenhamina</TI_TOWN>
+            <TI_TEXT>
+               <P>Tietopalvelut ja tuki vierailijoille sekä viestintätoimet Eurooppa-talossa Euroopan komission edustustoa ja Euroopan parlamenttia varten Kööpenhaminassa – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Danemark</TI_CY>
+            <TI_TOWN>Copenhague</TI_TOWN>
+            <TI_TEXT>
+               <P>Services d'information, assistance aux visiteurs et activités de communication à la Maison de l'Europe en faveur de la représentation de la Commission européenne et du Parlement européen à Copenhague — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Δανία</TI_CY>
+            <TI_TOWN>Κοπεγχάγη</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή υπηρεσιών πληροφόρησης και υποστήριξης σε επισκέπτες καθώς και επικοινωνιακών δραστηριοτήτων στον Οίκο της Ευρώπης για την Αντιπροσωπεία της Ευρωπαϊκής Επιτροπής και το Ευρωπαϊκό Κοινοβούλιο στην Κοπεγχάγη— PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Danimarca</TI_CY>
+            <TI_TOWN>Copenaghen</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di informazione e attività di assistenza ai visitatori e di comunicazione presso la Casa d'Europa per la rappresentanza della Commissione europea e il Parlamento europeo a Copenaghen — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Denemarken</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Informatiediensten, bijstand aan bezoekers en communicatieactiviteiten in het Huis van Europa voor de Vertegenwoordiging van de Europese Commissie en het Europees Parlement in Kopenhagen — PO/2017-10/COP.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Dinamarca</TI_CY>
+            <TI_TOWN>Copenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de informação e assistência aos visitantes e atividades de comunicação na «Europe House» a favor da Representação da Comissão Europeia e do Parlamento Europeu em Copenhaga — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Danmark</TI_CY>
+            <TI_TOWN>Köpenhamn</TI_TOWN>
+            <TI_TEXT>
+               <P>Informationstjänster och stöd till besökare och kommunikationsverksamheter i Europahuset för Europeiska kommissionens representation och Europaparlamentet i Köpenhamn – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Dánsko</TI_CY>
+            <TI_TOWN>Kodaň</TI_TOWN>
+            <TI_TEXT>
+               <P>Informační služby a pomoc návštěvníkům a komunikační činnosti v Evropském domě pro Zastoupení Evropské komise a Evropského parlamentu v Kodani – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Taani</TI_CY>
+            <TI_TOWN>Kopenhaagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Teabeteenused, külastajate abistamine ja teabevahetustegevused Euroopa Parlamendi ja Euroopa Komisjoni esinduse Kopenhaagenis asuva Euroopa Maja jaoks – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Dánia</TI_CY>
+            <TI_TOWN>Koppenhága</TI_TOWN>
+            <TI_TEXT>
+               <P>Információs szolgáltatások és segítségnyújtás a látogatóknak, illetve kommunikációs tevékenységek az Európa Házban az Európai Bizottság képviselete és az Európai Parlament számára, Koppenhágában – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Danija</TI_CY>
+            <TI_TOWN>Kopenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Informacijos paslaugos ir pagalba lankytojams bei komunikacijos veiklai Europos Komisijos atstovybės ir Europos Parlamento Europos namuose Kopenhagoje – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Dānija</TI_CY>
+            <TI_TOWN>Kopenhāgena</TI_TOWN>
+            <TI_TEXT>
+               <P>Informācijas sniegšanas pakalpojumi un palīdzība apmeklētājiem, kā arī komunikācijas pasākumi Eiropas mājā Eiropas Komisijas pārstāvniecības un Eiropas Parlamenta vajadzībām Kopenhāgenā – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>id-Danimarka</TI_CY>
+            <TI_TOWN>Kopenħagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ta' informazzjoni u għajnuna lill-viżitaturi u attivitajiet ta' komunikazzjoni f'Dar l-Ewropa għar-Rappreżentanza tal-Kummissjoni Ewropea u l-Parlament Ewropew f'Copenhagen — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Dania</TI_CY>
+            <TI_TOWN>Kopenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi udzielania informacji i pomocy odwiedzającym oraz działania komunikacyjne w Domu Europejskim na rzecz Przedstawicielstwa Komisji Europejskiej i Parlamentu Europejskiego w Kopenhadze – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Dánsko</TI_CY>
+            <TI_TOWN>Kodaň</TI_TOWN>
+            <TI_TEXT>
+               <P>Informačné služby a pomoc pre návštevníkov a komunikačné činnosti v Dome Európy pre Zastúpenie Európskej komisie a Európsky parlament v Kodani – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Danska</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve zagotavljanja informacij in pomoči obiskovalcem ter komunikacijske dejavnosti v Evropski hiši za predstavništvo Evropske komisije in Evropskega parlamenta v Københavnu – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Danmhairg, an</TI_CY>
+            <TI_TOWN>Cóbanhávan</TI_TOWN>
+            <TI_TEXT>
+               <P>Seirbhísí faisnéise agus cúnamh do chuairteoirí agus gníomhaíochtaí cumarsáide i dTeach na hEorpa d'Ionadaíocht an Choimisiúin Eorpaigh agus do Pharlaimint na hEorpa i gCóbanhávan — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Дaния</TI_CY>
+            <TI_TOWN>Копенхаген</TI_TOWN>
+            <TI_TEXT>
+               <P>Информационни услуги и съдействие за посетителите и комуникационни дейности в Дома на Европа за Представителството на Европейската комисия и Европейския парламент в Копенхаген — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Danemarca</TI_CY>
+            <TI_TOWN>Copenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de informare și de asistență pentru vizitatori și activități de comunicare în Casa Europei pentru Reprezentanța Comisiei Europene și Parlamentul European din Copenhaga – PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Danska</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Informacijske usluge i pomoć posjetiteljima te komunikacijske aktivnosti u Kući Europe za Predstavništvo Europske komisije i Europski parlament u Kopenhagenu — PO/2017-10/COP</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="EN">European Commission, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General Communication, Representation in Copenhagen – PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informationstjenesteydelser og bistand til besøgende samt kommunikationsaktiviteter i Europahuset for Europa-Kommissionens og Europa-Parlamentets repræsentation i København — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Repræsentationen søger en kvalificeret og erfaren tjenesteudbyder, der kan levere objektive informationstjenesteydelser og bistand til besøgende samt kommunikationsaktiviteter i Europahuset.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Europa-Kommissionen, Europahuset i København, Danmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se udbudsmaterialet.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Kommunikationsaktiviteter for institutionerne</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maksimumsbudgettet for denne kontrakt er 960 000 EUR over 4 år, ekskl. moms.</P>
+                  <P>Europa-Kommissionen: http://ec.europa.eu/denmark/</P>
+                  <P>Europa-Parlamentet: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informationstjenesteydelser og bistand til besøgende samt kommunikationsaktiviteter i Europahuset for Europa-Kommissionens og Europa-Parlamentets repræsentation i København — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Den Europæiske Ombudsmand</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen anført i afsnit I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informationsdienstleistungen und Hilfe für Besucher sowie Kommunikationstätigkeiten im Europa-Haus für die Vertretung der Europäischen Kommission und das Europäische Parlament in Kopenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Die Vertretung benötigt Dienstleistungen eines qualifizierten und erfahrenen Dienstleisters für die Erbringung von objektiven Informationsdienstleistungen und die Bereitstellung von Hilfe für Besucher sowie für Kommunikationstätigkeiten im Europa-Haus.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>im Europa-Haus der Europäischen Kommission in Kopenhagen, Dänemark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Siehe Ausschreibungsunterlagen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Maßnahmen im Bereich Unternehmenskommunikation.</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Das maximale Budget für diese Ausschreibung beträgt 960 000 EUR (ohne MwSt.) für 4 Jahre.</P>
+                  <P>Europäische Kommission: http://ec.europa.eu/denmark/</P>
+                  <P>Europäisches Parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informationsdienstleistungen und Hilfe für Besucher sowie Kommunikationstätigkeiten im Europa-Haus für die Vertretung der Europäischen Kommission und das Europäische Parlament in Kopenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europäischer Bürgerbeauftragter</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Information services and assistance to visitors and communication activities in the Europe House for the European Commission Representation and the European Parliament in Copenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The Representation is seeking the services of a qualified and experienced service provider to provide objective information services and assistance to visitors and communication activities in the Europe House.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>At the European Commission Europe House in Copenhagen, Denmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>See tender specifications.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Corporate Communication actions</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>The maximum budget for this tender is 960 000 EUR over 4 years, VAT excluded.</P>
+                  <P>European Commission: http://ec.europa.eu/denmark/</P>
+                  <P>European Parliament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Information services and assistance to visitors and communication activities in the Europe House for the European Commission Representation and the European Parliament in Copenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>European Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>See Internet address provided in Section I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servicios de información y asistencia a los visitantes y actividades de comunicación en la Casa Europea a favor de la Representación de la Comisión Europea y del Parlamento Europeo en Copenhague — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>La Representación desea contratar los servicios de un proveedor de servicios cualificado y con experiencia, que preste servicios de información objetivos y asistencia a los visitantes y realice actividades de comunicación en la Casa de Europa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>En la Casa de Europa de la Comisión Europea en Copenhague, Dinamarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Véase el pliego de condiciones.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Acciones de comunicación corporativa</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>El presupuesto máximo para este concurso asciende a 960 000 EUR durante 4 años, IVA excluido.</P>
+                  <P>Comisión Europea: http://ec.europa.eu/denmark/</P>
+                  <P>Parlamento Europeo: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Servicios de información y asistencia a los visitantes y actividades de comunicación en la Casa Europea a favor de la Representación de la Comisión Europea y del Parlamento Europeo en Copenhague — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Defensor del Pueblo Europeo</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General Communication, Representation in Copenhagen – PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tietopalvelut ja tuki vierailijoille sekä viestintätoimet Eurooppa-talossa Euroopan komission edustustoa ja Euroopan parlamenttia varten Kööpenhaminassa – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Edustusto tarvitsee pätevän ja kokeneen palveluntarjoajan palveluja, jotta voidaan toimittaa puolueettomia tiedotuspalveluja ja tukea vierailijoille sekä viestintätoimia Eurooppa-talossa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Euroopan komission Eurooppa-talo Kööpenhaminassa (Tanska).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Katso tarjouseritelmät.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>yritysten viestintätoimet</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Tämän tarjouspyynnön enimmäisbudjetti on 960 000 euroa 4 vuoden ajalle (ilman arvonlisäveroa).</P>
+                  <P>Euroopan komissio: http://ec.europa.eu/denmark/</P>
+                  <P>Euroopan parlamentti: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Tietopalvelut ja tuki vierailijoille sekä viestintätoimet Eurooppa-talossa Euroopan komission edustustoa ja Euroopan parlamenttia varten Kööpenhaminassa – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Euroopan oikeusasiamies</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>katso kohdassa I.3 annettu internetosoite.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Services d'information, assistance aux visiteurs et activités de communication à la Maison de l'Europe en faveur de la représentation de la Commission européenne et du Parlement européen à Copenhague — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>La représentation cherche à s'adjoindre les services d'un prestataire qualifié et expérimenté qui sera chargé de fournir des services d'information objectifs, une assistance aux visiteurs et des activités de communication à la Maison de l'Europe.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Maison de l'Europe de la Commission européenne à Copenhague, Danemark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir cahier des charges.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Actions en matière de communication d'entreprise</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Le budget maximal alloué au présent marché s'élève à 960 000 EUR pour 4 ans, hors TVA.</P>
+                  <P>Commission européenne: http://ec.europa.eu/denmark/</P>
+                  <P>Parlement européen: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Services d'information, assistance aux visiteurs et activités de communication à la Maison de l'Europe en faveur de la représentation de la Commission européenne et du Parlement européen à Copenhague — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Médiateur européen</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Voir l’adresse Internet mentionnée à la section I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή υπηρεσιών πληροφόρησης και υποστήριξης σε επισκέπτες καθώς και επικοινωνιακών δραστηριοτήτων στον Οίκο της Ευρώπης για την Αντιπροσωπεία της Ευρωπαϊκής Επιτροπής και το Ευρωπαϊκό Κοινοβούλιο στην Κοπεγχάγη— PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Η Αντιπροσωπεία αναζητά τις υπηρεσίες καταρτισμένου και έμπειρου παρόχου υπηρεσιών για την παροχή υπηρεσιών αντικειμενικής πληροφόρησης και υποστήριξης σε επισκέπτες καθώς και επικοινωνιακών δραστηριοτήτων στον Οίκο της Ευρώπης.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Στον Οίκο της Ευρώπης της Ευρωπαϊκής Επιτροπής στην Κοπεγχάγη, Δανία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Βλέπε συγγραφή υποχρεώσεων.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Δράσεις εταιρικής επικοινωνίας</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ο ανώτατος προϋπολογισμός για τον παρόντα διαγωνισμό ανέρχεται σε 960 000 EUR για διάρκεια 4 ετών, χωρίς ΦΠΑ.</P>
+                  <P>Ευρωπαϊκή Επιτροπή: http://ec.europa.eu/denmark/</P>
+                  <P>Ευρωπαϊκό Κοινοβούλιο: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Παροχή υπηρεσιών πληροφόρησης και υποστήριξης σε επισκέπτες καθώς και επικοινωνιακών δραστηριοτήτων στον Οίκο της Ευρώπης για την Αντιπροσωπεία της Ευρωπαϊκής Επιτροπής και το Ευρωπαϊκό Κοινοβούλιο στην Κοπεγχάγη— PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Ευρωπαίος Διαμεσολαβητής</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servizi di informazione e attività di assistenza ai visitatori e di comunicazione presso la Casa d'Europa per la rappresentanza della Commissione europea e il Parlamento europeo a Copenaghen — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>La rappresentanza intende avvalersi dei servizi di un prestatore qualificato e con esperienza per prestare servizi di informazione obiettivi e attività di assistenza ai visitatori e di comunicazione presso la Casa d'Europa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Presso la Casa d'Europa della Commissione europea a Copenaghen, Danimarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cfr. capitolato d'oneri.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Azioni di comunicazione istituzionale</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>L'importo massimo per il presente bando è pari a 960 000 EUR per 4 anni, IVA esclusa.</P>
+                  <P>Commissione europea: http://ec.europa.eu/denmark/</P>
+                  <P>Parlamento europeo: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Servizi di informazione e attività di assistenza ai visitatori e di comunicazione presso la Casa d'Europa per la rappresentanza della Commissione europea e il Parlamento europeo a Copenaghen — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Associazione Den Danske Europabevægelse</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Mediatore europeo</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Cfr. indirizzo Internet indicato alla sezione I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informatiediensten, bijstand aan bezoekers en communicatieactiviteiten in het Huis van Europa voor de Vertegenwoordiging van de Europese Commissie en het Europees Parlement in Kopenhagen — PO/2017-10/COP.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De Vertegenwoordiging is op zoek naar de diensten van een gekwalificeerde en ervaren dienstverlener voor het verlenen van objectieve informatiediensten, het verlenen van bijstand aan bezoekers en het verrichten van communicatiewerkzaamheden in het Huis van Europa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>in het Huis van Europa van de Europese Commissie in Kopenhagen, Denemarken.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>zie de aanbestedingsstukken.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Bedrijfscommunicatieacties.</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>De maximumbegroting voor deze aanbesteding bedraagt 960 000 EUR over 4 jaar, exclusief btw.</P>
+                  <P>Europese Commissie: http://ec.europa.eu/denmark/</P>
+                  <P>Europees Parlement: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informatiediensten, bijstand aan bezoekers en communicatieactiviteiten in het Huis van Europa voor de Vertegenwoordiging van de Europese Commissie en het Europees Parlement in Kopenhagen — PO/2017-10/COP.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europese Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zie het internetadres vermeld in I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Serviços de informação e assistência aos visitantes e atividades de comunicação na «Europe House» a favor da Representação da Comissão Europeia e do Parlamento Europeu em Copenhaga — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A Representação procura os serviços de um prestador de serviços qualificado e experiente para a prestação de serviços de informação objetiva e assistência aos visitantes e atividades de comunicação na «Europe House».</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Na «Europe House» da Comissão Europeia em Copenhaga, Dinamarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Consultar o caderno de encargos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Ações de comunicação corporativa</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>O orçamento máximo para o presente concurso é de 960 000 EUR para 4 anos, sem IVA.</P>
+                  <P>Comissão Europeia: http://ec.europa.eu/denmark/</P>
+                  <P>Parlamento Europeu: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Serviços de informação e assistência aos visitantes e atividades de comunicação na «Europe House» a favor da Representação da Comissão Europeia e do Parlamento Europeu em Copenhaga — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Provedor de Justiça Europeu</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informationstjänster och stöd till besökare och kommunikationsverksamheter i Europahuset för Europeiska kommissionens representation och Europaparlamentet i Köpenhamn – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Representationen söker tjänster från en kvalificerad och erfaren tjänsteleverantör som ska tillhandahålla objektiva informationstjänster och stöd till besökare och kommunikationsverksamheter i Europahuset.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Vid Europeiska kommissionens Europahus i Köpenhamn, Danmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se förfrågningsunderlagen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Kommunikationsinsatser</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Högsta budget för denna upphandling är 960 000 EUR under 4 år, exklusive moms.</P>
+                  <P>Europeiska kommissionen: http://ec.europa.eu/denmark/</P>
+                  <P>Europaparlamentet: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informationstjänster och stöd till besökare och kommunikationsverksamheter i Europahuset för Europeiska kommissionens representation och Europaparlamentet i Köpenhamn – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europeiska ombudsmannen</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen som anges i punkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informační služby a pomoc návštěvníkům a komunikační činnosti v Evropském domě pro Zastoupení Evropské komise a Evropského parlamentu v Kodani – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zastoupení poptává služby kvalifikovaného a zkušeného poskytovatele služeb, který zajistí služby objektivního informování a pomoci návštěvníkům a bude provádět komunikační činnosti v Evropském domě.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>V Evropském domě Evropské komise v Kodani v Dánsku.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Viz specifikace nabídkového řízení.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Opatření v oblasti firemní komunikace</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maximální rozpočet pro toto nabídkové řízení je 960 000 EUR na dobu 4 let, bez DPH.</P>
+                  <P>Evropská komise: http://ec.europa.eu/denmark/</P>
+                  <P>Evropský parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informační služby a pomoc návštěvníkům a komunikační činnosti v Evropském domě pro Zastoupení Evropské komise a Evropského parlamentu v Kodani – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Evropský veřejný ochránce práv</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Teabeteenused, külastajate abistamine ja teabevahetustegevused Euroopa Parlamendi ja Euroopa Komisjoni esinduse Kopenhaagenis asuva Euroopa Maja jaoks – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Esindus otsib kvalifitseeritud ja kogenud teenuseosutajat, et osutada Euroopa Majas objektiivseid teabeteenuseid, abistada külastajaid ning tagada teabevahetustegevused.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Euroopa Komisjoni Euroopa Majas Kopenhaagenis (Taani).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>vt pakkumistingimusi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>asutus(t)e teabevahetuse meetmed.</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Käesoleva pakkumise maksimaalne eelarve 4 aastaks on 960 000 EUR (käibemaksuta).</P>
+                  <P>Euroopa Komisjon: http://ec.europa.eu/denmark/</P>
+                  <P>Euroopa Parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Teabeteenused, külastajate abistamine ja teabevahetustegevused Euroopa Parlamendi ja Euroopa Komisjoni esinduse Kopenhaagenis asuva Euroopa Maja jaoks – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Euroopa Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>vt punktis I.3 nimetatud internetiaadressi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Információs szolgáltatások és segítségnyújtás a látogatóknak, illetve kommunikációs tevékenységek az Európa Házban az Európai Bizottság képviselete és az Európai Parlament számára, Koppenhágában – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A képviselet képzett és tapasztalt szolgáltató szolgáltatásaira tart igényt objektív információs szolgáltatások, a látogatóknak biztosított segítségnyújtás, valamint kommunikációs tevékenységek ellátására az Európa Házban.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Az Európai Bizottság koppenhágai (Dánia) Európa Házában.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lásd a pályázati dokumentációt.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Vállalati kommunikációs tevékenységek</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>A tender maximális költségvetése 960 000 EUR (héa nélkül) a 4 évre.</P>
+                  <P>Európai Bizottság: http://ec.europa.eu/denmark/</P>
+                  <P>Európai Parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Információs szolgáltatások és segítségnyújtás a látogatóknak, illetve kommunikációs tevékenységek az Európa Házban az Európai Bizottság képviselete és az Európai Parlament számára, Koppenhágában – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Európai Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informacijos paslaugos ir pagalba lankytojams bei komunikacijos veiklai Europos Komisijos atstovybės ir Europos Parlamento Europos namuose Kopenhagoje – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Atstovybė ieško kvalifikuoto ir patyrusio paslaugų teikėjo paslaugų, kuris teiktų objektyvios informacijos paslaugas ir pagalbą lankytojams bei komunikacijos veiklai Europos namuose.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Europos Komisijos Europos namuose Kopenhagoje, Danija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Žr. pirkimo specifikacijas.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Institucinio informavimo veikla</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Didžiausias šio konkurso biudžetas – 960 000 EUR per 4 metus (be PVM).</P>
+                  <P>Europos Komisija: http://ec.europa.eu/denmark/</P>
+                  <P>Europos Parlamentas: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informacijos paslaugos ir pagalba lankytojams bei komunikacijos veiklai Europos Komisijos atstovybės ir Europos Parlamento Europos namuose Kopenhagoje – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europos ombudsmenas</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informācijas sniegšanas pakalpojumi un palīdzība apmeklētājiem, kā arī komunikācijas pasākumi Eiropas mājā Eiropas Komisijas pārstāvniecības un Eiropas Parlamenta vajadzībām Kopenhāgenā – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pārstāvniecība vēlas saņemt pakalpojumus no kvalificēta un pieredzējuša pakalpojumu sniedzēja, kurš nodrošinās objektīvas informācijas sniegšanas pakalpojumus un palīdzību apmeklētājiem, kā arī komunikācijas pasākumus Eiropas mājā.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Eiropas Komisijas Eiropas mājā Kopenhāgenā, Dānijā.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Skatīt konkursa specifikācijas.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>korporatīvi komunikācijas pasākumi</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maksimālais budžets šim konkursam ir 960 000 EUR (bez PVN) 4 gadiem.</P>
+                  <P>Eiropas Komisija: http://ec.europa.eu/denmark/</P>
+                  <P>Eiropas Parlaments: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informācijas sniegšanas pakalpojumi un palīdzība apmeklētājiem, kā arī komunikācijas pasākumi Eiropas mājā Eiropas Komisijas pārstāvniecības un Eiropas Parlamenta vajadzībām Kopenhāgenā – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Eiropas Ombuds</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servizzi ta' informazzjoni u għajnuna lill-viżitaturi u attivitajiet ta' komunikazzjoni f'Dar l-Ewropa għar-Rappreżentanza tal-Kummissjoni Ewropea u l-Parlament Ewropew f'Copenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ir-Rappreżentanza qed tfittex is-servizzi ta' fornitur ikkwalifikat u bl-esperjenza biex jipprovdi servizzi ta' informazzjoni oġġettiva u għajnuna lill-viżitaturi u attivitajiet ta' komunikazzjoni f'Dar l-Ewropa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>F'Dar l-Ewropa tal-Kummissjoni Ewropea f'Copenhagen,id-Danimarka.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ara l-ispeċifikazzjonijiet tas-sejħa għall-offerti.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Azzjonijiet ta' komunikazzjoni korporattiva</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>L-ogħla baġit għal din is-sejħa għall-offerti hu ta' 960 000 EUR fuq perijodu ta' 4 snin, mingħajr il-VAT.</P>
+                  <P>Il-Kummissjoni Ewropea: http://ec.europa.eu/denmark/</P>
+                  <P>Il-Parlament Ewropew: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Servizzi ta' informazzjoni u għajnuna lill-viżitaturi u attivitajiet ta' komunikazzjoni f'Dar l-Ewropa għar-Rappreżentanza tal-Kummissjoni Ewropea u l-Parlament Ewropew f'Copenhagen — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>L-Ombudsman Ewropew</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Usługi udzielania informacji i pomocy odwiedzającym oraz działania komunikacyjne w Domu Europejskim na rzecz Przedstawicielstwa Komisji Europejskiej i Parlamentu Europejskiego w Kopenhadze – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Przedstawicielstwo wymaga usług wykwalifikowanego i doświadczonego usługodawcy, który będzie świadczył usługi udzielania obiektywnych informacji i pomocy odwiedzającym oraz usługi o charakterze działań komunikacyjnych w Domu Europejskim.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Dom Europejski Komisji Europejskiej w Kopenhadze, Dania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zob. specyfikacja istotnych warunków zamówienia.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Korporacyjne działania komunikacyjne</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maksymalny budżet niniejszego zamówienia wynosi 960 000 EUR bez VAT na okres 4 lat.</P>
+                  <P>Komisja Europejska: http://ec.europa.eu/denmark/</P>
+                  <P>Parlament Europejski: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Usługi udzielania informacji i pomocy odwiedzającym oraz działania komunikacyjne w Domu Europejskim na rzecz Przedstawicielstwa Komisji Europejskiej i Parlamentu Europejskiego w Kopenhadze – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europejski Rzecznik Praw Obywatelskich</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Communication, Representation in Copenhagen – PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informačné služby a pomoc pre návštevníkov a komunikačné činnosti v Dome Európy pre Zastúpenie Európskej komisie a Európsky parlament v Kodani – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zastúpenie hľadá služby kvalifikovaného a skúseného poskytovateľa služieb na zabezpečenie služieb objektívneho informovania a pomoci pre návštevníkov a komunikačných činností v Dome Európy.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>V Dome Európy Európskej komisie v Kodani, Dánsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pozri špecifikácie obstarávania.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Podnikové komunikačné činnosti</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maximálny rozpočet pre toto obstarávanie je 960 000 EUR na 4 roky, bez DPH.</P>
+                  <P>Európska komisia: http://ec.europa.eu/denmark/</P>
+                  <P>Európsky parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informačné služby a pomoc pre návštevníkov a komunikačné činnosti v Dome Európy pre Zastúpenie Európskej komisie a Európsky parlament v Kodani – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Európsky ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Storitve zagotavljanja informacij in pomoči obiskovalcem ter komunikacijske dejavnosti v Evropski hiši za predstavništvo Evropske komisije in Evropskega parlamenta v Københavnu – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predstavništvo išče storitve usposobljenega in izkušenega ponudnika storitev, ki bo zagotavljal objektivne informacije in pomoč obiskovalcem ter izvajal komunikacijske dejavnosti v Evropski hiši.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>V Evropski hiši Evropske komisije v Københavnu, Danska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Glejte razpisne specifikacije.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ukrepi organizacijskega komuniciranja</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Maksimalni proračun za to naročilo je 960 000 EUR brez DDV za 4 leta.</P>
+                  <P>Evropska komisija: http://ec.europa.eu/denmark/</P>
+                  <P>Evropski parlament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Storitve zagotavljanja informacij in pomoči obiskovalcem ter komunikacijske dejavnosti v Evropski hiši za predstavništvo Evropske komisije in Evropskega parlamenta v Københavnu – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Evropski varuh človekovih pravic</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Seirbhísí faisnéise agus cúnamh do chuairteoirí agus gníomhaíochtaí cumarsáide i dTeach na hEorpa d'Ionadaíocht an Choimisiúin Eorpaigh agus do Pharlaimint na hEorpa i gCóbanhávan — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tá an Ionadaíocht ag lorg seirbhísí le soláthraí seirbhíse cáilithe ag a bhfuil taithí chun seirbhísí faisnéise oibiachtúla agus cúnamh a sholáthar do chuairteoirí agus gníomhaíochtaí cumarsáide a sholáthar i dTeach na hEorpa.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Ag Teach na hEorpa de chuid an Choimisiúin Eorpaigh i gCóbanhávan, an Danmhairg.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Féach na sonraíochtaí tairisceana.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Gníomhartha Cumarsáide Corparáidí</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Is é an t-uasbhuiséad don tairiscint seo 960 000 EUR thar 4 bliana, cé is moite den CBL.</P>
+                  <P>An Coimisiún Eorpach: http://ec.europa.eu/denmark/</P>
+                  <P>Parlaimint na hEorpa: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Seirbhísí faisnéise agus cúnamh do chuairteoirí agus gníomhaíochtaí cumarsáide i dTeach na hEorpa d'Ionadaíocht an Choimisiúin Eorpaigh agus do Pharlaimint na hEorpa i gCóbanhávan — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>An tOmbudsman Eorpach</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Féach an seoladh Idirlín atá curtha ar fáil in Alt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Информационни услуги и съдействие за посетителите и комуникационни дейности в Дома на Европа за Представителството на Европейската комисия и Европейския парламент в Копенхаген — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Представителството търси услугите на квалифициран и опитен доставчик на услуги за осигуряване на обективни информационни услуги и съдействие за посетителите и комуникационните дейности в Дома на Европа.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>В Дома на Европа на Европейската комисия в Копенхаген, Дания.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Вж. тръжните спецификации.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Корпоративни комуникационни действия</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Максималният бюджет за този търг е 960 000 EUR за 4 години, без ДДС.</P>
+                  <P>European Commission: http://ec.europa.eu/denmark/</P>
+                  <P>European Parliament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Информационни услуги и съдействие за посетителите и комуникационни дейности в Дома на Европа за Представителството на Европейската комисия и Европейския парламент в Копенхаген — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Европейски омбудсман</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate-General for Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servicii de informare și de asistență pentru vizitatori și activități de comunicare în Casa Europei pentru Reprezentanța Comisiei Europene și Parlamentul European din Copenhaga – PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Reprezentanța solicită serviciile unui prestator de servicii calificat și cu experiență în vederea furnizării de servicii de informare obiective și asistență pentru vizitatori și activități de comunicare în Casa Europei.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>La Comisia Europeană, Casa Europei din Copenhaga, Danemarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A se vedea caietul de sarcini al licitației.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Acțiuni de comunicare instituțională</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Bugetul maxim al acestei licitații este de 960 000 EUR, fără TVA, pentru o perioadă de 4 ani.</P>
+                  <P>European Commission: http://ec.europa.eu/denmark/</P>
+                  <P>European Parliament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Servicii de informare și de asistență pentru vizitatori și activități de comunicare în Casa Europei pentru Reprezentanța Comisiei Europene și Parlamentul European din Copenhaga – PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Ombudsmanul European</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A se vedea adresa de internet indicată în secțiunea I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate-General Communication, Representation in Copenhagen — PO/2017-10/COP</OFFICIALNAME>
+               <ADDRESS>Gothersgade 115</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1123</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Mr. Thomas Thode</CONTACT_POINT>
+               <PHONE>+453 3414029</PHONE>
+               <E_MAIL>comm-rep-dk-tender@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://ec.europa.eu/dgs/communication/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-communication_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informacijske usluge i pomoć posjetiteljima te komunikacijske aktivnosti u Kući Europe za Predstavništvo Europske komisije i Europski parlament u Kopenhagenu — PO/2017-10/COP</P>
+            </TITLE>
+            <REFERENCE_NUMBER>PO/2017-10/COP</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79420000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predstavništvu su potrebne usluge kvalificiranog i iskusnog pružatelja usluga u svrhu pružanja objektivnih informacijskih usluga i pomoći posjetiteljima te komunikacijskih aktivnosti u Kući Europe.</P>
+            </SHORT_DESCR>
+            <VAL_RANGE_TOTAL CURRENCY="EUR">
+               <LOW>878400.00</LOW>
+               <HIGH>1740464.00</HIGH>
+            </VAL_RANGE_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>U Kući Europe Europske komisije u Kopenhagenu, u Danskoj.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vidjeti upute za nadmetanje.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>100</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Aktivnosti korporativne komunikacije</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Najveći proračun za ovaj postupak nadmetanja iznosi 960 000 EUR za 4 godine, bez PDV-a.</P>
+                  <P>European Commission: http://ec.europa.eu/denmark/</P>
+                  <P>European Parliament: http://www.europarl.europa.eu/denmark</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 155-321209</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>00018881</CONTRACT_NO>
+            <TITLE>
+               <P>Informacijske usluge i pomoć posjetiteljima te komunikacijske aktivnosti u Kući Europe za Predstavništvo Europske komisije i Europski parlament u Kopenhagenu — PO/2017-10/COP</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Den Danske Europabevægelse Association</OFFICIALNAME>
+                     <NATIONALID>46113128</NATIONALID>
+                     <ADDRESS>Rosenøms Allé 35, l.th</ADDRESS>
+                     <TOWN>DK-1970 Frederiksberg C</TOWN>
+                     <POSTAL_CODE>DK46113128</POSTAL_CODE>
+                     <COUNTRY VALUE="DK"/>
+                     <E_MAIL>krb@europabevaegelsen.dk</E_MAIL>
+                     <n2016:NUTS CODE="DK"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">960000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">960000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Nedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 43031</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europski ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg Cedex</TOWN>
+               <POSTAL_CODE>CS 30403, 67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+333 88172313</PHONE>
+               <FAX>+333 88179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-26</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

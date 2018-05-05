@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="091119-2018"
+            EDITION="2018042">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-086257-001</RECEPTION_ID>
+      <DELETION_DATE>20180417</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>42</NO_OJ>
+         <DATE_PUB>20180301</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 042-091119</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:091119-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="ES"/>
+         <IA_URL_GENERAL>http://f4e.europa.eu/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="38300000">Measuring instruments</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ES511">Barcelona</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ES511">Barcelona</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">1900000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180222</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180417</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC02</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering af en indkøbskanal til metrologiudstyr og -software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Bereitstellung eines Beschaffungskanals für Metrologie-Ausstattungen und Software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Spain</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Provision of an acquisition channel for metrology equipment and software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>España</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Suministro de un canal de adquisición para equipos y software de metrología
+</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Espanja</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Hankintakanavan toimittaminen metrologiaan liittyviä laitteita ja ohjelmistoja varten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Espagne</TI_CY>
+            <TI_TOWN>Barcelone</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture d'une chaîne d'acquisition pour une équipement de métrologie et de logiciel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ισπανία</TI_CY>
+            <TI_TOWN>Βαρκελώνη</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή δικτύου προμήθειας εξοπλισμού και λογισμικού μετρολογίας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Spagna</TI_CY>
+            <TI_TOWN>Barcellona</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di un canale di acquisizione per apparecchiature e software metrologici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Spanje</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Terbeschikkingstelling van een aankoopkanaal voor metrologische uitrusting en software.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Espanha</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestação de um canal de aquisição de equipamentos e software de metrologia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av en upphandlingskanal för metrologi utrustning och programvara</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Španělsko</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytování akvizičního kanálu pro metrologická zařízení a software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Hispaania</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Metroloogiaseadmete ja -tarkvara hankekanali pakkumine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Spanyolország</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Metrológiai berendezés és szoftver beszerzési csatornájának biztosítása</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Ispanija</TI_CY>
+            <TI_TOWN>Barselona</TI_TOWN>
+            <TI_TEXT>
+               <P>Metrologijos įrangos ir programinės įrangos įsigijimo kanalo teikimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Spānija</TI_CY>
+            <TI_TOWN>Barselona</TI_TOWN>
+            <TI_TEXT>
+               <P>Metroloģijas aprīkojuma un programmatūras iegādes avota nodrošināšana</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>Spanja</TI_CY>
+            <TI_TOWN>Barċellona</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista ta' kanal ta' ksib ta' tagħmir u softwer tal-metroloġija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Hiszpania</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Zapewnienie kanału handlowego na potrzeby zakupu sprzętu metrologicznego i oprogramowania</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Španielsko</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytovanie akvizičného kanála pre metrologické zariadenia a softvér</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Španija</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Zagotovitev dobavnega kanala za meroslovno in programsko opremo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Spáinn, an</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Soláthar bealaigh shealbhaithe um threalamh agus bogearraí méadreolaíochta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Иcпaния</TI_CY>
+            <TI_TOWN>Барселона</TI_TOWN>
+            <TI_TEXT>
+               <P>Осигуряване на канал за придобиването на метрологично оборудване и софтуер</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Spania</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizarea unui canal de achiziție pentru echipamente și software de metrologie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Španjolska</TI_CY>
+            <TI_TOWN>Barcelona</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava kanala za kupovinu mjeriteljske opreme i softvera</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Fællesforetagende for ITER og Fusionsenergiudvikling (»Fusion for Energy«)</AA_NAME>
+         <AA_NAME LG="DE">Europäisches gemeinsames Unternehmen für den ITER und die Entwicklung der Fusionsenergie („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="EN">The European Joint Undertaking for ITER and the Development of Fusion Energy ("Fusion for Energy")</AA_NAME>
+         <AA_NAME LG="ES">Empresa Común Europea para el ITER y el Desarrollo de la Energía de Fusión (Fusion for Energy)</AA_NAME>
+         <AA_NAME LG="FI">Eurooppalainen yhteisyritys ITERiä ja fuusioenergian kehittämistä varten (Fusion for Energy)</AA_NAME>
+         <AA_NAME LG="FR">Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (« Fusion for Energy »)</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή κοινή επιχείρηση για τον ITER και την ανάπτυξη της πυρηνικής σύντηξης («Fusion for Energy»)</AA_NAME>
+         <AA_NAME LG="IT">Impresa comune europea per il progetto ITER e lo sviluppo dell'energia da fusione ("Fusion for Energy")</AA_NAME>
+         <AA_NAME LG="NL">De Europese Gemeenschappelijke Onderneming voor ITER en de ontwikkeling van fusie-energie („Fusion for Energy”)</AA_NAME>
+         <AA_NAME LG="PT">Empresa Comum Europeia para o ITER e o Desenvolvimento da Energia de Fusão (Fusion for Energy)</AA_NAME>
+         <AA_NAME LG="SV">Europeiskt gemensamt företag för Iter och utveckling av fusionsenergi (Fusion for Energy)</AA_NAME>
+         <AA_NAME LG="CS">Společný evropský podnik pro ITER a rozvoj energie z jaderné syntézy („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="ET">ITERi ja tuumasünteesienergeetika arendamise Euroopa ühisettevõte ("Fusion for Energy")</AA_NAME>
+         <AA_NAME LG="HU">Fúziósenergia-fejlesztési („Fusion for Energy”) és ITER Európai Közös Vállalkozás</AA_NAME>
+         <AA_NAME LG="LT">Europos ITER įgyvendinimo ir branduolių sintezės energetikos vystymo bendroji įmonė („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="LV">ITER un kodolsintēzes enerģētikas attīstības vajadzībām izveidotais Eiropas kopuzņēmums (“Fusion for Energy”)</AA_NAME>
+         <AA_NAME LG="MT">L-Impriża Konġunta Ewropea għall-ITER u l-Iżvilupp tal-Enerġija mill-Fużjoni ("Fusion for Energy")</AA_NAME>
+         <AA_NAME LG="PL">Europejskie Wspólne Przedsięwzięcie na rzecz Realizacji Projektu ITER i Rozwoju Energii Termojądrowej („Fusion for Energy”)</AA_NAME>
+         <AA_NAME LG="SK">Európsky spoločný podnik pre ITER a rozvoj energie jadrovej syntézy („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="SL">Evropsko skupno podjetje za ITER in razvoj fuzijske energije („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="GA">An Comhfhiontar Eorpach um ITER agus um Fhuinneamh Comhleá a Fhorbairt ('Fusion for Energy')</AA_NAME>
+         <AA_NAME LG="BG">Европейско съвместно предприятие за ITER и за развитие на термоядрената енергия („Fusion for Energy“)</AA_NAME>
+         <AA_NAME LG="RO">Întreprinderea comună europeană pentru ITER și pentru dezvoltarea energiei de fuziune („Fusion for Energy”)</AA_NAME>
+         <AA_NAME LG="HR">Europsko zajedničko poduzeće za ITER i razvoj fuzijske energije ("Fusion for Energy")</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Fællesforetagende for ITER og Fusionsenergiudvikling (»Fusion for Energy«)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energi</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af en indkøbskanal til metrologiudstyr og -software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålene med de endelige rammeaftaler er at oprette en indkøbskanal til levering af metrologiinstrumenter samt tilknyttede stativer, værktøjer, optiske mål og specifik software.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>De nødvendige leverancer og tjenester skal hovedsageligt leveres til Fusion for Energys lokaler i Barcelona (Spanien).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Omfanget af den eller de endelige rammeaftaler er at levere en indkøbskanal til instrumenter, standardenheder og tilknyttede tjenesteydelser i henhold til følgende kategorier:</P>
+                  <P>— Lasermålfølgere (enkeltpunktsmåling)</P>
+                  <P>— Lasermålfølger (målingskapacitet med 6 frihedsgrader)</P>
+                  <P>— Berøringssondesystemer, såsom leddelte arme</P>
+                  <P>— Laserscanningssystem</P>
+                  <P>— Højdensitets-laserscanner</P>
+                  <P>— Fotogrammetrisk system</P>
+                  <P>— Trefødder, stativer og tilbehør</P>
+                  <P>— Sfærisk monterede reflektorer (SMRs — Spherically mounted reflectors) og værktøj</P>
+                  <P>— Metrologisoftware</P>
+                  <P>— Undervisning</P>
+                  <P>— Planlagt vedligeholdelse og årlig kalibrering</P>
+                  <P>— Garanti og garantiforlængelse.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rammeaftalernes forventede varighed er 24 måneder, der automatisk forlænges 1 gang med samme varighed, hvilket giver en samlet periode på 48 måneder.</P>
+                  <P>Hvad angår kalibreringssystemet og garantiperioden, skal kontrahenten levere kalibrering og garantierne i 4 år, fra accept af det relevante og individuelle instrument.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER-projektet</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäisches gemeinsames Unternehmen für den ITER und die Entwicklung der Fusionsenergie („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energie</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Bereitstellung eines Beschaffungskanals für Metrologie-Ausstattungen und Software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Der Zweck des daraus resultierenden Rahmenvertrags bzw. der Rahmenverträge ist die Einrichtung eines Beschaffungskanals für die Lieferung von Metrologie-Instrumenten und den dazugehörigen Ständern, Werkzeugen für optische Ziele und spezifischer Software.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Die erforderlichen Lieferaufträge und Dienste sind hauptsächlich in den Räumlichkeiten von Fusion for Energy in Barcelona (Spanien) zu erbringen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der Umfang des daraus resultierenden Rahmenvertrags bzw. der Rahmenverträge bezieht sich auf die Bereitstellung eines Beschaffungskanals für Instrumente, von serienmäßige Geräten und den dazugehörigen Diensten in den folgenden Kategorien:</P>
+                  <P>— Laser-Zielverfolgungsgeräte (Ein-Punkt-Messung).</P>
+                  <P>— Laser-Zielverfolgungsgeräte (6 Gradeinstellungen von freier Messkompetenz).</P>
+                  <P>— Tastsysteme wie z. B. Gelenkarme.</P>
+                  <P>— Laser-Scan-System.</P>
+                  <P>— High-Density-Laserscanner.</P>
+                  <P>— Photogrammetrie-System.</P>
+                  <P>— Stative, Ständer und Zubehör.</P>
+                  <P>— Reflektoren mit sphärischer Lagerung (Spherically mounted reflectors/SMRs) und Werkzeug.</P>
+                  <P>— Metrologie-Software.</P>
+                  <P>— Schulung.</P>
+                  <P>— Geplante Wartungsarbeiten und jährliche Kalibrierung.</P>
+                  <P>— Garantie und Garantieverlängerung</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Die geplante Laufzeit der Rahmenverträge beträgt 24 Monate, die 1-mal um denselben Zeitraum bis zu einer Gesamtlaufzeit von 48 Monaten verlängerbar ist.</P>
+                  <P>Im Hinblick auf die Kalibrierungsdienste und den Garantiezeitraum stellt der Auftragnehmer ab dem Zeitpunkt der Abnahme der jeweiligen relevanten Instrumente für einen 4-Jahres-Zeitraum Kalibrierungs- und Garantieleistungen bereit.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER-Projekt</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>The European Joint Undertaking for ITER and the Development of Fusion Energy ("Fusion for Energy")</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energy</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provision of an acquisition channel for metrology equipment and software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The purpose of the resulting framework contract(s) is to put in place an acquisition channel for the delivery of metrology instruments together with associated stands, tooling optical targets and specific software.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>The required supplies and services must be delivered mainly to the Fusion for Energy’s premises in Barcelona (Spain).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The scope of the resulting framework contract(s) is to provide a supply channel of the instruments, off-the-shelf devices and associated services, as per the following categories:</P>
+                  <P>— Laser trackers (single point measurement).</P>
+                  <P>— Laser tracker (6 degrees of freedom measurement capability).</P>
+                  <P>— Touch probe systems like articulated arms.</P>
+                  <P>— Laser scanning system.</P>
+                  <P>— High density laser scanner.</P>
+                  <P>— Photogrammetry system.</P>
+                  <P>— Tripods, stands and accessories.</P>
+                  <P>— Spherically mounted reflectors (SMRs) and tooling.</P>
+                  <P>— Metrology software.</P>
+                  <P>— Training.</P>
+                  <P>— Scheduled maintenance and annual calibration.</P>
+                  <P>— Warranty and warranty extension.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>The expected duration of the framework contracts is 24 months, automatically renewable once for the same duration, covering a total period of 48 months.</P>
+                  <P>With respect to the Calibration services and warranty period, the contractor shall provide calibration and warranties during 4 years from Acceptance of the relevant and each Instrument.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER project</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Común Europea para el ITER y el Desarrollo de la Energía de Fusión (Fusion for Energy)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energía</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro de un canal de adquisición para equipos y software de metrología
+</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objetivo de los contratos marco resultantes es establecer un canal de adquisición para la entrega de instrumentos de metrología junto con stands asociados, objetivos ópticos de herramientas y software específico.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Los suministros y servicios requeridos deben entregarse principalmente en las instalaciones de Fusion for Energy en Barcelona (España).
+</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El alcance de los contratos marco resultantes es proporcionar un canal de suministro de los instrumentos, dispositivos estándar y servicios asociados, de acuerdo con las siguientes categorías:
+</P>
+                  <P>— Laser trackers (medición de punto único).</P>
+                  <P>— Laser tracker (capacidad de medición de 6 grados de libertad).
+</P>
+                  <P>— Sistemas de sonda táctiles, como brazos articulados.
+</P>
+                  <P>— Sistema de escaneo láser.
+</P>
+                  <P>— Escáner láser de alta densidad.
+</P>
+                  <P>— Sistema de fotogrametría.
+</P>
+                  <P>— Trípodes, soportes y accesorios.
+</P>
+                  <P>— Reflectores montados esféricamente (SMR) y herramientas.
+</P>
+                  <P>— Software de metrología.
+</P>
+                  <P>— Formación.</P>
+                  <P>— Mantenimiento programado y calibración anual.
+</P>
+                  <P>— Garantía y extensión de garantía.
+</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La duración prevista de los contratos marco es de 24 meses, renovable automáticamente una vez por la misma duración, cubriendo un período total de 48 meses.
+</P>
+                  <P>Con respecto a los servicios de calibración y el período de garantía, el contratista proporcionará calibración y garantías durante 4 años a partir de la aceptación de cada uno de los instrumentos pertinentes.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Proyecto ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eurooppalainen yhteisyritys ITERiä ja fuusioenergian kehittämistä varten (Fusion for Energy)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energia</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Hankintakanavan toimittaminen metrologiaan liittyviä laitteita ja ohjelmistoja varten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Puitesopimuksen tarkoituksena on luoda hankintakanava metrologian laitteiden ja niihin liittyvien telineiden, optisten takaisinheijastinten ja erityisten ohjelmistojen toimitusta varten.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Vaaditut hankinnat ja palvelut toimitetaan pääasiassa Fusion for Energy -yhteisyrityksen toimitiloja varten Barcelonassa (Espanja).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tehtävän puitesopimuksen kohteena on toimittaa hankintakanava laitteiden, suoraan varastosta tulevien laitteiden ja niihin liittyvien palveluiden hankintaa varten seuraavien luokkien mukaisesti:</P>
+                  <P>— laserseurantalaitteet (yksipistemittaus),</P>
+                  <P>— laserseurantalaite (6 asteen vapaa mittauskyky),</P>
+                  <P>— kosketusanturijärjestelmä, kuten nivelvarsi,</P>
+                  <P>— laserskannausjärjestelmä,</P>
+                  <P>— suuritiheyksinen laserskanneri,</P>
+                  <P>— kuvamittausjärjestelmä,</P>
+                  <P>— kolmijalat, tuet ja lisätarvikkeet,</P>
+                  <P>— pallomaiset heijastimet (SMR) ja työvälinejärjestelmä,</P>
+                  <P>— metrologiaan liittyvät ohjelmistot,</P>
+                  <P>— koulutus,</P>
+                  <P>— ennalta sovittu huolto ja vuosittainen kalibrointi,</P>
+                  <P>— takuu ja takuun jatkaminen.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Sopimuksen ennakoitu kestoaika on 24 kuukautta, ja se voidaan uusia kerran samaksi kestoajaksi siten, että kokonaiskestoaika on 48 kuukautta.</P>
+                  <P>Kalibrointipalvelut ja takuuaika: sopimusosapuoli toimittaa kalibroinnin ja takuupalvelut 4 vuoden ajan jokaisen asiaan liittyvän kohdan hyväksymisestä.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER-hanke</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (« Fusion for Energy »)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Énergie</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture d'une chaîne d'acquisition pour une équipement de métrologie et de logiciel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'objectif du/des contrats-cadre découlant du présent marché est de mettre en place une chaîne d'acquisition pour la livraison d'instruments de métrologie ensemble avec des supports, un outillage de cibles optiques et un logiciel spécifique associés.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Les fournitures de services prévus doivent être fournis principalement à Fusion for Energy dans les locaux de Barcelone (Espagne).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L'étendue du/des contrats cadre en découlant du présent marché est de fournir une chaîne de fourniture des instruments, des services prêts à l’emploi et des services associés, selon les catégories suivantes :</P>
+                  <P>— Des laser trackers (point de mesure unique),</P>
+                  <P>— Un laser tracker (capacité d'une mesure à 6 degrés de liberté),</P>
+                  <P>— Systèmes à sonde par contact, comme des bras articulés,</P>
+                  <P>— Système de balayage à laser,</P>
+                  <P>— Scanner à laser haute densité,</P>
+                  <P>— Système de photogrammétrie,</P>
+                  <P>— Tripodes, supports et accessoires,</P>
+                  <P>— Réflecteurs montés en sphère et outillage,</P>
+                  <P>— Logiciel de métrologie,</P>
+                  <P>— Formation,</P>
+                  <P>— Entretien programmé et étalonnage annuel,</P>
+                  <P>— Garantie et extension de garantie.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durée prévue des contrats-cadre est de 24 mois, renouvelable automatiquement 1 fois pour la même durée, soit une période totale de 48 mois.</P>
+                  <P>Concernant les services d'étalonnage et la période de garantie, le contractant est tenu de fournir l'étalonnage et les garanties pendant 4 ans à partir de la réception de chaque instrument concerné.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Projet ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή κοινή επιχείρηση για τον ITER και την ανάπτυξη της πυρηνικής σύντηξης («Fusion for Energy»)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ενέργεια</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή δικτύου προμήθειας εξοπλισμού και λογισμικού μετρολογίας</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Σκοπός της σύμβασης-πλαίσιο που θα προκύψει είναι να δημιουργηθεί ένα δίκτυο προμήθειας για την παράδοση οργάνων μετρολογίας μαζί με τα σχετικά σταντ, τα εργαλεία, τους οπτικούς στόχους και το ειδικό λογισμικό.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Οι απαιτούμενες προμήθειες και υπηρεσίες πρέπει να παραδίδονται κυρίως στις εγκαταστάσεις της Fusion for Energy στη Βαρκελώνη (Ισπανία).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Το πεδίο εφαρμογής της σύμβασης-πλαίσιο που θα προκύψει είναι η παροχή ενός δικτύου προμήθειας οργάνων, έτοιμων προς χρήση συσκευών και συναφών υπηρεσιών, σύμφωνα με τις ακόλουθες κατηγορίες:</P>
+                  <P>— Ιχνηλάτες λέιζερ (μέτρηση ενός σημείου).</P>
+                  <P>— Ιχνηλάτης λέιζερ (δυνατότητα μέτρησης ελευθερίας 6 βαθμών).</P>
+                  <P>— Συστήματα ανιχνευτών αφής όπως αρθρωτοί βραχίονες.</P>
+                  <P>— Σύστημα σάρωσης λέιζερ.</P>
+                  <P>— Λέιζερ σκάνερ υψηλής πυκνότητας.</P>
+                  <P>— Σύστημα φωτογραμμετρίας.</P>
+                  <P>— Τρίποδες, βάσεις και εξαρτήματα.</P>
+                  <P>— Οπίσθιοι ανακλαστήρες (SMRs) και εργαλεία.</P>
+                  <P>— Λογισμικό μετρολογίας.</P>
+                  <P>— Κατάρτιση.</P>
+                  <P>— Προγραμματισμένη συντήρηση και ετήσια βαθμονόμηση.</P>
+                  <P>— Εγγύηση και επέκταση παροχής εγγύησης.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Η αναμενόμενη διάρκεια των συμβάσεων-πλαίσιο είναι 24 μήνες, η οποία μπορεί να ανανεωθεί αυτόματα μία φορά για την ίδια διάρκεια, καλύπτοντας συνολική περίοδο 48 μηνών.</P>
+                  <P>Όσον αφορά τις υπηρεσίες βαθμονόμησης και την περίοδο εγγύησης, ο ανάδοχος πρέπει να παρέχει βαθμονόμηση και εγγυήσεις κατά τη διάρκεια 4 ετών από την αποδοχή του σχετικού και κάθε μέσου.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Σχέδιο ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Impresa comune europea per il progetto ITER e lo sviluppo dell'energia da fusione ("Fusion for Energy")</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energia</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di un canale di acquisizione per apparecchiature e software metrologici</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lo scopo del o dei contratti quadro risultanti è quello di mettere in atto un canale di acquisizione per la consegna di strumenti metrologici e dei relativi supporti, obiettivi ottici e software specifico.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>le forniture e i servizi richiesti devono essere consegnati principalmente nei locali di Fusion for Energy a Barcellona (Spagna).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lo scopo del o dei contratti quadro risultanti è quello di fornire un canale di fornitura degli strumenti, dei dispositivi pronti all'uso e dei servizi associati, secondo le seguenti categorie:</P>
+                  <P>— inseguitori a laser (misurazione su un singolo punto);</P>
+                  <P>— inseguitore a laser (capacità di misurazione con 6 gradi di libertà);</P>
+                  <P>— tastatori come bracci articolati;</P>
+                  <P>— sistema di scansione laser;</P>
+                  <P>— scanner laser ad alta densità;</P>
+                  <P>— sistema di fotogrammetria;</P>
+                  <P>— treppiedi, supporti e accessori;</P>
+                  <P>— riflettori sferici e utensili;</P>
+                  <P>— software metrologico;</P>
+                  <P>— formazione;</P>
+                  <P>— manutenzione programmata e calibrazione annuale;</P>
+                  <P>— garanzia ed estensione della garanzia.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durata prevista dei contratti quadro è di 24 mesi, automaticamente rinnovabile una volta per lo stesso periodo, per una durata totale di 48 mesi.</P>
+                  <P>Per quanto riguarda i servizi di calibrazione e il periodo di garanzia, il contraente deve fornire calibrazione e garanzie nei 4 anni successivi all'accettazione di ogni strumento pertinente.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>progetto ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>De Europese Gemeenschappelijke Onderneming voor ITER en de ontwikkeling van fusie-energie („Fusion for Energy”)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energie.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Terbeschikkingstelling van een aankoopkanaal voor metrologische uitrusting en software.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Het doel van de resulterende raamovereenkomst(en) is de totstandbrenging van een aankoopkanaal voor de levering van metrologische instrumenten in combinatie met de bijhorende standers, gereedschappen, optische doelen en specifieke software.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>de vereiste goederen en diensten moeten hoofdzakelijk worden geleverd/verleend in de kantoren van „Fusion for Energy” in Barcelona (Spanje).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>De resulterende raamovereenkomst(en) behelst/behelzen de terbeschikkingstelling van een aankoopkanaal voor de instrumenten, gebruiksklare toestellen en de verlening van aanverwante diensten, verdeeld in de volgende categorieën:</P>
+                  <P>— lasertrackers (voor metingen op 1 punt),</P>
+                  <P>— lasertrackers (met de capaciteit om vrije metingen uit te voeren op 6 niveaus),</P>
+                  <P>— tastersystemen, zoals scharnierende armen,</P>
+                  <P>— laserscansysteem,</P>
+                  <P>— laserscanner met hoge dichtheid,</P>
+                  <P>— fotogrammetriesysteem,</P>
+                  <P>— statieven met drie poten, standers en accessoires,</P>
+                  <P>— sferisch geïnstalleerde reflectoren (SMR's - spherically mounted reflectors) en gereedschappen,</P>
+                  <P>— metrologische software,</P>
+                  <P>— opleiding,</P>
+                  <P>— gepland onderhoud en jaarlijkse ijking,</P>
+                  <P>— garantie en garantieverlenging.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>de verwachte looptijd van de raamovereenkomst bedraagt 24 maanden, eenmaal automatisch verlengbaar voor dezelfde termijn, wat neerkomt op een totale looptijd van 48 maanden.</P>
+                  <P>Voor wat de ijking en de garantieperiode betreft, moet de contractant de ijking uitvoeren en de garantie verlenen gedurende 4 jaar vanaf de aanvaarding van elk relevant instrument.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER-project.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Comum Europeia para o ITER e o Desenvolvimento da Energia de Fusão (Fusion for Energy)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energia</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestação de um canal de aquisição de equipamentos e software de metrologia</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objetivo do(s) contrato(s)-quadro resultante(s) é implementar um canal de aquisição para a entrega de instrumentos de metrologia, juntamente com expositores associados, ferramentas de alvos óticos e software específico.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Os fornecimentos e serviços necessários devem ser entregues principalmente nas instalações da «Fusion for Energy» em Barcelona (Espanha).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O âmbito do(s) contrato(s)-quadro resultante(s) é implementar um canal de fornecimento de instrumentos, dispositivos "off the shelf" e serviços conexos, de acordo com as seguintes categorias:</P>
+                  <P>— Rastreadores a laser (medição de ponto único).</P>
+                  <P>— Rastreador a laser (capacidade de medição de 6 graus de liberdade).</P>
+                  <P>— Sistemas de sonda de medição, como braços articulados.</P>
+                  <P>— Sistema de digitalização a laser.</P>
+                  <P>— Digitalização a laser de alta densidade.</P>
+                  <P>— Sistema de fotogrametria.</P>
+                  <P>— Tripés, expositores e acessórios.</P>
+                  <P>— Refletores de montagem esférica (SMRs) e ferramentas.</P>
+                  <P>— Software de metrologia.</P>
+                  <P>— Formação.</P>
+                  <P>— Manutenção programada e calibração anual.</P>
+                  <P>— Garantia e extensão de garantia.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A duração prevista dos contrato(s)-quadro corresponde a 24 meses, renovável uma vez pela mesma duração, abrangendo um período total de 48 meses.</P>
+                  <P>No que diz respeito aos serviços de calibração e ao período de garantia, o contratante deve fornecer calibração e garantias durante 4 anos a partir da aceitação de cada instrumento relevante.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Projeto ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiskt gemensamt företag för Iter och utveckling av fusionsenergi (Fusion for Energy)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energi</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av en upphandlingskanal för metrologi utrustning och programvara</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med det/de ramavtal som upprättas är att inrätta en upphandlingskanal för leverans av metrologi utrustning tillsammans med tillhörande stativ, optiska verktyg och särskild programvara.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>De erfordrade varorna och tjänsterna ska huvudsakligen levereras till Fusion for Energy:s lokaler i Barcelona (Spanien).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Omfattningen av det/de ramavtal som upprättas är att tillhandahålla en leveranskanal för instrument, enheter av standardtyp och tillhörande tjänster, i enlighet med följande kategorier:</P>
+                  <P>— Laserspårare (med en mätpunkt).</P>
+                  <P>— Laserspårare (6 frihetsgraders mätkapacitet).</P>
+                  <P>— System för kontaktprober, såsom ledade armar.</P>
+                  <P>— System för laserskanning.</P>
+                  <P>— Laserskanner med hög densitet.</P>
+                  <P>— Bildmätningssystem.</P>
+                  <P>— Trebensstativ, stativ och tillbehör.</P>
+                  <P>— Sfäriska monterade reflektorer (Spherically mounted reflectors - SMRs) och verktyg.</P>
+                  <P>— Metrologisk programvara.</P>
+                  <P>— Utbildning.</P>
+                  <P>— Schemalagt underhåll och årlig kalibrering.</P>
+                  <P>— Garanti och garantiförlängning.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Den förväntade löptiden för ramavtalet är 24 månader med automatiskt förlängning en gång med samma löptid, vilket omfattar en total period på 48 månader.</P>
+                  <P>Med hänsyn till kalibreringstjänsterna och garantiperioden, ska uppdragstagaren tillhandahålla kalibrering och garantier under 4 år från och med godkännande för varje relevant instrument.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Iter-projektet</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Společný evropský podnik pro ITER a rozvoj energie z jaderné syntézy („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energie</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytování akvizičního kanálu pro metrologická zařízení a software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Účelem výsledné rámcové smlouvy (rámcových smluv) je zavést akviziční kanál pro dodávku metrologických přístrojů spolu s přidruženými stojany, nástrojovými optickými cíli a specifickým softwarem.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Požadované dodávky a služby musí být dodány hlavně do prostor Fusion for Energy v Barceloně (Španělsko).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rozsah výsledné rámcové smlouvy (smluv) má poskytnout kanál dodávek nástrojů, existujících zařízení a přidružených služeb podle následujících kategorií:</P>
+                  <P>— laserové sledovače (měření jednoho bodu);</P>
+                  <P>— laserový sledovač (schopnost měření 6 stupňů volnosti);</P>
+                  <P>— systémy dotykové sondy jako jsou kloubová ramena;</P>
+                  <P>— systém laserového snímání;</P>
+                  <P>— laserový snímač s vysokou hustotou;</P>
+                  <P>— systém fotogrammetrie;</P>
+                  <P>— stativy, stojany a příslušenství;</P>
+                  <P>— sféricky zamontované reflektory (SMR) a nářadí;</P>
+                  <P>— metrologický software;</P>
+                  <P>— školení;</P>
+                  <P>— plánovaná údržba a roční kalibrace;</P>
+                  <P>— záruka a prodloužení záruky.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Předpokládané trvání rámcových smluv je v délce 24 měsíců, s možností jednoho automatického obnovení o stejnou dobu, takže celková doba bude v trvání 48 měsíců.</P>
+                  <P>V souvislosti s kalibračními službami a záruční dobou poskytne zhotovitel kalibraci a záruky během 4 let od přijetí příslušného a každého nástroje.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Projekt ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>ITERi ja tuumasünteesienergeetika arendamise Euroopa ühisettevõte ("Fusion for Energy")</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energeetika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Metroloogiaseadmete ja -tarkvara hankekanali pakkumine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sõlmitava raamlepingu (raamlepingute) eesmärk on luua hankekanal metroloogiaseadmete tarnimiseks koos vastavate aluste, tööriistakomplektide, optiliste sihtmärkide ja eritarkvaraga.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Vajalikud kaubad ja teenused tuleb toimetada peamiselt Fusion for Energy ruumidesse Barcelonas (Hispaania).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sõlmitava raamlepingu (raamlepingute) sisuks on tarnekanali loomine seadmete, laiatarbeseadmete ja nendega seotud teenuste hankimiseks järgmistes kategooriates:</P>
+                  <P>– laserjälgimisseadmed (ühe punkti mõõtmine);</P>
+                  <P>– laserjälgimisseadmed (6 vabadusastmega mõõtmise suutlikkus);</P>
+                  <P>– kontaktandurisüsteemid, nt liigendkäed;</P>
+                  <P>– laserskannimissüsteem;</P>
+                  <P>– suure tihedusega laserskanner;</P>
+                  <P>– fotogrammmeetria süsteem;</P>
+                  <P>– statiivid alused ja tarvikud;</P>
+                  <P>– kuulkinnitusega reflektorid ja tööriistakomplektid;</P>
+                  <P>– metroloogiatarkvara;</P>
+                  <P>– koolitus;</P>
+                  <P>– graafikujärgne hooldus ja iga-aastane kaliibrimine;</P>
+                  <P>– garantii ja garantii pikendus.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>raamlepingu eeldatav kestus on 24 kuud, mida võidakse uuendada üks kord samaks ajavahemikuks, hõlmates kokku 48 kuu pikkust perioodi.</P>
+                  <P>Kaliibrimisteenuse ja garantiiaja suhtes pakub töövõtja kaliibrimist ja garantiisid 4 aastat kõigi vastavate seadmete vastuvõtmise hetkest.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITERi projekt</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fúziósenergia-fejlesztési („Fusion for Energy”) és ITER Európai Közös Vállalkozás</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energia</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Metrológiai berendezés és szoftver beszerzési csatornájának biztosítása</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A létrejövő keretszerződés(ek) célja, hogy beszerzési csatornát hozzon létre a metrológiai eszközök és kapcsolódó állványok, optikai céleszközök és specifikus szoftverek szállítására vonatkozóan.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>A szükséges eszközöket főként a Fusion for Energy barcelonai (Spanyolország) telephelyére kell szállítani, és a szolgáltatásokat főként itt kell teljesíteni.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A létrejövő keretszerződés(ek) berendezések, azonnal rendelkezésre álló eszközök és kapcsolódó szolgáltatások beszerzési csatornájának biztosítására terjed(nek) ki, a következő kategóriáknak megfelelően:</P>
+                  <P>— Lézeres követők (egypontos mérés).</P>
+                  <P>— Lézeres követők (6 szabadságfok mérési képessége).</P>
+                  <P>— Érintős próbarendszerek, pl. csuklós karok.</P>
+                  <P>— Lézerszkenner rendszer.</P>
+                  <P>— Nagy sűrűségű lézerszkenner.</P>
+                  <P>— Fotogrammetriai rendszer.</P>
+                  <P>— Tripodok, állványok és kiegészítők.</P>
+                  <P>— Gömbalakban szerelt reflektorok (SMR-ek) és eszközök.</P>
+                  <P>— Metrológiai szoftver.</P>
+                  <P>— Képzés.</P>
+                  <P>— Ütemezett karbantartás és éves kalibrálás.</P>
+                  <P>— Garancia és garancia-meghosszabbítás.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A keretszerződés várható időtartama 24 hónap, amely egyszer, azonos időtartamra automatikusan meghosszabbítható, azaz összesen 48 hónap.</P>
+                  <P>A kalibrálási és a garanciális időszakot figyelembe véve, az ajánlattevő az összes vonatkozó berendezés elfogadásától kezdve 4 éven keresztül nyújt kalibrálást és garanciát.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER-projekt</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos ITER įgyvendinimo ir branduolių sintezės energetikos vystymo bendroji įmonė („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energetika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Metrologijos įrangos ir programinės įrangos įsigijimo kanalo teikimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sudaromos (-ų) preliminariosios (-iųjų) sutarties (-čių) tikslas – įsteigti įsigijimo kanalą, kuriuo būtų teikiami metrologijos instrumentai su reikalingais stendais, technologiniais optiniais taikiniais bei specifine programine įranga.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Reikalinga įranga ir paslaugos turi būti teikiamos daugiausia „Fusion for Energy“ patalpose Barselonoje (Ispanijoje).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sudaromos (-ų) preliminariosios (-iųjų) sutarties (-čių) apimtis – teikti instrumentų, serijinių prietaisų ir susijusių paslaugų teikimo kanalą, pagal šias kategorijas:</P>
+                  <P>– Lazeriniai sekikliai (vieno matavimo taško).</P>
+                  <P>– Lazerinis sekiklis (6 laisvės laipsnių matavimo galimybė).</P>
+                  <P>– Jutiklinių zondų sistemos kaip lankstinės rankos.</P>
+                  <P>– Lazerinio skenavimo sistema.</P>
+                  <P>– Didelio tankio lazerinis skaitytuvas.</P>
+                  <P>– Fotogrametrijos sistema.</P>
+                  <P>– Trikojai, stovai ir priedai.</P>
+                  <P>– Sferiniu būdu tvirtinami reflektoriai (SMRs) ir įrankiai.</P>
+                  <P>– Metrologijos programinė įranga.</P>
+                  <P>– Mokymai.</P>
+                  <P>– Numatyta techninė priežiūra ir kasmetinis kalibravimas.</P>
+                  <P>– Garantija ir garantijos pratęsimas.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Tikimasi, kad preliminariosios sutarties trukmė bus 24 mėnesiai, kuri bus automatiškai atnaujinama vieną kartą tokios pačios trukmės laikotarpiui, kurį iš viso sudarys 48 mėnesiai.</P>
+                  <P>Rangovas teiks kalibravimo paslaugas ir garantiją 4 metus nuo atitinkamo ir kiekvieno instrumento priėmimo dienos.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER projektas</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>ITER un kodolsintēzes enerģētikas attīstības vajadzībām izveidotais Eiropas kopuzņēmums (“Fusion for Energy”)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>enerģētika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Metroloģijas aprīkojuma un programmatūras iegādes avota nodrošināšana</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Noslēdzamā(-o) pamatnolīguma(-u) mērķis ir izveidot metroloģijas aprīkojuma un programmatūras iegādes avotu, lai piegādātu metroloģijas instrumentus un saistītos statīvus, optiskās mērķierīces un noteiktu programmatūru.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>nepieciešamās piegādes un pakalpojumi jāsniedz galvenokārt “Fusion for Energy” telpās Barselonā (Spānijā).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Noslēdzamā(-o) pamatnolīguma(-u) darbības joma ietver instrumentu piegādes avota, darbderīgu ierīču un saistīto pakalpojumu nodrošināšanu atbilstoši šādām kategorijām:</P>
+                  <P>— lāzera ierīces apsekošanai (vienots mērījumu punkts),</P>
+                  <P>— lāzera ierīce apsekošanai (brīvības pakāpe – 6),</P>
+                  <P>— skāriena zondes sistēmas, piem., šarnīrveida rokas,</P>
+                  <P>— lāzera skenēšanas sistēma,</P>
+                  <P>— augsta blīvuma lāzerskeneris,</P>
+                  <P>— fotogrammetrijas sistēma,</P>
+                  <P>— trijkāju balsti, statīvi un piederumi,</P>
+                  <P>— sfēriski uzstādīti reflektori (spherically mounted reflector – SMR) un rīki,</P>
+                  <P>— metroloģijas programmatūra,</P>
+                  <P>— apmācība,</P>
+                  <P>— plānota tehniskā apkope un ikgadēja kalibrēšana,</P>
+                  <P>— garantija un tās pagarinājums.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>pamatnolīgumu paredzamais darbības laiks ir 24 mēneši, tie ir automātiski atjaunojami1 reizi uz tādu pašu laiku; kopējais darbības laiks – 48 mēneši.</P>
+                  <P>Attiecībā uz kalibrēšanas pakalpojumiem un garantijas periodu darbuzņēmējam jānodrošina kalibrēšana un garantijas 4 gadu laikā no katra attiecīgā instrumenta pieņemšanas brīža.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ITER projekts</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Impriża Konġunta Ewropea għall-ITER u l-Iżvilupp tal-Enerġija mill-Fużjoni ("Fusion for Energy")</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>L-enerġija</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista ta' kanal ta' ksib ta' tagħmir u softwer tal-metroloġija</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-iskop tal-qafas/oqfsa ta' kuntratt li jirriżulta(w) huwa li jitwaqqaf kanal ta' ksib għall-kunsinna ta' strumenti tal-metroloġija flimkien mal-istends, il-miri ottiċi bħala għodda u softwer speċifiku assoċjati.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Il-provvisti u s-servizzi meħtieġa jridu jkunu kkunsinnati prinċipalment lill-bini tal-Fużjoni għall-Enerġija f'Barċellona (Spanja).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L-għan tal-qafas/oqfsa ta' kuntratt li jirriżulta(w) huwa li jiġi pprovdut kanal ta' provvista tal-istrumenti, apparat "off-the-shelf" u servizzi assoċjati, skont il-kategoriji li ġejjin:</P>
+                  <P>— Traċċaturi tal-lejżer (kejl ta' punt uniku).</P>
+                  <P>— Traċċatur tal-lejżer (ħila ta' kejl b'libertà ta' 6 gradi).</P>
+                  <P>— Sistemi ta' sonda bil-mess, bħal idejn artikulati.</P>
+                  <P>— Sistema ta' skennjar bil-lejżer.</P>
+                  <P>— Skenner tal-lejżer b'densità għolja.</P>
+                  <P>— Sistema ta' fotogrammetrija.</P>
+                  <P>— Trepiedi, stends u aċċessorji.</P>
+                  <P>— Rifletturi mmuntati b'mod sferiku (SMRs) u għodda.</P>
+                  <P>— Softwer tal-metroloġija.</P>
+                  <P>— Taħriġ.</P>
+                  <P>— Manutenzjoni skedata u kkalibrar annwali.</P>
+                  <P>— Il-garanzija u l-estensjoni tal-garanzija.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>It-tul ta' żmien mistenni tal-oqfsa ta' kuntratti hu ta' 24 xahar li jiġġeddu mill-ġdid b'mod awtomatiku għall-istess tul ta' żmien, li jkopru perijodu totali ta' 48 xahar.</P>
+                  <P>Fir-rigward tas-servizzi ta' kkalibrar u l-perijodu ta' garanzija, il-kuntrattur għandu jipprovdi kkalibrar u garanziji għal 4 snin mill-aċċettazzjoni ta' kull strument rilevanti.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Proġett tal-ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejskie Wspólne Przedsięwzięcie na rzecz Realizacji Projektu ITER i Rozwoju Energii Termojądrowej („Fusion for Energy”)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energia</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zapewnienie kanału handlowego na potrzeby zakupu sprzętu metrologicznego i oprogramowania</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Celem umowy ramowej jest zapewnienie kanału handlowego na potrzeby zakupu instrumentów metrologicznych wraz z powiązanymi stojakami, oprzyrządowaniem optycznym i określonym oprogramowaniem.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Wymagane dostawy i usługi muszą być dostarczane głównie do siedziby Fusion for Energy w Barcelonie (Hiszpania).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Umowa ramowa będzie obejmować zapewnienie źródła dostaw instrumentów, gotowych urządzeń i powiązanych usług zgodnie z następującymi kategoriami:</P>
+                  <P>– trackery laserowe (pomiar jednopunktowy),</P>
+                  <P>– tracker laserowy (możliwość swobodnego pomiaru 6-stopniowej skali),</P>
+                  <P>– dotykowe systemy pomiarowe, takie jak ramiona przegubowe,</P>
+                  <P>– laserowy system skanowania,</P>
+                  <P>– skaner laserowy o wysokiej gęstości,</P>
+                  <P>– system fotogrametryczny,</P>
+                  <P>– statywy, stojaki i akcesoria,</P>
+                  <P>– reflektory z mocowaniem sferycznym SMR i oprzyrządowanie,</P>
+                  <P>– oprogramowanie metrologiczne,</P>
+                  <P>– szkolenie,</P>
+                  <P>– planowa konserwacja i coroczna kalibracja,</P>
+                  <P>– gwarancja i przedłużenie gwarancji.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>przewidywany okres trwania umowy ramowej wynosi 24 miesiące z możliwością 1-krotnego odnowienia na ten sam okres, co daje łącznie okres 48 miesięcy.</P>
+                  <P>W odniesieniu do usług kalibracji i okresu gwarancji wykonawca zapewni kalibrację i gwarancję w ciągu 4 lat od zatwierdzenia każdego instrumentu objętego powyższymi usługami.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Projekt ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európsky spoločný podnik pre ITER a rozvoj energie jadrovej syntézy („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energetika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytovanie akvizičného kanála pre metrologické zariadenia a softvér</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Účelom výslednej rámcovej zmluvy (zmlúv) je zriadiť akvizičný kanál na dodávku metrologických prístrojov spolu s príslušnými stojanmi, optickými cieľmi a špecifickým softvérom.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Požadované dodávky tovaru a služieb musia byť doručované hlavne do priestorov „Fusion for Energy“ v Barcelone (Španielsko).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rozsahom výslednej rámcovej zmluvy (zmlúv) je zriadenie dodávateľského kanála pre nástroje, komerčne dostupných zariadení a súvisiacich služieb podľa nasledujúcich kategórií:</P>
+                  <P>— laserové zariadenia na sledovanie (jednobodové),</P>
+                  <P>— laserové zariadenie na sledovanie (6-stupňová meracia kapacita),</P>
+                  <P>— systémy dotykových senzorov ako napr. kĺbové ramená,</P>
+                  <P>— systém laserového skenovania,</P>
+                  <P>— laserový skener s vysokou hustotou,</P>
+                  <P>— fotogrametrický systém,</P>
+                  <P>— trojnožky, statívy a príslušenstvo,</P>
+                  <P>— sféricky montované kútové odrážače a nástroje,</P>
+                  <P>— metrologický softvér,</P>
+                  <P>— školenia,</P>
+                  <P>— plánovaná údržba a každoročná kalibrácia,</P>
+                  <P>— záruka a predĺženie záruky.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Očakávaná doba trvania rámcových zmlúv je 24 mesiacov, automaticky obnoviteľné raz na také isté obdobie, pokrývajúce celkovú dobu 48 mesiacov.</P>
+                  <P>Pokiaľ ide o kalibračné služby a záručnú dobu, zmluvná strana bude poskytovať kalibráciu a záruky počas 4 rokov od prijatia príslušného a každého nástroja.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>projekt ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropsko skupno podjetje za ITER in razvoj fuzijske energije („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>energija</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zagotovitev dobavnega kanala za meroslovno in programsko opremo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Namen okvirne(-ih) pogodbe(-), ki bo(-do) sklenjena(-e) na podlagi tega naročila, je vzpostaviti dobavni kanal za zagotovitev meroslovnih instrumentov ter pripadajočih stojal, optičnih merilnih tarč in posebne programske opreme.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Zahtevano blago in storitve bo treba dostaviti v glavnem v prostore Skupnega podjetja „Fusion for Energy“ v Barceloni (Španija).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Predmet okvirne(-ih) pogodbe(-), ki bo(-do) sklenjena(-e) na podlagi tega naročila, je zagotoviti dobavni kanal za instrumente, posebne naprave in povezane storitve v skladu z naslednjimi kategorijami:</P>
+                  <P>— laserski sledilci (meritve ene točke),</P>
+                  <P>— laserski sledilec (zmogljivost merjenja v razponu 6 stopinj),</P>
+                  <P>— sistemi tipalnih sond, npr. zgibne roke,</P>
+                  <P>— laserski skenirni sistem,</P>
+                  <P>— laserski skener visoke gostote,</P>
+                  <P>— fotogrametrični sistem,</P>
+                  <P>— stativi, stojala in dodatki,</P>
+                  <P>— sferični reflektorji (SMR) in orodja,</P>
+                  <P>— meroslovna programska oprema,</P>
+                  <P>— usposabljanje,</P>
+                  <P>— redno vzdrževanje in letno umerjanje,</P>
+                  <P>— garancija in podaljšanje garancije.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Predvideno trajanje okvirnih pogodb bo 24 mesecev z možnostjo enkratnega samodejnega podaljšanja za isto trajanje, kar skupaj zajema obdobje 48 mesecev.</P>
+                  <P>Izvajalec bo zagotavljal storitve umerjanja in garancijsko obdobje 4 let od prevzema posameznega ustreznega instrumenta.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>projekt ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Comhfhiontar Eorpach um ITER agus um Fhuinneamh Comhleá a Fhorbairt ('Fusion for Energy')</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Fuinneamh</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar bealaigh shealbhaithe um threalamh agus bogearraí méadreolaíochta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é cuspóir an chreatchonartha / na gcreatchonarthaí dá bharr ná chun bealach sealbhaithe a chur i dtoll a chéile do sheachadadh na n-ionstraimí méadreolaíochta maille leis na seastáin chomhbhainteacha, spriocanna optúla uirlisithe agus bogearraí sonracha.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Is chuig áitreabh Fhuinneamh Comhleá in Barcelona na Spáinne a chaithfear na soláthairtí agus seirbhísí riachtanacha a sheachadadh.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is é raon feidhme an chreatchonartha / na gcreatchonarthaí dá bharr chun bealach soláthair na n-ionstraimí a sholáthar, gléasanna le ceannach i siopa agus seirbhísí comhbhainteacha, de réir na gcatagóirí seo a leanas:</P>
+                  <P>— Rianairí léasair (tomhas aonphointe).</P>
+                  <P>— Rianaire léasair (6 chéim saoirse le cumas tomhais).</P>
+                  <P>— Córais tóireadóra tadhaill ar nós géag altach.</P>
+                  <P>— Córas scanta léasair.</P>
+                  <P>— Scanóir léasair ard-dlúis.</P>
+                  <P>— Córas fótaghraiméadrachta.</P>
+                  <P>— Tríchosaigh, seastáin agus oiriúintí.</P>
+                  <P>— Frithchaiteoirí suite go sféarúil (SMR - spherically mounted reflectors) agus uirlisí.</P>
+                  <P>— Bogearraí méadreolaíochta.</P>
+                  <P>— Oiliúint.</P>
+                  <P>— Cothabháil sceidealaithe agus calabrúchán bliantúil.</P>
+                  <P>— Baránta agus síneadh baránta.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>24 mí atá i dtréimhse ionchasach na gcreatchonarthaí, a bheidh in-athnuaite go huathoibríoch uair amháin le haghaidh na tréimhse céanna, lena gclúdófar tréimhse iomlán 48 mí.</P>
+                  <P>Maidir le seirbhísí calabrúcháin agus tréimhse bharánta, soláthróidh an conraitheoir calabrúchán agus barántaí le linn na 4 bliana ón nGlacadh leis an Ionstraim ábhartha agus faoi seach.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Tionscadal ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейско съвместно предприятие за ITER и за развитие на термоядрената енергия („Fusion for Energy“)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Енергетика</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Осигуряване на канал за придобиването на метрологично оборудване и софтуер</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Целта на рамковия(ите) договор(и), който/които ще се сключат, е да се установи канал за придобиването и доставката на метрологично оборудване, както и свързани с него стойки, устройства за оптично насочване на инструменти и специфичен софтуер.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Изискваните доставки и услуги трябва да се доставят основно в помещенията на съвместното предприятие „Fusion for Energy“ в Барселона (Испания)“</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Обхватът на рамковия(ите) договор(и), които ще се сключат, е осигуряване на канал за доставка на уреди, общи устройства и свързани услуги съгласно следните категории:</P>
+                  <P>— лазерни проследяващи устройства (измерване при единична точка),</P>
+                  <P>— лазерно проследяващо устройство (с възможност за измерване при шесттепенна свобода на движение),</P>
+                  <P>— системи за контактно измерване, като напр. шарнирни лостове,</P>
+                  <P>— лазерна сканираща система,</P>
+                  <P>— лазерен скенер с голяма плътност,</P>
+                  <P>— фотограметрична система,</P>
+                  <P>— стативи, стойки и аксесоари,</P>
+                  <P>— сферично монтирани рефлектори (SMR) и инструменти,</P>
+                  <P>— метрологичен софтуер,</P>
+                  <P>— обучение,</P>
+                  <P>— планирана поддръжка и годишно калибриране,</P>
+                  <P>— гаранция и удължаване на гаранцията.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Предвиденият срок на рамковите договори е 24 месеца, с възможност за едно автоматично подновяване за същия период, с общ период от 48 месеца.</P>
+                  <P>По отношение на услугите за калибриране и гаранционния срок изпълнителят трябва да осигури калибриране и гаранции през 4-те години от приемането на всеки един съответен уред.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Проект на ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Întreprinderea comună europeană pentru ITER și pentru dezvoltarea energiei de fuziune („Fusion for Energy”)</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energie</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizarea unui canal de achiziție pentru echipamente și software de metrologie</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Scopul contractului-cadru (contractelor-cadru) care rezultă este de a pune în practică un canal de achiziție pentru livrarea instrumentelor de metrologie împreună cu suporturile asociate, ținte pentru aparatură optică și software specific.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Bunurile și serviciile solicitate trebuie livrate în principal la sediul Fusion for Energy din Barcelona (Spania).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Domeniul de aplicare al contractului-cadru (contractelor-cadru) care rezultă este de a furniza un canal de achiziție de instrumente, dispozitive standarde și de servicii conexe, în conformitate cu următoarele categorii:</P>
+                  <P>— Sisteme de urmărire cu laser (măsurare punct unic).</P>
+                  <P>— Sistem de urmărire cu laser (Capacitate de măsurare liberă de 6 grade).</P>
+                  <P>— Sisteme de testare tactilă precum brațele articulate.</P>
+                  <P>— Sistem de scanare cu laser.</P>
+                  <P>— Scanare cu laser de mare densitate.</P>
+                  <P>— Sistem de fotogrametrie.</P>
+                  <P>— Trepiede, standuri și accesorii.</P>
+                  <P>— Reflectoare montate sferic (SMR) și instrumente.</P>
+                  <P>— Software de metrologie.</P>
+                  <P>— Cursuri de formare.</P>
+                  <P>— Întreținere planificată și calibrare anuală.</P>
+                  <P>— Garanție și extensie garanție.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Durata preconizată a contractelor-cadru este de 24 de luni, reînnoire automată o singură dată pentru aceeași durată, acoperind o perioadă totală de 48 de luni.</P>
+                  <P>În ceea ce privește serviciile de calibrare și perioada de garanție, contractantul va furniza calibrări și garanții timp de 4 ani de la acceptarea instrumentului relevant și a fiecărui instrument.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Proiect ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europsko zajedničko poduzeće za ITER i razvoj fuzijske energije ("Fusion for Energy")</OFFICIALNAME>
+               <ADDRESS>C/ Josep Pla 2 Torres Diagonal Litoral, Edificio B3</ADDRESS>
+               <TOWN>Barcelona</TOWN>
+               <POSTAL_CODE>08019</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <CONTACT_POINT>Contracts and Procurement Unit</CONTACT_POINT>
+               <E_MAIL>eva.garcia@f4e.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES511"/>
+               <URL_GENERAL>http://f4e.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://industryportal.f4e.europa.eu/default.aspx</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>http://industryportal.f4e.europa.eu/default.aspx</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Energija</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava kanala za kupovinu mjeriteljske opreme i softvera</P>
+            </TITLE>
+            <REFERENCE_NUMBER>F4E-OMF-0902</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Svrha je rezultirajućeg/ih okvirnog/ih ugovora uspostaviti kanal za kupovinu za isporuku mjeriteljskih instrumenata, zajedno s povezanim stalcima, optičkim mjernim metama i specifičnim softverom.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES511"/>
+               <MAIN_SITE>
+                  <P>Tražena oprema i usluge moraju se uglavnom isporučiti u prostorima „Fuzija za energiju“ u Barceloni (Španjolska).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Opseg je rezultirajućeg/ih okvirnog/ih ugovora pružiti kanal za kupovinu instrumenata, standardnih uređaja i povezanih usluga, u skladu sa sljedećim kategorijama:</P>
+                  <P>— laserski sustavi za praćenje (mjerenje jedne točke),</P>
+                  <P>— laserski sustavi za praćenje (sa sposobnošću mjerenja 6 smjerova),</P>
+                  <P>— sustavi s dodirnim sondama poput zglobnih ručki,</P>
+                  <P>— sustavi za lasersko skeniranje,</P>
+                  <P>— laserski skener visoke gustoće,</P>
+                  <P>— fotogrametrijski sustav,</P>
+                  <P>— tronošci, stalci i dodatna oprema,</P>
+                  <P>— sferno montirani reflektori i alati,</P>
+                  <P>— mjeriteljski softver,</P>
+                  <P>— osposobljavanje,</P>
+                  <P>— planirano održavanje i godišnje umjeravanje,</P>
+                  <P>— jamstvo i produljenje jamstva.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="EUR">1900000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Očekivano je trajanje okvirnih ugovora 24 mjeseca, automatski obnovljivih jednom u istom trajanju, pokrivajući ukupno razdoblje od 48 mjeseci.</P>
+                  <P>U pogledu usluga umjeravanja i razdoblja jamstva, izvršitelj će pružati umjeravanje i jamstvo tijekom 4 godine od prihvata relevantnih i svakog instrumenta.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Projekt ITER</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-17</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-24</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <TOWN>Luxembourg</TOWN>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="024049-2018"
+            EDITION="2018012">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-023810-001</RECEPTION_ID>
+      <DELETION_DATE>20180215</DELETION_DATE>
+      <FORM_LG_LIST>DE </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>12</NO_OJ>
+         <DATE_PUB>20180118</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 012-024049</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:024049-2018:TEXT:DE:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>DE</LG_ORIG>
+         <ISO_COUNTRY VALUE="DE"/>
+         <IA_URL_GENERAL>www.berlin-airport.de</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://secure.berlin-airport.de/evergabe-extern/</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72260000">Software-related services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DE406">Dahme-Spreewald</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DE406">Dahme-Spreewald</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180116</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180215 12:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="4">Utilities entity</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="4">Negotiated procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="I">Airport-related activities</MA_MAIN_ACTIVITIES>
+         <HEADING>01G05</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/25/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Гepмaния</TI_CY>
+            <TI_TOWN>Берлин</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги, свързани със софтуерни продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Německo</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Služby programového vybavení</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Programmelrelaterede tjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Deutschland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Dienstleistungen in Verbindung mit Software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Γερμανία</TI_CY>
+            <TI_TOWN>Βερολίνο</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες σχετιζόμενες με λογισμικά</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Germany</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Software-related services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Alemania</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios relacionados con el software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Saksamaa</TI_CY>
+            <TI_TOWN>Berliin</TI_TOWN>
+            <TI_TEXT>
+               <P>Tarkvaraga seotud teenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Saksa</TI_CY>
+            <TI_TOWN>Berliini</TI_TOWN>
+            <TI_TEXT>
+               <P>Ohjelmistoihin liittyvät palvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Allemagne</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Services relatifs aux logiciels</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ghearmáin, an</TI_CY>
+            <TI_TOWN>Beirlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Software-related services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Njemačka</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge povezane s programskom podrškom</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Németország</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Szoftverrel kapcsolatos szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Berlino</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi connessi al software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vokietija, VFR</TI_CY>
+            <TI_TOWN>Berlynas</TI_TOWN>
+            <TI_TEXT>
+               <P>Su programine įranga susijusios paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Vācija</TI_CY>
+            <TI_TOWN>Berlīne</TI_TOWN>
+            <TI_TEXT>
+               <P>Ar programmatūru saistītie pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Ġermanja</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi relatati mas-software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Duitsland</TI_CY>
+            <TI_TOWN>Berlijn</TI_TOWN>
+            <TI_TEXT>
+               <P>Diensten in verband met software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Niemcy</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi w zakresie oprogramowania</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Alemanha</TI_CY>
+            <TI_TOWN>Berlim</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços relacionados com software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Germania</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Nemecko</TI_CY>
+            <TI_TOWN>Berlín</TI_TOWN>
+            <TI_TEXT>
+               <P>Služby súvisiace so softvérom</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Nemčija</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve, povezane s programsko opremo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Tyskland</TI_CY>
+            <TI_TOWN>Berlin</TI_TOWN>
+            <TI_TEXT>
+               <P>Programrelaterade tjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DE">Flughafen Berlin Brandenburg GmbH</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F05_2014 CATEGORY="ORIGINAL" FORM="F05" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Flughafen Berlin Brandenburg GmbH</OFFICIALNAME>
+               <ADDRESS>Flughafen Berlin Brandenburg GmbH, Einkauf / Einkauf für Liefer- und Dienstleistungen, Gebäude B027 - Raum 50, Flughafen Berlin-Schönefeld</ADDRESS>
+               <TOWN>Berlin</TOWN>
+               <POSTAL_CODE>12521</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <CONTACT_POINT>Einkauf</CONTACT_POINT>
+               <E_MAIL>einkauf@berlin-airport.de</E_MAIL>
+               <FAX>+49 306091-70641</FAX>
+               <n2016:NUTS CODE="DE406"/>
+               <URL_GENERAL>www.berlin-airport.de</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://secure.berlin-airport.de/evergabe-extern/</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CE_ACTIVITY VALUE="AIRPORT_RELATED_ACTIVITIES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Unterstützungsleistungen zur Umsetzung von Business Anforderungen an den SAP Systemen der Flughafen Berlin Brandenburg GmbH</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EA-2017-0422</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Gegenstand ist die Beauftragung mehrerer Auftragnehmer (AN) pro Los zur Unterstützung des Auftraggebers (AG) bei der Planung, Architektur, Umsetzung, Dokumentation u. Kontrolle von Beratungs-, Programmier-, Entwicklungs- u. Projektmanagementleistungen für alle folgenden eingesetzten und im Rahmen der Vertragslaufzeit ggf. neu beim AG einzuführenden SAP Systeme/Module. Es handelt sich nicht um Arbeitnehmerüberlassung, sondern Dienst- und Werkleistungen mit o.g. Aufgabenschwerpunkten.</P>
+               <P>— Los 1 Unterstützungsleistungen für SAP-BW/ BI</P>
+               <P>— Los 2 Unterstützungsleistungen für SAP-ERP</P>
+               <P>— Los 3 Unterstützungsleistungen für SAP-HCM</P>
+               <P>— Los 4 Unterstützungsleistungen für SAP-SRM</P>
+               <P>— Los 5 Unterstützungsleistungen für SAP Basis</P>
+               <P>Nicht Teil der Leistungserbringung sind Unterstützungsleistungen für beim AG eingesetzte u. während der Vertragslaufzeit neu eingeführte SAP Partnerlösungen Dritter sowie direkt vom Softwarehersteller (SAP) erbrachte Leistungen.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Unterstützungsleistungen für SAP-BW/ BI</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE406"/>
+               <SHORT_DESCR>
+                  <P>Die AN haben je Los 1 bis 5 folgende Aufgabenschwerpunkte zu erbringen (in deutscher Sprache):</P>
+                  <P>1. Programmier- u. Entwicklungsleistungen:</P>
+                  <P>— Kleinstmodifikationen u. Programmierung.</P>
+                  <P>2. Beratungs- u. Unterstützungsleistungen</P>
+                  <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+                  <P>— Fehleranalyse u. -behebung</P>
+                  <P>— Projektunterstützung</P>
+                  <P>— Analysen der SAP Systeme u. Prozesse</P>
+                  <P>— Fach- u. Datenverarbeitungskonzepte erstellen</P>
+                  <P>— Customizingeinstellungen vornehmen.</P>
+                  <P>— Erstellung/Änderung von Berechtigungskonzepten</P>
+                  <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen</P>
+                  <P>— Erstellung von Handbüchern und Dokumentationen</P>
+                  <P>— Schulungen durchführen</P>
+                  <P>3. Projektmanagementleistungen</P>
+                  <P>— Steuerung von (Teil-)Projekten oder Programmen</P>
+                  <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+                  <P>— Vorbereitung und Begleitung von Lenkungsausschüssen.</P>
+                  <P>Die AN erbringen die Leistungen im Wesentlichen an mind. folgenden aktuell produktiv genutzten SAP Komponenten:</P>
+                  <P>Los 1 - Unterstützungsleistungen für SAP-BW/ BI:</P>
+                  <P>— Kosten-Leistungsrechnung (CO, FI, PS) inkl. Forecast- und Wirtschaftsplanung mittels integrierter Planung</P>
+                  <P>— Verkehrsabrechnung/-Statistik (teilw. SD)</P>
+                  <P>— Liquiditätsberichtswesen (FI)</P>
+                  <P>— TFM-Controlling (CO, PM, PS)</P>
+                  <P>— Instandhaltungs-Controlling (PM)</P>
+                  <P>— Berichtswesen für Non-Aviation (teilw. RE-FX)</P>
+                  <P>— Einkaufsberichtswesen (MM u. SRM)</P>
+                  <P>— Immobilienberichtswesen (RE-FX u. Flatfiles aus CAFM-System (Third Party Software))</P>
+                  <P>— Baukostencontrolling (PS, FI u. SRM u. SQL-DB).</P>
+                  <P>Pro Los 1 - 3 &amp; 5 werden 5 AN beauftragt, im Los 4 werden 3 AN beauftragt, sofern genügend geeignete Bieter im Ergebnis des Bewerbungsverfahrens zur Verfügung stehen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Siehe II.2.11 der Bekanntmachung.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>10</NB_ENVISAGED_CANDIDATE>
+               <CRITERIA_CANDIDATE>
+                  <P>Der Auftraggeber (AG) wird in den Losen 1 - 3 und 5 max. jeweils 10 Bewerber und im Los 4 max. 6 Bewerber für das weitere Verfahren auswählen.</P>
+                  <P>Sollte die Prüfung ergeben, dass mehr als 10 Bewerber/Bewerbergemeinschaften (BWG) je Los 1 - 3 und Los 5 und mehr als 6 Bewerber/BWG im Los 4 die geforderten Anforderungen erfüllen, wird der AG zur Abgabe eines Angebotes die 10 Bewerber/BWG (Lose 1 - 3 und 5) bzw. 6 Bewerber/BWG (Los 4) auffordern, die die Eignungsvoraussetzungen am besten erfüllen. Um dies zu ermitteln, wird der AG die Eignungsvoraussetzungen gewichten und bewerten. Hierzu wird der AG ein Bewertungsschema verwenden, das die technische Leistungsfähigkeit (vgl. III.1.3) anhand der eingereichten Referenzen und der Angabe zum Ansprechpartner widerspiegelt. Im Falle der Punktgleichheit mehrerer Bewerber/BWG werden auch mehr als die o.g. Anzahl Bewerber/BWG für das weitere Verfahren ausgewählt.</P>
+                  <P>Die Bewertungskriterien sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt.</P>
+                  <P>Hierbei kann ein Bewerber/eine BWG je Los maximal folgende Punkte erreichen:</P>
+                  <P>— Los 1: 15 Punkte</P>
+                  <P>— Los 2: 10 Punkte</P>
+                  <P>— Los 3: 11 Punkte</P>
+                  <P>— Los 4: 9 Punkte</P>
+                  <P>— Los 5: 10 Punkte</P>
+               </CRITERIA_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Die Vertragslaufzeit kann pro Los durch einseitige schriftliche Erklärung des Auftraggebers (AG) gegenüber dem Auftragnehmer (AN) dreimal um bis zu jeweils 12 Monate verlängert werden bis zu einer Gesamtlaufzeit von maximal 5 Jahren. Die Verlängerung muss bis spätestens 3 Monate vor dem ursprünglichen Vertragsende schriftlich erfolgen. Der AN hat keinen Anspruch auf Verlängerung der Vertragslaufzeit. Im Falle einer nicht erfolgten Verlängerung kann er hieraus keinerlei Ansprüche (insbesondere auf Schadensersatz oder Vergütung) herleiten.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Los 2 - Unterstützungsleistungen für SAP-ERP</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE406"/>
+               <SHORT_DESCR>
+                  <P>Die AN haben je Los 1 bis 5 folgende Aufgabenschwerpunkte zu erbringen (in deutscher Sprache):</P>
+                  <P>1. Programmier- u. Entwicklungsleistungen:</P>
+                  <P>— Kleinstmodifikationen u. Programmierung.</P>
+                  <P>2. Beratungs- u. Unterstützungsleistungen</P>
+                  <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+                  <P>— Fehleranalyse u. -behebung</P>
+                  <P>— Projektunterstützung.</P>
+                  <P>— Analysen der SAP Systeme u. Prozesse</P>
+                  <P>— Fach- u. Datenverarbeitungskonzepte erstellen</P>
+                  <P>— Customizingeinstellungen vornehmen</P>
+                  <P>— Erstellung/Änderung von Berechtigungskonzepten.</P>
+                  <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen.</P>
+                  <P>— Erstellung von Handbüchern und Dokumentationen.</P>
+                  <P>— Schulungen durchführen.</P>
+                  <P>3. Projektmanagementleistungen</P>
+                  <P>— Steuerung von (Teil-)Projekten oder Programmen.</P>
+                  <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+                  <P>— Vorbereitung und Begleitung von Lenkungsausschüssen.</P>
+                  <P>Die AN erbringen die Leistungen im Wesentlichen an mind. folgenden aktuell produktiv genutzten SAP Komponenten:</P>
+                  <P>Los 2 - Unterstützungsleistungen für SAP-ERP:</P>
+                  <P>— Finanzbuchhaltung</P>
+                  <P>— Controlling</P>
+                  <P>— Projektsystem</P>
+                  <P>— Vertrieb</P>
+                  <P>— Materialwirtschaft</P>
+                  <P>— Instandhaltung</P>
+                  <P>— Immobilienverwaltung</P>
+                  <P>— Formulartechnologien, z.B. SAP-Script/Smart-Forms/PDF-Formulare</P>
+                  <P>— Archivanbindung via SAP ArchiveLink</P>
+                  <P>Pro Los 1 - 3 &amp; 5 werden 5 AN beauftragt, im Los 4 werden 3 AN beauftragt, sofern genügend geeignete Bieter im Ergebnis des Bewerbungsverfahrens zur Verfügung stehen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Siehe II.2.11 der Bekanntmachung.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>10</NB_ENVISAGED_CANDIDATE>
+               <CRITERIA_CANDIDATE>
+                  <P>Der Auftraggeber (AG) wird in den Losen 1 - 3 und 5 max. jeweils 10 Bewerber und im Los 4 max. 6 Bewerber für das weitere Verfahren auswählen.</P>
+                  <P>Sollte die Prüfung ergeben, dass mehr als 10 Bewerber/Bewerbergemeinschaften (BWG) je Los 1 - 3 und Los 5 und mehr als 6 Bewerber/BWG im Los 4 die geforderten Anforderungen erfüllen, wird der AG zur Abgabe eines Angebotes die 10 Bewerber/BWG (Lose 1 - 3 und 5) bzw. 6 Bewerber/BWG (Los 4) auffordern, die die Eignungsvoraussetzungen am besten erfüllen. Um dies zu ermitteln, wird der AG die Eignungsvoraussetzungen gewichten und bewerten. Hierzu wird der AG ein Bewertungsschema verwenden, das die technische Leistungsfähigkeit (vgl. III.1.3) anhand der eingereichten Referenzen und der Angabe zum Ansprechpartner widerspiegelt. Im Falle der Punktgleichheit mehrerer Bewerber/BWG werden auch mehr als die o.g. Anzahl Bewerber/BWG für das weitere Verfahren ausgewählt.</P>
+                  <P>Die Bewertungskriterien sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt.</P>
+                  <P>Hierbei kann ein Bewerber/eine BWG je Los maximal folgende Punkte erreichen:</P>
+                  <P>— Los 1: 15 Punkte</P>
+                  <P>— Los 2: 10 Punkte</P>
+                  <P>— Los 3: 11 Punkte</P>
+                  <P>— Los 4: 9 Punkte</P>
+                  <P>— Los 5: 10 Punkte</P>
+               </CRITERIA_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Die Vertragslaufzeit kann pro Los durch einseitige schriftliche Erklärung des Auftraggebers (AG) gegenüber dem Auftragnehmer (AN) dreimal um bis zu jeweils 12 Monate verlängert werden bis zu einer Gesamtlaufzeit von maximal 5 Jahren. Die Verlängerung muss bis spätestens 3 Monate vor dem ursprünglichen Vertragsende schriftlich erfolgen. Der AN hat keinen Anspruch auf Verlängerung der Vertragslaufzeit. Im Falle einer nicht erfolgten Verlängerung kann er hieraus keinerlei Ansprüche (insbesondere auf Schadensersatz oder Vergütung) herleiten.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Los 3 – Unterstützungsleistungen für SAP-HCM</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE406"/>
+               <SHORT_DESCR>
+                  <P>Die AN haben je Los 1 bis 5 folgende Aufgabenschwerpunkte zu erbringen (in deutscher Sprache):</P>
+                  <P>1. Programmier- u. Entwicklungsleistungen:</P>
+                  <P>— Kleinstmodifikationen u. Programmierung</P>
+                  <P>2. Beratungs- u. Unterstützungsleistungen</P>
+                  <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+                  <P>— Fehleranalyse u. -behebung</P>
+                  <P>— Projektunterstützung</P>
+                  <P>— Analysen der SAP Systeme u. Prozesse</P>
+                  <P>— Fach- u. Datenverarbeitungskonzepte erstellen</P>
+                  <P>— Customizingeinstellungen vornehmen</P>
+                  <P>— Erstellung/Änderung von Berechtigungskonzepten</P>
+                  <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen</P>
+                  <P>— Erstellung von Handbüchern und Dokumentationen</P>
+                  <P>— Schulungen durchführen</P>
+                  <P>3. Projektmanagementleistungen</P>
+                  <P>— Steuerung von (Teil-)Projekten oder Programmen</P>
+                  <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+                  <P>— Vorbereitung und Begleitung von Lenkungsausschüssen.</P>
+                  <P>Die AN erbringen die Leistungen im Wesentlichen an mind. folgenden aktuell produktiv genutzten SAP Komponenten:</P>
+                  <P>Los 3 – Unterstützungsleistungen für SAP-HCM:</P>
+                  <P>— Personaladministration.</P>
+                  <P>— Entgeltabrechnung.</P>
+                  <P>— Organisationsmanagement</P>
+                  <P>— Personalkostenplanung</P>
+                  <P>— Positivzeitwirtschaft</P>
+                  <P>— Fiori und Gateway (ESS, MSS und LDAP-Anbindung)</P>
+                  <P>— Schnittstelle zur elektronischen Zeiterfassung (HR-PDC)</P>
+                  <P>— Leistungserfassung u. –verrechnung CATS</P>
+                  <P>— Schnittstelle zur Dienstplanungssoftware</P>
+                  <P>Pro Los 1 - 3 &amp; 5 werden 5 AN beauftragt, im Los 4 werden 3 AN beauftragt, sofern genügend geeignete Bieter im Ergebnis des Bewerbungsverfahrens zur Verfügung stehen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Siehe II.2.11 der Bekanntmachung.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>10</NB_ENVISAGED_CANDIDATE>
+               <CRITERIA_CANDIDATE>
+                  <P>Der Auftraggeber (AG) wird in den Losen 1 - 3 und 5 max. jeweils 10 Bewerber und im Los 4 max. 6 Bewerber für das weitere Verfahren auswählen.</P>
+                  <P>Sollte die Prüfung ergeben, dass mehr als 10 Bewerber/Bewerbergemeinschaften (BWG) je Los 1 - 3 und Los 5 und mehr als 6 Bewerber/BWG im Los 4 die geforderten Anforderungen erfüllen, wird der AG zur Abgabe eines Angebotes die 10 Bewerber/BWG (Lose 1 - 3 und 5) bzw. 6 Bewerber/BWG (Los 4) auffordern, die die Eignungsvoraussetzungen am besten erfüllen. Um dies zu ermitteln, wird der AG die Eignungsvoraussetzungen gewichten und bewerten. Hierzu wird der AG ein Bewertungsschema verwenden, das die technische Leistungsfähigkeit (vgl. III.1.3) anhand der eingereichten Referenzen und der Angabe zum Ansprechpartner widerspiegelt. Im Falle der Punktgleichheit mehrerer Bewerber/BWG werden auch mehr als die o.g. Anzahl Bewerber/BWG für das weitere Verfahren ausgewählt.</P>
+                  <P>Die Bewertungskriterien sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt.</P>
+                  <P>Hierbei kann ein Bewerber/eine BWG je Los maximal folgende Punkte erreichen:</P>
+                  <P>— Los 1: 15 Punkte</P>
+                  <P>— Los 2: 10 Punkte</P>
+                  <P>— Los 3: 11 Punkte</P>
+                  <P>— Los 4: 9 Punkte</P>
+                  <P>— Los 5: 10 Punkte</P>
+               </CRITERIA_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Die Vertragslaufzeit kann pro Los durch einseitige schriftliche Erklärung des Auftraggebers (AG) gegenüber dem Auftragnehmer (AN) dreimal um bis zu jeweils 12 Monate verlängert werden bis zu einer Gesamtlaufzeit von maximal 5 Jahren. Die Verlängerung muss bis spätestens 3 Monate vor dem ursprünglichen Vertragsende schriftlich erfolgen. Der AN hat keinen Anspruch auf Verlängerung der Vertragslaufzeit. Im Falle einer nicht erfolgten Verlängerung kann er hieraus keinerlei Ansprüche (insbesondere auf Schadensersatz oder Vergütung) herleiten.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Los 4 – Unterstützungsleistungen für SAP-SRM</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE406"/>
+               <SHORT_DESCR>
+                  <P>Die AN haben je Los 1 bis 5 folgende Aufgabenschwerpunkte zu erbringen (in deutscher Sprache):</P>
+                  <P>1. Programmier- u. Entwicklungsleistungen:</P>
+                  <P>— Kleinstmodifikationen u. Programmierung.</P>
+                  <P>2. Beratungs- u. Unterstützungsleistungen</P>
+                  <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+                  <P>— Fehleranalyse u. -behebung</P>
+                  <P>— Projektunterstützung</P>
+                  <P>— Analysen der SAP Systeme u. Prozesse</P>
+                  <P>— Fach- u. Datenverarbeitungskonzepte erstellen</P>
+                  <P>— Customizingeinstellungen vornehmen</P>
+                  <P>— Erstellung/Änderung von Berechtigungskonzepten</P>
+                  <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen</P>
+                  <P>— Erstellung von Handbüchern und Dokumentationen</P>
+                  <P>— Schulungen durchführen</P>
+                  <P/>
+                  <P>3. Projektmanagementleistungen</P>
+                  <P>— Steuerung von (Teil-)Projekten oder Programmen</P>
+                  <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+                  <P>— Vorbereitung und Begleitung von Lenkungsausschüssen</P>
+                  <P>Die AN erbringen die Leistungen im Wesentlichen an mind. folgenden aktuell produktiv genutzten SAP Komponenten:</P>
+                  <P>Los 4 – Unterstützungsleistungen für SAP-SRM:</P>
+                  <P>— Schnittstelle zu einem externen Katalogmanagementsystem (OCI)</P>
+                  <P>— Beschaffung von Materialien u. Dienstleistungen</P>
+                  <P>— Verwendung eines mehrstufigen Genehmigungsworkflows</P>
+                  <P>— Verwendung von AdHoc-Genehmigern u. Reviewern</P>
+                  <P>— Buchen von Wareneingängen</P>
+                  <P>— Archivanbindung SRM mit AddOn von Firma 2bits</P>
+                  <P>Pro Los 1 - 3 &amp; 5 werden 5 AN beauftragt, im Los 4 werden 3 AN beauftragt, sofern genügend geeignete Bieter im Ergebnis des Bewerbungsverfahrens zur Verfügung stehen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Siehe II.2.11 der Bekanntmachung.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>6</NB_ENVISAGED_CANDIDATE>
+               <CRITERIA_CANDIDATE>
+                  <P>Der Auftraggeber (AG) wird in den Losen 1 - 3 und 5 max. jeweils 10 Bewerber und im Los 4 max. 6 Bewerber für das weitere Verfahren auswählen.</P>
+                  <P>Sollte die Prüfung ergeben, dass mehr als 10 Bewerber/Bewerbergemeinschaften (BWG) je Los 1 - 3 und Los 5 und mehr als 6 Bewerber/BWG im Los 4 die geforderten Anforderungen erfüllen, wird der AG zur Abgabe eines Angebotes die 10 Bewerber/BWG (Lose 1 - 3 und 5) bzw. 6 Bewerber/BWG (Los 4) auffordern, die die Eignungsvoraussetzungen am besten erfüllen. Um dies zu ermitteln, wird der AG die Eignungsvoraussetzungen gewichten und bewerten. Hierzu wird der AG ein Bewertungsschema verwenden, das die technische Leistungsfähigkeit (vgl. III.1.3) anhand der eingereichten Referenzen und der Angabe zum Ansprechpartner widerspiegelt. Im Falle der Punktgleichheit mehrerer Bewerber/BWG werden auch mehr als die o.g. Anzahl Bewerber/BWG für das weitere Verfahren ausgewählt.</P>
+                  <P>Die Bewertungskriterien sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt.</P>
+                  <P>Hierbei kann ein Bewerber/eine BWG je Los maximal folgende Punkte erreichen:</P>
+                  <P>— Los 1: 15 Punkte</P>
+                  <P>— Los 2: 10 Punkte</P>
+                  <P>— Los 3: 11 Punkte</P>
+                  <P>— Los 4: 9 Punkte</P>
+                  <P>— Los 5: 10 Punkte</P>
+               </CRITERIA_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Die Vertragslaufzeit kann pro Los durch einseitige schriftliche Erklärung des Auftraggebers (AG) gegenüber dem Auftragnehmer (AN) dreimal um bis zu jeweils 12 Monate verlängert werden bis zu einer Gesamtlaufzeit von maximal 5 Jahren. Die Verlängerung muss bis spätestens 3 Monate vor dem ursprünglichen Vertragsende schriftlich erfolgen. Der AN hat keinen Anspruch auf Verlängerung der Vertragslaufzeit. Im Falle einer nicht erfolgten Verlängerung kann er hieraus keinerlei Ansprüche (insbesondere auf Schadensersatz oder Vergütung) herleiten.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Los 5 – Unterstützungsleistungen für SAP-Basis</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="DE406"/>
+               <SHORT_DESCR>
+                  <P>Die AN haben je Los 1 bis 5 folgende Aufgabenschwerpunkte zu erbringen (in deutscher Sprache):</P>
+                  <P>1. Programmier- u. Entwicklungsleistungen:</P>
+                  <P>— Kleinstmodifikationen u. Programmierung</P>
+                  <P>2. Beratungs- u. Unterstützungsleistungen</P>
+                  <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+                  <P>— Fehleranalyse u. -behebung</P>
+                  <P>— Projektunterstützung</P>
+                  <P>— Analysen der SAP Systeme u. Prozesse</P>
+                  <P>— Fach- u. Datenverarbeitungskonzepte erstellen</P>
+                  <P>— Customizingeinstellungen vornehmen</P>
+                  <P>— Erstellung/Änderung von Berechtigungskonzepten</P>
+                  <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen</P>
+                  <P>— Erstellung von Handbüchern und Dokumentationen</P>
+                  <P>— Schulungen durchführen</P>
+                  <P/>
+                  <P>3. Projektmanagementleistungen</P>
+                  <P>— Steuerung von (Teil-)Projekten oder Programmen</P>
+                  <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+                  <P>— Vorbereitung und Begleitung von Lenkungsausschüssen</P>
+                  <P>Die AN erbringen die Leistungen im Wesentlichen an mind. folgenden aktuell produktiv genutzten SAP Komponenten:</P>
+                  <P>Los 5 – Unterstützungsleistungen für SAP-Basis:</P>
+                  <P>— Einspielen von Upgrades, DB-Patches u. Support Packages</P>
+                  <P>— Installation neuer Systeme u. Erstellung von homogenen Systemkopien</P>
+                  <P>— System-Monitoring</P>
+                  <P>— Konfiguration von Earlywatch-Berichten</P>
+                  <P>— Störungsbearbeitung</P>
+                  <P>— SAP Portal-Administration</P>
+                  <P>— Verwaltung u. Erneuerung von Wartungslizenzen für die SAP Systeme</P>
+                  <P>— Erneuerung von Zertifikaten (ABAP- und JAVA-Stack)</P>
+                  <P>— Erweiterung der Einsatzgebiete des SAP Solution Managers</P>
+                  <P>— Dokumentation aller durchgeführten Arbeiten</P>
+                  <P>— Unterstützung im Bereich SAP Archivierung (ArchiveLink)</P>
+                  <P>Pro Los 1 - 3 &amp; 5 werden 5 AN beauftragt, im Los 4 werden 3 AN beauftragt, sofern genügend geeignete Bieter im Ergebnis des Bewerbungsverfahrens zur Verfügung stehen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Siehe II.2.11 der Bekanntmachung.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>10</NB_ENVISAGED_CANDIDATE>
+               <CRITERIA_CANDIDATE>
+                  <P>Der Auftraggeber (AG) wird in den Losen 1 - 3 und 5 max. jeweils 10 Bewerber und im Los 4 max. 6 Bewerber für das weitere Verfahren auswählen.</P>
+                  <P>Sollte die Prüfung ergeben, dass mehr als 10 Bewerber/Bewerbergemeinschaften (BWG) je Los 1 - 3 und Los 5 und mehr als 6 Bewerber/BWG im Los 4 die geforderten Anforderungen erfüllen, wird der AG zur Abgabe eines Angebotes die 10 Bewerber/BWG (Lose 1 - 3 und 5) bzw. 6 Bewerber/BWG (Los 4) auffordern, die die Eignungsvoraussetzungen am besten erfüllen. Um dies zu ermitteln, wird der AG die Eignungsvoraussetzungen gewichten und bewerten. Hierzu wird der AG ein Bewertungsschema verwenden, das die technische Leistungsfähigkeit (vgl. III.1.3) anhand der eingereichten Referenzen und der Angabe zum Ansprechpartner widerspiegelt. Im Falle der Punktgleichheit mehrerer Bewerber/BWG werden auch mehr als die o.g. Anzahl Bewerber/BWG für das weitere Verfahren ausgewählt.</P>
+                  <P>Die Bewertungskriterien sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt.</P>
+                  <P>Hierbei kann ein Bewerber/eine BWG je Los maximal folgende Punkte erreichen:</P>
+                  <P>— Los 1: 15 Punkte</P>
+                  <P>— Los 2: 10 Punkte</P>
+                  <P>— Los 3: 11 Punkte</P>
+                  <P>— Los 4: 9 Punkte</P>
+                  <P>— Los 5: 10 Punkte</P>
+               </CRITERIA_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Die Vertragslaufzeit kann pro Los durch einseitige schriftliche Erklärung des Auftraggebers (AG) gegenüber dem Auftragnehmer (AN) dreimal um bis zu jeweils 12 Monate verlängert werden bis zu einer Gesamtlaufzeit von maximal 5 Jahren. Die Verlängerung muss bis spätestens 3 Monate vor dem ursprünglichen Vertragsende schriftlich erfolgen. Der AN hat keinen Anspruch auf Verlängerung der Vertragslaufzeit. Im Falle einer nicht erfolgten Verlängerung kann er hieraus keinerlei Ansprüche (insbesondere auf Schadensersatz oder Vergütung) herleiten.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Die nachstehenden Angaben/Erklärungen/Nachweise sind von den Bewerbern (der Begriff Bewerber wird als Synonym auch für Bewerbergemeinschaften (BWG) verwendet) bzw. von jedem Mitglied der BWG sowie von allen für die Leistungserbringung vorgesehenen Nachunternehmern (NU)/Unterauftragnehmern vorzulegen. Ein Verweis auf frühere Bewerbungen/Angebote ist nicht ausreichend. Ausländischen Bewerbern wird die Vorlage vergleichbarer Nachweise gestattet. Soweit Eigenerklärungen verlangt werden, sagt der Bewerber zu, Nachweise auf Verlangen, spätestens jedoch vor Zuschlagserteilung vorzulegen.</P>
+               <P>1) Bezeichnung des Bewerberunternehmens mit Firma und Anschrift sowie Angabe eines für das Verfahren zuständigen Ansprechpartners mit E-Mail, Telefon- und Faxnummer.</P>
+               <P/>
+               <P>2) Aktueller Handelsregister-Auszug oder eine Kopie desselben (zum Schlusstermin, vgl. Ziff. IV.2.2) nicht älter als 6 Monate). Soweit keine Eintragung im Handelsregister vorliegt, ist ein vergleichbarer Existenznachweis vorzulegen.</P>
+               <P/>
+               <P>3) Unterschriebene Eigenerklärungen gem. §§ 123, 124 GWB sowie – soweit anwendbar – § 21 SchwarzArbG, § 21 AEntG und § 98 c AufenthG. Unterschriebene Eigenerklärungen gemäß § 19 Abs. 1 und Abs. 3 i.V.m. und § 21 des Gesetzes zur Regelung eines allgemeinen Mindestlohns (MiLoG). Der AG stellt hierzu das Formblatt Eigenerklärung zur Verfügung.</P>
+               <P/>
+               <P>4) Sofern eine Bewerbung als BWG erfolgen soll, ist mit dem Teilnahmeantrag eine von allen Mitgliedern der BWG unterzeichnete Erklärung einzureichen, aus der sich auch die gesamtschuldnerische Haftung (vgl. Ziff. III.1.8) dieser Bekanntmachung) im Zuschlagsfall, die Namen sämtlicher Mitglieder der BWG, ein bevollmächtigter Vertreter und die Absicht, sich im Fall der erfolgreichen Bewerberauswahl zur Bietergemeinschaft und im Zuschlagsfall zu einer Arbeitsgemeinschaft zusammenzuschließen, ergibt.</P>
+               <P>Der AG stellt hierzu das Formblatt BWG-Erklärung zur Verfügung.</P>
+               <P>BWG haben in obiger BWG-Erklärung oder als Anlage zur BWG-Erklärung eine schriftliche Erklärung folgenden Inhalts vorzulegen: Sämtliche Mitglieder der BWG bzw. der Vertreter der BWG haben/hat zu erklären, dass die Bildung keinen Verstoß gegen § 1 GWB darstellt. Darüber hinaus ist von den Mitgliedern der BWG bzw. dem Vertreter dieser zu erklären, inwiefern für das jeweilige beteiligte Unternehmen wirtschaftlich zweckmäßige und kaufmännische Gründe vorliegen, sich nicht allein um die Auftragsvergabe zu bewerben.</P>
+               <P/>
+               <P>5) Der Bewerber kann sich zum Nachweis seiner wirtschaftlichen und finanziellen sowie technischen und beruflichen Leistungsfähigkeit (Eignung) der Fähigkeiten anderer Unternehmen (Dritter / Nachunternehmer / konzernverbundener Unternehmen) bedienen, ungeachtet des rechtlichen Charakters zwischen ihm und diesen Unternehmen bestehenden Verbindungen.</P>
+               <P>Zum Nachweis der Eignung hat der Bewerber diese Dritten in seinem Teilnahmeantrag zu benennen und die in Ziff. III.1) dieser Bekanntmachung genannten Angaben / Erklärungen / Nachweise auch für diesen Dritten in dem Umfang vorzulegen, indem er sich auf dessen Fähigkeiten beruft. Mit dem Teilnahmeantrag ist der Nachweis zu erbringen, dass ihm dieser Dritte mit den erforderlichen Mitteln für das Erbringen der Leistungen zur Verfügung (z.B. Verpflichtungserklärung) steht. Sofern der Bewerber sich zum Nachweis der Eignung auf Dritte bezieht, hat er für diese in seinem Teilnahmeantrag die in Ziff. III.1.1 dieser Bekanntmachung genannten Angaben / Erklärungen / Nachweise vorzulegen.</P>
+               <P>Der AG stellt hierzu das Formblatt Nachunternehmer-Erklärung zur Verfügung.</P>
+               <P>Der AG behält sich vor, weitere Unterlagen beizuziehen bzw. zu verlangen.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>Die nachstehenden Angaben / Erklärungen / Nachweise sind von den Bewerbern (bzw. jedem Mitglied der BWG sowie von allen für die Leistungserbringung vorgesehenen NU vorzulegen. Ein Verweis auf frühere Bewerbungen / Angebote ist nicht ausreichend.</P>
+               <P>1) Erklärung über den „Gesamtumsatz“ (netto) des Unternehmens in den letzten 3 abgeschlossenen Geschäftsjahren. Die Umsatzangaben sind für jedes Jahr separat anzugeben.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Als Mindestanforderung für die Zulassung zum Teilnahmewettbewerb gilt ein durchschnittlicher Mindestjahresumsatz (netto) des Bewerbers/der BWG, der je Los in jedem der letzten drei abgeschlossenen Geschäftsjahre durchschnittlich erzielt worden sein muss, in Höhe von:</P>
+               <P>— Los 1: 400 000 EUR (netto).</P>
+               <P>— Los 2: 480 000 EUR (netto).</P>
+               <P>— Los 3: 280 000 EUR (netto).</P>
+               <P>— Los 4: 480 000 EUR (netto).</P>
+               <P>— Los 5: 400 000 EUR (netto).</P>
+               <P>Die Nichterfüllung dieser Mindestanforderung führt zum Ausschluss aus dem weiteren Verfahren.</P>
+               <P>Die vorstehend genannten Erklärungen sind sowohl von dem Bewerber als auch allen Mitgliedern einer BWG zu tätigen. Die Umsätze von Mitgliedern einer BWG sind für die Erfüllung der Mindestanforderung zu addieren. Sofern der Bewerber/die BWG zur Erfüllung der Mindestanforderungen unter 1.) auf Angaben/Daten von Dritten/Nachunternehmern/ konzernverbundenen Unternehmen verweisen will, sind die obigen Angaben/Nachweise/Erklärungen auch für den Dritten/Nachunternehmer/konzernverbundene Unternehmen vorzulegen. Außerdem ist eine Erklärung des Dritten/Nachunternehmers/konzernverbundenen Unternehmens vorzulegen, wonach dieser/s bereit ist, Leistungen, finanzielle Mittel und/oder Ressourcen für dieses Projekt zu erbringen bzw. bereitzustellen (Verpflichtungserklärung).</P>
+               <P>Der AG stellt hierzu das Formblatt Verpflichtungserklärung zur Verfügung.</P>
+               <P>Die Vergabestelle behält sich vor, die Vorlage weiterer Unterlagen beizuziehen bzw. zu verlangen.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Angaben zu Erfahrungen des Bewerbers/BWG mit Leistungen, die mit den zu vergebenden Leistungen vergleichbar sind. „Vergleichbare Leistungen“ in diesem Sinne sind je Los 1 bis 5 folgende Aufgabenschwerpunkte:</P>
+               <P>a. Programmier- u. Entwicklungsleistungen:</P>
+               <P>— Kleinstmodifikationen u. Programmierung</P>
+               <P/>
+               <P>b. Beratungs- u. Unterstützungsleistungen</P>
+               <P>— Unterstützung beim Betrieb der SAP Systeme (inkl. Updates/Upgrades und Installation)</P>
+               <P>— Fehleranalyse u. -behebung</P>
+               <P>— Projektunterstützung</P>
+               <P>— Analysen der SAP Systeme u. Prozesse</P>
+               <P>— Fach- u. Datenverarbeitungskonzepten erstellen</P>
+               <P>— Customizingeinstellungen vornehmen</P>
+               <P>— Erstellung/Änderung von Berechtigungskonzepten</P>
+               <P>— Beratung des AG in Workshops bzgl. Umsetzung von Business Anforderungen</P>
+               <P>— Erstellung von Handbüchern und Dokumentationen</P>
+               <P>— Schulungen durchführen</P>
+               <P/>
+               <P>c. Projektmanagementleistungen</P>
+               <P>— Steuerung von (Teil-)Projekten oder Programmen</P>
+               <P>— Erstellung von Projektplänen/Statusberichten etc.</P>
+               <P>— Vorbereitung und Begleitung von Lenkungsausschüssen.</P>
+               <P>Der AN hat die Leistungen an SAP Komponenten erbracht:</P>
+               <P>— Los 1 SAP-BW (mind. CO, FI)</P>
+               <P>— Los 2 SAP-ERP (mind. CO, FI, PS, PM, MM, SD)</P>
+               <P>— Los 3 SAP-HCM (mind. OM, PA, PT, PY)</P>
+               <P>— Los 4 SAP-SRM</P>
+               <P>— Los 5 SAP Basis</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>1.1 Die Angaben sind in Form von Referenzen über erbrachte Leistungen zu machen, (wobei der Begriff Referenz wie folgt definiert ist: eine Referenz ist die Angabe einer direkten Vertragsbeziehung zwischen dem benannten Referenzgeberunternehmen als AG u. dem Bewerber/der BWG oder eines Mitglieds der BWG oder des hierzu benannten NU als AN. Die Darstellung jeder einzelnen Referenz hat in Tabellenform mit nachfolgenden Inhalten zu erfolgen. Hierfür stellt der AG ein Formular auf seiner Internetseite gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) zur Verfügung. Auf Ziffer VI.3 dieser Bekanntmachung wird verwiesen.</P>
+               <P>1.1.1 Name und Adresse des AG der Referenzleistung und Benennung eines Ansprechpartners beim AG der Referenzleistung ggf. mit Telefonnummer. Mit den vorstehenden Angaben stimmt der Bewerber bzw. die BWG einer Kontaktaufnahme des AG zu dem jeweiligen Referenzgeber zu.</P>
+               <P>1.1.2 Bezeichnung und kurze Beschreibung des Projekts mit Angaben zu:</P>
+               <P>Aa. Referenzauftraggeber + Ansprechpartner.</P>
+               <P>Bb. Leistungsinhalt/Tätigkeitsbereich.</P>
+               <P>cc. Modul(e) innerhalb des jeweiligen SAP-Systems</P>
+               <P>Dd. Ausführungszeitraum der erbrachten Leistung</P>
+               <P>Ee. Ausführungsort</P>
+               <P>Ff. Leistungsumfang in Manntagen</P>
+               <P>Bei Vorlage von mehr als einer Referenz pro Aufgabenschwerpunkt soll der Bewerber/die BWG angeben, welche Referenz(en) für die Prüfung der folgenden Mindestanforderungen dieser Bekanntmachung zu verwenden sind.</P>
+               <P>1.2)Jede Referenz muss Leistungen betreffen, die im Zeitraum der letzten drei Jahre erbracht wurden, mithin nach Dezember 2014 (Mindestanforderung). Sofern der Bewerber/die BWG auf Aufträge verweist, die überwiegend in den vergangenen drei Jahren erbracht wurden, jedoch auch in der Zukunft erbracht werden, weist die Vergabestelle vorsorglich darauf hin, dass für die Prüfung der Mindestanforderung ausschließlich Angaben aus der Vergangenheit herangezogen werden.</P>
+               <P>Sofern die als Referenzen herangezogenen Leistungen die o.g. Mindestanforderung je Los nicht erfüllen, führt dies zum Ausschluss aus dem Verfahren.</P>
+               <P>1.3 Es muss pro Los 1 – 5 mindestens eine Referenz für jeden allgemeinen Aufgabenschwerpunkt eingereicht werden:</P>
+               <P>a. Programmier- u. Entwicklungsleistungen</P>
+               <P>b. Beratungs- u. Unterstützungsleistungen</P>
+               <P>c. Projektmanagementleistungen</P>
+               <P>Hier kann ein- und dieselbe Referenz für mehrere Aufgabenschwerpunkte eines Loses oder auch für mehrere Lose eingereicht werden.</P>
+               <P>Die einzureichenden Referenzen müssen in Bezug auf die o.g. Aufgabenschwerpunkte a. – c. darüber hinaus Mindestanforderungen bzgl. Leistungsschwerpunkten und Technologien pro Los nachweisen. Diese zu erfüllenden Mindestanforderungen sind in der Anlage zur Auftragsbekanntmachung (Formblatt Unternehmensreferenzen) gemäß Link: (URL) (https://secure.berlin-airport.de/evergabe-extern/) aufgeführt und anhand dessen nachzuweisen.</P>
+               <P>Sofern die als Referenzen herangezogenen Leistungen die in der Anlage zur Auftragsbekanntmachung aufgeführten Mindestanforderungen je Los nicht erfüllen, führt dies zum Ausschluss aus dem Verfahren.</P>
+               <P>Die vorstehend genannten Erklärungen sind sowohl von dem Bewerber als auch allen Mitgliedern einer BWG zu tätigen. Sofern der Bewerber/die BWG zur Erfüllung der Mindestanforderungen auf Angaben/Daten von Dritten/Nachunternehmern/ konzernverbundenen Unternehmen verweisen will, sind die obigen Angaben/Nachweise/Erklärungen auch für den Dritten/Nachunternehmer/konzernverbundene Unternehmen vorzulegen. Außerdem ist eine Erklärung des Dritten/Nachunternehmers/konzernverbundenen Unternehmens vorzulegen, wonach dieser/s bereit ist, Leistungen, finanzielle Mittel und/oder Ressourcen für dieses Projekt zu erbringen bzw. bereitzustellen (Verpflichtungserklärung).</P>
+               <P>Der AG stellt hierzu das Formblatt Verpflichtungserklärung zur Verfügung.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <RULES_CRITERIA>
+               <P>Der AG prüft bei den fristgerecht eingegangenen Teilnahmeanträgen die Eignung der Bewerber in einem dreistufigen Verfahren.</P>
+               <P>— Stufe 1: Prüfung auf Vollständigkeit der abgeforderten Angaben, Erklärungen und Nachweise III.1.1 bis III.1.3.</P>
+               <P>— Stufe 2: Vorliegen von Ausschlussgründen inkl. Erfüllung der Mindestanforderungen.</P>
+               <P>— Stufe 3: Prüfung der Befähigung und Erlaubnis zur Berufsausübung, wirtschaftlichen und finanziellen sowie der technischen und beruflichen Leistungsfähigkeit gemessen an der zu vergebenden Leistung.</P>
+               <P>Insbesondere auf Stufe 3, deren Prüfung anhand der vom Bewerber/BWG eingereichten Angaben, Erklärungen und Nachweise erfolgt, übt der Auftraggeber seinen Beurteilungsspielraum aus. Nur die geeigneten Bewerber werden im weiteren Verfahren berücksichtigt.</P>
+               <P>Der AG behält sich vor, fehlende, unvollständige oder fehlerhafte unternehmensbezogene Unterlagen, insb. Erklärungen, Angaben, Bescheinigungen oder sonstige Nachweise, nachzufordern oder ggf. korrigieren zu lassen.</P>
+            </RULES_CRITERIA>
+            <DEPOSIT_GUARANTEE_REQUIRED>
+               <P>Gemäß Vergabeunterlagen.</P>
+            </DEPOSIT_GUARANTEE_REQUIRED>
+            <MAIN_FINANCING_CONDITION>
+               <P>Gemäß Vergabeunterlagen.</P>
+            </MAIN_FINANCING_CONDITION>
+            <LEGAL_FORM>
+               <P>Gesellschaft bürgerlichen Rechts, gesamtschuldnerisch haftend mit bevollmächtigtem Vertreter.</P>
+            </LEGAL_FORM>
+            <PERFORMANCE_CONDITIONS>
+               <P>a) Alle eingesetzten Mitarbeiter des Auftragnehmers müssen die deutsche Sprache in Wort und Schrift fließend und grammatikalisch einwandfrei beherrschen, zudem sind sichere Sprachkenntnisse in Englisch Voraussetzung.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_NEGOTIATED_WITH_PRIOR_CALL/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="DE"/>
+            </LANGUAGES>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>1) Der AG führt als Sektorenauftraggeber ein Verhandlungsverfahren mit Bekanntmachung i.S.d. 4. Teils des GWB und der SektVO durch. Durch diese Bekanntmachung wird der Teilnahmewettbewerb (TNW) begonnen, in dem sich die interessierten Unternehmen mit den in dieser Bekanntmachung angegebenen Angaben, Erklärungen und Nachweisen um die Aufforderung zur Angebotsabgabe bewerben. Erst eine erfolgreiche Bewerbung mit positiver Eignungsprüfung und -bewertung durch den AG führt zur Versendung der Vergabeunterlagen.</P>
+               <P>2) Die Übermittlung von Bewerberfragen hat ausschließlich per E-Mail unter Angabe der Bezeichnung der Maßnahme (vgl. Ziff. II.1.1)) und des Aktenzeichens EA-2017-0422 an die E-Mail adresse einkauf@berlin-airport.de zu erfolgen. Auskünfte werden grundsätzlich nur auf solche Fragen erteilt, die bis zum 2.2.2018, 12:00 Uhr, an die unter Ziffer I.1) bezeichnete Stelle eingegangen sind. Mündliche oder verspätete Anfragen werden nicht beantwortet. Der AG wird etwaige Informationen (auch die Formulare) und Beantwortung von Fragen von Bewerbern zum TNW sowie sonstige Klarstellungen des AG, die das Vergabeverfahren betreffen, auf der Internetseite veröffentlichen: (https://secure.berlin-airport.de/evergabe-extern/). Der AG empfiehlt daher allen Bewerbern, täglich den vorbenannten Link zum Abruf von aktuellen Informationen und Klarstellungen des AG sowie Antworten von Bewerberanfragen zum Vergabeverfahren zu nutzen. Die Bewerber sollen die vom AG zur Verfügung gestellten Formulare verwenden, ausfüllen und durch die geforderten Angaben, Erklärungen und Nachweise ergänzen. Ein Verweis auf frühere Bewerbungen/Angebote ist nicht ausreichend.</P>
+               <P>3) Die Bewerber haben zu beachten, dass der TNA unterzeichnet ist. Der TNA ist entweder von allen Mitgliedern einer BewGe oder dem bevollmächtigten Vertreter zu unterzeichnen. Sofern ein bevollmächtigter Vertreter unterzeichnet, ist bzw. sind die Vollmachten der Mitglieder der BewGe beizufügen.</P>
+               <P>4) Die TNA und deren Anlagen sind dreifach (ein Original, 2 Kopien) in deutscher Sprache einzureichen. Die Übermittlung hat schriftlich unter expliziter Angabe des Aktenzeichens EA-2017-0422 auf dem verschlossenen Behältnis/Umschlag, in dem der TNA eingereicht wird, sowie im Anschreiben zu dem TNA zu erfolgen (Vorlage bis zum Schlusstermin bei der benannten Kontaktstelle – die Übersendung per Telefax oder in elektronischer Form, z. B. mittels E-Mail, ist nicht zulässig). Hierzu ist das auf der Vergabeplattform des AG veröffentlichte Formular zu verwenden.</P>
+               <P>5) Dem TNA sind zudem elektronische Kopien aller übermittelten Unterlagen auf einem geeigneten virengeprüften und virenfreien Datenträger beizulegen. Die elektronischen Kopien sind in einem nicht-bearbeitbaren Format (z.B. geschützte, jedoch druckbare Dateien) bereitzustellen. Mit der Abgabe des TNA versichert der Bewerber bzw. die BewGe, dass die Inhalte der elektronischen Kopien vollumfänglich und mit den eingereichten Originalen uneingeschränkt identisch sind.</P>
+               <P>6) Der AG ist berechtigt, bei Bedenken hinsichtlich der Eignung des Bewerbers die Vorlage von Originalen o. weiteren Unterlagen zu verlangen.</P>
+               <P>7) Mit der Benennung der Referenzen stimmt der Bewerber/die BWG der Kontaktaufnahme durch den AG zu den jeweiligen Referenzgebern zu.</P>
+               <P>8) Der Bewerber wird darauf hingewiesen, dass alle mit dem TNA eingereichten Angaben auch für das ggf. einzureichende Angebot Geltung haben sollen. Sofern sich im weiteren Verfahren Änderungen gegenüber dem TNW ergeben, muss der AG zu späterer Zeit ggf. erneut in eine Beurteilung der Eignung eintreten.</P>
+               <P>9) Die Bewerbungsunterlagen werden nicht zurückgesandt und verbleiben im Besitz des Auftraggebers.</P>
+               <P>10) Der AG weist darauf hin, dass allein der Inhalt der vorliegenden EU-weiten Bekanntmachung maßgeblich ist, wenn die Bekanntmachung zusätzlich in weiteren Bekanntmachungsmedien veröffentlicht wird u. der Bekanntmachungstext in diesen zusätzlichen Bekanntmachungen nicht vollständig, unrichtig o. verändert wiedergegeben wird.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vergabekammer des Landes Brandenburg</OFFICIALNAME>
+               <ADDRESS>Vergabekammer des Landes Brandenburg beim Ministerium für Wirtschaft und Energie des Landes Brandenburg, Heinrich-Mann-Allee 107</ADDRESS>
+               <TOWN>Potsdam</TOWN>
+               <POSTAL_CODE>14473</POSTAL_CODE>
+               <COUNTRY VALUE="DE"/>
+               <PHONE>+49 331866-1617</PHONE>
+               <FAX>+49 331866-1652</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>1. Gemäß § 160 Abs. 3 Nr. 1 GWB müssen erkannte Verstöße gegen Vergabevorschriften innerhalb einer Frist von 10 Kalendertagen gegenüber dem AG gerügt werden.</P>
+               <P/>
+               <P>2. Gemäß § 160 Abs. 3 Nr. 2 GWB müssen Verstöße gegen Vergabevorschriften, die aus diesem Bekanntmachungstext erkennbar sind, innerhalb der in der Bekanntmachung benannten Angebots- bzw. Bewerbungsfrist gegenüber dem AG gerügt werden.</P>
+               <P/>
+               <P>3. Gemäß § 160 Abs. 3 Nr. 3 GWB müssen Verstöße gegen Vergabevorschriften, die aus erst in den Vergabeunterlagen erkennbar sind, innerhalb der Angebots- bzw. Bewerbungsfrist gegenüber dem AG gerügt werden.</P>
+               <P/>
+               <P>4. Hilft der AG der Rüge nicht ab, kann ein Antrag auf Nachprüfung bei der Vergabekammer des Landes Brandenburg unter der o.g. Anschrift innerhalb von 15 Kalendertagen nach Eingang der Mitteilung des AG, der Rüge nicht abhelfen zu wollen, gestellt werden. Der Nachprüfungsantrag ist unzulässig, soweit die Voraussetzungen des § 160 Abs. 3 GWB vorliegen.</P>
+               <P/>
+               <P>5. Der AG weist zugleich auf die Vorschriften der §§ 134, 135 GWB hin. Insbesondere sind die Fristenregelungen in § 135 Abs. 2 GWB zur Geltendmachung der in § 134 Abs. 1 GWB genannten Verstöße zu beachten.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-16</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F05_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

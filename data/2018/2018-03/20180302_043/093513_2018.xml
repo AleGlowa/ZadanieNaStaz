@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="093513-2018"
+            EDITION="2018043">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-094289-001</RECEPTION_ID>
+      <DELETION_DATE>20180410</DELETION_DATE>
+      <FORM_LG_LIST>LT </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>43</NO_OJ>
+         <DATE_PUB>20180302</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 043-093513</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:093513-2018:TEXT:LT:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>LT</LG_ORIG>
+         <ISO_COUNTRY VALUE="LT"/>
+         <IA_URL_GENERAL>http://kam.lt</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://pirkimai.eviesiejipirkimai.lt/app/rfq/publicpurchase_docs.asp?PID=384359</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="35100000">Emergency and security equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="30200000">Computer equipment and supplies</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="31400000">Accumulators, primary cells and primary batteries</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="32300000">Television and radio receivers, and sound or video recording or reproducing apparatus</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="32500000">Telecommunications equipment and supplies</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="44300000">Cable, wire and related products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="44500000">Tools, locks, keys, hinges, fasteners, chain and springs</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48400000">Business transaction and personal business software package</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48800000">Information systems and servers</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="LT">LIETUVA</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LT">LIETUVA</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180228</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180410 10:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="1">Ministry or any other national or federal authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Литвa</TI_CY>
+            <TI_TOWN>Вилнюс</TI_TOWN>
+            <TI_TEXT>
+               <P>Оборудване за авариини ситуации и осигуряване на безопасност</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Litva</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Nouzové a bezpečnostní zařízení</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Litauen</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Nød- og sikkerhedsudstyr</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Litauen</TI_CY>
+            <TI_TOWN>Wilna</TI_TOWN>
+            <TI_TEXT>
+               <P>Not- und Sicherheitsausrüstungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λιθουανία</TI_CY>
+            <TI_TOWN>Βίλνα</TI_TOWN>
+            <TI_TEXT>
+               <P>Εξοπλισμός εκτάκτου ανάγκης και ασφαλείας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Lithuania</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Emergency and security equipment</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Lituania</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Equipo de emergencia y seguridad</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Leedu</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Avarii- ja turvaseadmed</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Liettua</TI_CY>
+            <TI_TOWN>Vilna</TI_TOWN>
+            <TI_TEXT>
+               <P>Pelastus- ja turvavälineet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Lituanie</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Matériel de secours et de sécurité</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Liotuáin, an</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Emergency and security equipment</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Litva</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Interventna i sigurnosna oprema</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Litvánia</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Vészhelyzeti és biztonsági berendezések</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lituania</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Apparecchiature di emergenza e di sicurezza</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lietuva</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Avariniai ir apsaugos įrenginiai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Lietuva</TI_CY>
+            <TI_TOWN>Viļņa</TI_TOWN>
+            <TI_TEXT>
+               <P>Iekārtas ārkārtējām situācijām un drošības iekārtas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Litwanja</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Apparat ta' l-emerġenza u s-sigurtà</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Litouwen</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Nood- en veiligheidsuitrusting</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Litwa</TI_CY>
+            <TI_TOWN>Wilno</TI_TOWN>
+            <TI_TEXT>
+               <P>Urządzenia awaryjne i zabezpieczające</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Lituânia</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Equipamento de emergência e de segurança</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Lituania</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Echipament de urgenţă şi de siguranţă</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Litva</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Pohotovostné a zabezpečovacie zariadenia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Litva</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Oprema za nujne primere in varnost</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Litauen</TI_CY>
+            <TI_TOWN>Vilnius</TI_TOWN>
+            <TI_TEXT>
+               <P>Nöd- och säkerhetsutrustning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="LT">Informacinių technologijų tarnyba prie Krašto apsaugos ministerijos</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <NOTICE_UUID>32cee038-4f61-47e4-9f9e-6bebb5801acf</NOTICE_UUID>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Informacinių technologijų tarnyba prie Krašto apsaugos ministerijos</OFFICIALNAME>
+               <NATIONALID>191823126</NATIONALID>
+               <ADDRESS>Šilo g. 5A</ADDRESS>
+               <TOWN>Vilnius</TOWN>
+               <POSTAL_CODE>LT-10322</POSTAL_CODE>
+               <COUNTRY VALUE="LT"/>
+               <CONTACT_POINT>Mindaugas Karalevičius</CONTACT_POINT>
+               <PHONE>+370 70663030</PHONE>
+               <E_MAIL>Mindaugas.karalevicius@kam.lt</E_MAIL>
+               <n2016:NUTS CODE="LT"/>
+               <URL_GENERAL>http://kam.lt</URL_GENERAL>
+               <URL_BUYER>https://pirkimai.eviesiejipirkimai.lt/ctm/Company/CompanyInformation/Index/4767</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://pirkimai.eviesiejipirkimai.lt/app/rfq/publicpurchase_docs.asp?PID=384359</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://pirkimai.eviesiejipirkimai.lt/app/rfq/rwlentrance_s.asp?PID=384359&amp;B=PPO</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="MINISTRY"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Elektroninių apsaugos sistemų įrangos pirkimas</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Perkama elektroninių apsaugos sistemų įranga.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Elektroninių apsaugos sistemų įranga</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Apsaugos sistemos valdymo įrenginys – min. 1, maks. 20.</P>
+                  <P>8 (aštuonių) rėlių išplėtimo modulis – min. 1, maks. 15.</P>
+                  <P>Apsaugos sistemos zonų išplėtimo modulis – min. 1, maks. 60.</P>
+                  <P>Apsaugos sistemos zonų išplėtimo modulio zonų išplėtimo plokštė – min. 3, maks. 180.</P>
+                  <P>Dvejų durų įeigos kontrolės valdymo modulis – min. 1, maks. 60.</P>
+                  <P>Dvejų durų įeigos kontrolės valdymo modulio išplėtimo plokštė – min. 1, maks. 180.</P>
+                  <P>Apsaugos sistemos valdymo klaviatūra lauko sąlygoms – min. 1, maks. 15.</P>
+                  <P>Lauko dvigubos technologijos judesio jutiklis – min. 1, maks. 100.</P>
+                  <P>Apsaugos sistemos RS-485 sąsajos izoliatorius – min. 1, maks. 10.</P>
+                  <P>Vienų durų įeigos kontrolės valdymo modulis – min. 1, maks. 10.</P>
+                  <P>Elektromagnetinė sklendė lauko sąlygoms – min. 1, maks. 50.</P>
+                  <P>Judesio jutiklis sprogiai aplinkai – min. 1, maks. 30.</P>
+                  <P>Zenerio sąsaja judesio jutikliui Nr. 1 – min. 1, maks. 20.</P>
+                  <P>Zenerio sąsaja judesio jutikliui Nr. 2 – min. 1, maks. 15.</P>
+                  <P>Kontaktinė dėžutė Nr. 1 – min. 10, maks. 1 500.</P>
+                  <P>Kontaktinė dėžutė Nr. 2 – min. 5, maks. 80.</P>
+                  <P>Nuotolinių kortelių skaitytuvas be klaviatūros Nr. 1 – min. 1, maks. 50.</P>
+                  <P>Nuotolinių kortelių skaitytuvas be klaviatūros Nr. 2 – min. 1, maks. 50.</P>
+                  <P>Nuotolinių kortelių skaitytuvas be klaviatūros Nr. 3 – min. 5, maks. 300.</P>
+                  <P>Nuotolinių kortelių skaitytuvas be klaviatūros Nr. 4 – min. 5, maks. 50.</P>
+                  <P>Nuotolinių kortelių skaitytuvas su klaviatūra Nr. 1 – min. 1, maks. 50.</P>
+                  <P>Nuotolinių kortelių skaitytuvas su klaviatūra Nr. 2 – min. 5, maks. 300.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Elektroninių apsaugos sistemų programinė įranga</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Apsaugos sistemos valdymo įrenginio galimybių išplėtimo lustinės kortelės programinės įrangos atnaujinimas – min. 1 20.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 1 – min. 10, maks. 20.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 2 – min. 1, maks. 5.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 3 – min. 1, maks. 30.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 4 – min. 1, maks. 5.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 5 – min. 1, maks. 30.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 6 – min. 1, maks. 10.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 7 – min. 1, maks. 15.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 8 – min. 1, maks. 5.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 9 – min. 1, maks. 15.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 10 – min. 1, maks. 5.</P>
+                  <P>Apsaugos sistemos programinė įranga Nr. 11 – min. 1, maks. 10.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Nuotolinė darbo vieta, atminties laikmenos ir monitoriai</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Nuotolinė darbo vieta, skirta elektroninei apsaugos sistemai (toliau – EAS) stebėti ir administruoti – min. 5, maks. 40.</P>
+                  <P>Atminties laikmena, skirta EAS talpos padidinimui ar remontui, Nr. 1 – min. 1, maks. 10.</P>
+                  <P>Atminties laikmena, skirta EAS talpos padidinimui ar remontui, Nr. 2 – min. 1, maks. 20.</P>
+                  <P>Atminties laikmena, skirta EAS talpos padidinimui ar remontui, Nr. 3 – min. 1, maks. 15.</P>
+                  <P>Atminties laikmena, skirta EAS talpos padidinimui ar remontui, Nr. 4 – min. 16, maks. 90.</P>
+                  <P>Atminties laikmena, skirta EAS talpos padidinimui ar remontui, Nr. 5 – min. 1, maks. 10.</P>
+                  <P>Monitorius, skirtas vaizdo stebėjimo sistemai Nr. 1 – min. 5, maks. 50.</P>
+                  <P>Monitorius, skirtas vaizdo stebėjimo sistemai Nr. 2 – min. 1, maks. 25.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Vaizdo stebėjimo įranga</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Videodekoderis – min. 1, maks. 5.</P>
+                  <P>Stacionari kupolinė IP vaizdo kamera – min. 1, maks. 20.</P>
+                  <P>Vaizdo kameros laikiklis – min. 1, maks. 20.</P>
+                  <P>Vaizdo kameros kampinio montavimo adapteris Nr. 1 – min. 1, maks. 10.</P>
+                  <P>Vaizdo kameros kampinio montavimo adapteris Nr. 2 – min. 1, maks. 10.</P>
+                  <P>Vaizdo kameros laikiklio adapteris – min. 1, maks. 150.</P>
+                  <P>Vaizdo kameros vamzdinis laikiklis – min. 1, maks. 30.</P>
+                  <P>Valdoma vaizdo kamera – min. 1, maks. 15.</P>
+                  <P>Laikiklis valdomai vaizdo kamerai Nr. 1 – min. 1, maks. 15.</P>
+                  <P>Laikiklis valdomai vaizdo kamerai Nr. 2 – min. 1, maks. 20.</P>
+                  <P>PoE maitinimo šaltinis Nr. 1 – min. 1, maks. 25.</P>
+                  <P>PoE maitinimo šaltinis Nr. 2 – min. 1, maks. 45.</P>
+                  <P>Vaizdo kameros maitinimo blokas – min. 1, maks. 25.</P>
+                  <P>Vaizdo stebėjimo sistemos ir apsaugos sistemos apjungimo įrenginys – min. 1, maks. 15.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Vaizdo stebėjimo sistemų programinė įranga</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Vaizdo įrašymo įrenginio kanalų praplėtimo programinė įranga – min. 10, maks. 400.</P>
+                  <P>Vaizdo įrašymo įrenginio nuotolinės darbo vietos programinė įranga – min. 1, maks. 10.</P>
+                  <P>Valdomos vaizdo kameros klaviatūros programinė įranga – min. 1, maks. 10.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Vaizdo įrašymo įranga</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Vaizdo įrašymo įrenginys Nr. 1 – min. 5, maks. 60.</P>
+                  <P>Vaizdo įrašymo įrenginys Nr. 2 – min. 1, maks. 5.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Telekomunikacijų įranga</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>19 colių komutacinė spinta Nr. 1 – min. 1, maks. 5.</P>
+                  <P>19 colių pakabinama komutacinė spinta – min. 1, maks. 10.</P>
+                  <P>19 colių komutacinė spinta Nr. 2 – min. 1, maks. 10.</P>
+                  <P>Kabelių tvarkymo panėlė – min. 1, maks. 100.</P>
+                  <P>Elektros paskirstymo skydas – min. 1, maks. 50.</P>
+                  <P>Optinių keitiklių šasi – min. 1, maks. 5.</P>
+                  <P>Industrinis optinis keitiklis – min. 1, maks. 130.</P>
+                  <P>Industrinis tinklo komutatorius su PoE – min. 1, maks. 100.</P>
+                  <P>Optinių keitiklių montavimo plokštė – min. 1, maks. 30.</P>
+                  <P>Pramoninė optinio kabelio paskirstymo dėžutė – min. 1, maks. 30.</P>
+                  <P>Pramoninė optinio kabelio sujungimo ir paskirstymo dėžutė – min. 1, maks. 100.</P>
+                  <P>Optinio kabelio sujungimo ar paskirstymo dėžutė Nr. 1 – min. 1, maks. 10.</P>
+                  <P>Optinio kabelio sujungimo ar paskirstymo dėžutė Nr. 2 – min. 1, maks. 10.</P>
+                  <P>Optinio kabelio sujungimo ar paskirstymo dėžutė Nr. 3 – min. 1, maks. 10.</P>
+                  <P>Optinio kabelio sujungimo ar paskirstymo dėžutė Nr. 4 – min. 1, maks. 10.</P>
+                  <P>Optinio kabelio sujungimo ar paskirstymo dėžutė Nr. 5 – min. 1, maks. 10.</P>
+                  <P>Kompiuterinis kištukas Nr. 1 – min. 1, maks. 20.</P>
+                  <P>Kompiuterinis kištukas Nr. 2 – min. 1, maks. 20.</P>
+                  <P>Kompiuterinis kištukas Nr. 3 – min. 1, maks. 20.</P>
+                  <P>Kompiuterinis kabelis – min. 1, maks. 10.</P>
+                  <P>1U 19 colių maitinimo plokštė su 8 lizdais – min. 1, maks. 70.</P>
+                  <P>Varžtų, veržlių ir poveržlių komplektas – min. 5, maks. 50.</P>
+                  <P>Optinis kabelis – min. 1, maks. 20.</P>
+                  <P>Optinis adapteris – min. 20, maks. 500.</P>
+                  <P>Termofitai – min. 100, maks. 2 000.</P>
+                  <P>Duomenų perdavimo kabelis Nr. 1 – min. 500, maks. 2 000.</P>
+                  <P>Duomenų perdavimo kabelis Nr. 2 – min. 5, maks. 200.</P>
+                  <P>LSA plintas – min. 1, maks. 50.</P>
+                  <P>„Krone“ plintų laikiklis Nr. 1 – min. 1, maks. 3.</P>
+                  <P>„Krone“ plintų laikiklis Nr. 2 – min. 1, maks. 25.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Tarnybinės stotys</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Tarnybinė stotis Nr. 1 –  min. 1, maks. 6.</P>
+                  <P>Tarnybinė stotis Nr. 2 – min. 1, maks. 3.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Nuotolinių kortelių spausdintuvas</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Nuotolinių kortelių spausdintuvas – min. 1, maks. 5.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Akumuliatoriai</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>Akumuliatorius Nr. 1 – min. 10, maks. 75.</P>
+                  <P>Akumuliatorius Nr. 2 – min. 10, maks. 50.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Tvirtinimo elementai</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkami įvairiūs tvirtinimo elementai. Minimalūs ir maksimalūs perkamų prekių kiekiai nurodyti pirkimo sąlygose.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Elektros prekės</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos įvairios elektros prekės. Minimalūs ir maksimalūs perkamų prekių kiekiai nurodyti pirkimo sąlygose.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>Pasikalbėjimo įrenginys</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="32500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="44500000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48400000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48800000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LT"/>
+               <SHORT_DESCR>
+                  <P>Perkamos šios prekės (nurodyti minimalūs ir maksimalūs kiekiai):</P>
+                  <P>IP pasikalbėjimo įrangos komplektas – min. 1, maks. 20.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Tiekėjas turi pateikti užpildytą pirkimo sąlygų priedą „Europos bendrasis viešųjų pirkimų dokumentas (EBVPD)“ pagal VPĮ 50 straipsnyje nustatytus reikalavimus. EBVPD pildomas jį įkėlus į Europos Komisijos interneto svetainę https://ec.europa.eu/tools/espd?lang=lt ir užpildžius bei atsisiuntus pateikiamas su pasiūlymu.</P>
+               <P>Tiekėjas turi teisę verstis ta veikla, kuri reikalinga pirkimo sutarčiai įvykdyti. Pateikiamas valstybės įmonės Registrų centro išduotas Lietuvos Respublikos juridinių asmenų registro išplėstinis išrašas, asmens, besiverčiančio veikla turint verslo liudijimą, – verslo liudijimas ar kiti dokumentai, patvirtinantys tiekėjo teisę verstis atitinkama veikla, arba profesinių ar veiklos tvarkytojų, valstybės įgaliotų institucijų pažymos, kaip yra nustatyta toje valstybėje, kurioje tiekėjas registruotas, ar priesaikos deklaracija, liudijanti tiekėjo teisę verstis atitinkama veikla (pateikiamas skenuotas dokumentas elektronine forma).</P>
+            </SUITABILITY>
+            <PERFORMANCE_CONDITIONS>
+               <P>Prievolių įvykdymo užtikrinimas. Banko garantijos ar draudimo bendrovės laidavimo raštu užtikrinama suma – 7 (septyni) % nuo sutartyje nurodytos maksimalios sutarties kainos be PVM.</P>
+               <P>Pardavėjui sumokama, kai sutarties objektas, atitinkantis sutartyje ir jos priede (-uose) nustatytus reikalavimus, perduodamas pirkėjui, abiem šalims pasirašius perdavimo–priėmimo aktą, per 30 (trisdešimt) dienų nuo perdavimo–priėmimo akto pasirašymo ir sąskaitos gavimo dienos (sąskaita faktūra taip pat turi būti išsiųsta ir elektroninėmis priemonėmis). Jei nustatomos kitokios apmokėjimo sąlygos, jos turi būti nustatytos sutarties specialioje dalyje. Pirkėjui vėluojant atsiskaityti šiame punkte numatytu terminu, pirkėjas, pardavėjui pareikalavus (ne vėliau kaip per 30 (trisdešimt) dienų nuo pareikalavimo gavimo), moka palūkanas pagal Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymą.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-10</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="LT"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">3</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-10</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:45</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vilniaus apygardos teismas</OFFICIALNAME>
+               <ADDRESS>Gedimino pr. 40</ADDRESS>
+               <TOWN>Vilnius</TOWN>
+               <COUNTRY VALUE="LT"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-28</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

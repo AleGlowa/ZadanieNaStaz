@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="093205-2018"
+            EDITION="2018043">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-087236-001</RECEPTION_ID>
+      <DELETION_DATE>20180603</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>43</NO_OJ>
+         <DATE_PUB>20180302</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 043-093205</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:093205-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LU"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/energy/en</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="38500000">Checking and testing apparatus</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LU">LUXEMBOURG</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="00">Not specified / Other</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">700000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 131-267197</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180223</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt om varekøb vedrørende indkøb af Cerenkov-betragtere samt ydelse af specifikke tjenesteydelser</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenliefervertrag betreffend die Beschaffung von Tscherenkow-Betrachtungsgeräten und die Bereitstellung von speziellen Dienstleistungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework supply contract regarding the purchase of Cherenkov viewing devices and the provision of specific services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco de suministros relativo a la adquisición de dispositivos de observación Cherenkov y la prestación de servicios específicos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Tavarahankintoja koskeva puitesopimus Tšerenkovin säteilyn kuvantamislaitteiden hankinnasta ja erityispalvelujen toimituksesta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre de fournitures relatif à l'acquisition de dispositifs de visualisation Cherenkov et à la prestation de services spécifiques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λουξεμβούργο</TI_CY>
+            <TI_TOWN>Λουξεμβούργο</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο προμηθειών σχετικά με την αγορά συσκευών προβολής ακτινοβολίας Cherenkov και την παροχή ειδικών υπηρεσιών</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lussemburgo</TI_CY>
+            <TI_TOWN>Lussemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro di fornitura per l'acquisto di dispositivi di visualizzazione Cherenkov e la prestazione di servizi specifici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor leveringen met betrekking tot de aankoop van toestellen om cerenkovstraling te bekijken en de verlening van specifieke diensten.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro de fornecimentos relativo à aquisição de dispositivos de visualização Cherenkov e à prestação de serviços específicos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för varor avseende inköp av Cherenkov Viewing Device-instrument och tillhandahållande av särskilda tjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lucembursko</TI_CY>
+            <TI_TOWN>Lucemburk</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva na dodávky týkající se zakoupení prohlížecích zařízení na sledování Čerenkova záření a poskytování konkrétních služeb</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Tarne raamleping, mis käsitleb Tšerenkovi vaatlusseadmete ostmist ja eriteenuste osutamist</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Cserenkov megjelenítő eszközök beszerzésére és specifikus szolgáltatások nyújtására irányuló árubeszerzési keretszerződés</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Liuksemburgas</TI_CY>
+            <TI_TOWN>Liuksemburgas</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji prekių pirkimo sutartis dėl „Cherenkov“ žiūrėjimo įrenginių pirkimo ir specialių paslaugų teikimo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Luksemburga</TI_CY>
+            <TI_TOWN>Luksemburga</TI_TOWN>
+            <TI_TEXT>
+               <P>Piegāžu pamatnolīgums par Čerenkova starojuma novērošanas ierīču iegādi un konkrētu pakalpojumu sniegšanu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Lussemburgu</TI_CY>
+            <TI_TOWN>Lussemburgu</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt ta' provvista dwar ix-xiri ta' apparati Cherenkov li wieħed jara minnhom u l-provvista ta' servizzi speċifiċi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luksemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o dostawy dotycząca zakupu urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa i świadczenie określonych usług</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Luxembursko</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na dodávku tovaru v súvislosti s nákupom Čerenkovových zobrazovacích zariadení a poskytovanie osobitných služieb</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo blaga v zvezi z nakupom Čerenkovih opazovalnih naprav in zagotavljanjem specifičnih storitev</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Lucsamburg</TI_CY>
+            <TI_TOWN>Lucsamburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Creatchonradh soláthair maidir le gléasanna amhairc Cherenkov a cheannach agus seirbhísí sainiúla a sholáthar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Люксембург</TI_CY>
+            <TI_TOWN>Люксембург</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за доставка за закупуването на зрителни устройства „Черенков“ и предоставянето на конкретни услуги</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru de achiziții publice de bunuri privind achiziționarea de dispozitive de vizualizare și prestarea de servicii specifice</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor o nabavi robe u vezi s kupnjom Čerenkovljevog uređaja za pregled i pružanjem posebnih usluga</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="EN">European Commission — Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Directorate General for Energy</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate General for Energy</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate General for Energy</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate General for Energy</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate-General for Energy</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate General for Energy</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate-General for Energy</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt om varekøb vedrørende indkøb af Cerenkov-betragtere samt ydelse af specifikke tjenesteydelser</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Europa-Kommissionen anvender digitale Cerenkov-betragtere i nukleare anlæg i hele Den Europæiske Union til operationelle opgaver inden for rammerne af dens ansvarsområder i henhold til kapitel VII i Euratomtraktaten. Betragterne benyttes ligeledes i inspektioner, der gennemføres i fællesskab med Den Internationale Atomenergikommission.</P>
+               <P>Der skal indgås en rammekontrakt med 1 leverandør om levering af Cerenkov-betragtere og ydelse af specifikke tjenesteydelser efter behov.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Kontrahentens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der skal indgås en rammekontrakt med 1 leverandør om levering af Cerenkov-betragtere og ydelse af specifikke tjenesteydelser efter behov.</P>
+                  <P>Kontrakten omfatter:</P>
+                  <P>— levering af Cerenkov-betragtere</P>
+                  <P>— levering af de påkrævede systemdele og anden hardware, som anbefales af udvikleren og producenten, og inklusive resultater af mulige fremtidige systemudviklinger</P>
+                  <P>— vedligeholdelse og reparation, udvikling, tilpasning og opdatering af software eller hardware efter behov, systemopgraderinger, f.eks. ændring af instrumenterne eller udvikling af yderligere tilbehør, rådgivning (pr. telefon), undervisning, efter behov, på steder specificeret af GD for Energi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Billedforstærker med fotonforstærkning på 300 nm (typisk)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Billedforstærkers opløsning</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV-filters transmission 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Vægt</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digital lagringskapacitet</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Rammekontrakt om varekøb vedrørende indkøb af Cerenkov-betragtere samt ydelse af specifikke tjenesteydelser</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenliefervertrag betreffend die Beschaffung von Tscherenkow-Betrachtungsgeräten und die Bereitstellung von speziellen Dienstleistungen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Für operative Aufgaben im Rahmen ihrer Zuständigkeiten gemäß Kapitel VII des EURATOM-Vertrags setzt die Europäische Kommission in kerntechnischen Anlagen in der gesamten Europäischen Union Tscherenkow-Betrachtungsgeräte ein. Die Geräte werden auch bei Inspektionen genutzt, die gemeinsam mit der Internationalen Atomenergie-Organisation (International Atomic Energy Agency — IAEA) durchgeführt werden.</P>
+               <P>Beabsichtigt wird der Abschluss eines Rahmenvertrags mit einem Lieferanten, der die Beschaffung von Tscherenkow-Betrachtungsgeräten und die Bereitstellung von speziellen Dienstleistungen abdeckt.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Geschäftsräume des Auftragnehmers.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Beabsichtigt wird der Abschluss eines Rahmenvertrags mit einem Lieferanten, der die Beschaffung von Tscherenkow-Betrachtungsgeräten und die Bereitstellung von speziellen Dienstleistungen abdeckt.</P>
+                  <P>Der Auftrag soll Folgendes abdecken:</P>
+                  <P>— die Lieferung von Tscherenkow-Betrachtungsgeräten,</P>
+                  <P>— die Lieferung der benötigten Systemteile und anderer vom Entwickler und Hersteller empfohlener Hardware, einschließlich der Ergebnisse möglicher künftiger Systementwicklungen,</P>
+                  <P>— Wartungs- und Reparaturdienste, Entwicklung, Anpassung und Aktualisierung von Software und Hardware nach Bedarf, Systemaktualisierungen, z. B. Änderung der Instrumente und Entwicklung von zusätzlichem Zubehör, Beratung (telefonisch), Schulungen an von der GD Energie festgelegten Orten nach Bedarf.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Bildverstärker Photonzuwachs von 300 nm (typisch)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Bildverstärker Auflösung</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV-Filter Übertragung 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Gewicht</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digitale Speicherkapazität</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Rahmenliefervertrag betreffend die Beschaffung von Tscherenkow-Betrachtungsgeräten und die Bereitstellung von speziellen Dienstleistungen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission — Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework supply contract regarding the purchase of Cherenkov viewing devices and the provision of specific services</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>For operational tasks in the context of its responsibilities under Chapter VII of the EURATOM Treaty, the European Commission utilises Cherenkov viewing devices in nuclear installations across the European Union. The devices are also used in inspections run jointly with the International Atomic Energy Agency (IAEA).</P>
+               <P>It is intended to conclude a framework contract with one supplier covering the supply of Cherenkov viewing devices and the provision of specific services required.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Contractor's premises.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>It is intended to conclude a framework contract with one supplier covering the supply of Cherenkov viewing devices and the provision of specific services required.</P>
+                  <P>The contract is to cover:</P>
+                  <P>— the supply of Cherenkov viewing devices,</P>
+                  <P>— the supply of required system parts and other hardware as recommended by the developer and manufacturer and including results of possible future system evolutions,</P>
+                  <P>— maintenance and repair services, development, adaptation and update of software or hardware as required, system upgrades, for example modification of the instruments or development of additional accessories, provision of advice (via telephone), provision of training at locations specified by DG Energy as required.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Image intensifier photon gain at 300nm (typical)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Image intensifier resolution</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV Filter transmission 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Weight</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digital storage capacity</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Framework supply contract regarding the purchase of Cherenkov viewing devices and the provision of specific services</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco de suministros relativo a la adquisición de dispositivos de observación Cherenkov y la prestación de servicios específicos</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Para las funciones operacionales en el contexto de sus responsabilidades contempladas en el capítulo VII del Tratado Euratom, la Comisión Europea utiliza dispositivos de observación Cherenkov en instalaciones nucleares por toda la Unión Europea. Además, los dispositivos se utilizan en las inspecciones realizadas en conjunto con el Organismo Internacional de Energía Atómica (OIEA).</P>
+               <P>Se prevé celebrar un contrato marco con 1 proveedor que cubra el suministro de dispositivos de observación Cherenkov y la prestación de los servicios específicos necesarios.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Las instalaciones del contratista.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se prevé celebrar un contrato marco con 1 proveedor que cubra el suministro de dispositivos de observación Cherenkov y la prestación de los servicios específicos necesarios.</P>
+                  <P>El contrato cubrirá:</P>
+                  <P>— el suministro de dispositivos de observación Cherenkov,</P>
+                  <P>— el suministro de las piezas necesarias del sistema y otro tipo de «hardware» según lo recomendado por el desarrollador y el fabricante, incluidos los resultados de una posible futura evolución del sistema,</P>
+                  <P>— servicios de mantenimiento y reparación, desarrollo, adaptación y actualización del «software» o del «hardware» cuando sea necesario, actualizaciones del sistema, por ejemplo, modificación de los instrumentos o desarrollo de accesorios adicionales, prestación de asesoramiento (por teléfono), impartición de formación en lugares especificados por la DG Energía según sea necesario.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ganancia de fotones del intensificador de imágenes a 300 nm (típico)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Resolución de intensificador de imagen</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmisión de filtro UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Peso</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Capacidad de almacenamiento digital</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Contrato marco de suministros relativo a la adquisición de dispositivos de observación Cherenkov y la prestación de servicios específicos</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tavarahankintoja koskeva puitesopimus Tšerenkovin säteilyn kuvantamislaitteiden hankinnasta ja erityispalvelujen toimituksesta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Euroopan komissio käyttää Tšerenkovin säteilyn kuvantamislaitteita ydinlaitoksissa eri puolilla Euroopan unionia toiminnallisiin tehtäviin, jotka kuuluvat Euroopan atomienergiayhteisön (Euratom) perustamissopimuksen luvussa VII määritettyihin komission vastuualueisiin. Laitteita käytetään myös tarkastuksiin, joita suoritetaan yhdessä Kansainvälisen atomienergiajärjestön (IAEA) kanssa.</P>
+               <P>Tarkoituksena on tehdä 1 tavarantoimittajan kanssa puitesopimus, joka kattaa Tšerenkovin säteilyn kuvantamislaitteiden hankinnan ja vaadittujen erityispalvelujen toimituksen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>sopimusosapuolen toimitilat.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tarkoituksena on tehdä 1 tavarantoimittajan kanssa puitesopimus, joka kattaa Tšerenkovin säteilyn kuvantamislaitteiden hankinnan ja vaadittujen erityispalvelujen toimituksen.</P>
+                  <P>Sopimuksen on katettava seuraavat:</P>
+                  <P>— Tšerenkovin säteilyn kuvantamislaitteiden hankinta,</P>
+                  <P>— vaadittujen järjestelmäosien sekä kehittäjän ja valmistajan suosittelemien muiden laitteistojen toimitus, mukaan luettuina mahdollisten tulevien järjestelmäkehitysten tulokset,</P>
+                  <P>— ylläpito- ja korjauspalvelut, kehittäminen, ohjelmistojen tai laitteistojen mukautukset ja päivitykset vaaditun mukaisesti, järjestelmäparannukset, esimerkiksi välineiden muuntaminen tai lisävarusteiden kehittäminen, neuvonnan tarjoaminen (puhelimitse), koulutuksen tarjoaminen energian PO:n määrittämissä paikoissa vaaditun mukaisesti.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kuvanvahvistimen fotonin vahvistus 300 nm:ssä (tyypillinen)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kuvanvahvistimen resoluutio</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV-suodattimen aallonpituus 295–340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Paino</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Verkkotallennuskapasiteetti</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Tavarahankintoja koskeva puitesopimus Tšerenkovin säteilyn kuvantamislaitteiden hankinnasta ja erityispalvelujen toimituksesta</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre de fournitures relatif à l'acquisition de dispositifs de visualisation Cherenkov et à la prestation de services spécifiques</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Pour mener à bien les tâches opérationnelles qui lui incombent en vertu du chapitre VII du traité Euratom, la Commission européenne utilise des dispositifs de visualisation Cherenkov dans les installations nucléaires de l'Union européenne. Ces dispositifs sont également utilisés dans le cadre des inspections réalisées conjointement avec l'Agence internationale de l'énergie atomique (AIEA).</P>
+               <P>Il est prévu de conclure un contrat-cadre avec 1 fournisseur, portant sur la fourniture de dispositifs de visualisation Cherenkov et sur la prestation de services spécifiques requis.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Locaux du contractant.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il est prévu de conclure un contrat-cadre avec 1 fournisseur, portant sur la fourniture de dispositifs de visualisation Cherenkov et sur la prestation de services spécifiques requis.</P>
+                  <P>Le marché couvrira :</P>
+                  <P>— La fourniture de dispositifs de visualisation Cherenkov,</P>
+                  <P>— La fourniture des pièces requises pour le système et d'autre matériel informatique, conformément aux recommandations du développeur et du fabricant, et comprenant les résultats des éventuelles évolutions futures du système,</P>
+                  <P>— Les services de maintenance et de réparation, le développement, l'adaptation et la mise à jour de logiciels ou de matériel informatique en fonction des besoins, les mises à niveau du système, par exemple la modification des instruments ou la mise au point d'accessoires supplémentaires, la dispense de conseils (par téléphone), la dispense de formations sur des sites indiqués par la DG Énergie, le cas échéant.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Gain photonique de l'intensificateur d'images à 300 nm (typique)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Résolution de l'intensificateur d'images</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmission du filtre UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Poids</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Capacité de stockage numérique</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Contrat-cadre de fournitures relatif à l'acquisition de dispositifs de visualisation Cherenkov et à la prestation de services spécifiques</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο προμηθειών σχετικά με την αγορά συσκευών προβολής ακτινοβολίας Cherenkov και την παροχή ειδικών υπηρεσιών</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Για τα επιχειρησιακά καθήκοντα στο πλαίσιο των αρμοδιοτήτων της σύμφωνα με το κεφάλαιο VII της Συνθήκης ΕΥΡΑΤΟΜ, η Ευρωπαϊκή Επιτροπή χρησιμοποιεί συσκευές προβολής ακτινοβολίας Cherenkov σε πυρηνικές εγκαταστάσεις σε ολόκληρη την Ευρωπαϊκή Ένωση. Οι συσκευές χρησιμοποιούνται επίσης σε επιθεωρήσεις που διενεργούνται από κοινού με τον Διεθνή Οργανισμό Ατομικής Ενέργειας (ΔΟΑΕ).</P>
+               <P>Πρόκειται να συναφθεί σύμβαση-πλαίσιο με έναν προμηθευτή σχετικά με την προμήθεια συσκευών προβολής ακτινοβολίας Cherenkov και την παροχή των απαιτούμενων ειδικών υπηρεσιών.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Στα γραφεία του αναδόχου.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Πρόκειται να συναφθεί σύμβαση-πλαίσιο με έναν προμηθευτή σχετικά με την προμήθεια συσκευών προβολής ακτινοβολίας Cherenkov και την παροχή των απαιτούμενων ειδικών υπηρεσιών.</P>
+                  <P>Η σύμβαση αναμένεται να καλύψει:</P>
+                  <P>— την προμήθεια συσκευών προβολής ακτινοβολίας Cherenkov,</P>
+                  <P>— την προμήθεια των απαιτούμενων συνιστωσών του συστήματος και άλλου υλικού εξοπλισμού όπως συνιστάται από τον προγραμματιστή και τον κατασκευαστή, συμπεριλαμβανομένων των αποτελεσμάτων πιθανών μελλοντικών εξελίξεων του συστήματος,</P>
+                  <P>— υπηρεσίες συντήρησης και επισκευής, ανάπτυξη, προσαρμογή και ενημέρωση λογισμικού ή υλισμικού όπως απαιτείται, αναβαθμίσεις συστήματος, για παράδειγμα τροποποίηση των οργάνων ή ανάπτυξη πρόσθετων εξαρτημάτων, παροχή συμβουλών (μέσω τηλεφώνου), παροχή κατάρτισης στους χώρους που θα ορίσει η ΓΔ Ενέργειας, καθώς απαιτείται.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ενίσχυση φωτονίων ενισχυτή εικόνας στα 300nm (τυπική)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ανάλυση ενισχυτή εικόνας</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Μετάδοση φίλτρου UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Βάρος</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ψηφιακή αποθηκευτική χωρητικότητα</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο προμηθειών σχετικά με την αγορά συσκευών προβολής ακτινοβολίας Cherenkov και την παροχή ειδικών υπηρεσιών</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Directorate General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro di fornitura per l'acquisto di dispositivi di visualizzazione Cherenkov e la prestazione di servizi specifici</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Per incarichi operativi nel contesto delle sue responsabilità di cui al capitolo VII del trattato Euratom, la Commissione europea utilizza dispositivi di visualizzazione Cherenkov negli impianti nucleari in tutta l'Unione europea. I dispositivi sono usati anche in ispezioni effettuate congiuntamente all'Agenzia internazionale dell'energia atomica (AIEA).</P>
+               <P>Si intende stipulare un contratto quadro con 1 fornitore per la fornitura di dispositivi di visualizzazione Cherenkov e la prestazione dei servizi specifici richiesti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>nei locali del contraente.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Si intende stipulare un contratto quadro con 1 fornitore per la fornitura di dispositivi di visualizzazione Cherenkov e la prestazione dei servizi specifici richiesti.</P>
+                  <P>Il contratto include:</P>
+                  <P>— la fornitura di dispositivi di visualizzazione Cherenkov,</P>
+                  <P>— la fornitura di parti di sistema necessarie e altro hardware come raccomandato dallo sviluppatore e dal produttore, compresi i risultati di eventuali future evoluzioni del sistema,</P>
+                  <P>— servizi di manutenzione e riparazione, sviluppo, adattamento e aggiornamento del software o hardware secondo le necessità, upgrade del sistema, ad esempio tramite la modifica degli strumenti o lo sviluppo di ulteriori accessori, prestazione di assistenza (via telefono), prestazione di servizi di formazione nei luoghi specificati dalla DG Energia in funzione delle necessità.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>guadagno di fotoni dell'intensificatore di immagine a 300 nm (tipico)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>risoluzione dell'intensificatore di immagine</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>trasmissione del filtro UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>peso</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>capacità di memoria digitale</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Contratto quadro di fornitura per l'acquisto di dispositivi di visualizzazione Cherenkov e la prestazione di servizi specifici</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor leveringen met betrekking tot de aankoop van toestellen om cerenkovstraling te bekijken en de verlening van specifieke diensten.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>De Europese Commissie gebruikt toestellen om cerenkovstraling te bekijken in nucleaire installaties in de hele Europese Unie voor operationele taken in het kader van haar verantwoordelijkheden krachtens hoofdstuk VII van het Euratom-Verdrag. De toestellen worden eveneens gebruikt bij inspecties die samen met het Internationale Agentschap voor Atoomenergie (IAEA) worden uitgevoerd.</P>
+               <P>Het is de bedoeling een raamovereenkomst te sluiten met 1 dienstverlener voor de levering van toestellen om cerenkovstraling te bekijken en de verlening van specifieke gevraagde diensten.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>in de kantoren van de contractant.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Het is de bedoeling een raamovereenkomst te sluiten met 1 dienstverlener voor de levering van toestellen om cerenkovstraling te bekijken en de verlening van specifieke gevraagde diensten.</P>
+                  <P>De opdracht moet het volgende omvatten:</P>
+                  <P>— de levering van toestellen om cerenkovstraling te bekijken,</P>
+                  <P>— de levering van vereiste systeemonderdelen en andere hardware, zoals aanbevolen door de ontwikkelaar en de fabrikant, met inbegrip van de resultaten van eventuele toekomstige systeemevoluties,</P>
+                  <P>— reparatie en onderhoud, ontwikkeling, aanpassing en update van software of hardware zoals vereist, systeemupgrades, bijvoorbeeld modificatie van de instrumenten of ontwikkeling van bijkomende onderdelen, verlenen van (telefonisch) advies, geven van opleiding op door het DG Energie vastgestelde locaties, naargelang de behoefte.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>fotonenwinst van de beeldversterker bij 300 nm (kenmerkend)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>resolutie van de beeldversterker</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>doorlaatbaarheid van de UV-filter bij 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>gewicht</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>digitale opslagcapaciteit</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Raamovereenkomst voor leveringen met betrekking tot de aankoop van toestellen om cerenkovstraling te bekijken en de verlening van specifieke diensten.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro de fornecimentos relativo à aquisição de dispositivos de visualização Cherenkov e à prestação de serviços específicos</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A Comissão Europeia utiliza dispositivos de visualização Cherenkov em instalações nucleares na União Europeia para tarefas operacionais no contexto das respetivas responsabilidades ao abrigo do capítulo VII do Tratado EURATOM. Os dispositivos são ainda utilizados em inspeções executadas conjuntamente com a Agência Internacional da Energia Atómica (AIEA).</P>
+               <P>Está prevista a celebração de um contrato-quadro com um fornecedor que abranja o fornecimento de dispositivos de visualização Cherenkov e a prestação de serviços específicos requeridos.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Instalações do contratante.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Está prevista a celebração de um contrato-quadro com um fornecedor que abranja o fornecimento de dispositivos de visualização Cherenkov e a prestação de serviços específicos requeridos.</P>
+                  <P>O contrato abrangerá:</P>
+                  <P>— o fornecimento de dispositivos de visualização Cherenkov,</P>
+                  <P>— o fornecimento de peças de sistema necessárias e outro hardware, conforme recomendado pelo programador e pelo fabricante, e incluindo resultados de eventuais evoluções futuras do sistema,</P>
+                  <P>— serviços de manutenção e reparação, desenvolvimento, adaptação e atualização de software ou hardware (conforme requerido), atualizações de sistema, por exemplo, modificação dos instrumentos ou desenvolvimento de acessórios adicionais, prestação de aconselhamento (por telefone), ministração de formação em localizações especificadas pela DG Energia, conforme necessário.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ganho do fotão do intensificador de imagem a 300nm (típico)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Resolução do intensificador de imagem</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmissão do filtro UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Peso</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Capacidade de armazenamento digital</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Contrato-quadro de fornecimentos relativo à aquisição de dispositivos de visualização Cherenkov e à prestação de serviços específicos</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för varor avseende inköp av Cherenkov Viewing Device-instrument och tillhandahållande av särskilda tjänster</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>För operativa uppgifter, inom ramen för sina skyldigheter enligt kapitel VII i Euratomfördraget, använder Europeiska kommissionen Cherenkov Viewing Device-instrument i kärntekniska anläggningar runt om i Europeiska unionen. Instrumenten används också för inspektioner som görs tillsammans med Internationella atomenergiorganet (IAEA).</P>
+               <P>Avsikten är att sluta ett ramavtal med 1 leverantör som omfattar leverans av Cherenkov Viewing Device-instrument och tillhandahållande av de särskilda tjänster som erfordras.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Uppdragstagarens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Avsikten är att sluta ett ramavtal med 1 leverantör som omfattar leverans av Cherenkov Viewing Device-instrument och tillhandahållande av de särskilda tjänster som erfordras.</P>
+                  <P>Avtalet ska omfatta:</P>
+                  <P>— leverans av Cherenkov Viewing Device-instrument,</P>
+                  <P>— leverans av erfordrade systemdelar och annan maskinvara som rekommenderas av utvecklaren och tillverkaren, inbegripet resultaten av möjliga framtida systemutvecklingar,</P>
+                  <P>— tjänster avseende underhåll och reparation, utveckling, anpassning och uppdatering av programvara eller maskinvara efter behov, systemuppdateringar, till exempel modifiering av instrument eller utveckling av ytterligare tillbehör, rådgivning (via telefon) och tillhandahållande av utbildning på platser som anges av GD Energi efter behov.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Bildförstärkare för fotonförstärkning på 300nm (typiskt)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Upplösning på bildförstärkare</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV-filter med en överföring på 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Vikt</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digital lagringskapacitet</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Ramavtal för varor avseende inköp av Cherenkov Viewing Device-instrument och tillhandahållande av särskilda tjänster</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva na dodávky týkající se zakoupení prohlížecích zařízení na sledování Čerenkova záření a poskytování konkrétních služeb</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Pro provozní úkoly v kontextu svých povinností podle kapitoly VII smlouvy o Euratomu Evropská komise využívá zařízení na sledování Čerenkova záření v jaderných zařízeních v celé Evropské unii. Tato zařízení jsou také používána při kontrolách, které jsou prováděny společně s Mezinárodní agenturou pro atomovou energii (IAEA).</P>
+               <P>Byl pojat úmysl uzavřít rámcovou smlouvu s 1 dodavatelem zahrnující dodávku zařízení na sledování Čerenkova záření a poskytování konkrétních služeb.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Prostory poskytovatele služeb.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Byl pojat úmysl uzavřít rámcovou smlouvu s 1 dodavatelem zahrnující dodávku zařízení na sledování Čerenkova záření a poskytování konkrétních služeb.</P>
+                  <P>Zakázka se bude vztahovat na:</P>
+                  <P>— dodávku zařízení na sledování Čerenkova záření;</P>
+                  <P>— dodávku požadovaných součástí systému a jiného hardwaru podle doporučení vývojáře a výrobce a včetně výsledků možného budoucího vývoje systému;</P>
+                  <P>— služby údržby a oprav, vývoj, přizpůsobení a aktualizace softwaru a hardwaru dle požadavků, systém aktualizace, například úprava nástrojů nebo vývoj doplňkových příslušenství, poskytnutí poradenství (přes telefon), poskytnutí školení na místa konkretizovaná Generálním ředitelstvím pro energetiku dle požadavků.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zvýšení zesilovače obrazu foton na 300 nm (typické)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Rozlišení zesilovače obrazu</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Přenos UV filtru 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Hmotnost</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kapacita digitálního úložiště</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Rámcová smlouva na dodávky týkající se zakoupení prohlížecích zařízení na sledování Čerenkova záření a poskytování konkrétních služeb</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tarne raamleping, mis käsitleb Tšerenkovi vaatlusseadmete ostmist ja eriteenuste osutamist</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Euroopa Komisjon kasutab Euroopa Liidu piires asuvates tuumarajatistes oma Euratomi asutamislepingu VII peatüki kohaste kohustustega seotud tööülesannete täitmiseks Tšerenkovi vaatlusseadmeid. Seadmeid kasutatakse ka koos Rahvusvahelise Aatomienergiaagentuuriga (International Atomic Energy Agency (IAEA)) tehtavates kontrollides.</P>
+               <P>Kavas on sõlmida ühe tarnijaga raamleping, mis hõlmaks Tšerenkovi vaatlusseadmete tarnet ja nõutud eriteenuste osutamist.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>töövõtja ruumid.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kavas on sõlmida ühe tarnijaga raamleping, mis hõlmaks Tšerenkovi vaatlusseadmete tarnet ja nõutud eriteenuste osutamist.</P>
+                  <P>Leping hõlmab järgmist:</P>
+                  <P>— Tšerenkovi vaatlusseadmete tarne;</P>
+                  <P>— vajalike arendaja ja tootja soovitatud süsteemiosade ja muu riistvara tarne, sh võimalike tulevaste süsteemiarenduste tulemused;</P>
+                  <P>— hooldus- ja remonditeenused, vajaduse korral tarkvara või riistvara arendamine, kohandamine ja ajakohastamine, süsteemi uuendused, näiteks vahendite muutmine või lisavarustuse arendamine, nõustamise pakkumine (telefoni teel), vajaduse korral koolituste korraldamine energeetika peadirektoraadi määratud asukohtades.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>kujutisvõimendi footonvõimendustegur 300 nm (tüüpiline)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>kujutisvõimendi lahutusvõime</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV filtri ülekanne 295–340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kaal.</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digitaalne salvestusruum</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Tarne raamleping, mis käsitleb Tšerenkovi vaatlusseadmete ostmist ja eriteenuste osutamist</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Cserenkov megjelenítő eszközök beszerzésére és specifikus szolgáltatások nyújtására irányuló árubeszerzési keretszerződés</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Az Euratom-Szerződés VII. fejezete szerinti kötelezettsége keretében végzett operatív feladatokhoz az Európai Bizottság az Európai Unióban található nukleáris létesítményekben Cserenkov megjelenítő eszközöket használ. Az eszközöket a Nemzetközi Atomenergia-ügynökséggel (IAEA) közösen végrehajtott vizsgálatokhoz is használják.</P>
+               <P>Az Európai Bizottság a tervek szerint egy szállítóval köt keretszerződést, amely Cserenkov megjelenítő eszközök beszerzésére és a kért specifikus szolgáltatások nyújtására irányul.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>A nyertes ajánlattevő telephelye.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Az Európai Bizottság a tervek szerint egy szállítóval köt keretszerződést, amely Cserenkov megjelenítő eszközök beszerzésére és a kért specifikus szolgáltatások nyújtására irányul.</P>
+                  <P>A szerződés a következőkre terjed ki:</P>
+                  <P>— Cserenkov megjelenítő eszközök beszerzése,</P>
+                  <P>— a szükséges rendszerrészek és egyéb hardverek beszerzése a fejlesztő és a gyártó ajánlása szerint, beleértve a lehetséges jövőbeli rendszerfejlesztések eredményeit,</P>
+                  <P>— karbantartási és javítási szolgáltatások, szoftverek és hardverek igény szerinti fejlesztése, adaptálása és frissítése, rendszerfrissítések, például a műszerek módosítása vagy további kiegészítő eszközök kifejlesztése, tanácsadás (telefonon keresztül), az Energiaügyi Főigazgatóság által meghatározott helyszíneken képzés nyújtása az igényeknek megfelelően.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Képerősítő fotonnyereség 300 nm-en (tipikus)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Képerősítő felbontás</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV-szűrő továbbítás 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Súly</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digitális tárhelykapacitás</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Cserenkov megjelenítő eszközök beszerzésére és specifikus szolgáltatások nyújtására irányuló árubeszerzési keretszerződés</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji prekių pirkimo sutartis dėl „Cherenkov“ žiūrėjimo įrenginių pirkimo ir specialių paslaugų teikimo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Siekdama atlikti veiklos užduotis, numatytas Euratomo sutarties VII skyriuje, Europos Komisija naudoja „Cherenkov“ žiūrėjimo įrenginius branduoliniuose objektuose visoje Europos Sąjungoje. Prietaisai taip pat naudojami kartu su Tarptautine atominės energijos agentūra (TATENA) atliekant patikras.</P>
+               <P>Ketinama sudaryti preliminariąją sutartį su 1 tiekėju siekiant, kad būtų tiekiami „Cherenkov“ žiūrėjimo įrenginiai ir teikiamos reikalaujamos specialios paslaugos.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Rangovo patalpos.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ketinama sudaryti preliminariąją sutartį su 1 tiekėju siekiant, kad būtų tiekiami „Cherenkov“ žiūrėjimo įrenginiai ir teikiamos reikalaujamos specialios paslaugos.</P>
+                  <P>Sutartyje numatyta:</P>
+                  <P>– „Cherenkov“ žiūrėjimo įrenginių tiekimas,</P>
+                  <P>– reikalingų sistemos dalių ir kitos aparatinės įrangos tiekimas, kaip rekomenduoja kūrėjas ir gamintojas, įskaitant galimos būsimos sistemos raidos rezultatus,</P>
+                  <P>– techninės priežiūros ir remonto paslaugos, programinės įrangos ar aparatinės įrangos kūrimas, pritaikymas ir atnaujinimas, kaip reikalaujama, sistemų atnaujinimas, pavyzdžiui, prietaisų keitimas arba papildomų priedų kūrimas, konsultacijų teikimas (telefonu), mokymų rengimas vietose, kurias nurodo Energetikos generalinis direktoratas, kaip reikalaujama.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Vaizdo stiprintuvo fotono stiprinimo koeficientas – 300 nm (standartinis)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Vaizdo stiprintuvo rezoliucija</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV filtro praleidžiamieji dažniai 295–340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Svoris</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Skaitmeninė saugojimo talpa</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Preliminarioji prekių pirkimo sutartis dėl „Cherenkov“ žiūrėjimo įrenginių pirkimo ir specialių paslaugų teikimo</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Piegāžu pamatnolīgums par Čerenkova starojuma novērošanas ierīču iegādi un konkrētu pakalpojumu sniegšanu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Eiropas Komisija izmanto Čerenkova starojuma novērošanas ierīces darba uzdevumu veikšanai kodoliekārtās Eiropas Savienībā Euratom līguma VII nodaļā minēto pienākumu ietvaros. Ierīces izmanto arī pārbaužu veikšanai sadarbībā ar Starptautisko Atomenerģijas aģentūru (SAEA).</P>
+               <P>Plānots noslēgt pamatnolīgumu ar 1 piegādātāju, aptverot Čerenkova starojuma novērošanas ierīču piegādi un nepieciešamo konkrēto pakalpojumu sniegšanu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>darbuzņēmēja telpas</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Plānots noslēgt pamatnolīgumu ar 1 piegādātāju, aptverot Čerenkova starojuma novērošanas ierīču piegādi un nepieciešamo konkrēto pakalpojumu sniegšanu.</P>
+                  <P>Līgums aptvers:</P>
+                  <P>— Čerenkova starojuma novērošanas ierīču piegādi,</P>
+                  <P>— nepieciešamo sistēmas daļu un citas aparatūras piegādi pēc izstrādātāja un ražotāja ieteikumiem, kā arī iespējamās turpmākās sistēmas attīstības rezultātu nodrošināšanu,</P>
+                  <P>— uzturēšanas un remonta pakalpojumus, programmatūras vai aparatūras izstrādi, pielāgošanu un atjaunināšanu pēc vajadzības, sistēmas jauninājumus, piemēram, instrumentu pārveidošanu vai papildu piederumu izstrādi, konsultāciju sniegšanu (pa tālruni), apmācības nodrošināšanu Enerģētikas ģenerāldirektorāta noteiktās vietās pēc vajadzības.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Attēla pastiprinātājs (fotonu pavairošana ar viļņa garumu 300 nm (standarta))</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Attēla pastiprinātāja izšķirtspēja</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>UV filtra pārvade – 295–340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Svars</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Digitālās atmiņas ietilpība</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Piegāžu pamatnolīgums par Čerenkova starojuma novērošanas ierīču iegādi un konkrētu pakalpojumu sniegšanu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt ta' provvista dwar ix-xiri ta' apparati Cherenkov li wieħed jara minnhom u l-provvista ta' servizzi speċifiċi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Għat-twettiq xieraq tar-responsabbiltajiet taħt il-Kapitlu VII tat-Trattat tal-Euratom, il-Kummissjoni Ewropea tutilizza apparati Cherenkov li wieħed jara minnhom f'installazzjonijiet nukleari tul il-firxa tal-Unjoni Ewropea. L-apparati huma wkoll użati fi spezzjonijiet magħmulin b'mod konġunt mal-Aġenzija Internazzjonali tal-Enerġija Atomika (IAEA).</P>
+               <P>Dan huwa intiż biex ikun konkluż qafas ta' kuntratt ma' fornitur 1 li jkopri l-forniment ta' apparati Cherenkov li wieħed jara minnhom u l-provvista ta' servizzi speċifiċi meħtieġa.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-kuntrattur.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dan huwa intiż biex ikun konkluż qafas ta' kuntratt ma' fornitur 1 li jkopri l-forniment ta' apparati Cherenkov li wieħed jara minnhom u l-provvista ta' servizzi speċifiċi meħtieġa.</P>
+                  <P>Il-kuntratt għandu jkopri:</P>
+                  <P>— il-forniment ta' apparati Cherenkov li wieħed jara minnhom,</P>
+                  <P>— il-provvista ta' partijiet meħtieġa tas-sistema u ħardwer ieħor kif irrakkomandat mill-iżviluppatur u l-manifattur u inkluż ir-riżultati ta' evoluzzjonijiet possibbli tas-sistema futura,</P>
+                  <P>— servizzi ta' manutenzjoni u tiswija, żvilupp, adattament u appgrejdjar ta' softwer jew ħardwer kif meħtieġ, appgrejdjar tas-sistema, pereżempju l-modifikazzjoni tal-istrumenti jew l-iżvilupp ta' aċċessorji addizzjonali, il-provvista ta' pariri (permezz tat-telefown), il-provvista ta' taħriġ f'postijiet speċifikati mid-DĠ tal-Enerġija kif meħtieġ.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Intensifikatur tal-immaġni għall-ksib ta' foton fi 300nm (tipiku)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Riżoluzzjoni tal-intensifikatur tal-immaġni</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Trażmissjoni tal-Filtru UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-piż</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-kapaċità ta' ħżin diġitali</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Qafas ta' kuntratt ta' provvista dwar ix-xiri ta' apparati Cherenkov li wieħed jara minnhom u l-provvista ta' servizzi speċifiċi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o dostawy dotycząca zakupu urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa i świadczenie określonych usług</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Na potrzeby zadań operacyjnych w ramach swoich zobowiązań na mocy rozdziału VII traktatu EURATOM Komisja Europejska wykorzystuje urządzenia do obrazowania z wykorzystaniem promieniowania Czerenkowa w instalacjach jądrowych w Unii Europejskiej. Urządzenia są również wykorzystywane w kontrolach przeprowadzanych wspólnie z Międzynarodową Agencją Energii Atomowej (MAEA).</P>
+               <P>Planuje się zawarcie umowy ramowej z 1 dostawcą, obejmującej dostawę urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa i świadczenie określonych wymaganych usług.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Siedziba wykonawcy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Planuje się zawarcie umowy ramowej z 1 dostawcą, obejmującej dostawę urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa i świadczenie określonych wymaganych usług.</P>
+                  <P>Umowa obejmie:</P>
+                  <P>– dostawę urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa,</P>
+                  <P>– dostawę wymaganych części systemu i innych urządzeń zalecanych przez projektanta i producenta i uwzględniających wyniki ewentualnych przyszłych zmian systemu,</P>
+                  <P>– usługi konserwacji i naprawy, rozwój, dostosowanie i aktualizację oprogramowania lub sprzętu, według potrzeb, unowocześnianie systemu, na przykład modyfikację narzędzi lub opracowanie dodatkowych akcesoriów, zapewnienie doradztwa (przez telefon), zapewnienie szkoleń w lokalizacjach określonych przez DG ds. Energii, według potrzeb.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>wzmocnienie fotonu wzmacniacza przy 300nm (standardowe)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>rozdzielczość wzmacniacza obrazu</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmisja przez filtr UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>waga</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>pojemność pamięci cyfrowej</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Umowa ramowa o dostawy dotycząca zakupu urządzeń do obrazowania z wykorzystaniem promieniowania Czerenkowa i świadczenie określonych usług</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na dodávku tovaru v súvislosti s nákupom Čerenkovových zobrazovacích zariadení a poskytovanie osobitných služieb</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Pre operatívne úlohy v rámci svojich povinností podľa kapitoly VII zmluvy o Euratome využíva Európska komisia Čerenkovove zobrazovacie zariadenia v jadrových zariadeniach v celej Európskej únii. Tieto zariadenia sa tiež používajú pri inšpekciách, ktoré sa vykonávajú spoločne s Medzinárodnou agentúrou pre atómovú energiu (MAAE).</P>
+               <P>Plánuje sa uzatvorenie rámcovej zmluvy s 1 dodávateľom, ktorá sa týka dodávky Čerenkovových zobrazovacích zariadení a poskytnutia potrebných špecifických služieb.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Priestory dodávateľa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Plánuje sa uzatvorenie rámcovej zmluvy s 1 dodávateľom, ktorá sa týka dodávky Čerenkovových zobrazovacích zariadení a poskytnutia potrebných špecifických služieb.</P>
+                  <P>Zmluva má pokryť:</P>
+                  <P>— dodávku Čerenkovových zobrazovacích zariadení,</P>
+                  <P>— dodávku požadovaných systémových častí a ďalšieho hardvéru podľa odporúčania vývojára a výrobcu a vrátane výsledkov možného vývoja budúceho systému,</P>
+                  <P>— služby týkajúce sa údržby a opravy, rozvoj, prispôsobenie a modernizáciu softvéru alebo hardvéru podľa žiadosti, aktualizácie systému, napríklad úpravu nástrojov alebo vývoj dodatočného príslušenstva, poskytovanie poradenstva (cez telefón), podľa žiadosti poskytovanie školenia na miestach určených Generálnym riaditeľstvom pre energetiku.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fotónový zisk zosilňovača obrazu na 300 nm (obvyklý)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Rozlíšenie zosilňovača obrazu</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Priepustnosť UV filtra 295 – 340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Hmotnosť</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kapacita digitálnej pamäte</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Rámcová zmluva na dodávku tovaru v súvislosti s nákupom Čerenkovových zobrazovacích zariadení a poskytovanie osobitných služieb</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo blaga v zvezi z nakupom Čerenkovih opazovalnih naprav in zagotavljanjem specifičnih storitev</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Evropska komisija pri izvajanju operativnih nalog v okviru svojih odgovornosti, določenih v poglavju VII Pogodbe Euratom, v jedrskih objektih po Evropski uniji uporablja Čerenkove opazovalne naprave. Naprave se uporabljajo tudi pri pregledih, ki jih opravlja skupaj z Mednarodno agencijo za atomsko energijo (IAEA).</P>
+               <P>Cilj je skleniti okvirno naročilo z 1 dobaviteljem, ki bo zagotovil dobavo Čerenkovih opazovalnih naprav in izvedbo specifičnih storitev, ki so potrebne.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Prostori izvajalca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cilj je skleniti okvirno naročilo z 1 dobaviteljem, ki bo zagotovil dobavo Čerenkovih opazovalnih naprav in izvedbo specifičnih storitev, ki so potrebne.</P>
+                  <P>Naročilo vključuje:</P>
+                  <P>— dobavo Čerenkovih opazovalnih naprav,</P>
+                  <P>— dobavo zahtevanih delov sistema in druge strojne opreme po priporočilu razvijalca in proizvajalca, vključno z rezultati morebitnega prihodnjega razvoja sistema,</P>
+                  <P>— storitve vzdrževanja in popravil, razvoj, prilagoditev in posodobitev programske ali strojne opreme v skladu z zahtevami, sistemske nadgradnje, na primer spremembe instrumentov ali razvoj dodatnih pripomočkov, zagotavljanje nasvetov (po telefonu), zagotavljanje usposabljanja na lokacijah, ki jih v skladu z zahtevami določi GD za energetiko.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fotonska obogatitev slikovnega ojačevalnika pri 300 nm (tipično)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ločljivost slikovnega ojačevalnika</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmisivnost UV filtra 295–340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Masa</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zmogljivost shranjevanja digitalnih podatkov</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Okvirno naročilo blaga v zvezi z nakupom Čerenkovih opazovalnih naprav in zagotavljanjem specifičnih storitev</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Creatchonradh soláthair maidir le gléasanna amhairc Cherenkov a cheannach agus seirbhísí sainiúla a sholáthar</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Úsáideann an Coimisiún Eorpach gléasanna amhairc Cherenkov i suiteálacha núicléacha ar fud an Aontais Eorpaigh le haghaidh tascanna oibríochtúla i gcomhthéacs a dhualgas faoi Chaibidil VII de Chonradh Euratom. Úsáidtear na gléasanna fosta in imscrúduithe arna reáchtáil go comhpháirteach leis an nGníomhaireacht Idirnáisiúnta d’Fhuinneamh Adamhach (IAEA).</P>
+               <P>Tá sé beartaithe creatchonradh a dhéanamh le 1 soláthraí amháin lena gclúdaítear gléasanna amhairc Cherenkov a sholáthar agus na seirbhísí sainiúla riachtanacha a chur ar fáil.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Áitreabh an chonraitheora.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tá sé beartaithe creatchonradh a dhéanamh le 1 soláthraí amháin lena gclúdaítear gléasanna amhairc Cherenkov a sholáthar agus na seirbhísí sainiúla riachtanacha a chur ar fáil.</P>
+                  <P>Clúdófar na nithe seo a leanas leis an gconradh:</P>
+                  <P>— gléasanna amhairc Cherenkov a sholáthar,</P>
+                  <P>— páirteanna córais riachtanacha agus crua-earraí eile a sholáthar de réir mar atá molta ag an bhforbróir agus ag an déantúsóir, agus lena n-áirítear torthaí d'fhorbairtí féideartha ar an gcóras sa todhchaí,</P>
+                  <P>— seirbhísí cothabhála agus deisiúcháin, bogearraí nó crua-earraí a fhorbairt, a oiriúnú agus a nuashonrú de réir mar is gá, nuashonruithe córais, mar shampla na hionstraimí a mhionathrú nó oiriúintí breise a fhorbairt, comhairle a chur ar fáil (thar an nguthán), oiliúint a chur ar fáil ag láithreacha sainithe ag Ard-Stiúrthóireacht an Fhuinnimh de réir mar is gá.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Neartúchán fótón dianaitheora íomhánna ag 300nm (gnáthneartú)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Taifeach dianaitheora íomhánna</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tarchur scagaire ultraivialait 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Meáchan</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Cumas stórála digiteach</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Creatchonradh soláthair maidir le gléasanna amhairc Cherenkov a cheannach agus seirbhísí sainiúla a sholáthar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за доставка за закупуването на зрителни устройства „Черенков“ и предоставянето на конкретни услуги</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>За оперативните задачи в контекста на своите отговорности по глава VII от Договора за Евратом, Европейската комисия използва зрителни устройства „Черенков“ в ядрените инсталации в Европейския съюз. Устройствата се използват също при инспекции, осъществявани съвместно с Международната агенция за атомна енергия (IAEA).</P>
+               <P>Предвижда се сключване на рамков договор с един доставчик, обхващащ предоставянето на зрителни устройства „Черенков“ и осигуряването на необходимите услуги.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Помещения на изпълнителя.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Предвижда се сключване на рамков договор с един доставчик, обхващащ предоставянето на зрителни устройства „Черенков“ и осигуряването на необходимите услуги.</P>
+                  <P>Поръчката трябва да обхване:</P>
+                  <P>— предоставянето на зрителни устройства „Черенков“,</P>
+                  <P>— доставката на необходимите части за системата и на друг хардуер, както се препоръчва от разработчика и производителя, и включително резултатите от евентуално бъдещо развитие на система,</P>
+                  <P>— услуги за поддръжка и ремонт, разработване, адаптиране и актуализиране на софтуер или хардуер според необходимостта, системни надстройки, напр. модификация на инструменти или разработване на допълнителни аксесоари, осигуряване на консултации (по телефона), предоставяне на обучение на места, посочени от ГД „Енергетика“ според необходимостта.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Усилване на фотонния поток с усилвател на изображения при 300 nm (обикновено)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Разделителна способност на усилвателя на изображения</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Предаване с филтриране на ултравиолетови лъчи 295—340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Тегло</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Цифров капацитет на съхранение</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Рамков договор за доставка за закупуването на зрителни устройства „Черенков“ и предоставянето на конкретни услуги</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru de achiziții publice de bunuri privind achiziționarea de dispozitive de vizualizare și prestarea de servicii specifice</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>În vederea îndeplinirii sarcinilor operaționale care îi revin în temeiul capitolului VII din Tratatul Euratom, Comisia Europeană utilizează dispozitive de vizualizare Cerenkov în instalațiile nucleare de pe teritoriul Uniunii Europene. Aceste dispozitive sunt utilizate, de asemenea, în cadrul inspecțiilor realizate împreună cu Agenția Internațională pentru Energie Atomică (AIEA).</P>
+               <P>Se intenționează încheierea unui contract-cadru cu 1 furnizor care să acopere furnizarea de dispozitive de vizualizare Cherenkov și prestarea serviciilor specifice solicitate.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Sediul contractantului.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se intenționează încheierea unui contract-cadru cu 1 furnizor care să acopere furnizarea de dispozitive de vizualizare Cherenkov și prestarea serviciilor specifice solicitate.</P>
+                  <P>Contractul urmează să acopere:</P>
+                  <P>— furnizarea de dispozitive de vizualizare Cherenkov,</P>
+                  <P>— furnizarea pieselor necesare pentru sistem și a altor componente hardware, conform recomandărilor dezvoltatorului și producătorului, inclusiv a celor rezultate în urma eventualelor evoluții viitoare ale sistemului,</P>
+                  <P>— servicii de întreținere și de reparare, dezvoltarea, adaptarea și actualizarea de software sau hardware, după caz, actualizări ale sistemului de exemplu, modificarea instrumentelor sau dezvoltarea de accesorii suplimentare, furnizarea de recomandări (prin telefon), punerea la dispoziție de cursuri de formare la locațiile specificate de DG Energie, după caz.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Intensificator imagine tipic cu foton de 300nm</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Rezoluție intensificator de imagine</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Transmisia filtrului UV 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Greutate</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Capacitatea de stocare digitală</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Contract-cadru de achiziții publice de bunuri privind achiziționarea de dispozitive de vizualizare și prestarea de servicii specifice</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate-General for Energy</OFFICIALNAME>
+               <ADDRESS>European Commission — Directorate-General Energy — Directorate E — Euratom Safeguards, 1 rue Henri Schnadt, Zone d'activités Cloche d'Or L-2530 Luxembourg</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2530</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ENER-E1-CFT@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>https://ec.europa.eu/energy/en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor o nabavi robe u vezi s kupnjom Čerenkovljevog uređaja za pregled i pružanjem posebnih usluga</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ENER/E1/2017-28-04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="38500000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Za operativne zadatke u okviru svojih odgovornosti iz poglavlja VII. Sporazuma Euratom, Europska komisija upotrebljava Čerenkovljeve uređaje za pregled u nuklearnim postrojenjima u cijeloj Europskoj uniji. Uređaji se upotrebljavaju i za inspekcije koje provode zajedno s Međunarodnom agencijom za atomsku energiju (IAEA).</P>
+               <P>Namjerava se sklopiti okvirni ugovor s 1 dobavljačem kojim se obuhvaća nabava Čerenkovljevog uređaja za pregled i pružanje potrebnih posebnih usluga.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Prostori izvoditelja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Namjerava se sklopiti okvirni ugovor s 1 dobavljačem kojim se obuhvaća nabava Čerenkovljevog uređaja za pregled i pružanje potrebnih posebnih usluga.</P>
+                  <P>Ugovor će obuhvatiti:</P>
+                  <P>— nabavu Čerenkovljevog uređaja za pregled,</P>
+                  <P>— nabavu potrebnih sistemskih dijelova i druge strojne opreme, kako je preporučila osoba koja je razvila i proizvela uređaj, te uključujući rezultate mogućih budućih evolucija sustava,</P>
+                  <P>— usluge održavanja i popravka, razvoj, prilagodbu i ažuriranje programske i strojne opreme prema potrebi, nadogradnju sustava, primjerice izmjenu instrumenata ili razvoj dodatnog pribora, pružanje savjeta (putem telefona), pružanje osposobljavanja na lokacijama koje je odredila GU za energetiku prema potrebi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fotonsko pojačanje pojačivača slike pri 300nm (uobičajeno)</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Razlučivost pojačivača slike</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Prijenos UV filtera 295-340 nm (%)</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Težina</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kapacitet digitalne pohrane</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 131-267197</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Okvirni ugovor o nabavi robe u vezi s kupnjom Čerenkovljevog uređaja za pregled i pružanjem posebnih usluga</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Channel Systems Inc</OFFICIALNAME>
+                     <ADDRESS>Box 188, Pinawa</ADDRESS>
+                     <TOWN>Aberdeen</TOWN>
+                     <POSTAL_CODE>MB ROE 1LO</POSTAL_CODE>
+                     <COUNTRY VALUE="CA"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">700000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">700000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

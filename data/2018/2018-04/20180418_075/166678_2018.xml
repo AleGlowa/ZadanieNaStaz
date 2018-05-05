@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="166678-2018"
+            EDITION="2018075">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-171049-001</RECEPTION_ID>
+      <DELETION_DATE>20180502</DELETION_DATE>
+      <FORM_LG_LIST>BG </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>75</NO_OJ>
+         <DATE_PUB>20180418</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 075-166678</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:166678-2018:TEXT:BG:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>BG</LG_ORIG>
+         <ISO_COUNTRY VALUE="BG"/>
+         <IA_URL_GENERAL>http://hematology.bg/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://hematology.bg/?cat=3</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="33600000">Pharmaceutical products</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BG411">София (столица)</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BG411">София (столица)</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="BGN">6798438.20</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180416</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180502 16:30</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>България</TI_CY>
+            <TI_TOWN>София</TI_TOWN>
+            <TI_TEXT>
+               <P>Фармацевтични продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Bulharsko</TI_CY>
+            <TI_TOWN>Sofie</TI_TOWN>
+            <TI_TEXT>
+               <P>Léčivé přípravky a zdravotnické prostředky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Bulgarien</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Lægemidler</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Bulgarien</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Arzneimittel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βουλγαρία</TI_CY>
+            <TI_TOWN>Σόφια</TI_TOWN>
+            <TI_TEXT>
+               <P>Φαρμακευτικά προϊόντα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Bulgaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bulgaria</TI_CY>
+            <TI_TOWN>Sofía</TI_TOWN>
+            <TI_TEXT>
+               <P>Productos farmacéuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Bulgaaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Ravimid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Bulgaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaseuttiset tuotteet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Bulgarie</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produits pharmaceutiques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bhulgáir, an</TI_CY>
+            <TI_TOWN>Sóifia</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Bugarska</TI_CY>
+            <TI_TOWN>Sofija</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Bulgária</TI_CY>
+            <TI_TOWN>Szófia</TI_TOWN>
+            <TI_TEXT>
+               <P>Gyógyszerészeti termékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Bulgaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaceutici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Bulgarija</TI_CY>
+            <TI_TOWN>Sofija</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacijos produktai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Bulgārija</TI_CY>
+            <TI_TOWN>Sofija</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmācijas izstrādājumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Bulgarija</TI_CY>
+            <TI_TOWN>Sofija</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaċewtiċi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Bulgarije</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutische producten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Bułgaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produkty farmaceutyczne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bulgária</TI_CY>
+            <TI_TOWN>Sófia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produtos farmacêuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Bulgaria</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produse farmaceutice</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Bulharsko</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutické výrobky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Bolgarija</TI_CY>
+            <TI_TOWN>Sofija</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacevtski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Bulgarien</TI_CY>
+            <TI_TOWN>Sofia</TI_TOWN>
+            <TI_TEXT>
+               <P>Läkemedel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="BG">„Специализирана болница за активно лечение на хематологични заболявания“ ЕАД</AA_NAME>
+      </ML_AA_NAMES>
+      <TRANSLITERATIONS>
+         <TRANSLITERATED_ADDR>
+            <OFFICIALNAME>„Spetsializirana bolnitsa za aktivno lechenie na hematologichni zabolyavaniya“ EAD</OFFICIALNAME>
+            <NATIONALID>200105779</NATIONALID>
+            <ADDRESS>ul. „Plovdivsko pole“ No. 6</ADDRESS>
+            <TOWN>Sofiya</TOWN>
+            <POSTAL_CODE>1756</POSTAL_CODE>
+            <COUNTRY VALUE="BG"/>
+            <CONTACT_POINT>Silviya Marinova, Pavlina Marinova</CONTACT_POINT>
+            <PHONE>+359 24542-285</PHONE>
+            <E_MAIL>s.marinova@hematology.bg</E_MAIL>
+            <FAX>+359 24542-108</FAX>
+            <n2016:NUTS CODE="BG411"/>
+            <URL_GENERAL>http://hematology.bg/</URL_GENERAL>
+            <URL_BUYER>http://hematology.bg/?cat=3</URL_BUYER>
+         </TRANSLITERATED_ADDR>
+      </TRANSLITERATIONS>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>„Специализирана болница за активно лечение на хематологични заболявания“ ЕАД</OFFICIALNAME>
+               <NATIONALID>200105779</NATIONALID>
+               <ADDRESS>ул. „Пловдивско поле“ № 6</ADDRESS>
+               <TOWN>София</TOWN>
+               <POSTAL_CODE>1756</POSTAL_CODE>
+               <COUNTRY VALUE="BG"/>
+               <CONTACT_POINT>Силвия Маринова, Павлина Маринова</CONTACT_POINT>
+               <PHONE>+359 24542-285</PHONE>
+               <E_MAIL>s.marinova@hematology.bg</E_MAIL>
+               <FAX>+359 24542-108</FAX>
+               <n2016:NUTS CODE="BG411"/>
+               <URL_GENERAL>http://hematology.bg/</URL_GENERAL>
+               <URL_BUYER>http://hematology.bg/?cat=3</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://hematology.bg/?cat=3</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE_OTHER>чл. 5, ал. 2, т. 16 от ЗОП</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>„Доставка на лекарствени продукти за нуждите на СБАЛХЗ ЕАД“ по 12 обособени позиции</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Предметът на обществената поръчка включва доставки на лекарствени продукти по 12 (дванадесет) обособени позиции, съгласно приложената Техническа спецификация, неразделна част от документацията по обществената поръчка (лекарствени продукти, включени в ПЛС от 1.4.2018 г.). В настоящата поръчка възложителят се ползва от правната възможност на чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за обществена поръчка за публикуване.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="BGN">6798438.20</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Obinutuzumab</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XC15; Непатентно наименование по INN: Obinutuzumab;</P>
+                  <P>Лекарствена форма: Concentrate for solution for infusion; Мерна единица: флакон;</P>
+                  <P>Лекарствена концентрация: 1 000 mg; Прогнозно количество: 60;</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">369501.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Venetoclax</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XX52; Непатентно наименование по INN: Venetoclax;</P>
+                  <P>Лекарствена форма: Film coated tablet; Мерна единица: tabl.;</P>
+                  <P>Лекарствена концентрация: 50 mg; Прогнозно количество: 56;</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">2867.73</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Venetoclax</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XX52; Непатентно наименование по INN: Venetoclax;</P>
+                  <P>Лекарствена форма: Film coated tablet; Мерна единица: tabl.;</P>
+                  <P>Лекарствена концентрация: 100 mg; Прогнозно количество: 3 640.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">372809.67</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Venetoclax</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XX52; Непатентно наименование по INN: Venetoclax;</P>
+                  <P>Лекарствена форма: Film coated tablet; Мерна единица: tabl.;</P>
+                  <P>Лекарствена концентрация: 10 mg; Прогнозно количество: 28.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">286.78</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Blinatumumab</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XC19; Непатентно наименование по INN: Blinatumumab;</P>
+                  <P>Лекарствена форма: powder for concentrate and solution for solution for infusion; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 38,5 mcg; Прогнозно количество: 234.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">1169629.50</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Carfilzomib</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XX45; Непатентно наименование по INN: Carfilzomib;</P>
+                  <P>Лекарствена форма: Powder for solution for infusion; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 60 mg; Прогнозно количество: 534.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">1203458.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Ponatinib</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XE24; Непатентно наименование по INN: Ponatinib;</P>
+                  <P>Лекарствена форма: Film coated tablet; Мерна единица: tabl.;</P>
+                  <P>Лекарствена концентрация: 15 mg; Прогнозно количество: 3285.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">575477.25</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Pixantrone maleate</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01DB11; Непатентно наименование по INN: Pixantrone maleate;</P>
+                  <P>Лекарствена форма: Powder for concentrate for solution for infusion; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 29 mg; Прогнозно количество: 720.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">596526.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Ifosfamid</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01AA06; Непатентно наименование по INN: Ifosfamid;</P>
+                  <P>Лекарствена форма: Powder for solution for injection; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 2 000 mg; Прогнозно количество: 360.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">28326.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Cyclophosphamid</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01AA01; Непатентно наименование по INN: Cyclophosphamid;</P>
+                  <P>Лекарствена форма: Powder for solution for injection; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 500 mg; Прогнозно количество: 5000.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">53916.67</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Imatinib - за лечение на възрастни пациенти в хронична фаза на CML</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XE01; Непатентно наименование по INN: Imatinib - за лечение на възрастни пациенти в хронична фаза на CML; Лекарствена форма: Film coated tablet; Мерна единица: tabl.;</P>
+                  <P>Лекарствена концентрация: 100 mg; Прогнозно количество: 63360.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">1110247.60</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Рembrolizumab</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BG411"/>
+               <MAIN_SITE>
+                  <P>„СБАЛХЗ“ ЕАД, град София, район „Студентски“, ул. „Пловдивско поле“ № 6, Болнична аптека.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>АТC код: L01XC18; Непатентно наименование по INN: Рembrolizumab;</P>
+                  <P>Лекарствена форма: powd. for concentrate for sol. for inf.; Мерна единица: fl;</P>
+                  <P>Лекарствена концентрация: 25 mg/ml — 4 ml; Прогнозно количество: 204.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="BGN">1315392.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Удължаване на срока на сключения договор до 6 месеца, в случай че не са изчерпани договорените количества.Условията, при които влиза в сила опцията, са описани в документацията по поръчката.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Възложителят провежда „ускорена“ процедура съгласно чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>За да изпълняват дейностите по настоящата поръчка, участниците, установени в България, следва да разполагат с валиден документ — разрешение, удостоверение или друг подходящ, позволяващ производство на лекарствени продукти, издаден по реда на ЗЛПХМ (в случаите по чл. 196, ал. 1 от ЗЛПХМ) и/или валиден документ - разрешение, удостоверение или друг подходящ, позволяващ търговия на едро с лекарствени продукти (чл. 195 от ЗЛПХМ). Участниците — чуждестранни лица следва да разполагат с еквивалентен документ съгласно законодателството на държавата членка, в която са установени. Изискването за годност е относимо за всички обособени позиции.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>Възложителят не поставя изисквания за икономическо и финансово състояние.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Нериложимо.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Възложителят не поставя изисквания за технически и професионални възможности.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Нериложимо.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>Поръчката е за доставка на лекарствени продукти по 12 обособ.позиции за нуждите на „СБАЛХЗ“ ЕАД, в рамките на прогнозни количества, посочени в Техн. спецификация, въз основа на писмени заявки от възложителя. Възложителят не е дължен да заявява цялото прогноз. колич-во, а прави заявки при възник. на необходимост. Срок на годност: Доставяните лекарства следва да имат маркировка /дата на производство, производител и срок на годност/. Към датата на всяка конкретна доставка сроковете на годност следва да бъдат: 1. За лекарствени продукти — не по-малки от 20 % (двадесет процента) от обявените от производителите; 2. За специфични биологични лекарствени продукти — не по-малки от 10 % (десет процента) от обявените от производителите. Лекарствата следва да се доставят франко болничната аптека с транспорт на доставчика, като цената на транспорта се включва в крайната цена на стоките.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <ACCELERATED_PROC>
+               <P>В настоящата поръчка възложителят се ползва от правната възможност на чл. 74, ал. 4 от ЗОП и определя срок за получаване на офертите 15 дни от датата на изпращане на обявлението за общ.поръчка за публикуване със следните мотиви: от 1.4.2018 г. влизат в сила промени в Позитивния лекарствен списък (ПЛС), като в ПЛС са включени нови лекарств. форми, предназначени за лечение на пациенти с хематологични заболявания. Висок процент от пациентите на „СБАЛХЗ“ ЕАД имат спешна необходимост от лечение с новите продукти, т.к. вече не се повлияват от ползваните до момента медикаменти. Включването на нови молекули в ПЛС и ползването им от болницата ще даде възможност на лечебното заведение да осигури по-високо ниво на лечение на пациентите, продължаване и съхраняване на живота им. Към датата на подготовката на настоящата документация в болницата се лекуват двама пациенти, за които в спешен порядък трябва да осигурят новите лекарства. Налице са обстоятелства, ...ВИЖ В ДОП. ИНФОРМАЦИЯ!!!</P>
+            </ACCELERATED_PROC>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-02</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:30</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-03</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Сградата на „СБАЛХЗ“ ЕАД, София, ул. „Пловдивско поле“ № 6, ет. 5.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Отварянето на офертите е публично и на него могат да присъстват закон. представители на участниците в процедурата или техни упълномощ. представители, както и представители на средствата за масово осведомяване. Възложителят е предвидил оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>МОТИВИ ЗА УСКОРЕНА ПРОЦЕДУРА: Налице са обстоятелства, к. изискват спешно възлагане на поръчката, с цел съхраняване живота и здравето на пациентите. Лекарствата, включени в ПЛС от 1.4.2018 г., не са включвани до момента в техническите спецификации и не са закупувани от болницата. Законовият ред за осигуряването им изисква провеждане на обществена поръчка. Към датата на откриване на настоящата поръчка „СБАЛХЗ“ ЕАД има отворена поръчка за доставка на лекарствени продукти по 249 обособ. позиции с прогноз. стойност съобразно чл. 20, ал. 1 от ЗОП. В „Графика на общ. поръчки за 2018 г.“ възложителят е предвидил да възложи обществени поръчки за доставка на лекарства на стойност съобразно прага по чл. 20, ал. 1 от ЗОП. Следователно настоящата поръчка може да бъде възложена единствено чрез открита процедура. Същевременно необходимостта от доставка и ползване на новите лекарствени форми за нуждите на пациентите изисква спешно възлагане, което налага сроковете за получаване на оферти да бъдат съкратени. Възложителят разполага с оперативната самостоятелност да се възползва от законовата възможност на чл. 74, ал. 4 от ЗОП, ако са налице обстоятелства, които изискват спешно възлагане, поради което мотивира избора на ускорена процедура с изложените по-горе аргументи. Възложителят ще отстранява от участие в процедура за възлагане на обществената поръчка участник, за когото е валидно някое от обстоятелствата, посочени в чл. 54, ал. 1 и чл. 55, ал. 1, т. 1 от ЗОП, както и при наличие на някое от обстоятелствата по чл. 107 от ЗОП. Възложителят може да не отстрани участник, за когото е налице едно или повече от горепосочените обстоятелства по чл. 54 и чл. 55, ал. 1, т. 1 от ЗОП само при условията на чл. 56 от ЗОП. Когато участникът е обединение, той трябва да представи заверено копие от документ, от който да е видно правното основание за създаване на обединението, както и сл. информация във връзка с конкретната обществена поръчка: 1. правата и задълженията на участниците в обединението; 2. разпределението на отговорността между членовете на обединението; 3. дейностите, които ще изпълнява всеки член на обединението. Възложителят отстранява от процедурата участник: — за когото са налице обстоятелствата по чл. 3, т. 8 от Закона за икономическите и финансовите отношения с дружествата, регистрирани в юрисдикции с преференциален данъчен режим, свързаните с тях лица и техните действителни собственици; — Кандидати или участници, които са свързани лица. (по смисъла на чл. 101, ал. 11 от ЗОП, във връзка с чл. 107, т. 4 от ЗОП); — За които са налице обстоятелствата по чл. 69 от „Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество“. На основание чл. 47, ал. 10 от ППЗОП, тъй като критериите за подбор по отделните обособ. позиции са еднакви, Възложителят допуска представяне на едно заявление за участие/един ЕЕДОП, и посочва тази възможност в настоящото обявление. На основание чл. 46, ал. 4 от ЗОП участниците могат да подават оферти за една обособ. позиция, за няколко или за всички обособ. позиции в настоящата поръчка, а макс. брой обособ. позиции, по к. може да се подаде оферта, съвпада с общия брой (12) обособ. позиции в настоящата поръчка.На основание чл. 47, ал. 9 от ППЗОП, когато участник подава оферта за повече от една обособ. позиция, в опаковката по чл. 47, ал. 2 от ППЗОП за всяка от обособ. позиции се представят поотделно комплектовани документите по чл. 39, ал. 3, т. 1 от ППЗОП и отделни непрозрачни пликове с надпис „Предлагани ценови параметри“, с посочване на позиция, за к. се отнася. Възложителят предвижда оценката на техническите и ценовите предложения на участниците да се извърши преди разглеждане на документите за съответствие с критериите за подбор — чл. 104, ал. 2 от ЗОП и чл. 61 от ППЗОП. Гаранция за изпълнение — 5 % от общата стойност на договора без ДДС. Гаранцията за изпълнение се представя в една от формите по чл. 111, ал. 5 от ЗОП при подписване на договор за възлагане на общ.поръчка и е условие за сключването му.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Комисия за защита на конкуренцията</OFFICIALNAME>
+               <ADDRESS>бул. „Витоша“ № 18</ADDRESS>
+               <TOWN>София</TOWN>
+               <POSTAL_CODE>1000</POSTAL_CODE>
+               <COUNTRY VALUE="BG"/>
+               <PHONE>+359 29884070</PHONE>
+               <E_MAIL>cpcadmin@cpc.bg</E_MAIL>
+               <FAX>+359 29807315</FAX>
+               <URL>http://www.cpc.bg</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Чл. 197, ал. 1, т. 3 във връзка с чл. 74, ал. 4 от ЗОП — Жалба може да се подава в 10-дневен срок от изтичането на 5-дневния срок по чл. 100, ал. 5 от ЗОП — срещу решението за откриване на процедурата и/или решението за одобряване на обявлението за изменение или за допълнителна информация.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-16</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

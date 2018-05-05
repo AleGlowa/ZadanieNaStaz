@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="168939-2018"
+            EDITION="2018076">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-173712-001</RECEPTION_ID>
+      <DELETION_DATE>20180601</DELETION_DATE>
+      <FORM_LG_LIST>FR NL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>76</NO_OJ>
+         <DATE_PUB>20180419</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 076-168939</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:168939-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:168939-2018:TEXT:NL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <LG_ORIG>NL</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>www.loterie-nationale.be</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="30163100">Agency fuel cards</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="09100000">Fuels</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="63712600">Vehicle refuelling services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="31610000">Electrical equipment for engines and vehicles</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="65320000">Operation of electrical installations</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="09310000">Electricity</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE">BELGIQUE-BELGIË</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180417</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180601 11:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="C">Recreation, culture and religion</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Cartes pour l'achat de carburant</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tankkaarten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Карти за покупка на гориво</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Karty pro odběr pohonných hmot</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Benzinkort</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tankstellenkreditkarten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Πιστωτικές κάρτες καυσίμων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Agency fuel cards</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Tarjetas para la compra de carburante</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Asutuse kütuseostukaardid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Polttoainekortit</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Agency fuel cards</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Agencijske kartice za gorivo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Üzemanyagkártyák</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Carte per il rifornimento di carburante</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Įmonės kortelės kurui</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Firmu degvielas kartes</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Kartolini ta' l-aġenzija tal-karburanti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Karty na zakup paliwa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Cartões para abastecimento de combustível</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Carduri pentru cumpărat combustibil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Karty na čerpanie pohonnýchlátok</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Kreditne kartice za gorivo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Bensinkort</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="FR">Loterie nationale SA de droit public</AA_NAME>
+         <AA_NAME LG="NL">Nationale Loterij N.V. van publiek recht</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Loterie nationale SA de droit public</OFFICIALNAME>
+               <NATIONALID>0223.967.357_150</NATIONALID>
+               <ADDRESS>Rue Belliard 25-33</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Gert Van den Dries</CONTACT_POINT>
+               <PHONE>+32 22384965</PHONE>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>www.loterie-nationale.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Captains of Cycling SCRL</OFFICIALNAME>
+               <NATIONALID>478242662</NATIONALID>
+               <ADDRESS>Rue Belliard 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://www.captainsofcycling.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>New lotto sports organisation SA</OFFICIALNAME>
+               <NATIONALID>673508612</NATIONALID>
+               <ADDRESS>Rue Belliard 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://nationale-loterij.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>LNL Services SA</OFFICIALNAME>
+               <NATIONALID>866352134</NATIONALID>
+               <ADDRESS>Rue Belliard 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.nationale-loterij.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <PROCUREMENT_LAW>
+               <P>Non.</P>
+            </PROCUREMENT_LAW>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <URL_TOOL>https://ec.europa.eu/tools/espd?lang=nl</URL_TOOL>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY VALUE="RECREATION_CULTURE_AND_RELIGION"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Cartes magnétiques pour le prélèvement de diesel, d'essence et de LPG et cartes de recharge de courant électrique</P>
+            </TITLE>
+            <REFERENCE_NUMBER>LN-FIN/PRO/2018/04-F02_0</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30163100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Le présent marché avec publication au niveau européen a pour objectif la conclusion d'un accord-cadre avec 1 seul prestataire par lot pour la fourniture de cartes magnétiques pour le prélèvement de carburants (lot 1) et pour la fourniture de cartes de recharge de courant électrique pour les véhicules électriques/hybrides (lot 2) dans un réseau à étendue nationale.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Cartes magnétiques pour le prélèvement de diesel, d'essence et de LPG</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30163100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09100000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="63712600"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE"/>
+               <SHORT_DESCR>
+                  <P>Le marché concerne la fourniture de cartes magnétiques telles que décrites ci-après et le prélèvement de carburants (essence, diesel et LPG) pour véhicules aux pompes d’un ou plusieurs fournisseurs de carburants au moyen de ces cartes. Les cartes magnétiques doivent mentionner le nom de l’adjudicataire.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le marché est conclu pour une période initiale de 1 an, sans reconduction tacite, et peut être prolongé par périodes de 1 an sur demande unilatérale de la loterie nationale. La durée totale du marché, prolongations comprises, est limitée à 4 ans après conclusion du marché.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Le marché est conclu pour une période initiale de 1 an, sans reconduction tacite, et peut être prolongé par périodes de 1 an sur demande unilatérale de la loterie nationale. La durée totale du marché, prolongations comprises, est limitée à 4 ans après conclusion du marché.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Consommation annuelle estimée pour le lot 1: 390 000 l de diesel et 3 000 l d'essence. Ces quantités sont communiquées à titre indicatif et ne font dès lors naître aucun droit dans le chef des soumissionnaires. La loterie nationale ne consomme pas encore d’essence ou de LPG pour l’instant, mais cela pourrait changer à terme.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Cartes de recharge de courant électrique</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31610000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="TA37"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="65320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="MA07"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="MA06"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="TA37"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE"/>
+               <SHORT_DESCR>
+                  <P>Le marché concerne la fourniture de cartes de recharge telles que décrites ci-après et le prélèvement au moyen de ces cartes de recharge de courant électrique (AC/DC) aux bornes de recharge de 1 ou plusieurs fournisseurs. Les cartes de recharge doivent mentionner le nom de l’adjudicataire.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le marché est conclu pour une période initiale de 1 an, sans reconduction tacite, et peut être prolongé par périodes de 1 an sur demande unilatérale de la loterie nationale. La durée totale du marché, prolongations comprises, est limitée à 4 ans après conclusion du marché.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Le marché est conclu pour une période initiale de 1 an, sans reconduction tacite, et peut être prolongé par périodes de 1 an sur demande unilatérale de la loterie nationale. La durée totale du marché, prolongations comprises, est limitée à 4 ans après conclusion du marché.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Concernant le lot 2, vu le nombre limité de véhicules électriques ou hybrides dans la flotte, il n'est pas possible de donner une indication de la consommation.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>— une déclaration selon laquelle l'entreprise, les membres de l'organe administratif, de gestion ou de surveillance de celle-ci et toute personne disposant à cet égard d'une compétence de représentation, de décision ou de contrôle n'ont fait l’objet d’aucune condamnation prononcée par jugement définitif pour participation à une organisation criminelle [telle que visée à l’article 324 bis du code pénal], corruption [telle que visée à l’article 246 et 250 du code pénal], fraude [au sens de l’article 1<FT TYPE="SUP">er</FT> de la convention relative à la protection des intérêts financiers des communautés européennes, telle que visée à l'article 45 alinéa 1 point c de la directive 2014/24/EG et approuvée par la loi du 17.2.2002], infraction terroriste ou faits répréhensibles en rapport avec des activités terroristes [tels que visés à l'article 137 du code pénal], blanchiment de capitaux ou financement du terrorisme [tel que visé à l’article 5 de la loi du 11.1.1993 relative à la prévention de l’utilisation du système financier aux fins du blanchiment de capitaux et du financement du terrorisme] ou travail d'enfants et autres formes de traite des êtres humains [tels que visés à l'article 433 quinquies du code pénal],</P>
+               <P>— une déclaration attestant que l’entreprise et les personnes mentionnées à l'alinéa précédent ne sont pas citées dans une décision administrative ou judiciaire pour avoir occupé des ressortissants de pays tiers en séjour illégal [au sens de l'article 35/7 de la loi du 12.4.1965 concernant la protection de la rémunération des travailleurs ou au sens de la loi du 30.4.1999 relative à l'occupation des travailleurs étrangers],</P>
+               <P>— une déclaration selon laquelle l'entreprise n’est pas en état de faillite, de liquidation, de cessation d’activités, de réorganisation judiciaire ou dans toute autre situation analogue résultant d’une procédure de même nature existant dans les législations ou réglementations nationales,</P>
+               <P>— une déclaration attestant que l’entreprise n’a pas de dettes fiscales (directes et TVA) de plus de 3 000 EUR,</P>
+               <P>— une déclaration attestant que l’entreprise n’a plus de dettes envers la sécurité sociale d’un montant de plus de 3 000 EUR.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>— les comptes annuels relatifs aux 3 années écoulées si ceux-ci ne sont pas disponibles sur le site Internet de la centrale des bilans de la banque nationale de Belgique (www.centraledesbilans.be). Les entreprises étrangères restent tenues de communiquer leurs bilans consolidés, leurs chiffres d’affaires, leurs pertes et leurs bénéfices relatifs aux 3 années écoulées,</P>
+               <P>— la capacité économique et financière des entreprises est appréciée sur base d’une évaluation de leurs ratios financiers selon D&amp;B. La loterie nationale se charge elle-même de demander les rapports à D&amp;B.</P>
+               <P>Lot 1:</P>
+               <P>— un indicateur de risque D&amp;B de minimum 3 sur une échelle de 1 à 4 ou 5, où 1 correspond à un risque de crédit faible et 4 au risque le plus élevé,</P>
+               <P>— un score de défaillance D&amp;B de minimum 60 sur une échelle de 1 à 100, où 1 correspond au risque de faillite le plus élevé et 100 au risque le plus faible.</P>
+               <P>Les sociétés qui ne satisfont pas aux exigences ci-dessus sont écartées de l'attribution, à moins que notre propre analyse financière des comptes annuels des 3 derniers exercices ne nuance cette image négative.</P>
+               <P>Lot 2: les entreprises ayant un score de faillite de moins de 30 sur 100 seront écartées de l’attribution à moins qu’une propre analyse financière des comptes annuels des 3 derniers exercices nuance cette image négative. En l'absence de rapport D&amp;B pour les marchés non critiques, l'évaluation devra être réalisée sur la base des derniers comptes annuels disponibles. Nous prendrons dans ce cas pour critère une solvabilité (capitaux propres/total du bilan) d’au moins 20 %.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>— pour le lot 1: le soumissionnaire doit pouvoir présenter au moins 1 marché de référence, qu’il a exécuté au cours des 3 dernières années, portant sur un minimum de 100 cartes de carburant. Le soumissionnaire indiquera le nombre de cartes par référence et le destinataire,</P>
+               <P>— pour le lot 1: une déclaration selon laquelle les carburants proposés sont conformes à la norme en vigueur, à savoir une attestation de conformité des produits à fournir aux spécifications énumérées dans les normes NBN EN 590 (diesel) et NBN EN 228 (essence) et NBN EN 589 (LPG) et les modifications en vigueur à la date de la fourniture,</P>
+               <P>— pour le lot 1: une déclaration qui recense le matériel et l'équipement technique dont dispose le prestataire ou le contractant pour l'exécution du marché; un point de prélèvement doit en outre être présent à 10 km maximum des endroits suivants (distance calculée par route et non à vol d’oiseau):</P>
+               <P>—— rue Belliard 25-33 à 1040 Bruxelles,</P>
+               <P>—— avenue de l'Exposition 269 à 1090 Jette,</P>
+               <P>—— Grote Steenweg 204-208 à 2600 Berchem,</P>
+               <P>—— Belgiëlaan 9 à 9051 Sint-Denijs-Westrem,</P>
+               <P>—— Leuvenselaan 172 à 3300 Tienen (Tirlemont),</P>
+               <P>—— Baron Ruzettelaan 78 à 8310 Assebroek,</P>
+               <P>—— avenue Blonden 84 à 4000 Liège,</P>
+               <P>—— rue de Nimy 61-63 à 7000 Mons,</P>
+               <P>—— chaussée de Dinant 84 à 5000 Namur.</P>
+               <P>— pour le lot 2: une déclaration qui recense le matériel et l'équipement technique dont dispose le prestataire ou le contractant pour l'exécution du marché; 1 borne de recharge par province est un minimum.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Classe: N/A, catégorie: N/A.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-01</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-09-01</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-01</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:05</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Loterie nationale, rue Belliard 25-33, 1040 Bruxelles.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>La présence des soumissionnaires est autorisée mais pas exigée.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Voir cahier des charges et annexes via le site web e-procurement: https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</P>
+               <P>Les éventuelles questions/réponses et rectifications seront également publiées et mises à disposition sur ce même site web.</P>
+               <P>Veuillez donc consulter régulièrement le présent avis de marché.</P>
+               <P>Personne de contact: gert.vandendries@nationale-loterij.be</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Conseil d'État</OFFICIALNAME>
+               <ADDRESS>rue de la Science 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>15 j: demande de suspension contre la décision motivée commentée</P>
+               <P>60 j: recours en annulation</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Loterie nationale SA de droit public</OFFICIALNAME>
+               <ADDRESS>rue Belliard 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22384965</PHONE>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <URL>www.nationale-loterij.be</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Nationale Loterij N.V. van publiek recht</OFFICIALNAME>
+               <NATIONALID>0223.967.357_150</NATIONALID>
+               <ADDRESS>Belliardstraat 25-33</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Gert Van den Dries</CONTACT_POINT>
+               <PHONE>+32 22384965</PHONE>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>www.loterie-nationale.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>CAPTAINS OF CYCLING CVBA</OFFICIALNAME>
+               <NATIONALID>478242662</NATIONALID>
+               <ADDRESS>Belliardstraat 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://www.captainsofcycling.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>NEW LOTTO SPORTS ORGANISATION NV</OFFICIALNAME>
+               <NATIONALID>673508612</NATIONALID>
+               <ADDRESS>Belliardstraat 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://nationale-loterij.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>LNL SERVICES NV</OFFICIALNAME>
+               <NATIONALID>866352134</NATIONALID>
+               <ADDRESS>Belliardstraat 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.nationale-loterij.be</URL_GENERAL>
+               <URL_BUYER>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <PROCUREMENT_LAW>
+               <P>Neen.</P>
+            </PROCUREMENT_LAW>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <URL_TOOL>https://ec.europa.eu/tools/espd?lang=nl</URL_TOOL>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY VALUE="RECREATION_CULTURE_AND_RELIGION"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Magneetkaarten voor diesel/benzine/LPG en laadpassen voor elektrische stroom</P>
+            </TITLE>
+            <REFERENCE_NUMBER>LN-FIN/PRO/2018/04-F02_0</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30163100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Het doel van deze Europese aanbesteding is het afsluiten van een raamovereenkomst met één (1) opdrachtnemer per perceel, voor de levering van magneetkaarten voor afname van brandstoffen (perceel 1) en laadpassen voor elektrische stroom voor elektrische/hybride voertuigen (perceel 2) in een nationaal verspreid verdeelnet.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Magneetkaarten voor diesel/benzine/LPG</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="30163100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09100000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="63712600"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE"/>
+               <SHORT_DESCR>
+                  <P>De opdracht betreft de levering van magneetkaarten zoals hiernavolgend beschreven en de afname van motorbrandstoffen (benzine, diesel en LPG) voor voertuigen aan de pompen van één of meerdere brandstoffenleveranciers door gebruik van de magneetkaarten. De magneetkaarten dienen de naam te vermelden van de opdrachtnemer.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De opdracht wordt aangegaan voor een initiële periode van één jaar, zonder stilzwijgende verlenging, en kan op eenzijdig verzoek van de NL met eenjarige perioden worden verlengd. De volledige looptijd van de opdracht is, met inbegrip van de verlengingen, beperkt tot vier jaar na het sluiten van de opdracht.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>De opdracht wordt aangegaan voor een initiële periode van één jaar, zonder stilzwijgende verlenging, en kan op eenzijdig verzoek van de NL met eenjarige perioden worden verlengd. De volledige looptijd van de opdracht is, met inbegrip van de verlengingen, beperkt tot vier jaar na het sluiten van de opdracht.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Geschatte afname per jaar voor perceel 1: 390.000 liter diesel en 3.000 liter benzine. Aan deze indicatieve opgave kunnen derhalve voor de inschrijver geen rechten worden ontleend. Momenteel wordt er nog geen LPG afgenomen, maar dit kan op termijn veranderen.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Laadpassen voor elektrische stroom</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="31610000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="TA37"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="65320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="MA07"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="MA06"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="TA37"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE"/>
+               <SHORT_DESCR>
+                  <P>De opdracht betreft de levering van laadpassen zoals hiernavolgend beschreven en de afname elektrische stroom (AC/DC) aan de laadpunten van één of meerdere leveranciers door gebruik van de laadpassen. De laadpassen dienen de naam te vermelden van de opdrachtnemer.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De opdracht wordt aangegaan voor een initiële periode van één jaar, zonder stilzwijgende verlenging, en kan op eenzijdig verzoek van de NL met eenjarige perioden worden verlengd. De volledige looptijd van de opdracht is, met inbegrip van de verlengingen, beperkt tot vier jaar na het sluiten van de opdracht.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>De opdracht wordt aangegaan voor een initiële periode van één jaar, zonder stilzwijgende verlenging, en kan op eenzijdig verzoek van de NL met eenjarige perioden worden verlengd. De volledige looptijd van de opdracht is, met inbegrip van de verlengingen, beperkt tot vier jaar na het sluiten van de opdracht.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Voor perceel 2, gezien het beperkt aantal elektrische/hybride voertuigen binnen de vloot, kan hier eveneens geen indicatie van verbruik meegedeeld worden.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>— een verklaring dat voor de onderneming en in hoofde van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van de onderneming, alsook elke persoon die daarin vertegenwoordigings, beslissings- of controlebevoegdheid heeft, geen veroordeling bij onherroepelijk vonnis is uitgesproken omwille van deelneming aan een criminele organisatie [als bedoeld in artikel 324 bis van het Strafwetboek], omkoping [als bedoeld in artikel 246 en 250 van het Strafwetboek], fraude [als bedoeld in artikel 1 van de overeenkomst aangaande de bescherming van de financiële belangen van de Gemeenschap, zoals bedoeld in art 45 lid 1 sub c van de Richtlijn 2014/24/EG en goedgekeurd door de wet van 17/02/2002], terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten [als bedoeld in artikel 137 van het Strafwetboek], witwassen van geld of financiering van terrorisme [als bedoeld in artikel 5 van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financieel stelsel voor het witwassen van geld en de financiering van terrorisme] of kinderarbeid en andere vormen van mensenhandel [als bedoeld in artikel 433quinquies van het Strafwetboek],</P>
+               <P>— een verklaring dat de onderneming en de in het voormelde lid vermelde personen niet staan aangeduid in een administratieve of rechtelijke beslissing voor een inbreuk op het vlak van het tewerkstellen van illegaal verblijvende onderdanen van derde landen [in de zin van artikel 35/7 van de wet van 12 april 1965 betreffende de bescherming van het loon der werknemers of in de zin van de wet van 30 april 1999 betreffende de tewerkstelling van vreemde arbeiders],</P>
+               <P>— een verklaring dat de onderneming niet in staat van faillissement of van vereffening verkeert, zijn werkzaamheden heeft gestaakt, een gerechtelijke reorganisatie ondergaat, of aangifte heeft gedaan van zijn faillissement, een procedure van vereffening of gerechtelijke reorganisatie aanhangig is, of in een vergelijkbare toestand verkeerd ingevolge een soortgelijke procedure die bestaat in andere nationale reglementeringen,</P>
+               <P>— een verklaring dat u geen fiscale schulden heeft (direct en btw) van meer dan 3.000 euro,</P>
+               <P>— een verklaring dat u op het vlak van de sociale zekerheid geen bijdrageschuld heeft van meer dan 3.000 euro.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>— de jaarrekeningen over de afgelopen 3 jaren verstrekken indien deze niet beschikbaar zijn op de website van de Balanscentrale van de Nationale Bank van België (www.balanscentrale.be). Buitenlandse ondernemingen blijven ertoe gehouden hun geconsolideerde balans-, omzet, verlies- en winstcijfers over de afgelopen 3 jaren mee te delen,</P>
+               <P>— de economische en financiële draagkracht van de onderneming worden afgetoetst aan de hand van een D&amp;B bedrijfsratio-evaluatie. De Nationale Loterij staat zelf in voor het opvragen van de rapporten aan D&amp;B.</P>
+               <P>Perceel 1:</P>
+               <P>* een D&amp;B Risico-indicator van minstens 3 op een schaal van 1-4 of 5, waarbij 1 staat voor een laag en 4 voor het hoogste kredietrisico;</P>
+               <P>* een D&amp;B faillissementsscore van minstens 60 op een schaal van 1-100, waarbij 1 staat voor een slechtste en 100 voor het laagste risico op faling;</P>
+               <P>Firma’s die niet aan bovenvermelde vereisten voldoen komen niet voor gunning in aanmerking, tenzij een eigen financiële analyse van de jaarrekeningen van de voorbije drie boekjaren dit negatieve beeld nuanceren.</P>
+               <P>Perceel 2: ondernemingen met een D&amp;B faillissementsscore van minder dan 30 op 100 komen niet voor gunning in aanmerking. Tenzij een eigen financiële analyse van de jaarrekeningen van de voorbije drie boekjaren negatieve beeld nuanceren. In het geval er geen D&amp;B rapport voorhanden is, dan zal de beoordeling dienen te geschieden aan de hand van de laatst beschikbare jaarrekeningen. Als criterium zal in dat geval gelden dat de solvabiliteit (Eigen vermogen/ Balanstotaal) van de onderneming minstens 20 % dient te bedragen.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>— voor perceel 1: de inschrijver moet minstens één (1) door hem in de loop van de laatste drie jaar uitgevoerde referentie-opdracht van minimum 100 tankkaarten kunnen voorleggen. De inschrijver dient het aantal kaarten per referentie en de bestemmeling te vermelden,</P>
+               <P>— voor perceel 1: een verklaring welke het materieel en de technische uitrusting vermeldt waarover de dienstverlener of de aannemer voor het realiseren van de opdracht beschikt: bovendien dient er een afnamepunt aanwezig te zijn op maximaal 10 km van volgende locaties (de afstand wordt berekend via de weg en niet in vogelvlucht):</P>
+               <P>* Belliardstraat 25-33 te 1040 Brussel.</P>
+               <P>* Tentoonstellinglaan 269 te 1090 Jette.</P>
+               <P>* Grote Steenweg 204-208 te 2600 Berchem.</P>
+               <P>* Belgiëlaan 9 te 9051 Sint-Denijs-Westrem.</P>
+               <P>* Leuvenselaan 172 te 3300 Tienen.</P>
+               <P>* Baron Ruzettelaan 78 te 8310 Assebroek.</P>
+               <P>* Avenue Blonden 84 te 4000 Liège.</P>
+               <P>* Rue de Nimy 61-63 te 7000 Mons.</P>
+               <P>* Chaussée de Dinant 84 te 5000 Namur.</P>
+               <P>— voor perceel2: een verklaring welke het materieel en de technische uitrusting vermeldt waarover de dienstverlener of de aannemer voor het realiseren van de opdracht beschikt: een aanwezigheid met 1 laadpunt per provincie is een minimum.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Klasse: N/A, Categorie: N/A.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-01</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-09-01</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-01</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:05</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Nationale Loterij, Belliardstraat 25-33, 1040 Brussel.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>De aanwezigheid van de inschrijvers is toegelaten doch niet vereist.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Zie bestek en bijlagen te downloaden via de website e-procurement: https://enot.publicprocurement.be/enot-war/preViewNotice.do?noticeId=303282.</P>
+               <P>De eventuele vragen en antwoorden en rechtzettingen zullen ook gepubliceerd worden op diezelfde website.</P>
+               <P>Gelieve dus deze aankondiging van opdracht regelmatig te consulteren.</P>
+               <P>Contactpersoon: gert.vandendries@nationale-loterij.be.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapsstraat 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+               <URL>http://www.raadvst-consetat.be</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>15 dagen: verzoek tot schorsing van de uitvoering van de gemotiveerde gunningsbeslissing</P>
+               <P>60 dagen: beroep tot nietigverklaring</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Nationale Loterij NV van publiek recht</OFFICIALNAME>
+               <ADDRESS>Belliardstraat 25-33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22384965</PHONE>
+               <E_MAIL>gert.vandendries@nationale-loterij.be</E_MAIL>
+               <URL>www.nationale-loterij.be</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

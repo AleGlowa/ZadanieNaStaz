@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="002926-2018"
+            EDITION="2018003">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-001784-001</RECEPTION_ID>
+      <DELETION_DATE>20180413</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>3</NO_OJ>
+         <DATE_PUB>20180105</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 003-002926</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:002926-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>www.bip.zory.pl</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="09310000">Electricity</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL227">Rybnicki</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL227">Rybnicki</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL227">Rybnicki</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">2562821.05</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 190-388622</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180103</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01B03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Електрическа енергия</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrická energie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektricitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrizität</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Ηλεκτρισμός</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricity</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricidad</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elekter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Sähkö</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Électricité</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricity</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Električna energija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Villamos energia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elettricità</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrība</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elettriku</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektriciteit</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektryczność</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricidade</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricitate</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrická energia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrika</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Żory</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektricitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Gmina Miejska Żory</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gmina Miejska Żory</OFFICIALNAME>
+               <ADDRESS>Al. Wojska Polskiego 25</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 5</OFFICIALNAME>
+               <ADDRESS>os.700-lecia Żor 18</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 13</OFFICIALNAME>
+               <ADDRESS>ul. Piastów Górnośląskich 3</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 16</OFFICIALNAME>
+               <ADDRESS>os. Sikorskiego</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 19</OFFICIALNAME>
+               <ADDRESS>os. Powstańców Śląskich 24A</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 22</OFFICIALNAME>
+               <ADDRESS>os. Korfantego</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedszkole nr 23</OFFICIALNAME>
+               <ADDRESS>os. Pawlikowskiego 41</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 1</OFFICIALNAME>
+               <ADDRESS>ul. Słoneczna 2</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 5</OFFICIALNAME>
+               <ADDRESS>ul. Strażacka 6</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 6</OFFICIALNAME>
+               <ADDRESS>ul. Pszczyńska 81</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 7</OFFICIALNAME>
+               <ADDRESS>ul. Szkolna 8</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 8</OFFICIALNAME>
+               <ADDRESS>ul. Wysoka 13</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkolno-Przedszkolny nr 9</OFFICIALNAME>
+               <ADDRESS>ul. Rybnicka 226</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szkoła Podstawowa nr 3</OFFICIALNAME>
+               <ADDRESS>os. 700-lecia Żor 16</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szkoła Podstawowa nr 13</OFFICIALNAME>
+               <ADDRESS>os. Pawlikowskiego 40</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szkoła Podstawowa nr 15</OFFICIALNAME>
+               <ADDRESS>ul. Bankowa 1</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szkoła Podstawowa nr 16</OFFICIALNAME>
+               <ADDRESS>ul. Osińska 50</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szkoła Podstawowa nr 17</OFFICIALNAME>
+               <ADDRESS>ul. Dąbrowskiego 15</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkół nr 3</OFFICIALNAME>
+               <ADDRESS>os. Sikorskiego 52</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkół nr 5</OFFICIALNAME>
+               <ADDRESS>ul. Wodzisławska 201</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkół Ogólnokształcących</OFFICIALNAME>
+               <ADDRESS>ul. Powstańców 6</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkół Budowlano-Informatycznych</OFFICIALNAME>
+               <ADDRESS>ul. Rybnicka 5</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Centrum Kształcenia Zawodowego i Ustawicznego w Żorach</OFFICIALNAME>
+               <ADDRESS>os. Księcia Władysława 28</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zespół Szkół Specjalnych</OFFICIALNAME>
+               <ADDRESS>ul. Boryńska 54</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Miejski Dom Pomocy Społecznej</OFFICIALNAME>
+               <ADDRESS>os. Powstańców Śląskich 20</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Miejska Biblioteka Publiczna w Żorach</OFFICIALNAME>
+               <ADDRESS>os. Pawlikowskiego PU/13</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Powiatowy Urząd Pracy</OFFICIALNAME>
+               <ADDRESS>ul. Osińska 48</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Żorskie Centrum Organizacji Pozarządowych</OFFICIALNAME>
+               <ADDRESS>os. Sikorskiego 52</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Miejski Ośrodek Sportu i Rekreacji</OFFICIALNAME>
+               <ADDRESS>ul. Wolności 36A</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zakład Aktywności Zawodowej „Wspólna Pasja”</OFFICIALNAME>
+               <ADDRESS>ul. Bażancia 40</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Miejski Ośrodek Kultury</OFFICIALNAME>
+               <ADDRESS>ul. Dolne Przedmieście 1</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Komenda Miejska Państwowej Straży Pożarnej</OFFICIALNAME>
+               <ADDRESS>ul. Ogniowa 10</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zarząd Budynków Miejskich</OFFICIALNAME>
+               <ADDRESS>Al. Wojska Polskiego 4a</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Nowe Miasto Sp. z o.o.</OFFICIALNAME>
+               <ADDRESS>ul. Katowicka 24</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Miejski Ośrodek Pomocy Społecznej</OFFICIALNAME>
+               <ADDRESS>ul. Ks. Przemysława 2</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zakłady Techniki Komunalnej Sp. z o.o.</OFFICIALNAME>
+               <ADDRESS>ul. Okrężna 5</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Przedsiębiorstwo Wodociągów i Kanalizacji Żory Spółka z o.o.</OFFICIALNAME>
+               <ADDRESS>ul. Wodociągowa 10</ADDRESS>
+               <TOWN>Żory</TOWN>
+               <POSTAL_CODE>44-240</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Łukasz Górski</CONTACT_POINT>
+               <PHONE>+48 324348245</PHONE>
+               <E_MAIL>zp@um.zory.pl</E_MAIL>
+               <FAX>+48 324348248</FAX>
+               <n2016:NUTS CODE="PL227"/>
+               <URL_GENERAL>www.bip.zory.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zakup energii elektrycznej w Gminie Żory w 2018 r.</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Przedmiotem zamówienia jest:</P>
+               <P>Część 1 zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD Tauron Dystrybucja S.A.</P>
+               <P>Część 2 zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD BEST EKO Sp. z o.o.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2562821.05</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD Tauron Dystrybucja S.A.</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL227"/>
+               <MAIN_SITE>
+                  <P>Żory.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Część 1:</P>
+                  <P>Zakup energii elektrycznej dla 435 punktów poboru energii elektrycznej na terenie działania OSD Tauron Dystrybucja S.A. szczegółowo opisanych w załączniku nr 2 i 2a do SIWZ.</P>
+                  <P>Ilość dostarczanej energii w okresie realizacji zamówienia wynosi 11 422,685 MWh w tym:</P>
+                  <P>a) na potrzeby oświetlenia ulicznego, sygnalizacji świetlnych oraz obiektów Gminy Żory:</P>
+                  <P>— energia rozliczana według taryfy C11 – 237,130 MWh,</P>
+                  <P>— energia rozliczana według taryfy C21 – 369,378 MWh,</P>
+                  <P>— energia rozliczana według taryfy O12 dzień – 1 260,807 MWh,</P>
+                  <P>— energia rozliczana według taryfy O12 noc – 2 509,417 MWh,</P>
+                  <P>— energia rozliczana według taryfy R – 7,884 MWh.</P>
+                  <P>b) na potrzeby placówek oświatowych:</P>
+                  <P>— energia rozliczana wg taryfy C11 – 601,900 MWh,</P>
+                  <P>— energia rozliczana wg taryfy C21 – 891,100 MWh.</P>
+                  <P>c) na potrzeby pozostałych jednostek organizacyjnych:</P>
+                  <P>— energia rozliczana wg taryfy C11 – 773,318 MWh,</P>
+                  <P>— energia rozliczana wg taryfy C11 (bez akcyzy) – 407,900 MWh,</P>
+                  <P>— energia rozliczana wg taryfy C21 – 765,621 MWh,</P>
+                  <P>— energia rozliczana wg taryfy C21 (bez akcyzy) – 140,000 MWh,</P>
+                  <P>— energia rozliczana wg taryfy G11 – 196,430 MWh,</P>
+                  <P>— energia rozliczana wg taryfy G12 – 0,251 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 szczyt przedpołudniowy – 379,364 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 szczyt popołudniowy – 251,772 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 pozostałe godziny doby – 1120,413 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 szczyt przedpołudniowy (bez akcyzy) – 309,550 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 szczyt popołudniowy (bez akcyzy) – 181,200 MWh,</P>
+                  <P>— energia rozliczana wg taryfy B23 pozostałe godziny doby (bez akcyzy) – 1019,250 MWh.</P>
+                  <P>Moc umowna dla wszystkich odbiorów wynosi 7210,63 kW.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ocena ofert zostanie dokonana wg następujących kryteriów:</P>
+                  <P>1.cena -95pkt</P>
+                  <P>2.pochodzenie energii elektrycznej w części z odnawialnych źródeł energii (OZE) i/lub z kogeneracji-5 pkt</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD BEST EKO Sp. z o.o.</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL227"/>
+               <MAIN_SITE>
+                  <P>Żory.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Część 2:</P>
+                  <P>Zakup energii elektrycznej dla 25 punktów poboru energii elektrycznej na terenie działania OSD Best Eko sp. z o.o. szczegółowo opisanych w załączniku nr 3 do SIWZ.</P>
+                  <P>Ilość dostarczanej energii w okresie realizacji zamówienia wynosi 1 095,586 MWh w tym:</P>
+                  <P>a) na potrzeby Gminy Miejskiej Żory:</P>
+                  <P>— energia rozliczana według taryfy C11 – 48,827 MWh.</P>
+                  <P>b) na potrzeby jednostek organizacyjnych:</P>
+                  <P>— energia rozliczana według taryfy C11 – 109,156 MWh,</P>
+                  <P>— energia rozliczana według taryfy C11 (bez akcyzy) – 200,000 MWh,</P>
+                  <P>— energia rozliczana według taryfy C21 (bez akcyzy) – 660,000 MWh,</P>
+                  <P>— energia rozliczana według taryfy G11 – 77,603 MWh.</P>
+                  <P>Moc umowna dla wszystkich odbiorców wynosi 201 kW.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ocena ofert zostanie dokonana wg następujących kryteriów:</P>
+                  <P>1.cena -95 pkt</P>
+                  <P>2.pochodzenie energii elektrycznej w części z odnawialnych źródeł energii (OZE) i/lub z kogeneracji - 5pkt</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 190-388622</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD Tauron Dystrybucja S.A.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Corrente Sp. z o.o.</OFFICIALNAME>
+                     <ADDRESS>ul. Konotopska 4</ADDRESS>
+                     <TOWN>Ożarów Mazowiecki</TOWN>
+                     <POSTAL_CODE>05-850</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL227"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">2336082.36</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">3015064.41</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <CONTRACT_NO>2</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Zakup energii elektrycznej w Gminie Żory w 2018 r. na terenie działania OSD BEST EKO Sp. z o.o.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-08</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Energa Obrót S.A.</OFFICIALNAME>
+                     <ADDRESS>Al. Grunwaldzka 472</ADDRESS>
+                     <TOWN>Gdańsk</TOWN>
+                     <POSTAL_CODE>80-309</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL227"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">226738.69</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">290131.99</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>1. Z postępowania o udzielenie zamów. Zamawiający wykluczy Wykonawcę, w stosunku do którego zachodzi którakolwiek z okoliczności, o których mowa w art. 24 ust. 1 pkt 12-23 ustawy Pzp oraz art. 24 ust. 5 pkt 1-8 uPzp. 2. Zamawiający wezwie Wyk., którego oferta została najwyżej oceniona, do złożenia. w wyznaczonym, nie krótszym niż 10 dni, terminie aktualnych na dzień złożenia ośw. lub dok. potwierdzających okoliczności, o których mowa w art. 25 ust. 1 pkt 3 uPzp, tj: 1) inf. z KRK w zakresie określonym w art. 24 ust. 1 pkt 13, 14 i 21 ustawy oraz, odnośnie skazania za wykroczenie na karę aresztu, w zakr. określonym przez zamaw. na podst. art. 24 ust. 5 pkt 5 i 6 ustawy, wystawionej nie wcześniej niż 6 m-cy przed upływem term. skł. ofert albo wniosków o dopuszczenie do udziału w postępowaniu; 2) zaśw. właściwego naczelnika urzędu skarbowego potw., że wykonawca nie zalega z opłacaniem podatków, wystawionego nie wcześniej niż 3 m-ce przed upływem term. skł. ofert albo wniosków o dopuszczenie do udziału w postępowaniu, lub innego dok. potw., że wykonawca zawarł porozumienie z właściwym organem podatkowym ws. spłat tych należności wraz z ewentualnymi odsetkami lub grzywnami, w szczególności uzyskał przewidziane prawem zwolnienie, odroczenie lub rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu; 3) zaśw. właściwej terenowej jednostki organizacyjnej ZUS lub KRUS albo innego dokumentu potw., że wyk. nie zalega z opł. składek na ubezp. społ. lub zdrowotne, wystawionego nie wcześniej niż 3 m-ce przed upł. term. skł. ofert albo wniosków o dopuszczenie do udziału w postępowaniu, lub innego dok. potw., że wyk. zawarł porozumienie z właściwym organem ws. spłat tych należności wraz z ewentualnymi odsetkami lub grzywnami, w szczególności uzyskał przewidziane prawem zwolnienie, odroczenie lub rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu; 4) odpisu z właściwego rejestru lub z centr. ew. i informacji o działalności gosp., jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji, w celu potw. braku podstaw wykl. na podst. art. 24 ust. 5 pkt 1 ustawy (w przypadku gdy Wykonawca nie złoży ww. dokumentu, zostanie on pobrany przez Zamawiającego za pomocą bezpłatnych i ogólnodostępnych baz danych); 5) oświadczenia wykonawcy o braku wydania wobec niego prawomocnego wyroku sądu lub ostatecznej decyzji administr. o zaleganiu z uiszczaniem podatków, opłat lub skł. na ubezp. społ. lub zdrowotne albo– w przypadku wydania takiego wyroku lub decyzji–dokumentów potw. dokonanie płatności tych należności wraz z ewentualnymi odsetkami lub grzywnami lub zawarcie wiążącego porozumienia ws. spłat tych należności; 6) ośw. wyk. o braku orzeczenia wobec niego tytułem środka zapobiegawczego zakazu ubiegania się o zamów. publ.; 7) ośw. wyk. o braku wydania prawomocnego wyroku sądu skazującego za wykroczenie na karę ograniczenia wolności lub grzywny w zakresie określonym przez zamawiającego na podstawie art. 24 ust. 5 pkt 5 i 6 ustawy; 8) ośw. wyk. o braku wydania wobec niego ostatecznej decyzji administracyjnej o naruszeniu obowiązków wynikających z przepisów prawa pracy, prawa ochrony środowiska lub przepisów o zabezpieczeniu społecznym w zakresie określonym przez zamawiającego na podstawie art. 24 ust. 5 pkt 7 ustawy; 9) ośw. wyk. o niezaleganiu z opłacaniem podatków i opłat lokalnych, o których mowa w ustawie z dnia 12.1.1991 r. o podatkach i opłatach lokalnych (t.j. Dz.U. 2016 poz. 716); 10) jeżeli wyk. polega na zasobach innych podmiotów, przedstawia dok. okr. w ww. punktach 1)-9) odnośnie tych podmiotów 3 Zamawiający nie przewiduje udzielić zamówień o których mowa w art. 67 ust. 1 pkt 6 i 7 ustawy; 4. Zamawiający żąda wniesienia wadium: Cz 1–15000 PLN, Cz 2–1000 PLN</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Urząd Zamówień Publicznych</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17A</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>1) Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu danego zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Pzp, przysługują środki ochrony prawnej zgodnie z działem VI – rozdz. 1, 2, 3. 2) Odwołanie przysługuje wyłącznie od czynności wymienionych w art.180 ust. 1 ustawy Pzp. 3) Zgodnie z art. 182 ustawy Pzp: – ust. 1 pkt 1 odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia – jeżeli zostały przesłane w sposób określony w art. 180 ust. 5 zdanie drugie albo w terminie 15 dni – jeżeli zostały przesłane w inny sposób – w przypadku gdy wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8; – ust. 2 pkt 1 odwołanie wobec treści ogłoszenia o zamówieniu, a jeżeli postępowanie jest prowadzone w trybie przetargu nieograniczonego, także wobec postanowień Specyfikacji Istotnych Warunków Zamówienia, wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia Specyfikacji Istotnych Warunków Zamówienia na stronie internetowej – jeżeli wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8; – ust. 3 pkt 1 – odwołanie wobec czynności innych niż określone w ust. 1 i 2 wnosi się w przypadku zamówień, których wartość jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia; 4) Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej, odwołanie powinno wskazywać czynność lub zaniechanie czynności Zamawiającego, której zarzuca się niezgodność z przepisami ustawy, zawierać zwięzłe przedstawienie zarzutów, określać żądanie oraz wskazywać okoliczności faktyczne i prawne uzasadniające wniesienie odwołania. Odwołanie wnosi się do Prezesa Izby w formie pisemnej w postaci papierowej albo w postaci elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym. 5) Odwołujący przesyła kopię odwołania Zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. 6) Od orzeczenia Izby stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do Sądu Okręgowego w Gliwicach.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Urząd Zamówień Publicznych</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17A</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-03</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

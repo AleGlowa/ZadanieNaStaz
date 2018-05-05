@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="055820-2018"
+            EDITION="2018026">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-050213-001</RECEPTION_ID>
+      <DELETION_DATE>20180511</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>26</NO_OJ>
+         <DATE_PUB>20180207</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 026-055820</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:055820-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="50800000">Miscellaneous repair and maintenance services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL911">Miasto Warszawa</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL911">Miasto Warszawa</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL9">MAKROREGION WOJEWÓDZTWO MAZOWIECKIE</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">400000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 200-410759</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180131</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt vedrørende levering af viceværts- og budtjenester til Frontex' hovedkvarter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag über Hilfs- und Botendienste für den Hauptsitz von Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract for the provision of handyman and messenger services for Frontex headquarters</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco para la prestación de servicios de mantenimiento y mensajería para la sede de Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Puitesopimus apumies- ja lähettipalvelujen toimittamisesta Frontexin päätoimipaikkaa varten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre pour la prestation de services d'homme à tout faire et de courrier au siège de Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών πολυτεχνίτη και διεκπεραίωσης αλληλογραφίας για την έδρα του Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro per la prestazione di servizi di tuttofare e servizi di corriere per la sede centrale di Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor de verlening van klusjes- en koeriersdiensten aan het hoofdkantoor van Frontex.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro relativo à prestação de serviços de ofícios vários e de mensageiro na sede da Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för tillhandahållande av diverse tjänster och budtjänster för Frontex huvudkontor</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva na poskytnutí údržbářských a kurýrských služeb pro ústředí agentury Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>Frontexi peakorterile pisitööde ja kullerteenuste osutamise raamleping</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>Keretszerződés ezermester- és futárszolgáltatások teljesítésére a Frontex székhelyén</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis dėl meistro ir kurjerio paslaugų FRONTEX būstinėje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums par palīgstrādnieka un kurjera pakalpojumu sniegšanu Frontex galvenajai mītnei</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt għall-provvista ta' servizzi ta' persuna li tagħmel tiswijiet żgħar u ta' messaġġier għall-kwartieri ġenerali tal-Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o usługi konserwacji i napraw oraz usługi kurierskie w siedzibie głównej agencji Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na poskytnutie údržbárskych a kuriérskych služieb pre ústredie Frontexu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo za zagotavljanje tehničnih in kurirskih storitev na sedežu Frontexa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Creatchonradh chun seirbhísí oibre deaslámhaí agus teachtaire a sholáthar le haghaidh cheanncheathrú Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за предоставяне на услуги на работник по обслужване и куриер за седалището на Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varşovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru pentru prestarea de servicii diverse și de mesagerie la sediul central al Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor za pružanje usluga majstora za popravke i kurira za sjedište Frontexa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</AA_NAME>
+         <AA_NAME LG="DE">Europäische Agentur für die Grenze und Küstenwache - Frontex</AA_NAME>
+         <AA_NAME LG="EN">European Border and Coast Guard Agency - Frontex</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de la Guardia de Fronteras y Costas, Frontex</AA_NAME>
+         <AA_NAME LG="FI">Euroopan raja- ja merivartiovirasto – Frontex</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes - Frontex</AA_NAME>
+         <AA_NAME LG="EL">Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής - Frontex</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea della guardia di frontiera e costiera — Frontex</AA_NAME>
+         <AA_NAME LG="NL">Europees Grens- en kustwachtagentschap - Frontex</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia da Guarda de Fronteiras e Costeira - Frontex</AA_NAME>
+         <AA_NAME LG="SV">Europeiska gräns- och kustbevakningsbyrån - Frontex</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro pohraniční a pobřežní stráž - Frontex</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</AA_NAME>
+         <AA_NAME LG="HU">Európai Határ- és Partvédelmi Ügynökség – Frontex</AA_NAME>
+         <AA_NAME LG="LT">Europos sienų ir pakrančių apsaugos agentūra (FRONTEX)</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Robežu un krasta apsardzes aģentūra – Frontex</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta - Frontex</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Straży Granicznej i Przybrzeżnej - Frontex</AA_NAME>
+         <AA_NAME LG="SK">Európska agentúra pre pohraničnú a pobrežnú stráž - Frontex</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za mejno in obalno stražo – Frontex</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta - Frontex</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за гранична и брегова охрана — Frontex</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă - Frontex</AA_NAME>
+         <AA_NAME LG="HR">Agencija za europsku graničnu i obalnu stražu — Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af viceværts- og budtjenester til Frontex' hovedkvarter</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Enkelt rammekontrakt vedrørende levering af viceværtstjenester.</P>
+               <P>Rammekontrahenten skal regelmæssigt stille 3 personer til rådighed, hvis opgaver skal organiseres og koordineres på den mest effektive måde og garantere rettidige resultater:</P>
+               <P>— vicevært, der skal udføre mindre reparations- og vedligeholdelsesarbejder — primær vicevært</P>
+               <P>— vicevært, der skal yde støtte i forbindelse med konferencelokaler og arrangementer og udføre av-tjenester — av-vicevært</P>
+               <P>— vicevært, der skal udføre kurertjenester mellem etagerne og 2 tilstødende bygninger — postbud.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex' lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se punkt II.1.4 ovenfor.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af viceværts- og budtjenester til Frontex' hovedkvarter</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsortium af Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. med Oktagon Polska Paweł Toffel som leder</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter meddelelse til klageren eller, i mangel heraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Agentur für die Grenze und Küstenwache - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag über Hilfs- und Botendienste für den Hauptsitz von Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Einzelrahmenvertrag für die Bereitstellung von Hilfsdiensten.</P>
+               <P>Der Auftragnehmer des Rahmenvertrags soll auf regelmäßiger Basis 3 Einzelpersonen bereitstellen, deren Aufgaben mit höchster Effizienz zu organisieren und zu koordinieren sind, sodass eine fristgemäße Leistungserbringung gewährleistet wird:</P>
+               <P>— Hilfskraft für die Durchführung kleinerer Reparatur- und Instandhaltungsarbeiten — Haupthilfskraft,</P>
+               <P>— Hilfskraft für den Support für Konferenzräume und Veranstaltungen sowie die Erbringung von audiovisuellen Diensten — Hilfskraft für audiovisuelle Dienste,</P>
+               <P>— Hilfskraft für die Erbringung von Kurierdiensten zwischen den Etagen und 2 angrenzenden Gebäuden — Postzusteller.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten von Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wie unter Ziffer II. 1.4) oben.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rahmenvertrag über Hilfs- und Botendienste für den Hauptsitz von Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsortium von Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. geleitet von Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Border and Coast Guard Agency - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract for the provision of handyman and messenger services for Frontex headquarters</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Single framework contract for the provision of handyman services.</P>
+               <P>The framework contractor is required to provide on regular basis 3 individuals, whose tasks shall be organised and coordinated in the most efficient way, guaranteeing timely results:</P>
+               <P>— handyman dedicated to perform minor repairs and maintenance works — main handyman,</P>
+               <P>— handyman dedicated to support conference rooms, events and provide AV services — AV handyman,</P>
+               <P>— handyman dedicated to perform courier services between floors and 2 adjacent buildings — mail carrier.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex premises, Warsaw, Poland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>As in point II.1.4 above.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Framework contract for the provision of handyman and messenger services for Frontex headquarters</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consortium of Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de la Guardia de Fronteras y Costas, Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco para la prestación de servicios de mantenimiento y mensajería para la sede de Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Contrato marco único para la prestación de servicios de mantenimiento.</P>
+               <P>El contratista marco debe proporcionar de manera regular 3 personas, cuyas tareas se organizarán y coordinarán con la máxima eficiencia, a fin de garantizar los resultados oportunos:</P>
+               <P>— empleado de mantenimiento encargado de realizar reparaciones menores y trabajos de mantenimiento (empleado de mantenimiento principal),</P>
+               <P>— empleado de mantenimiento encargado de mantener las salas de conferencias, prestar apoyo para la realización de eventos y prestar servicios audiovisuales (empleado de mantenimiento audiovisual),</P>
+               <P>— empleado de mantenimiento encargado de prestar servicios de mensajería entre las plantas y 2 edificios adyacentes (encargado del correo).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Las instalaciones de Frontex, Varsovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Como en el punto II.1.4) más arriba.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato marco para la prestación de servicios de mantenimiento y mensajería para la sede de Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consorcio de Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., liderado por Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan raja- ja merivartiovirasto – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Puitesopimus apumies- ja lähettipalvelujen toimittamisesta Frontexin päätoimipaikkaa varten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Yksittäinen puitesopimus apumiespalvelujen toimittamisesta.</P>
+               <P>Puitesopimuksen sopimusosapuolen on toimitettava säännöllisesti 3 seuraavaa henkilöä, joiden tehtävät on järjestettävä ja koordinoitava mahdollisimman tehokkaasti, sekä taattava oikea-aikaiset tulokset:</P>
+               <P>— pienten korjausten ja huoltotöiden suorittamiseen erikoistunut apumies – pääasiallinen apumies,</P>
+               <P>— kokoushuoneita ja tapahtumia koskevan tuen sekä audiovisuaalisten palvelujen toimittamiseen erikoistunut apumies – AV-apumies,</P>
+               <P>— kerrosten ja 2 läheisen rakennuksen välisten lähettipalvelujen suorittamiseen erikoistunut apumies – postinkuljettaja.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexin toimitilat, Varsova, Puola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>yllä olevan kohdan II.1.4 mukaisesti.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Puitesopimus apumies- ja lähettipalvelujen toimittamisesta Frontexin päätoimipaikkaa varten</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Oktagon Polska Paweł Toffelin, AndRee GROUP Andrzej Toffelin ja ADART S.C.:n muodostama konsortio, jota johtaa Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Muutosta on haettava 2 kuukauden kuluessa ilmoituksesta asianosaiselle tai, jos ilmoitus puuttuu, siitä päivästä, jona asia tuli hänen tietoonsa.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre pour la prestation de services d'homme à tout faire et de courrier au siège de Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Contrat-cadre unique portant sur la prestation de services de l'homme à tout faire.</P>
+               <P>Le contractant-cadre devra mettre à la disposition de Frontex, de manière régulière, 3 personnes dont les tâches seront organisées et coordonnées de la manière la plus efficace possible afin de garantir des résultats en temps voulu :</P>
+               <P>— un homme à tout faire destiné à la réalisation de petits travaux de réparation et de maintenance (homme à tout faire principal),</P>
+               <P>— un homme à tout faire pour apporter un soutien à la préparation de salles de conférence et d'événements et fournir des services dans le domaine de l'audiovisuel (homme à tout faire pour audiovisuel),</P>
+               <P>— un homme à tout faire pour transporter le courrier entre les différents étages et les 2 bâtiments adjacents (préposé au courrier).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locaux de Frontex, Varsovie, Pologne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Selon le point II.1.4 ci-dessus.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrat-cadre pour la prestation de services d'homme à tout faire et de courrier au siège de Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consortium constitué de Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. dirigé par Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών πολυτεχνίτη και διεκπεραίωσης αλληλογραφίας για την έδρα του Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ο Frontex θα συνάψει ενιαία σύμβαση-πλαίσιο για την παροχή υπηρεσιών πολυτεχνίτη.</P>
+               <P>Θα απαιτηθεί από τον ανάδοχο της σύμβασης-πλαίσιο να παρέχει σε τακτική βάση 3 άτομα, των οποίων τα καθήκοντα θα οργανώνονται και θα συντονίζονται με τον πιο αποτελεσματικό τρόπο, διασφαλίζοντας έγκαιρα αποτελέσματα:</P>
+               <P>— πολυτεχνίτης με αρμοδιότητα την εκτέλεση επισκευών ελάσσονος σημασίας και εργασιών συντήρησης — κύριος πολυτεχνίτης,</P>
+               <P>— πολυτεχνίτης με αρμοδιότητα την υποστήριξη αιθουσών συνεδρίων, εκδηλώσεων και την παροχή οπτικοακουστικών υπηρεσιών — τεχνίτης οπτικοακουστικών διατάξεων,</P>
+               <P>— πολυτεχνίτης με αρμοδιότητα την εκτέλεση υπηρεσιών μεταφοράς της αλληλογραφίας μεταξύ των ορόφων και των 2 παρακείμενων κτιρίων — μεταφορέας αλληλογραφίας.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Όπως στο σημείο ΙΙ.1.4 ανωτέρω.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών πολυτεχνίτη και διεκπεραίωσης αλληλογραφίας για την έδρα του Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Κοινοπραξία των εταιρειών Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. με επικεφαλής την Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από τη κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea della guardia di frontiera e costiera — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro per la prestazione di servizi di tuttofare e servizi di corriere per la sede centrale di Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex stipulerà un contratto quadro singolo per la prestazione di servizi di tuttofare.</P>
+               <P>Al contraente quadro verrà richiesto di fornire, su base regolare, 3 persone, i cui incarichi dovranno essere organizzati e coordinati nel modo più efficiente possibile, garantendo risultati puntuali:</P>
+               <P>— tuttofare incaricato di effettuare piccole riparazioni e lavori di manutenzione — tuttofare principale,</P>
+               <P>— tuttofare incaricato di fornire supporto per quanto riguarda le sale conferenze, gli eventi e prestare servizi audiovisivi — tuttofare per servizi audiovisivi,</P>
+               <P>— tuttofare incaricato di prestare servizi di corriere tra i piani e i 2 edifici adiacenti — addetto alla posta.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locali di Frontex, Varsavia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Come al punto II.1.4 sopra menzionato.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contratto quadro per la prestazione di servizi di tuttofare e servizi di corriere per la sede centrale di Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consorzio tra Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. guidato da Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Grens- en kustwachtagentschap - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor de verlening van klusjes- en koeriersdiensten aan het hoofdkantoor van Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Enkelvoudige raamovereenkomst voor de verlening van klusjesdiensten.</P>
+               <P>De raamcontractant moet op regelmatige basis 3 personen ter beschikking stellen, van wie de taken op de meest efficiënte wijze moeten worden georganiseerd en gecoördineerd teneinde tijdige resultaten te garanderen:</P>
+               <P>— klusjesman voor kleine reparaties en onderhoudswerkzaamheden –– hoofdklusjesman,</P>
+               <P>— klusjesman ter ondersteuning van de conferentiezalen, evenementen en voor de verlening van audiovisuele diensten –– audiovisuele klusjesman,</P>
+               <P>–– klusjesman voor koeriersdiensten tussen de verdiepingen en 2 aanpalende gebouwen –– koerier.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>kantoren van Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zoals vermeld in II.1.4) hiervoor.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Raamovereenkomst voor de verlening van klusjes- en koeriersdiensten aan het hoofdkantoor van Frontex.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consortium van Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel en ADART S.C. geleid door Oktagon Polska Paweł Toffel.</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia da Guarda de Fronteiras e Costeira - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro relativo à prestação de serviços de ofícios vários e de mensageiro na sede da Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Contrato-quadro único para a prestação de serviços de ofícios vários.</P>
+               <P>Será solicitado ao contratante do contrato-quadro a disponibilização regular de 3 indivíduos, cujas tarefas devem ser organizadas e coordenadas da forma mais eficiente possível, garantindo resultados atempados:</P>
+               <P>— um prestador de serviços de ofícios vários para realizar pequenas reparações e obras de manutenção — prestador de serviços de ofícios vários principal,</P>
+               <P>— prestador de serviços de ofícios vários para apoiar as salas de conferência, eventos e prestar serviços audiovisuais — prestador de serviços de ofícios vários no domínio audiovisual,</P>
+               <P>— prestador de serviços de ofícios vários para realizar serviços de correio por mensageiro entre pisos e 2 edifícios adjacentes — responsável pelo correio.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalações da Frontex, Varsóvia, Polónia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ver ponto II.1.4 acima.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato-quadro relativo à prestação de serviços de ofícios vários e de mensageiro na sede da Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consórcio da Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. liderado pela Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska gräns- och kustbevakningsbyrån - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av diverse tjänster och budtjänster för Frontex huvudkontor</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Enskilt ramavtal för tillhandahållande av diverse tjänster.</P>
+               <P>Uppdragstagaren ska inom ramen för ramavtalet, regelbundet tillhandahålla 3 personer, vars uppgifter ska organiseras och samordnas på effektivaste sätt, vilket ska garantera resultat i god tid, enligt följande:</P>
+               <P>— Alltiallo med uppgift att utföra mindre reparationer och underhållsarbeten – huvudsaklig alltiallo,</P>
+               <P>— Alltiallo med uppgift att ge stöd avseende konferensrum och evenemang och tillhandahålla audiovisuella (audiovisual – AV) tjänster – alltiallo för AV,</P>
+               <P>— Alltiallo med uppgift att utföra kurirtjänster mellan våningar och 2 angränsande byggnader – brevbärare.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Enligt punkt II.1.4 ovan.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av diverse tjänster och budtjänster för Frontex huvudkontor</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsortium av Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. ledd av Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då meddelandet delgavs käranden eller, i avsaknad av det, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro pohraniční a pobřežní stráž - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva na poskytnutí údržbářských a kurýrských služeb pro ústředí agentury Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Samostatná rámcová smlouva na poskytnutí údržbářských služeb.</P>
+               <P>Od rámcového poskytovatele služeb se požaduje, aby pravidelně poskytl 3 osoby, jejichž úkoly budou organizovány a koordinovány co nejefektivnějším způsobem, aby se zaručily výsledky včas:</P>
+               <P>— údržbář pověřený prováděním menších oprav a údržbářských prací – hlavní údržbář,</P>
+               <P>— údržbář pověřený podporou konferenčních místností, akcí a zajišťováním audiovizuálních služeb – údržbář pro audiovizuální služby,</P>
+               <P>— údržbář pověřený prováděním kurýrních služeb mezi poschodími a 2 přilehlými budovami – poštovní kurýr.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostory Frontex, Varšava, Polsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Viz bod II.1.4 výše.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová smlouva na poskytnutí údržbářských a kurýrských služeb pro ústředí agentury Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsorcium sestávající z Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., vedené společností Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Frontexi peakorterile pisitööde ja kullerteenuste osutamise raamleping</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Üks raamleping pisitööde teenuste osutamiseks.</P>
+               <P>Raamlepingu töövõtjalt nõutakse regulaarselt kolme isiku Frontexi käsutusse andmist, isikute ülesanded korraldatakse ja koordineeritakse tõhusaimal viisil, tagades õigeaegsed tulemused:</P>
+               <P>– meistrimees, kelle ülesandeks on teha väiksemaid parandus- ja hooldustöid – peamine meistrimees;</P>
+               <P>– meistrimees, kelle ülesandeks on olla abiks konverentsiruumides ja üritustel ning osutada audiovisuaalteenuseid – meistrimees audivisuaalses vallas;</P>
+               <P>– meistrimees, kelle ülesandeks on osutada kulleriteenuseid korruste ja 2 naaberhoone vahel – postivedaja.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexi hoone, Varssavi, Poola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nagu punktis II.1.4 ülalpool.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Frontexi peakorterile pisitööde ja kullerteenuste osutamise raamleping</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsortsium, mille liikmed on järgmised äriühingud: Oktagon Polska Paweł Toffel (konsortsiumi juht), AndRee GROUP Andrzej Toffel, ADART S.C.</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest, või kui teavitamist ei toimu, päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Határ- és Partvédelmi Ügynökség – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Keretszerződés ezermester- és futárszolgáltatások teljesítésére a Frontex székhelyén</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Egyetlen keretszerződés ezermester-szolgáltatások teljesítésére.</P>
+               <P>A keretszerződést elnyert ajánlattevőt (szerződő felet) arra kérik fel, hogy rendszeresen biztosítsa 3 személy rendelkezésre állását, akiknek feladatait a leghatékonyabb módon és időszerű eredményeket biztosító módon fogják megszervezni és koordinálni:</P>
+               <P>— kisebb javítások és karbantartási munkák teljesítésére kijelölt ezermester – fő ezermester,</P>
+               <P>— konferenciatermek és rendezvények támogatására, valamint audiovizuális szolgáltatások teljesítésére kijelölt ezermester – audiovizuális ezermester,</P>
+               <P>— a különböző szintek és 2 szomszédos épület között futárszolgáltatások teljesítésére kijelölt ezermester – levélkézbesítő.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>A Frontex telephelye, Varsó, Lengyelország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A fenti II.1.4. pont szerint.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Keretszerződés ezermester- és futárszolgáltatások teljesítésére a Frontex székhelyén</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konzorcium a következők részvételével: Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. és Oktagon Polska Paweł Toffel (mint vezető)</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos sienų ir pakrančių apsaugos agentūra (FRONTEX)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl meistro ir kurjerio paslaugų FRONTEX būstinėje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Atskira preliminarioji sutartis dėl meistro paslaugų teikimo.</P>
+               <P>Preliminariosios sutarties rangovo prašoma reguliariai parūpinti 3 asmenis, kurių užduotys bus organizuojamos ir koordinuojamos ekonomiškiausiu būdu, užtikrinant rezultatus reikiamu laiku:</P>
+               <P>— meistrą, kuris vykdys smulkius remonto ir priežiūros darbus, – pagrindinis meistras,</P>
+               <P>— meistrą, kuris padės konferencijų salėse, per renginius ir teiks audiovizualines (audiovisual – AV) paslaugas, – AV meistras,</P>
+               <P>— meistrą, kuris atliks kurjerio paslaugas tarp aukštų ir 2 gretimų pastatų, – pašto kurjeris.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>FRONTEX patalpos, Varšuva, Lenkija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nurodyta II.1.4 dalyje.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl meistro ir kurjerio paslaugų FRONTEX būstinėje</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consortium of Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei nepranešama, nuo dienos, kai apie tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Robežu un krasta apsardzes aģentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums par palīgstrādnieka un kurjera pakalpojumu sniegšanu Frontex galvenajai mītnei</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>1 pamatnolīgums par palīgstrādnieka pakalpojumu sniegšanu.</P>
+               <P>Pamatnolīguma darbuzņēmējam ir regulāri jānodrošina šādi 3 cilvēki, kuru uzdevumi jāorganizē un jākoordinē visefektīvākajā veidā, garantējot savlaicīgu rezultātu sasniegšanu:</P>
+               <P>— palīgstrādnieks, kas paredzēts nelielu remontdarbu un uzturēšanas darbu veikšanai – galvenais palīgstrādnieks,</P>
+               <P>— palīgstrādnieks, kas paredzēts konferenču telpu, pasākumu atbalstīšanai un audiovizuālo (AV) pakalpojumu sniegšanai – AV palīgstrādnieks,</P>
+               <P>— palīgstrādnieks, kas paredzēts kurjera pakalpojumu sniegšanai starp stāviem un 2 blakus esošajām ēkām – pastnieks.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex telpas, Varšava, Polija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Saskaņā ar II.1.4. punktu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Pamatnolīgums par palīgstrādnieka un kurjera pakalpojumu sniegšanu Frontex galvenajai mītnei</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsorcijs, ko veido Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. un ko vada Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' servizzi ta' persuna li tagħmel tiswijiet żgħar u ta' messaġġier għall-kwartieri ġenerali tal-Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Qafas ta' kuntratt uniku għall-provvista ta' servizzi ta' persuna li tagħmel tiswijiet żgħar.</P>
+               <P>Il-qafas ta' kuntrattur se jkun meħtieġ jipprovdi fuq bażi regolari 3 individwi, li x-xogħlijiet tagħhom se jkun organizzat u kkoordinat bl-iżjed mod effiċjenti, li jiggarantixxi riżultati fil-ħin:</P>
+               <P>— persuna li tagħmel tiswijiet żgħar iddedikata biex twettaq xogħlijiet żgħar ta' tiswijiet u manutenzjoni — il-persuna ewlenija li tagħmel tiswijiet żgħar,</P>
+               <P>— persuna li tagħmel tiswijiet żgħar iddedikata biex tappoġġja l-kmamar tal-konferenzi, l-avvenimenti u tipprovdi servizzi awdjoviżivi (AV) — persuna li tagħmel tiswijiet żgħar awdjoviżivi (AV),</P>
+               <P>— persuna li tagħmel tiswijiet żgħar iddedikata biex twettaq servizzi ta' kurrier bejn is-sulari u 2 binjiet li jmissu ma' xulxin — kurrier tal-posta.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-Frontex, Warsaw, il-Polonja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L-istess bħal fil-punt II.1.4) hawn fuq.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' servizzi ta' persuna li tagħmel tiswijiet żgħar u ta' messaġġier għall-kwartieri ġenerali tal-Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsorzju ta' Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. immexxi minn Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż li jintbagħat lil min qiegħed iressaq l-appell, jew, fin-nuqqas ta' dan, mill-jum li fih sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Straży Granicznej i Przybrzeżnej - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o usługi konserwacji i napraw oraz usługi kurierskie w siedzibie głównej agencji Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pojedyncza umowa ramowa o świadczenie usług konserwacji i napraw.</P>
+               <P>Ramowy wykonawca będzie zapewniał w sposób regularny 3 pracowników, których zadania zostaną sprawnie zorganizowane i skoordynowane, aby zapewnić terminowość obsługi:</P>
+               <P>– technika do wykonywania drobnych napraw i konserwacji – główny technik,</P>
+               <P>– technika do obsługi sal konferencyjnych, wydarzeń oraz świadczenia usług audiowizualnych – technik audiowizualny,</P>
+               <P>– osobę świadczącą usługi kurierskie między piętrami oraz między 2 sąsiadującymi ze sobą budynkami – goniec.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>siedziba Fronteksu, Warszawa, Polska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>jak w pkt II.1.4. powyżej.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Umowa ramowa o usługi konserwacji i napraw oraz usługi kurierskie w siedzibie głównej agencji Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konsorcjum w składzie: Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., którego liderem jest Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>W ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska agentúra pre pohraničnú a pobrežnú stráž - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na poskytnutie údržbárskych a kuriérskych služieb pre ústredie Frontexu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Samostatná rámcová zmluva na poskytnutie údržbárskych služieb.</P>
+               <P>Od rámcového dodávateľa sa požaduje, aby zabezpečil pravidelne 3 osoby, ktorých úlohy budú organizované a koordinované čo najefektívnejším spôsobom, pričom sa zaručia včasné výsledky:</P>
+               <P>— údržbár poverený vykonávaním menších opráv a údržbárskych prác – hlavný údržbár,</P>
+               <P>— údržbár poverený podporou konferenčných miestností, podujatí a zabezpečovaním audiovizuálnych služieb – údržbár pre audiovizuálne zariadenia,</P>
+               <P>— údržbár poverený vykonávaním kuriérskych služieb medzi poschodiami a 2 susednými budovami – poštový kuriér.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>priestory agentúry Frontex, Varšava, Poľsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ako v bode II.1.4) vyššie.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová zmluva na poskytnutie údržbárskych a kuriérskych služieb pre ústredie Frontexu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konzorcium zložené z: Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., vedúcim členom konzorcia je Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za mejno in obalno stražo – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo za zagotavljanje tehničnih in kurirskih storitev na sedežu Frontexa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>1 okvirno naročilo za zagotavljanje tehničnih storitev.</P>
+               <P>Okvirni izvajalec mora redno zagotavljati 3 osebe, katerih naloge morajo biti čim učinkoviteje organizirane in usklajene, da se rezultati zagotavljajo pravočasno:</P>
+               <P>— tehnik za izvedbo manjših popravil in vzdrževalnih del – glavni tehnik,</P>
+               <P>— tehnik, ki bo zagotavljal podporo v konferenčnih sobah in na dogodkih ter zagotavljal avdiovizualne (AV) storitve – tehnik AV,</P>
+               <P>— tehnik za izvedbo kurirskih storitev med etažami in 2 sosednjima stavbama – poštni kurir.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>V skladu s točko II.1.4. zgoraj.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirno naročilo za zagotavljanje tehničnih in kurirskih storitev na sedežu Frontexa</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Konzorcij Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., ki ga vodi Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Creatchonradh chun seirbhísí oibre deaslámhaí agus teachtaire a sholáthar le haghaidh cheanncheathrú Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Creatchonradh aonair le haghaidh seirbhísí feighlí a sholáthar.</P>
+               <P>Ní foláir don chreatchonraitheoir 3 daoine a sholáthar ar bhonn rialta, a mbeidh a gcuid tascanna eagraithe agus comhordaithe ar an mbealach is éifeachtúla, agus torthaí tráthúla á ráthú:</P>
+               <P>— feighlí saincheaptha le haghaidh deisiúcháin bheaga agus oibreacha cothabhála — príomhfheighlí,</P>
+               <P>— feighlí saincheaptha chun tacaíocht a sholáthar do sheomraí comhdhála, imeachtaí agus chun seirbhísí closamhairc a sholáthar — feighlí closamhairc,</P>
+               <P>— feighlí saincheaptha le haghaidh seirbhísí cúiréireachta a chur chun feidhme idir urláir agus idir 2 fhoirgneamh chóngaracha — iompróir poist.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Áitreabh Frontex, Vársá, an Pholainn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Amhail Pointe II.1.4 thuas.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Creatchonradh chun seirbhísí oibre deaslámhaí agus teachtaire a sholáthar le haghaidh cheanncheathrú Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Cuibhreannas Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. faoi cheannaireacht Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за гранична и брегова охрана — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за предоставяне на услуги на работник по обслужване и куриер за седалището на Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Рамков договор с един изпълнител за предоставяне на услуги на работник по обслужване.</P>
+               <P>От изпълнителя на рамковия договор се изисква да предоставя редовно 3 лица, чиито задачи ще бъдат организирани и координирани по най-ефикасния начин, за да се гарантират навременни резултати:</P>
+               <P>— работник по обслужване, ангажиран с извършването на дребни ремонти и работи по поддръжката – основен работник по обслужване,</P>
+               <P>— работник по обслужване, ангажиран с поддръжка на конферентни зали, подпомагане на събития и предоставяне на аудио-видео услуги – работник по аудио-видео обслужване,</P>
+               <P>— работник по обслужване, ангажиран с куриерски услуги между етажите и 2-те съседни сгради – пощальон.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Помещения на Frontex, Варшава, Полша.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Като в точка II.1.4 по-горе.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Рамков договор за предоставяне на услуги на работник по обслужване и куриер за седалището на Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Консорциум на Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C., ръководен от Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на два месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă - Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru pentru prestarea de servicii diverse și de mesagerie la sediul central al Frontex</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Un singur contract-cadru pentru prestare de servicii diverse.</P>
+               <P>I se solicită contractantului să pună la dispoziție în mod regulat 3 persoane, ale căror sarcini vor fi organizate și coordonate în modul cel mai eficient, astfel încât să se garanteze rezultate în timp util:</P>
+               <P>— specialist dedicat care să execute reparații minore și lucrări de întreținere – specialist principal,</P>
+               <P>— specialist dedicat care să ofere asistență pentru săli de conferințe, evenimente și să furnizeze servicii în domeniul audiovizual – specialist în domeniul audiovizual,</P>
+               <P>— specialist dedicat care să execute servicii de curierat între etaje și 2 clădiri adiacente – curier de corespondență.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Sediul Frontex, Varșovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ca și în punctul II.1.4) de mai sus.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contract-cadru pentru prestarea de servicii diverse și de mesagerie la sediul central al Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consorțiu Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. condusă de Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencija za europsku graničnu i obalnu stražu — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor za pružanje usluga majstora za popravke i kurira za sjedište Frontexa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/775/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50800000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Jedinstveni okvirni ugovor za pružanje usluga majstora za popravke.</P>
+               <P>Okvirni ugovaratelj dužan je staviti na raspolaganje na redovnoj osnovi 3 osobe, čiji će zadaci biti organizirani i koordinirani na najučinkovitiji način, jamčeći pravovremene rezultate:</P>
+               <P>— majstor za popravke koji će provoditi manje popravke i radove održavanja — glavni majstor za popravke,</P>
+               <P>— majstor za popravke koji će pružati podršku za konferencijske dvorane i događanja te koji će pružati audiovizualne usluge — majstor za audiovizualne popravke,</P>
+               <P>— majstor za popravke koji će provoditi kurirske usluge između katova i 2 susjedne zgrade — nosač pošte.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kao u prethodnoj točki II.1.4.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 200-410759</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/775/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirni ugovor za pružanje usluga majstora za popravke i kurira za sjedište Frontexa</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Consortium of Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel</OFFICIALNAME>
+                     <TOWN>Walendów</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL9"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">550000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">400000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-31</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

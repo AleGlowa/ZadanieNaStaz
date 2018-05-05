@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="117085-2018"
+            EDITION="2018053">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-118882-001</RECEPTION_ID>
+      <DELETION_DATE>20180622</DELETION_DATE>
+      <FORM_LG_LIST>FR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>53</NO_OJ>
+         <DATE_PUB>20180316</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 053-117085</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:117085-2018:TEXT:FR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <ISO_COUNTRY VALUE="FR"/>
+         <IA_URL_GENERAL>http://www.ville-saintesuzanne.re</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="15000000">Food, beverages, tobacco and related products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221000">Vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15872000">Herbs and spices</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221120">Tuber vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222112">Pineapples</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222113">Mangoes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222111">Bananas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03220000">Vegetables, fruits and nuts</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222200">Citrus fruit</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222250">Limes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332100">Processed fruit</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15131400">Pork products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15131500">Poultry products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15113000">Pork</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15112100">Fresh poultry</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15500000">Dairy products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15511000">Milk</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15551000">Yoghurt and other fermented milk products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15540000">Cheese products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03142500">Eggs</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15870000">Condiments and seasonings</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15850000">Pasta products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15312100">Instant mashed potatoes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15625000">Semolina</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15813000">Morning goods</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332290">Jams</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331460">Canned vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15235000">Preserved fish</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331400">Preserved and/or canned vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15894300">Prepared dishes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15833100">Desserts</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03211300">Rice</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15411100">Vegetable oils</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811000">Bread products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811511">Prepared sandwiches</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15810000">Bread products, fresh pastry goods and cakes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15812200">Cakes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15800000">Miscellaneous food products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15981000">Mineral water</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15321000">Fruit juices</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15981200">Sparkling mineral water</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15982100">Fruit squashes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15931200">Table wine</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222000">Fruit and nuts</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15119000">Various meats</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15221000">Frozen fish</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331170">Frozen vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332410">Dried fruit</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03110000">Crops, products of market gardening and horticulture</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="39222100">Disposable catering supplies</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="18937100">Goods-packing bags</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="FRY40">La Réunion</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="FRY40">La Réunion</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="FRY4">La Réunion</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="FRY40">La Réunion</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">2614600.80</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 146-301285</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180314</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01B03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Фpaнция</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Хранителни продукти, напитки, тютюн и свързани с него продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Francie</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Potraviny, nápoje, tabák a související produkty</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Frankrig</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Fødevarer, drikkevarer, tobak og beslægtede produkter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Frankreich</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Nahrungsmittel, Getränke, Tabak und zugehörige Erzeugnisse</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Γαλλία</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Τρόφιμα, ποτά, καπνός και συναφή προϊόντα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>France</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Food, beverages, tobacco and related products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Francia</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Alimentos, bebidas, tabaco y productos afines</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Prantsusmaa</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Toiduained, joogid ja tubakas ja seonduvad tooted</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Ranska</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Elintarvikkeet, juomat, tupakka ja vastaavat tuotteet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>France</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Produits alimentaires, boissons, tabac et produits connexes</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Fhrainc, an</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Food, beverages, tobacco and related products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Francuska</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Hrana, piće, duhan i srodni proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Franciaország</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Élelmiszerek, italok, dohány és kapcsolódó termékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Francia</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti alimentari, bevande, tabacco e prodotti affini</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Prancūzija</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Maistas, gėrimai, tabakas ir susiję produktai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Francija</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Pārtikas produkti, dzērieni, tabaka un saistītā produkcija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>Franza</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Ikel, xorb, tabakk u prodotti relatati</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Frankrijk</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Voeding, dranken, tabak en aanverwante producten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Francja</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Żywność, napoje, tytoń i produkty pokrewne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>França</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Produtos alimentares, bebidas, tabaco e produtos afins</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Franţa</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Alimente, băuturi, tutun şi produse conexe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Francúzsko</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Potraviny, nápoje, tabak a príbuzné produkty</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Francija</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Živila, pijače, tobačni izdelki in z njimi povezani izdelki</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Frankrike</TI_CY>
+            <TI_TOWN>Sainte-Suzanne</TI_TOWN>
+            <TI_TEXT>
+               <P>Livsmedel, drycker, tobak o d</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="FR">Commune de Ste Suzanne</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commune de Ste Suzanne</OFFICIALNAME>
+               <NATIONALID>21974020600012</NATIONALID>
+               <ADDRESS>BP 511 — 3 rue du général de Gaulle</ADDRESS>
+               <TOWN>Sainte-Suzanne</TOWN>
+               <POSTAL_CODE>97441</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <CONTACT_POINT>Service commande publique</CONTACT_POINT>
+               <PHONE>+262 262523002</PHONE>
+               <E_MAIL>marchepublic@ville-saintesuzanne.re</E_MAIL>
+               <FAX>+262 262521413</FAX>
+               <n2016:NUTS CODE="FRY40"/>
+               <URL_GENERAL>http://www.ville-saintesuzanne.re</URL_GENERAL>
+               <URL_BUYER>https://ville-saintesuzanne.achatpublic.com</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture de denrées alimentaires, de vaisselle à usage unique et de sacs alimentaires pour la restauration municipale — années 2017/ 2019</P>
+            </TITLE>
+            <REFERENCE_NUMBER>171007</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="15000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>La consultation a pour objet la fourniture de denrées alimentaires, de vaisselle à usage unique et de sacs alimentaires pour la restauration municipale de Sainte-Suzanne — années 2017 / 2019.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2614600.80</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Legumes frais</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de carotte, chou blanc, laitue, et autres légumes frais.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Aromates frais</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15872000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de gingembre, petite tomate, thym et autres aromates frais.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Legumes frais 4ème GAMME</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de chouchou cube, de citrouille cube et autres légumes frais.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Legumes tubercules</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221120"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de pomme de terre, de patate douce et autres légumes tubercules.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Fruit frais no1</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222112"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'ananas (moyen).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Fruit frais no2</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222113"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de mangue (moyenne).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Fruit frais no3</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222111"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de grosse banane.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Fruit frais no4</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03220000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de pastèque (moyenne).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Fruit frais no5</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222200"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de mandarine.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Fruit frais no6</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222200"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de clémentine.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Fruit frais no7</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222250"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de citron vert.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Fruits frais en coupelle individuelle</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332100"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de coupelle de fruits frais.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>Legumes et epices frais importation</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de carotte, d'ail, d'oignon sec.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>Charcuterie de porc cuite</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15131400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'épaule cuite, de mortadelle, de saucisson à l'ail et de pâté de campagne.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="15">
+               <TITLE>
+                  <P>Charcuterie de volaille</P>
+               </TITLE>
+               <LOT_NO>15</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15131500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de galantine, de mortadelle, de saucisse, de merguez.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="16">
+               <TITLE>
+                  <P>Charcuterie de porc cru</P>
+               </TITLE>
+               <LOT_NO>16</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15131400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de saucisse, de boucané maigre.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="17">
+               <TITLE>
+                  <P>Viande de porc fraiche</P>
+               </TITLE>
+               <LOT_NO>17</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15113000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA04"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de porc frais DDD cube, de côte de porc, de rôti de porc.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="18">
+               <TITLE>
+                  <P>Viande de volaille fraiche no1</P>
+               </TITLE>
+               <LOT_NO>18</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15112100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de pintade, de baby dinde, de rôti de dindonneau, de canard.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="19">
+               <TITLE>
+                  <P>Viande de volaille fraiche no2</P>
+               </TITLE>
+               <LOT_NO>19</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15112100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de poulet découpé, de poulet fumé découpé.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="20">
+               <TITLE>
+                  <P>Fromages et derives</P>
+               </TITLE>
+               <LOT_NO>20</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de beurre, fromage râpé et autres fromages et dérivés.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="21">
+               <TITLE>
+                  <P>Laitage</P>
+               </TITLE>
+               <LOT_NO>21</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15511000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de lait en brique.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="22">
+               <TITLE>
+                  <P>Produits lactes no1</P>
+               </TITLE>
+               <LOT_NO>22</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15551000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de flan, yaourt aromatisé, yaourt aux fruits, crème dessert, yaourt nature sucré.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="23">
+               <TITLE>
+                  <P>Produits lactes no2</P>
+               </TITLE>
+               <LOT_NO>23</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15540000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de fromage blanc sucré.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="24">
+               <TITLE>
+                  <P>Ovoproduits</P>
+               </TITLE>
+               <LOT_NO>24</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03142500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'Œuf dur écale, d'Œuf entier liquide pasteurisé.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="25">
+               <TITLE>
+                  <P>Epices et aromates no1</P>
+               </TITLE>
+               <LOT_NO>25</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15870000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de poudre de manioc, vei tsin, poivre grain et autres épices et aromates.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="26">
+               <TITLE>
+                  <P>Epices et aromates no2</P>
+               </TITLE>
+               <LOT_NO>26</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15870000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de curcuma en poudre.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="27">
+               <TITLE>
+                  <P>Feculents</P>
+               </TITLE>
+               <LOT_NO>27</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15850000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15625000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de pâte alimentaire, purée de pomme de terre au lait déshydratée, semoule de blé dur.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="28">
+               <TITLE>
+                  <P>Petit dejeuner</P>
+               </TITLE>
+               <LOT_NO>28</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15813000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de café moulu, sucre roux, miel, pate de chocolat à tartiner, confiture, lait concentré sucré.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="29">
+               <TITLE>
+                  <P>Confiture coupelle individuelle</P>
+               </TITLE>
+               <LOT_NO>29</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332290"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de confiture en coupelle individuelle.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="30">
+               <TITLE>
+                  <P>Condiments</P>
+               </TITLE>
+               <LOT_NO>30</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15870000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de vinaigre d'alcool blanc, gros sel, sel fin, sauce de soja, sauce d'huître.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="31">
+               <TITLE>
+                  <P>Fruits au sirop</P>
+               </TITLE>
+               <LOT_NO>31</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de coupelle de fruits sans sucre ajouté, coupelle compote de fruits sans sucre ajouté.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="32">
+               <TITLE>
+                  <P>Boitage grand modele no1</P>
+               </TITLE>
+               <LOT_NO>32</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331460"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de haricot vert 5/1, maïs en grains 3/1, betteraves en dés 5/1, petits pois et d'autres boitage grand modèle.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="33">
+               <TITLE>
+                  <P>Conserve petit modele</P>
+               </TITLE>
+               <LOT_NO>33</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15235000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de thon au naturel, sardine à l'huile, thon à l'huile.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="34">
+               <TITLE>
+                  <P>Boitage grand modele no2</P>
+               </TITLE>
+               <LOT_NO>34</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de haricots cocos roses 5/1, haricots blancs 5/1, pois 5/1, haricots rouges 5/1, lentilles 5/1.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="35">
+               <TITLE>
+                  <P>Plats cuisines et divers</P>
+               </TITLE>
+               <LOT_NO>35</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15894300"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de pâte d'arachide 4/4, cassoulet pur porc 5/1, fricassée de volaille (100 % volaille) 5/1 et autres denrées alimentaires.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="36">
+               <TITLE>
+                  <P>Desserts</P>
+               </TITLE>
+               <LOT_NO>36</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15833100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de génoise préemballée, biscuits préemballés, barre céréale, barre chocolatée.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="37">
+               <TITLE>
+                  <P>Legumes secs</P>
+               </TITLE>
+               <LOT_NO>37</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA11"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de haricots cocos roses, haricots blancs, pois de cap, haricots rouges, lentilles grises.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="38">
+               <TITLE>
+                  <P>Cereale</P>
+               </TITLE>
+               <LOT_NO>38</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03211300"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de riz basmati et de riz de luxe.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="39">
+               <TITLE>
+                  <P>Produits oleagineux</P>
+               </TITLE>
+               <LOT_NO>39</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15411100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'huile combinée 4 graines pour friture et assaisonnement.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="40">
+               <TITLE>
+                  <P>Boulangerie</P>
+               </TITLE>
+               <LOT_NO>40</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de petit pain et de baguette.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="41">
+               <TITLE>
+                  <P>Sandwich</P>
+               </TITLE>
+               <LOT_NO>41</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811511"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de sandwich élaboré préemballé.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="42">
+               <TITLE>
+                  <P>Viennoiserie et patisserie</P>
+               </TITLE>
+               <LOT_NO>42</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15810000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de mini croissant au beurre, mini brioche au beurre et autres viennoiseries et pâtisseries.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="43">
+               <TITLE>
+                  <P>Patisserie sucree individuelle</P>
+               </TITLE>
+               <LOT_NO>43</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15812200"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de gâteau individuel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="44">
+               <TITLE>
+                  <P>Amuse bouche surgele</P>
+               </TITLE>
+               <LOT_NO>44</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15800000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="HA29"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de samoussas, bonbons piments, nems.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="45">
+               <TITLE>
+                  <P>Eau minerale</P>
+               </TITLE>
+               <LOT_NO>45</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15981000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'eau de source 1.5 L et 0.50 L.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="46">
+               <TITLE>
+                  <P>Jus de fruits, eau gazeuse et sodas</P>
+               </TITLE>
+               <LOT_NO>46</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15321000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15981200"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de jus de fruits variées, d'eau gazeuse et de sodas variées.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="47">
+               <TITLE>
+                  <P>Sirops</P>
+               </TITLE>
+               <LOT_NO>47</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15982100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de sirops variés.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="48">
+               <TITLE>
+                  <P>Vin</P>
+               </TITLE>
+               <LOT_NO>48</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15931200"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de vin rouge et de vin blanc de table pour civet non consigné.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="49">
+               <TITLE>
+                  <P>Fruits D'Importation</P>
+               </TITLE>
+               <LOT_NO>49</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de nectarine, kiwi, raisin et autres fruits.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="50">
+               <TITLE>
+                  <P>Preparations culinaires surgelees</P>
+               </TITLE>
+               <LOT_NO>50</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15894300"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de brochette de dinde, escalope de poulet pané, cordon bleu et autres préparations culinaires congelées.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="51">
+               <TITLE>
+                  <P>Viandes diverses surgelees</P>
+               </TITLE>
+               <LOT_NO>51</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15119000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="BA24"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'escalope de poulet, haut de cuisse de poulet et autres viandes surgelés.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="52">
+               <TITLE>
+                  <P>Poissons surgeles</P>
+               </TITLE>
+               <LOT_NO>52</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15221000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture d'escalope de thon, dorade cube, espadon cube et escalope, marlin cube et escalope.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="53">
+               <TITLE>
+                  <P>Legumes surgeles no1</P>
+               </TITLE>
+               <LOT_NO>53</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331170"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de légumes shop suey, légumes couscous, haricot vert très fin, macédoine de légumes.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="54">
+               <TITLE>
+                  <P>Legumes surgeles no2</P>
+               </TITLE>
+               <LOT_NO>54</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331170"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de jacques battus et de mangues vertes battues surgelés.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="55">
+               <TITLE>
+                  <P>Fruits secs</P>
+               </TITLE>
+               <LOT_NO>55</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332410"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de raisin, d'abricot, de datte et de pruneau.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="56">
+               <TITLE>
+                  <P>Preparation culinaire a base de soja issu de L'Agriculture BIOLOGIQUE</P>
+               </TITLE>
+               <LOT_NO>56</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03110000"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="CA62"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de saucisse de tofu nature, de steak de tofu nature et de cube de tofu nature.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="57">
+               <TITLE>
+                  <P>Vaisselle a usage unique</P>
+               </TITLE>
+               <LOT_NO>57</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="39222100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de nappe papier blanche et couleur, assiette cartonnée petit et grand modèle, assiette plastique grand et petit modèle et vaisselle à usage unique.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="58">
+               <TITLE>
+                  <P>Sachet alimentaire</P>
+               </TITLE>
+               <LOT_NO>58</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18937100"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="UA01"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="FRY40"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de sac alimentaire supportant 40 KG en polyéthylène transparent et de sachet alimentaire.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 146-301285</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Légumes frais</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY4"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">51417.50</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Aromates frais</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">18155</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="3">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>3</LOT_NO>
+            <TITLE>
+               <P>Légumes frais: 4<FT TYPE="SUP">ème</FT> gamme</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Tropilegumes</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">35500</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="4">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>4</LOT_NO>
+            <TITLE>
+               <P>Légumes tubercules</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">3558</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="5">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>5</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">10000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="6">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>6</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Réunion fruits et légumes SARL</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">10000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="7">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>7</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 3</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">9600</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="8">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>8</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 4</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>La corbeille à fruits SARL</OFFICIALNAME>
+                     <TOWN>Saint-Paul</TOWN>
+                     <POSTAL_CODE>97460</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">19600</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="9">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>9</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 5</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Réunion fruits et legumes SARL</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">6000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="10">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>10</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 6</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4800</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="11">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>11</LOT_NO>
+            <TITLE>
+               <P>Fruit frais nº 7</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>LM SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">780</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="12">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>12</LOT_NO>
+            <TITLE>
+               <P>Fruits frais en coupelle individuelle</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Royal bourbon industries</OFFICIALNAME>
+                     <TOWN>Bras-Panon</TOWN>
+                     <POSTAL_CODE>97412</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">48000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="13">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>13</LOT_NO>
+            <TITLE>
+               <P>Légumes et épices frais importation</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>La corbeille à fruits SARL</OFFICIALNAME>
+                     <TOWN>Saint-Paul</TOWN>
+                     <POSTAL_CODE>97460</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">26700</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="14">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>14</LOT_NO>
+            <TITLE>
+               <P>Charcuterie de porc cuite</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Les salaisons de Bourbon</OFFICIALNAME>
+                     <TOWN>Saint-Pierre Cedex</TOWN>
+                     <POSTAL_CODE>97453</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">23127</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="15">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>15</LOT_NO>
+            <TITLE>
+               <P>Charcuterie de volaille</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Mak yuen industries SARL</OFFICIALNAME>
+                     <TOWN>Le Tampon</TOWN>
+                     <POSTAL_CODE>97430</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">66076</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="16">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>16</LOT_NO>
+            <TITLE>
+               <P>Charcuterie de porc cru</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Mak yuen industries SARL</OFFICIALNAME>
+                     <TOWN>Le Tampon</TOWN>
+                     <POSTAL_CODE>97430</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">90000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="17">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>17</LOT_NO>
+            <TITLE>
+               <P>Viande de porc fraîche</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-18</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Porcidis SARL</OFFICIALNAME>
+                     <TOWN>Saint-André</TOWN>
+                     <POSTAL_CODE>97440</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">126500</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="18">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>18</LOT_NO>
+            <TITLE>
+               <P>Viande de volaille fraîche nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Evollys commercialisation</OFFICIALNAME>
+                     <TOWN>Étang-Salé</TOWN>
+                     <POSTAL_CODE>97427</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">142000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="19">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>19</LOT_NO>
+            <TITLE>
+               <P>Viande de volaille fraîche nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-24</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abattoir duchemann et grondin SARL</OFFICIALNAME>
+                     <TOWN>Saint-Joseph</TOWN>
+                     <POSTAL_CODE>97480</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">102167</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="20">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>20</LOT_NO>
+            <TITLE>
+               <P>Fromages et dérivés</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">137062</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="21">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>21</LOT_NO>
+            <TITLE>
+               <P>Laitage</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Cilam L&amp;J</OFFICIALNAME>
+                     <TOWN>Saint-Denis</TOWN>
+                     <POSTAL_CODE>97400</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">19220</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="22">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>22</LOT_NO>
+            <TITLE>
+               <P>Produits lactés nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Cilam PLF</OFFICIALNAME>
+                     <TOWN>Saint-Denis</TOWN>
+                     <POSTAL_CODE>97400</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">121000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="23">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>23</LOT_NO>
+            <TITLE>
+               <P>Produits lactés nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Cilam PLF</OFFICIALNAME>
+                     <TOWN>Saint-Denis</TOWN>
+                     <POSTAL_CODE>97400</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">47000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="24">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>24</LOT_NO>
+            <TITLE>
+               <P>Ovoproduits</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Evollys commercialisation</OFFICIALNAME>
+                     <TOWN>Étang-Salé</TOWN>
+                     <POSTAL_CODE>97427</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">52080</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="25">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>25</LOT_NO>
+            <TITLE>
+               <P>Épices et aromates nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">16270.70</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="26">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>26</LOT_NO>
+            <TITLE>
+               <P>Épices et aromates nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1557</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="27">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>27</LOT_NO>
+            <TITLE>
+               <P>Féculents</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">28226</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="28">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>28</LOT_NO>
+            <TITLE>
+               <P>Petit déjeuner</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">6928.20</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="29">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>29</LOT_NO>
+            <TITLE>
+               <P>Confiture coupelle individuelle</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">2800</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="30">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>30</LOT_NO>
+            <TITLE>
+               <P>Condiments</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">11650.60</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="31">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>31</LOT_NO>
+            <TITLE>
+               <P>Fruits au sirop</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">18500</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="32">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>32</LOT_NO>
+            <TITLE>
+               <P>Boîtage grand modèle nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">75279.40</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="33">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>33</LOT_NO>
+            <TITLE>
+               <P>Conserve petit modèle</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">32496</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="34">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>34</LOT_NO>
+            <TITLE>
+               <P>Boîtage grand modèle nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">26915</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="35">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>35</LOT_NO>
+            <TITLE>
+               <P>Plats cuisinés et divers</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">206328</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="36">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>36</LOT_NO>
+            <TITLE>
+               <P>Desserts</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">11400</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="37">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>37</LOT_NO>
+            <TITLE>
+               <P>Légumes secs</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-18</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Soboriz industrie</OFFICIALNAME>
+                     <TOWN>Le Port</TOWN>
+                     <POSTAL_CODE>97829</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">23902</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="38">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>38</LOT_NO>
+            <TITLE>
+               <P>Céréale</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-18</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Soboriz industrie</OFFICIALNAME>
+                     <TOWN>Le Port</TOWN>
+                     <POSTAL_CODE>97829</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">68960</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="39">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>39</LOT_NO>
+            <TITLE>
+               <P>Produits oléagineux</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="40">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>40</LOT_NO>
+            <TITLE>
+               <P>Boulangerie</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Société industrielle du nord SARL</OFFICIALNAME>
+                     <TOWN>Sainte-Suzanne</TOWN>
+                     <POSTAL_CODE>97441</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">36000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="41">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>41</LOT_NO>
+            <TITLE>
+               <P>Sandwich</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>sud service traiteur</OFFICIALNAME>
+                     <TOWN>Saint-Pierre Cedex</TOWN>
+                     <POSTAL_CODE>97851</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">19000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="42">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>42</LOT_NO>
+            <TITLE>
+               <P>Viennoiserie et pâtisserie</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="43">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>43</LOT_NO>
+            <TITLE>
+               <P>Pâtisserie sucrée individuelle</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">8800</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="44">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>45</LOT_NO>
+            <TITLE>
+               <P>Eau minérale</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Société des eaux de basse vallée (SEBV)</OFFICIALNAME>
+                     <TOWN>Saint-Philippe</TOWN>
+                     <POSTAL_CODE>97442</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">98000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="45">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>46</LOT_NO>
+            <TITLE>
+               <P>Jus de fruits et soda</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">50706</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="46">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>47</LOT_NO>
+            <TITLE>
+               <P>Sirops</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">752</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="47">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>48</LOT_NO>
+            <TITLE>
+               <P>Vin</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">2254</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="48">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>49</LOT_NO>
+            <TITLE>
+               <P>Fruits importation</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>La corbeille à fruits SARL</OFFICIALNAME>
+                     <TOWN>Saint-Paul</TOWN>
+                     <POSTAL_CODE>97460</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">137360</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="49">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>50</LOT_NO>
+            <TITLE>
+               <P>Préparations culinaires surgelées</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">180746</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="50">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>51</LOT_NO>
+            <TITLE>
+               <P>Viandes diverses surgelées</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">109175</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="51">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>52</LOT_NO>
+            <TITLE>
+               <P>Poissons surgelés</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-23</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Mascareignes distribution (madis) SAS</OFFICIALNAME>
+                     <TOWN>Saint-Pierre</TOWN>
+                     <POSTAL_CODE>97410</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">208456</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="52">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>53</LOT_NO>
+            <TITLE>
+               <P>Légumes surgelés nº 1</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">16560</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="53">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>54</LOT_NO>
+            <TITLE>
+               <P>Légumes surgelés nº 2</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Royal bourbon industries</OFFICIALNAME>
+                     <TOWN>Bras-Panon</TOWN>
+                     <POSTAL_CODE>97412</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">11586</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="54">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>55</LOT_NO>
+            <TITLE>
+               <P>Fruits secs</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1828</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="55">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>56</LOT_NO>
+            <TITLE>
+               <P>Préparation culinaire à base de soja issu de l'agriculture biologique</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="56">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>57</LOT_NO>
+            <TITLE>
+               <P>Vaisselle à usage unique</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Pro à pro distribution export</OFFICIALNAME>
+                     <TOWN>La Possession</TOWN>
+                     <POSTAL_CODE>97419</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">6176.40</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="57">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>58</LOT_NO>
+            <TITLE>
+               <P>Sachet alimentaire</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-17</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bourbon plastiques emballage SAS</OFFICIALNAME>
+                     <TOWN>Bras-Panon</TOWN>
+                     <POSTAL_CODE>97412</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">23286</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="58">
+            <CONTRACT_NO>171007</CONTRACT_NO>
+            <LOT_NO>44</LOT_NO>
+            <TITLE>
+               <P>Amuse bouche surgelé</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-18</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>C food SARL</OFFICIALNAME>
+                     <TOWN>Saint-Benoit</TOWN>
+                     <POSTAL_CODE>97470</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRY40"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">2360</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Le présent marché prend effet à compter du 1.11.2017 ou au plus tard à compter de la date de sa notification et se termine le 31.7.2018. Le marché pourra ensuite être reconduit expressément jusqu'au 31.7.2019.</P>
+               <P>Le marché est passé en quantités minimum et maximum. Les montants mentionnés par lot dans l'avis sont des montants maximum annuels en euros (HT).</P>
+               <P>Les lots nº 39 (produits oléagineux), nº 42 (viennoiserie et pâtisserie) et nº 56 (préparation culinaire à base de soja issu de l'agriculture biologique) ont été déclarés sans suite pour absence de candidature par la Commission d'appel d'offres (CAO) dans sa séance du 3.11.2017 et ont été relancés sous la forme d'une procédure négociée sans publicité ni mise en concurrence préalables, organisée en application de l'article 42-3 de l'Ordonnance nº 2015-899 du 23.7.2015 relative aux marchés publics et de l'article 30-l-2º du Décret nº 2016-360 du 25.3.2016 relatif aux marchés publics.</P>
+               <P>Complément à la rubrique ll.2.5) Critères d'attribution: pour tous les lots, les offres économiquement les plus avantageuses pour la collectivité ont été appréciées en fonction des critères énoncés ci-dessous avec leur pondération:</P>
+               <P>— prix en euro HT (60 points),</P>
+               <P>— valeur technique de l'offre (40 points) (Appréciée au regard des fiches techniques décrivant la qualité des fournitures: 8 points et du mémoire argumentaire précisant la méthode d'organisation des livraisons: 8 points, la démarche qualité: 8 points, les mesures relatives au développement durable que l'entreprise compte mettre en place pour l'exécution du marché: 8 points, et les performances en matière de développement des approvisionnements directs de produits de l'agriculture: 8 points).</P>
+               <P>Complément à la rubrique lV.1.1) Type de procédure: Appel d'offres ouvert en application de l'article 42-1-a) de l'Ordonnance nº 2015-899 du 23.7.2015 relative aux marchés publics et des articles 33-1, 66 et 67 du Décret nº 2016-360 du 25.3.2016 relatif aux marchés publics.</P>
+               <P>complément à la rubrique lV.2.1) publication antérieure relative à la présente procédure:</P>
+               <P>— le BOAMP (annonce nº 17-78246) le 30.7.2017,</P>
+               <P>— site Internet de la mairie (http://www.ville-saintesuzanne.re) le 1.8.2017,</P>
+               <P>— profil d'acheteur: http://www.achatpublic.com le 1.8.2017,</P>
+               <P>— le JIR le 3.8.2017,</P>
+               <P>— site internet de la CCI de la réunion: www.alerte-marchespublics.reunion.cci.fr le 3.8.2017.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal administratif de La Réunion</OFFICIALNAME>
+               <ADDRESS>27 rue Félix Guyon, CS 61107</ADDRESS>
+               <TOWN>Saint-Denis Cedex</TOWN>
+               <POSTAL_CODE>97404</POSTAL_CODE>
+               <COUNTRY VALUE="RE"/>
+               <PHONE>+262 262924360</PHONE>
+               <E_MAIL>greffe.ta-st-denis-de-la-reunion@juradm.fr</E_MAIL>
+               <FAX>+262 262924362</FAX>
+               <URL>http://la-reunion.tribunal-administratif.fr</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>— un référé précontractuel, devant le président du tribunal administratif, avant la signature du contrat (article L. 551-1 et suivants du code de justice administrative),</P>
+               <P>— un référé contractuel devant le président du tribunal administratif (L 551-13 à L 551-23 du code de justice administrative) dans le délai indiqué à l'article R 551-7 du code de justice administrative,</P>
+               <P>— un recours de pleine juridiction en contestation de la validité du contrat ou de certaines de ses clauses non réglementaires qui en sont divisibles en application de la jurisprudence «Tarn-et-Garonne» dans le délai de 2 mois à compter des mesures de publicité appropriées (cf. CE Ass, 4.4.2014, département de Tarn-et-Garonne, nº 358994),</P>
+               <P>— un recours de pleine juridiction tendant à ce qu'il soit mis fin à l'exécution du contrat en application de la jurisprudence du conseil d'État, section du 30.6.2017, nº 398445.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal administratif de La Réunion</OFFICIALNAME>
+               <ADDRESS>27 rue Félix Guyon, CS 61107</ADDRESS>
+               <TOWN>Saint-Denis Cedex</TOWN>
+               <POSTAL_CODE>97404</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+262 262924360</PHONE>
+               <E_MAIL>greffe.ta-st-denis-de-la-reunion@juradm.fr</E_MAIL>
+               <FAX>+262 262924362</FAX>
+               <URL>http://la-reunion.tribunal-administratif.fr</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

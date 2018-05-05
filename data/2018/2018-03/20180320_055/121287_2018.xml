@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="121287-2018"
+            EDITION="2018055">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-125032-001</RECEPTION_ID>
+      <DELETION_DATE>20180502</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>55</NO_OJ>
+         <DATE_PUB>20180320</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 055-121287</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:121287-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>www.spsk2-szczecin.pl</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>www.spsk2-szczecin.pl</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="33696500">Laboratory reagents</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL424">Miasto Szczecin</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL424">Miasto Szczecin</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="PLN">604493.03</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180319</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180502 10:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Шчечин</TI_TOWN>
+            <TI_TEXT>
+               <P>Лабораторни реактиви</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratorní činidla</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratoriereagenser</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Stettin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laborreagenzien</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Στετίνο</TI_TOWN>
+            <TI_TEXT>
+               <P>Αντιδραστήρια εργαστηρίων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratory reagents</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Reactivos de laboratorio</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratooriumireaktiivid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Stettin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratorioreagenssit</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Réactifs de laboratoire</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratory reagents</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratorijski reagensi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratóriumi reagensek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Stettino</TI_TOWN>
+            <TI_TEXT>
+               <P>Reattivi per laboratorio</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratoriniai reagentai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratorijas reaģenti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Reaġenti tal-laboratorju</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Stettin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratoriumreagentia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Odczynniki laboratoryjne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Reagentes de laboratório</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Reactivi de laborator</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratórne činidlá</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratorijski reagenti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Szczecin</TI_TOWN>
+            <TI_TEXT>
+               <P>Laboratoriereagenser</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Samodzielny Publiczny Szpital Kliniczny Nr 2 PUM w Szczecinie</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Samodzielny Publiczny Szpital Kliniczny Nr 2 PUM w Szczecinie</OFFICIALNAME>
+               <NATIONALID>000288900</NATIONALID>
+               <ADDRESS>al. Powstańców Wielkopolskich 72</ADDRESS>
+               <TOWN>Szczecin</TOWN>
+               <POSTAL_CODE>70-111</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Wioletta Sybal</CONTACT_POINT>
+               <PHONE>+48 914661088</PHONE>
+               <E_MAIL>zamowienia@spsk2-szczecin.pl</E_MAIL>
+               <FAX>+48 914661113</FAX>
+               <n2016:NUTS CODE="PL424"/>
+               <URL_GENERAL>www.spsk2-szczecin.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>www.spsk2-szczecin.pl</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa odczynników laboratoryjnych i testów diagnostycznych na potrzeby Pracowni Cytogenetyki, Mikrobiologii i Immunologii SPSK-2 PUM</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ZP/220/17/18</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33696500"/>
+               <CPV_SUPPLEMENTARY_CODE CODE="PA02"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>1. Przedmiotem zamówienia jest dostawa odczynników laboratoryjnych i testów diagnostycznych na potrzeby Pracowni Cytogenetyki, Mikrobiologii i Immunologii SPSK-2 PUM. W zakresie zadania nr 2 również dzierżawa aparatu - automatycznego procesora blotów. W zależności od zadania odczynniki stanowią albo odczynniki do diagnostyki in-vitro albo odczynniki chemiczne.</P>
+               <P>2. Zamawiający wymaga, aby automatyczny procesor blotów stanowił wyrób medyczny w rozumieniu ustawy z dnia 20.5.2010 r. o wyrobach medycznych (Dz.U.2017.211 t.j. z dnia 2017.2.3) i był wprowadzony do obrotu i używania na terenie RP zgodnie z w/w ustawą - dotyczy zadaniu nr 2.</P>
+               <P>3. Zamówienie składa się z 14 zadań.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="PLN">604493.03</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+               <LOT_MAX_ONE_TENDERER>14</LOT_MAX_ONE_TENDERER>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Zadanie nr 1 - Dostawa odczynników do zakładania, prowadzenia i ukończenia hodowli komórkowych in vitro</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia są:</P>
+                  <P>Odczynniki do zakładania, prowadzenia i ukończenia hodowli komórkowych in vitro w ilości 30 opakowań (różnego rodzaju odczynników).</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">15341.54</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 200 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Zadanie nr 2 - Dostawa odczynników do diagnostyki pacjentów w kierunku niepłodności i mukowiscydozy metodą odwrotnej hybrydyzacji wraz z dzierżawą aparatu - automatycznego procesora blotów</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+                  <CPV_SUPPLEMENTARY_CODE CODE="PA02"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa odczynników do diagnostyki pacjentów w kierunku niepłodności i mukowiscydozy metodą odwrotnej hybrydyzacji wraz z dzierżawą aparatu - automatycznego procesora blotów.</P>
+                  <P>Zadanie nr 2 składa się z dwóch części A i B: Dostawa odczynników do diagnostyki pacjentów w kierunku niepłodności i mukowiscydozy metodą odwrotnej hybrydyzacji (16 opakowań zestawów) wraz z dzierżawą aparatu - automatycznego procesora blotów (Wymogiem Zamawiającego jest dostarczenie w ramach dzierżawy urządzenia nowego).</P>
+                  <P>Szczegółowe parametry zestawów oraz dzierżawionego sprzętu znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">90997.04</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 1 000 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Zadanie nr 3 - Dostawa odczynników do hodowli in vitro stymulujących podział limfocytów T krwi obwodowej</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia są:</P>
+                  <P>Odczynniki do hodowli in vitro stymulujące podział limfocytów T krwi obwodowej (w ilości 4 opakowania).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">1666.68</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 50 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Zadanie nr 4 - Dostawa odczynników do diagnostyki pacjentów w kierunku hemofilii</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa odczynników do diagnostyki pacjentów w kierunku hemofilii (w ilości 12 opakowań).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">35555.52</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 400 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Zadanie nr 5 - Dostawa odczynników do prowadzenia hodowli komórkowych</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zadanie nr 5 składa się z dwóch części A i B: Dostawa odczynników do prowadzenia hodowli komórkowych (165 opakowań) oraz odczynników do analizy MLPA/MS-MLPA na potrzeby Pracowni Cytogenetyki (84 opakowania).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">119315.18</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 1 200 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Dostawa różnych odczynników laboratoryjnych stosowanych w Pracowni Cytogenetyki do prowadzenia hodowli komórkowych oraz trawienia chromosomów barwionych metodą GTG</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa różnych odczynników laboratoryjnych stosowanych w Pracowni Cytogenetyki do prowadzenia hodowli komórkowych oraz trawienia chromosomów barwionych metodą GTG (53 opakowania).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">16050.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 200 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Zadanie nr 7 - Dostawa odczynników do znakowania plazmocytów w komórkach szpiczaka plazmocytowego</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa odczynników do znakowania plazmocytów w komórkach szpiczaka plazmocytowego (3 opakowania).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">2200.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 50,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Zadanie nr 8 - Immunologiczna diagnostyka zakażeń Treponema pallidum i diagnostyka bezpłodności</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa -Immunologiczna diagnostyka zakażeń Treponema pallidum i diagnostyka bezpłodności (24opakowania).</P>
+                  <P>Szczegółowe parametry odczynników znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">11800.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 200,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Zadanie nr 9 - Roztwory pomocnicze</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa roztworów pomocniczych (280 opakowań).</P>
+                  <P>Szczegółowe parametry roztworów znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">7000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 100,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Zadanie nr 10 - Drabinka DNA</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Drabinka DNA (35 opakowań).</P>
+                  <P>Szczegółowe parametry znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">12950.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 200,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Zadanie nr 11 - Dostawa sond molekularnych stosowanych w diagnostyce chorób nienowotworowych</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa sond molekularnych stosowanych w diagnostyce chorób nienowotworowych (61 opakowań).</P>
+                  <P>Szczegółowe parametry znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">54680.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 600,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Zadanie nr 12 - Dostawa sond molekularnych używanych do diagnostyki nowotworów hematoonkologicznych metodą FISH</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa sond molekularnych używanych do diagnostyki nowotworów hematoonkologicznych metodą FISH (58 opakowań).</P>
+                  <P>Szczegółowe parametry znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">163550.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 2 000,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>Zadanie nr 13 - Różne odczynniki i akcesoria pomocnicze</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Dostawa różnych odczynników i akcesoria pomocniczych (37 opakowań).</P>
+                  <P>Szczegółowe parametry znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">6517.07</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 100,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>Zadanie nr 14 - Odczynniki do diagnostyki mikrobiologicznej</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33696500"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL424"/>
+               <MAIN_SITE>
+                  <P>Siedziba Zamawiającego, al. Powstańców Wielkopolskich 72, 70-111 Szczecin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem zamówienia jest:</P>
+                  <P>Odczynniki do diagnostyki mikrobiologicznej (140 opakowań).</P>
+                  <P>Szczegółowe parametry znajdują się w SIWZ oraz załącznikach.</P>
+               </SHORT_DESCR>
+               <AC_COST>
+                  <AC_CRITERION>Cena brutto</AC_CRITERION>
+                  <AC_WEIGHTING>95</AC_WEIGHTING>
+               </AC_COST>
+               <AC_COST>
+                  <AC_CRITERION>Termin dostawy zamówień cząstkowych</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_COST>
+               <VAL_OBJECT CURRENCY="PLN">66870.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>W zakresie tego zadania należy wnieść wadium w wysokości 600,00 PLN.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Zamawiający nie dokonuje opisu spełniania tego warunku.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>1. W celu potwierdzenia warunku dotyczącego sytuacji ekonomicznej lub finansowej Zamawiający żąda złożenia Informacji banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową wykonawcy w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert.</P>
+               <P>2. Jeżeli z uzasadnionej przyczyny Wykonawca nie może złożyć dokumentu, o którym mowa w pkt 2 Zamawiający dopuszcza złożenie przez Wykonawcę innych dokumentów potwierdzających w wystarczający sposób spełnienie warunku dotyczącego sytuacji ekonomicznej lub finansowej.</P>
+               <P>W przypadku, gdy Wykonawca wykaże spełnianie warunku posiadania sytuacji finansowej oraz zdolności technicznej w innej walucie niż PLN, Zamawiający dokona przeliczenia tej waluty po średnim kursie w stosunku do PLN opublikowanym przez NBP w dniu publikacji ogłoszenia o zamówieniu.</P>
+               <P>Jeżeli w dniu ogłoszenia postępowania NBP nie opublikuje kursu walut, Zamawiający przyjmie kurs opublikowany w pierwszym dniu roboczym po tej dacie.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>W zakresie sytuacji ekonomicznej lub finansowej Zamawiający wymaga, aby Wykonawca wykazał posiadane środki finansowe bądź zdolność kredytową na kwotę nie mniejszą niż:</P>
+               <P>Zadanie nr 1 - 1 200 PLN;</P>
+               <P>Zadanie nr 2 - 8 000 PLN;</P>
+               <P>Zadanie nr 3 - 150 PLN;</P>
+               <P>Zadanie nr 4 - 3 000 PLN;</P>
+               <P>Zadanie nr 5 - 10 000 PLN;</P>
+               <P>Zadanie nr 6 - 1 200 PLN;</P>
+               <P>Zadanie nr 7 - 800 PLN;</P>
+               <P>Zadanie nr 8 - 4 000 PLN;</P>
+               <P>Zadanie nr 9 - 600 PLN;</P>
+               <P>Zadanie nr 10 - 1 000 PLN;</P>
+               <P>Zadanie nr 11 - 5 0000 PLN;</P>
+               <P>Zadanie nr 12 - 14 000 PLN;</P>
+               <P>Zadanie nr 13 - 600 PLN;</P>
+               <P>Zadanie nr 14 - 6 000 PLN;</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>1. W celu potwierdzenia spełnienia przez Wykonawcę posiadania zdolności technicznej lub zawodowej Zamawiający żąda złożenia Wykazu dostaw wykonanych a w przypadku świadczeń okresowych lub ciągłych również wykonywanych, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy zostały wykonane oraz załączeniem dowodów określających czy te dostawy zostały wykonane lub są wykonywane należycie.</P>
+               <P>2. Dowodami, o którym mowa w pkt 1 są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego dostawy były wykonywane a w przypadku świadczeń okresowych lub ciągłych są wykonywane a jeżeli z uzasadnionej przyczyny o obiektywnym charakterze Wykonawca nie jest w stanie uzyskać tych dokumentów - oświadczenie Wykonawcy: w przypadku świadczeń okresowych lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wydane nie wcześniej niż 3 miesiące przed upływem terminu składania ofert.</P>
+               <P>3. W przypadku, gdy Wykonawca wykaże spełnianie warunku posiadania sytuacji finansowej oraz zdolności technicznej w innej walucie niż PLN, Zamawiający dokona przeliczenia tej waluty po średnim kursie w stosunku do PLN opublikowanym przez NBP w dniu publikacji ogłoszenia o zamówieniu.</P>
+               <P>Jeżeli w dniu ogłoszenia postępowania NBP nie opublikuje kursu walut, Zamawiający przyjmie kurs opublikowany w pierwszym dniu roboczym po tej dacie.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>W zakresie zdolności technicznej lub zawodowej Zamawiający wymaga, aby Wykonawca wykazał wykonanie/wykonywanie co najmniej jednej głównej dostawy, której przedmiotem była dostawa odczynników laboratoryjnych:</P>
+               <P>Zadanie nr 1 - 2 000 PLN;</P>
+               <P>Zadanie nr 2 - 6 000 PLN;</P>
+               <P>Zadanie nr 3 - 150 PLN;</P>
+               <P>Zadanie nr 4 - 3 000 PLN;</P>
+               <P>Zadanie nr 5 - 8 000 PLN;</P>
+               <P>Zadanie nr 6 - 1 500 PLN;</P>
+               <P>Zadanie nr 7 - 150 PLN;</P>
+               <P>Zadanie nr 8 - 2 000 PLN;</P>
+               <P>Zadanie nr 9 - 500 PLN;</P>
+               <P>Zadanie nr 10 - 1 000 PLN;</P>
+               <P>Zadanie nr 11 - 5 0000 PLN;</P>
+               <P>Zadanie nr 12 - 14 000 PLN;</P>
+               <P>Zadanie nr 13 - 500 PLN;</P>
+               <P>Zadanie nr 14 - 6 000 PLN;</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>§ 2.</P>
+               <P>1. Wykonawca zobowiązany jest dostarczyć zamówione odczynniki na własny koszt i ryzyko do Apteki w Szczecinie przy al. Powstańców Wlkp. 72 w dni robocze od poniedziałku do piątku w godzinach od 7:30 do 14:30 Dostawa odczynników następuje na koszt i ryzyko Wykonawcy.</P>
+               <P>2. Wykonawca dostarczać będzie odczynniki do miejsca wskazanego w ust. 1 na podstawie bieżących zamówień określających szczegółowy asortyment i ilość odczynników przekazywanych faksem lub e-mailem przez Aptekę.</P>
+               <P>3. Wykonawca zobowiązany jest dostarczyć zamówione odczynniki w terminie nie dłuższym niż 10 dni roboczych od dnia przesłania zamówienia faksem.</P>
+               <P>4. Termin realizacji zamówienia liczy się od następnego dnia po dniu przekazania zamówienia.</P>
+               <P>5. Wykonawca gwarantuje, że odczynniki dostarczane Zamawiającemu będą posiadały minimum 12 miesięczny okres przydatności do użycia, licząc od daty dostawy do siedziby Zamawiającego</P>
+               <P>Pozostałe zapisy Umowy, kary, - znajdują się w SIWZ Z uwagi na ograniczoną ilość znaków.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-02</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="PL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-06-30</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Otwarcie ofert nastąpi w siedzibie Zamawiającego w pokoju nr 11, budynek M.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Wszyscy chętni mogą uczestniczyć w otwarciu ofert.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EORDERING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>1. Oferta pod rygorem nieważności powinna być złożona w formie pisemnej.</P>
+               <P>2. Oferta powinna być podpisana zgodnie z zasadami reprezentacji wskazanymi we właściwym rejestrze lub centralnej ewidencji działalności gospodarczej.</P>
+               <P>3. Do Formularza oferty należy dołączyć następujące dokumenty i oświadczenia:</P>
+               <P>a) pełnomocnictwo - w przypadku jeżeli osoba podpisująca ofertę działa na podstawie pełnomocnictwa. Pełnomocnictwo załączone do oferty winno być złożone w oryginale lub notarialnie poświadczonej kopii a z treści pełnomocnictwa musi jednoznacznie wynikać uprawnienie do podpisania oferty</P>
+               <P>b) Jednolity Europejski Dokument Zamówienia wg Rozporządzenia wykonawczego Komisji (UE) 2016/7 z dnia 5.1.2016 r. ustanawiającego standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. UE L 3/16) - (JEDZ) Zamawiający informuje, że Instrukcję wypełnienia JEDZ oraz edytowalną wersję formularza JEDZ można znaleźć pod adresem: https://www.uzp.gov.pl/baza-wiedzy/jednolity-europejski-dokument-zamowienia. Zamawiający zaleca wypełnienie formularza co najmniej w zakresie zaznaczonym kolorem żółtym.</P>
+               <P>c) dokumenty i oświadczenia potwierdzające, że oferowane wyroby odpowiadają wymaganiom określonym SIWZ</P>
+               <P>d) wypełniony przez Wykonawcę formularz cen jednostkowych stanowiący załącznik nr 4 do formularza oferty (formularz cen jednostkowych) oraz załącznik nr 6 wymagania dotyczące automatycznego procesora blotów</P>
+               <P>f) dowód wpłacenia/wniesienia wadium. W przypadku wnoszenia wadium w formie:</P>
+               <P>— pieniędzy – kopia przelewu,</P>
+               <P>— gwarancji lub poręczeń – kopia tych dokumentów. Oryginał należy złożyć w Kasie Zamawiającego.</P>
+               <P>4. Wykonawca, który powołuje się na zasoby innych podmiotów, w celu wykazania braku istnienia wobec nich podstaw wykluczenia oraz spełniania, w zakresie w jakim powołuje się na ich zasoby, warunków udziału w postępowaniu składa także:</P>
+               <P>a) JEDZ podmiotów na których zasoby się powołuje</P>
+               <P>b) zobowiązanie podmiotu trzeciego udostępniającego swoje zasoby. Zobowiązanie podmiotu trzeciego winno spełniać warunki określone w SIWZ.</P>
+               <P>5. Wykonawca może wykorzystać w JEDZ nadal aktualne informacje zawarte w innym JEDZ złożonym w odrębnym postępowaniu o udzielenie zamówienia.</P>
+               <P>6. Oferta oraz wszystkie dokumenty i oświadczenia załączone do oferty muszą być napisane w języku polskim, na maszynie do pisania, komputerze lub inną trwałą czytelną techniką (ręcznie długopisem albo nieścieralnym atramentem).</P>
+               <P>7. W przypadku oferty składanej przez Wykonawców ubiegających się wspólnie o udzielenie zamówienia (konsorcjum) oferta winna spełniać następujące wymagania:</P>
+               <P>a) do oferty powinno być załączone pełnomocnictwo do reprezentowania Wykonawców w postępowaniu (pełnomocnictwo może także obejmować uprawnienie do zawarcia umowy w postępowaniu). Pełnomocnictwo powinno być załączone w oryginale lub notarialnie poświadczonej kopii i zawierać wyszczególnienie wszystkich wykonawców ubiegających się wspólnie o udzielenie zamówienia, szczegółowo określać zamówienie do którego się odnosi, wskazywać pełnomocnika oraz precyzować zakres jego umocowania</P>
+               <P>b) oferta wspólna winna być sporządzona zgodnie z SIWZ</P>
+               <P>c) JEDZ składa każdy w Wykonawców ubiegających się o zamówienie.</P>
+               <P>d) wspólnicy spółki cywilnej traktowani będą tak jak wykonawcy składający ofertę wspólną.</P>
+               <P>8. Wszelkie dokumenty sporządzone w języku obcym muszą być złożone wraz z tłumaczeniem na język polski, poświadczonym przez Wykonawcę. Podczas oceny ofert Zamawiający będzie opierał się na tekście tłumaczonym.</P>
+               <P>9. Oferta powinna być złożona na kolejno ponumerowanych stronach. Numeracja stron nie jest wymagana jeżeli wszystkie kartki oferty są trwale zszyte lub scalone w inny sposób.</P>
+               <P>Pozostałe informacje zamieszczono w specyfikacji, z uwagi na ograniczoną ilość znaków.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17a</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>uzp@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>1. Środki ochrony prawnej określone w dziale VI PZP przysługują Wykonawcy, a także innemu podmiotowi jeżeli ma lub miał interes w uzyskaniu danego zamówienia oraz poniósł szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy Prawo Zamówień Publicznych.</P>
+               <P>2. Odwołanie wnosi się w terminie określonym w art. 182 PZP.</P>
+               <P>3. Odwołanie wnosi się do Prezesa Izby w formie pisemnej lub elektronicznej opatrzonej bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu. Odwołujący przesyła kopię odwołania Zamawiającemu przed upływem terminu na wniesienie odwołania, w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Departament Odwołań Urzędu Zamówień Publicznych</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17a</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-19</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

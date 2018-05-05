@@ -1,0 +1,2952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="019952-2018"
+            EDITION="2018011">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-012261-001</RECEPTION_ID>
+      <DELETION_DATE>20180420</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>11</NO_OJ>
+         <DATE_PUB>20180117</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 011-019952</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:019952-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="71300000">Engineering services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="IT">ITALIA</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">168400.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 084-162471</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180110</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Teknisk sekretariat til gruppen af de bemyndigede organer under elevatordirektivet 2014/33/EU: Parti 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technisches Sekretariat für die Gruppe der benannten Stellen im Rahmen der Richtlinie 2014/33/EU über Aufzüge: Los 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Technical secretariats for the group of the notified bodies under the Lifts directive 2014/33/EU: Lot 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretarías técnicas para el grupo de organismos notificados en el marco de la directiva de ascensores 2014/33/UE: Lote 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Hissidirektiivin 2014/33/EU yhteydessä ilmoitettujen laitosten ryhmien tekniset sihteeristöt: erä 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Secrétariats techniques du groupe des organismes notifiés dans le cadre de la directive 2014/33/UE relative aux ascenseurs : Lot 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Τεχνικές γραμματείες για την ομάδα κοινοποιημένων οργανισμών βάσει της οδηγίας περί ανελκυστήρων 2014/33/ΕΕ: Παρτίδα 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Segretariati tecnici per il gruppo di organismi notificati ai sensi della direttiva ascensori 2014/33/UE: lotto 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technische secretariaten voor de groep van de aangemelde instanties conform de liftenrichtlijn 2014/33/EU: Perceel 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretariados técnicos para o grupo dos organismos notificados nos termos da Diretiva Ascensores 2014/33/UE: Lote 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tekniska sekretariat för gruppen av anmälda organ inom ramen för hissdirektivet 2014/33/EU: Del 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technické sekretariáty pro skupinu oznámených subjektů v rámci směrnice o výtazích 2014/33/EU: Položka č. 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Liftide direktiivi 2014/33/EL alusel teavitatud asutuste rühmade tehnilised sekretariaadid: 4. osa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>A felvonókról szóló 2014/33/EU irányelv értelmében bejelentett szervezetek csoportjainak technikai titkárságai: 4. tétel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Techniniai sekretoriatai notifikuotųjų įstaigų grupei pagal Europos Parlamento ir Tarybos direktyvą 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo: 4 dalis</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehniskie sekretariāti to pilnvaroto iestāžu grupām, kas paredzētas Liftu direktīvā 2014/33/ES: 4. daļa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Segretarjati tekniċi għall-grupp tal-entitajiet innotifikati skont id-Direttivi dwar il-Liftijiet 2014/33/UE: Ir-4 lott</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Sekretariaty techniczne dla grupy jednostek notyfikowanych na podstawie Dyrektywy 2014/33/EU w sprawie dźwigów: Część 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technické sekretariáty pre skupinu notifikovaných orgánov podľa Smernice o výťahoch 2014/33/EÚ: Časť 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehnični sekretariat za skupino priglašenih organov v skladu z Direktivo 2014/33/EU o dvigalih: sklop 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Rúnaíochtaí teicniúla don ghrúpa comhlachtaí dá dtugtar fógra faoin treoir maidir le hArdaitheoirí 2014/33/AE: Beart 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Технически секретариати за групата от нотифицирани органи по Директива 2014/33/ЕС относно асансьорите: Обособена позиция 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretariate tehnice pentru grupul de organisme notificate în baza Directivei privind ascensoarele 2014/33/UE: Lotul 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehnička tajništva za skupinu prijavljenih tijela u okviru Direktive o dizalima 2014/33/EU: Grupa 4</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="EN">European Commission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs - Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Teknisk sekretariat til gruppen af de bemyndigede organer under elevatordirektivet 2014/33/EU: Parti 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Parti 4: Elevatorer: Teknisk sekretariat til gruppen af de bemyndigede organer under direktiv 2014/33/EU om elevatorer og sikkerhedskomponenter til elevatorer.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Elevatordirektiv 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Udførelsesstedet for opgaverne vil være kontrahentens lokaler eller ethvert andet sted, som angivet i buddet, undtagen Kommissionens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Formålet med dette udbud er at udpege det tekniske sekretariat for gruppen af bemyndigede organer under direktiv 2014/33/EF om elevatorer og sikkerhedskomponenter til elevatorer.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteten af tilbudsgiverens tilgang til det tekniske sekretariats overordnede rolle i forbindelse med gruppen af bemyndigede organers arbejde</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteten af den foreslåede metodologi til sikring af de specifikke opgaver, der er beskrevet i de relevante punkter i de tekniske specifikationer</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteten af den foreslåede metodologi og foranstaltninger til sikring af gode forbindelser til gruppen af relevante overensstemmelsesvurderingsorganer og de vigtigste interessenter</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>point for kvalitet/pris</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Det beløb, der er nævnt ovenfor, er for en samlet varighed på højst 4 år.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Elevatordirektiv 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten ved Den Europæiske Unions Domstol</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter underrettelsen af klageren eller, i mangel heraf, på den dag, sagen er taget til efterretning. En klage til Den Europæiske Ombudsmand bevirker ikke, at denne periode afbrydes, eller at der påbegyndes en ny periode for indgivelse af klager.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technisches Sekretariat für die Gruppe der benannten Stellen im Rahmen der Richtlinie 2014/33/EU über Aufzüge: Los 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Los 4: Aufzüge: Technisches Sekretariat für die Gruppe der benannten Stellen im Rahmen der Richtlinie 2014/33/EU in Bezug auf Aufzüge und Sicherheitskomponenten für Aufzüge.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Richtlinie 2014/33/EU über Aufzüge</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Die Aufgaben sind in den Räumlichkeiten des Auftragnehmers oder an jedem anderen in der Ausschreibung genannten Ort auszuführen; ausgenommen sind die Räumlichkeiten der Kommission.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zweck dieser Ausschreibung ist die Bestimmung des Technischen Sekretariats für die Gruppe der benannten Stellen im Rahmen der Richtlinie 2014/33/EU in Bezug auf Aufzüge und Sicherheitskomponenten für Aufzüge.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualität des vom Bieter vorgeschlagenen Ansatzes für die allgemeine Funktion des technischen Sekretariats in Bezug auf die Arbeit der Gruppe der benannten Stellen</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualität der vorgeschlagenen Methodik zur Sicherstellung der spezifischen Aufgaben, die in den einschlägigen Punkten der technischen Spezifikationen beschrieben werden</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualität der vorgeschlagenen Methodik und Maßnahmen für den Aufbau guter Beziehungen zur Gruppe der relevanten Konformitätsbewertungsstellen und zu den wesentlichen Interessenvertretern</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Qualitätspunkte/Preis</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Der oben genannte Betrag bezieht sich auf die maximale Gesamtlaufzeit von 4 Jahren.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Richtlinie 2014/33/EU über Aufzüge</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht des Gerichtshofs der Europäischen Union</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme. Eine Beschwerde beim Europäischen Bürgerbeauftragten bewirkt weder die Unterbrechung dieses Zeitraums noch den Beginn eines neuen Zeitraums für die Einlegung von Rechtsbehelfen.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technical secretariats for the group of the notified bodies under the Lifts directive 2014/33/EU: Lot 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lot 4: Lifts: Technical Secretariat for the group of notified bodies under Directive 2014/33/EU relating to lifts and safety components for lifts.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Lifts Directive 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>The place of the performance of the tasks shall be the contractor's premises or any other place indicated in the tender, with the exception of the Commission's premises.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The purpose of this Call for Tender is to designate the Technical Secretariat for the group of notified bodies established under Directive 2014/33/EU relating to lifts and safety components for lifts.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>The quality of the tenderer’s approach to the overall role of the Technical Secretariat in the work of the notified bodies group</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>The quality of the proposed methodology to assure the specific tasksdescribedinrelevant points of the Technical Specifications</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Quality of the proposed methodology and actions to establish good relationshipwiththegroups of relevant conformity assessment bodies and the main stakeholders</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>quality points/price</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>The amount mentioned above is for the maximum total duration of 4 years.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Lifts Directive 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the Court of Justice of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification of the plaintiff, or in absence thereof, of the day on which it came to knowledge. A complaint to the European Ombudsman does not have an effect either to suspend this period or to open a new period of lodging appeals.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretarías técnicas para el grupo de organismos notificados en el marco de la directiva de ascensores 2014/33/UE: Lote 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lote 4: Ascensores: Secretaría técnica para el grupo de organismos notificados en el marco de la Directiva 2014/33/UE relativa a ascensores y componentes de seguridad para ascensores.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Directiva sobre ascensores 2014/33/UE</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Las tareas se desarrollarán en las instalaciones del contratista o en otro sitio indicado en el concurso, a excepción de las instalaciones de la Comisión.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El objetivo de esta licitación consiste en designar la secretaría técnica para el grupo de organismos notificados creado en el marco de la Directiva 2014/33/UE relativa a ascensores y componentes de seguridad para ascensores.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calidad del enfoque del licitador con respecto a la función general de la secretaría técnica en el trabajo del grupo de organismos notificados</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calidad de la metodología propuesta para garantizar las tareas específicas descritas en los puntos pertinentes de las especificaciones técnicas</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calidad de la metodología y las acciones propuestas para establecer buenas relaciones con los grupos de los organismos de evaluación de la conformidad pertinentes y las principales partes interesadas</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>puntos de calidad/precio</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>El importe mencionado anteriormente corresponde a la duración máxima total de 4 años.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Directiva sobre ascensores 2014/33/UE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General del Tribunal de Justicia de la Unión Europea</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión. Una reclamación ante el Defensor del Pueblo Europeo no tendrá como efecto la suspensión de dicho plazo ni la apertura de un nuevo plazo de presentación de recursos.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Hissidirektiivin 2014/33/EU yhteydessä ilmoitettujen laitosten ryhmien tekniset sihteeristöt: erä 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Erä 4 – hissit: hissejä ja hissien turvakomponentteja koskevan direktiivin 2014/33/EU yhteydessä ilmoitettujen laitosten ryhmän tekninen sihteeristö.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Hissidirektiivi 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>tehtävät suoritetaan sopimusosapuolen toimitiloissa tai tarjouksessa ilmoitetussa missä tahansa muussa paikassa lukuun ottamatta komission toimitiloja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tarjouspyynnön tarkoituksena on hissejä ja hissien turvakomponentteja koskevan direktiivin 2014/33/EU yhteydessä ilmoitettujen laitosten ryhmän teknisen sihteeristön nimittäminen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tarjoajan lähestymistavan laatu teknisen sihteeristön yleisen tehtävän osalta ilmoitettujen laitosten ryhmän työssä</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>teknisten eritelmien asiaankuuluvissa kohdissa kuvattujen erityistehtävien varmistamiseksi ehdotettujen menetelmien laatu</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>sellaisten ehdotettujen toimien ja menetelmien laatu, joiden tarkoituksena on hyvien suhteiden luominen vaatimustenmukaisuuden arvioinnista vastaavien asiaankuuluvien laitosten ryhmiin sekä keskeisimpiin sidosryhmiin</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>laatupisteet/hinta</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Edellä mainittu arvo on tarkoitettu enintään 4 vuoden kokonaiskestoaikaa varten.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Hissidirektiivi 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Euroopan unionin tuomioistuimeen kuuluva unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Muutosta on haettava 2 kuukauden kuluessa ilmoituksesta asianosaiselle tai, jos ilmoitus puuttuu, siitä päivästä, jona asia tuli hänen tietoonsa. Euroopan oikeusasiamiehelle tehty kantelu ei vaikuta määräaikaan, eikä sen vuoksi muutoksenhaulle määrätä uutta määräaikaa.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secrétariats techniques du groupe des organismes notifiés dans le cadre de la directive 2014/33/UE relative aux ascenseurs : Lot 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lot 4 : Ascenseurs : Secrétariat technique pour le groupe des organismes notifiés dans le cadre de la directive 2014/33/UE relative aux ascenseurs et aux composants de sécurité pour les ascenseurs.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Directive 2014/33/UE relative aux ascenseurs</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Les tâches seront exécutées dans les locaux du contractant ou dans tout autre lieu indiqué dans l'offre, à l'exception des locaux de la Commission.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L'objectif du présent appel d'offres est de désigner le Secrétariat technique du groupe d'organismes notifiés établi dans le cadre de la directive 2014/33/UE relative aux ascenseurs et aux composants de sécurité pour les ascenseurs.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>La qualité de l'approche du soumissionnaire en ce qui concerne le rôle général du Secrétariat technique dans le travail du groupe d'organismes notifiés</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>La qualité de la méthode proposée pour exécuter les tâches spécifiques décrites dans les points concernés des spécifications techniques</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualité de la méthode et des actions proposées en vue d'établir de bonnes relations avec les groupes des organismes d'évaluation de la conformité compétents et les principales parties prenantes</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Points qualité/prix</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Le montant mentionné ci-dessus correspond à la durée totale maximale de 4 ans.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Directive 2014/33/UE relative aux ascenseurs</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal de la Cour de justice de l'Union européenne</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance. L'introduction d'une plainte auprès du Médiateur européen n'a pour effet ni la suspension de ce délai, ni l'ouverture d'un nouveau délai de recours.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Τεχνικές γραμματείες για την ομάδα κοινοποιημένων οργανισμών βάσει της οδηγίας περί ανελκυστήρων 2014/33/ΕΕ: Παρτίδα 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Παρτίδα 4: οδηγία περί ανελκυστήρων: τεχνική γραμματεία για την ομάδα κοινοποιημένων οργανισμών βάσει της οδηγίας 2014/33/ΕΕ σχετικά με τους ανελκυστήρες και τα κατασκευαστικά στοιχεία ασφάλειας για ανελκυστήρες.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Οδηγία 2014/33/ΕΕ περί ανελκυστήρων</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Ο τόπος εκτέλεσης των καθηκόντων θα είναι οι εγκαταστάσεις του αναδόχου ή οποιοσδήποτε άλλος τόπος αναφέρεται στα έγγραφα του διαγωνισμού, εκτός των εγκαταστάσεων της Επιτροπής.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ο σκοπός της παρούσας πρόσκλησης υποβολής προσφορών είναι ο ορισμός της τεχνικής γραμματείας για την ομάδα κοινοποιημένων οργανισμών που έχει συσταθεί βάσει της οδηγίας 2014/33/ΕΕ σχετικά με τους ανελκυστήρες και τα κατασκευαστικά στοιχεία ασφάλειας για ανελκυστήρες.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Η ποιότητα της προσέγγισης του υποψηφίου στον γενικό ρόλο της τεχνικής γραμματείας στις εργασίες της ομάδας κοινοποιημένων φορέων</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Η ποιότητα της προτεινόμενης μεθοδολογίας για την εξασφάλιση των ειδικών καθηκόντων που περιγράφονται στα αντίστοιχα σημεία των τεχνικών προδιαγραφών</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ποιότητα της προτεινόμενης μεθοδολογίας και δράσεων ως προς την εδραίωση καλών σχέσεων με τις ομάδες σχετικών φορέων εκτίμησης της συμμόρφωσης και τους κύριους εμπλεκόμενους φορείς</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Βαθμοί για την ποιότητα/τιμή</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Το ποσό που αναφέρεται ανωτέρω αντιστοιχεί στη μέγιστη συνολική διάρκεια των 4 ετών.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Οδηγία 2014/33/ΕΕ περί ανελκυστήρων</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο του Δικαστηρίου της Ευρωπαϊκής Ένωσης</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει αυτής, από την ημέρα κατά την οποία ο προσφεύγων έλαβε γνώση. Οι καταγγελίες στον Ευρωπαίο Διαμεσολαβητή δεν έχουν ως αποτέλεσμα ούτε την αναστολή της εν λόγω προθεσμίας ούτε την έναρξη νέας προθεσμίας υποβολής προσφυγών.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Segretariati tecnici per il gruppo di organismi notificati ai sensi della direttiva ascensori 2014/33/UE: lotto 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lotto 4: ascensori: segretariato tecnico per il gruppo degli organismi notificati ai sensi della direttiva 2014/33/UE relativa agli ascensori e ai componenti di sicurezza per ascensori.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Direttiva ascensori 2014/33/UE</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>gli incarichi saranno effettuati presso gli uffici del contraente o in qualsiasi altro luogo indicato nell'offerta, ad eccezione degli uffici della Commissione.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L'obiettivo del presente bando di gara consiste nel designare il segretariato tecnico per il gruppo di organismi notificati istituito ai sensi della direttiva 2014/33/UE relativa agli ascensori e ai componenti di sicurezza per ascensori.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>qualità dell'approccio dell'offerente relativamente al ruolo complessivo del segretariato tecnico nelle attività del gruppo di organismi notificati</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>qualità della metodologia proposta per garantire lo svolgimento degli incarichi specifici descritti nei punti pertinenti delle specifiche tecniche</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>qualità della metodologia e delle azioni proposte per stabilire buone relazioni con il gruppo di organismi di valutazione della conformità pertinenti e le principali parti interessate</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>punti/prezzo per la qualità</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>L'importo sopraindicato è per la durata massima complessiva di 4 anni.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Direttiva ascensori 2014/33/UE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale della Corte di giustizia dell'Unione europea</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza. Una denuncia al Mediatore europeo non produce né l'effetto di sospendere tale periodo né di aprirne uno nuovo per la presentazione di ricorsi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technische secretariaten voor de groep van de aangemelde instanties conform de liftenrichtlijn 2014/33/EU: Perceel 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Perceel 4: Liften: Technisch secretariaat voor de groep van aangemelde instanties krachtens Richtlijn 2014/33/EU betreffende liften en veiligheidscomponenten voor liften.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Liftenrichtlijn 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>de taken zullen worden uitgevoerd in de kantoren van de contractant of op elke andere plaats die in de inschrijving wordt vermeld, met uitzondering van de kantoren van de Commissie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Het doel van deze oproep tot inschrijvingen is het technisch secretariaat aan te duiden voor de groep van aangemelde instanties die is opgericht krachtens Richtlijn 2014/33/EU betreffende liften en veiligheidscomponenten voor liften.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>de kwaliteit van de benadering van de inschrijver met betrekking tot de algemene rol van het technisch secretariaat binnen de werkzaamheden van de groep van aangemelde instanties</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>de kwaliteit van de voorgestelde methodologie voor het waarborgen van de specifieke taken zoals beschreven in de desbetreffende punten van de technische specificaties</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>kwaliteit van de voorgestelde methodologie en acties voor het tot stand brengen van goede relaties met de groepen van relevante conformiteitsbeoordelingsinstanties en de voornaamste belanghebbenden</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kwaliteitspunten/prijs</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Het hierboven vermelde bedrag is voor de maximale looptijd van 4 jaar.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Liftenrichtlijn 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht van het Hof van Justitie van de Europese Unie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd. Een klacht bij de Europese Ombudsman leidt niet tot een opschorting van die periode, noch tot de opening van een nieuwe periode voor het instellen van een beroep.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretariados técnicos para o grupo dos organismos notificados nos termos da Diretiva Ascensores 2014/33/UE: Lote 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lote 4: Ascensores: Secretariado técnico do grupo dos organismos notificados nos termos da Diretiva 2014/33/UE respeitante a ascensores e componentes de segurança para ascensores.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Diretiva Ascensores 2014/33/UE</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>As tarefas deverão ser executadas nas instalações do contratante ou em qualquer outro local indicado na proposta, à exceção das instalações da Comissão.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O objetivo do presente concurso consiste em designar o secretariado técnico para o grupo de organismos notificados estabelecido nos termos da Diretiva 2014/33/UE, respeitante a ascensores e componentes de segurança para ascensores.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>A qualidade da abordagem do proponente à função global do secretariado técnico no trabalho do grupo de organismos notificados</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A qualidade da metodologia proposta para garantir as tarefas específicas descritas nos pontos pertinentes das especificações técnicas</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A qualidade da metodologia e ações propostas para estabelecer boas relações com os grupos de organismos de avaliação de conformidade relevantes e as principais partes interessadas</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>pontuação de qualidade/preço</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>O montante supramencionado destina-se à duração total máxima de 4 anos.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Diretiva Ascensores 2014/33/UE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral do Tribunal de Justiça da União Europeia</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao queixoso ou, na sua falta, a contar do dia em que o queixoso tenha tomado conhecimento do ato. As queixas efetuadas ao Provedor de Justiça Europeu não têm como efeito a suspensão do período em questão, nem a abertura de um novo prazo para a interposição de recursos.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tekniska sekretariat för gruppen av anmälda organ inom ramen för hissdirektivet 2014/33/EU: Del 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Del 4: Hissar: Tekniskt sekretariat för gruppen av anmälda organ inom ramen för direktiv 2014/33/EU om hissar och säkerhetskomponenter till hissar.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Hissdirektivet 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Platsen för utförandet av uppgifterna kommer att vara uppdragstagarens lokaler eller någon annan plats som anges i anbudet, med undantag för kommissionens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Syftet med denna anbudsinfordran är att utse det tekniska sekretariatet för den grupp av anmälda organ som upprättats i enlighet med direktiv 2014/33/EU om hissar och säkerhetskomponenter till hissar.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteten på anbudsgivarens tillvägagångssätt beträffande den övergripande rollen för det tekniska sekretariatet i arbetet avseende gruppen av anmälda organ</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteten på den metod som föreslås för att säkerställa att uppgifterna beskrivs med relevanta punkter i de tekniska specifikationerna</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalitet på den metod och de åtgärder som föreslås för att etablera goda relationer med grupperna av relevanta organ för bedömning av överensstämmelse och de viktigaste intressenterna</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kvalitetspoäng/pris</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Det belopp som anges ovan avser en total löptid på högst 4 år.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Hissdirektivet 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Europeiska unionens domstols tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt. Ett klagomål till Europeiska ombudsmannen leder varken till att perioden avbryts eller till att en ny period för begäran om överprövning inleds.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technické sekretariáty pro skupinu oznámených subjektů v rámci směrnice o výtazích 2014/33/EU: Položka č. 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Položka č. 4: Výtahy: Technický sekretariát pro skupinu pověřených orgánů v rámci směrnice 2014/33/EU týkající se výtahů a bezpečnostních komponent pro výtahy.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Směrnice o výtazích 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Místem provedení úkolů budou prostory poskytovatele služeb nebo jakékoliv jiné místo uvedené v nabídce s výjimkou prostor Komise.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Účelem této výzvy k podání nabídek je jmenovat technický sekretariát pro skupinu oznámených subjektů zřízený dle směrnice 2014/33/EU týkající se výtahů a bezpečnostních komponent pro výtahy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita přístupu uchazeče k celkové úloze technického sekretariátu v práci skupiny oznámených orgánů</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita navrhované metodiky na zajištění konkrétních úkolů popsaných v příslušných bodech technických specifikací</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita navrhované metodiky a akcí s cílem vytvořit dobré vztahy se skupinami příslušných orgánů posuzování shody a hlavními zúčastněnými stranami</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Body za kvalitu / cena</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Výše uvedená částka se týká maximální celkové doby trvání v délce 4 let.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Směrnice o výtazích 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál Soudního dvora Evropské unie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost. Stížnost podaná evropskému veřejnému ochránci práv nebude mít za následek ani pozastavení této lhůty ani započetí nové lhůty pro podání odvolání.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Liftide direktiivi 2014/33/EL alusel teavitatud asutuste rühmade tehnilised sekretariaadid: 4. osa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>4. osa: liftid; direktiivi 2014/33/EL (lifte ja lifti ohutusseadiseid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta) alusel teavitatud asutuste rühma tehniline sekretariaat.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Liftide direktiiv 2014/33/EL</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>ülesandeid täidetakse töövõtja ruumides või muus kohas, mis on näidatud pakkumises, välja arvatud komisjoni ruumides.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pakkumiskutse eesmärk on määrata direktiivi 2014/33/EL (lifte ja lifti ohutusseadiseid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta) alusel loodud teavitatud asutuste rühma tehniline sekretariaat.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>pakkuja käsitlusviisi kvaliteet seoses tehnilise sekretariaadi üldise rolliga teavitatud asutuste rühma töös</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehnilise kirjelduse asjaomastes punktides kirjeldatud konkreetsete ülesannete tagamiseks pakutud metoodika kvaliteet</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>asjaomaste vastavushindamisasutuste rühmade ja põhiliste sidusrühmadega heade suhete sisseseadmiseks pakutud metoodika ja meetmete kvaliteet</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kvaliteedi punktid / hind</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Eespool nimetatud maksumus on maksimaalse kogukestuse (4 aasta) kohta.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Liftide direktiiv 2014/33/EL</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Euroopa Liidu Kohtu Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi. Kaebuse esitamine Euroopa Ombudsmanile ei too kaasa apellatsioonide esitamise tähtaja peatamist ega uue tähtaja määramist.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs - Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>A felvonókról szóló 2014/33/EU irányelv értelmében bejelentett szervezetek csoportjainak technikai titkárságai: 4. tétel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>4. tétel: Felvonók: A felvonókra és a felvonókhoz készült biztonsági berendezésekre vonatkozó 2014/33/EU európai parlamenti és tanácsi irányelv értelmében bejelentett szervezetek csoportjának technikai titkársága.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Felvonókról szóló 2014/33/EU irányelv</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>A teljesítés helyszíne a nyertes ajánlattevő hivatali helyiségei vagy bármely egyéb, a pályázatban megjelölt helyszín a Bizottság irodáinak kivételével.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>E pályázati felhívás célja a felvonókról és felvonókhoz készült biztonsági berendezésekről szóló 2014/33/EU irányelv értelmében létrehozott bejelentett szervek csoportja technikai titkárságának kijelölése.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Az ajánlattevő a bejelentett szervezetek csoportja munkájában a szakmai titkárság által betöltött általános szereppel kapcsolatos megközelítésének minősége</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A műszaki dokumentáció vonatkozó pontjaiban meghatározott feladatok elvégzéséhez javasolt módszertan minősége</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A releváns megfelelőségértékelési szervek és a fő érdekelt felek csoportjaival való jó kapcsolatok kialakítására javasolt módszertan és intézkedések minősége</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>minőségi pont/ár</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A fent említett összeg a 4 éves teljes maximális időtartamra szól.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Felvonókról szóló 2014/33/EU irányelv</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Az Európai Unió Bíróságának Törvényszéke</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül. Az európai ombudsmanhoz benyújtott jogorvoslati kérelem nem eredményezi sem ezen fellebbezési időszak felfüggesztését, sem új időszak megnyílását.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Techniniai sekretoriatai notifikuotųjų įstaigų grupei pagal Europos Parlamento ir Tarybos direktyvą 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo: 4 dalis</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>4 dalis: Liftai: Techninis sekretoriatas notifikuotųjų įstaigų grupei pagal Europos Parlamento ir Tarybos direktyvą 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Europos Parlamento ir Tarybos direktyva 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo.</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Užduotys bus vykdomos rangovo ar kitose pasiūlyme nurodytose patalpose, išskyrus Komisijos patalpas.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šio kvietimo pateikti pasiūlymus tikslas – paskirti techninį sekretoriatą notifikuotųjų įstaigų grupei, įsteigtai pagal Europos Parlamento ir Tarybos direktyvą 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Konkurso dalyvių požiūrio į bendrą techninio sekretoriato funkciją notifikuotųjų įstaigų grupės darbe kokybė</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Siūlomos metodikos siekiant užtikrinti specialias užduotis, aprašytas susijusiuose techninių specifikacijų punktuose, kokybė</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Siūlomos metodikos kokybė ir veiksmai siekiant užmegzti gerus ryšius su atitinkamų atitikties vertinimo įstaigų grupėmis ir pagrindinėmis suinteresuotosiomis šalimis</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kokybės balai / kaina</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Pirmiau nurodyta suma yra ne ilgesniam nei 4 metų laikotarpiui.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Europos Parlamento ir Tarybos direktyva 2014/33/ES dėl valstybių narių įstatymų, susijusių su liftais ir liftų saugos įtaisais, suderinimo.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Europos Sąjungos Teisingumo Teismo Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei nepranešama, nuo dienos, kai informacija tampa žinoma. Dėl Europos ombudsmenui pateikto skundo šis laikotarpis nebus sustabdytas ar pradėtas naujas apeliacijų teikimo laikotarpis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehniskie sekretariāti to pilnvaroto iestāžu grupām, kas paredzētas Liftu direktīvā 2014/33/ES: 4. daļa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>4. daļa. Lifti: tehniskais sekretariāts to pilnvaroto iestāžu grupai, kas paredzētas Direktīvā 2014/33/ES attiecībā uz liftiem un liftu drošības sastāvdaļām.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Liftu direktīva 2014/33/ES</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>uzdevumu izpildes vieta ir darbuzņēmēja telpas vai jebkura cita piedāvājumā norādīta vieta, izņemot Komisijas telpas.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šā uzaicinājuma uz konkursu mērķis ir iecelt tehnisko sekretariātu to pilnvaroto iestāžu grupai, kas pilnvarotas saskaņā ar Direktīvu 2014/33/EK attiecībā uz liftiem un liftu drošības sastāvdaļām.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tās pretendenta pieejas kvalitāte, kas attiecas uz tehniskā sekretariāta vispārējo lomu pilnvaroto iestāžu grupas darbā</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tās metodikas kvalitāte, kas piedāvāta, lai izpildītu tehnisko specifikāciju attiecīgajos punktos aprakstītos īpašos uzdevumus</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tās metodikas un rīcības kvalitāte, kas piedāvāta, lai izveidotu labas attiecības ar attiecīgo atbilstības novērtēšanas iestāžu grupām un galvenajām ieinteresētajām personām</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>punkti par kvalitāti / cena</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Iepriekš minētā summa ir paredzēta maksimālajam kopējam 4 gadu darbības laikam.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Liftu direktīva 2014/33/ES</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Eiropas Savienības Tiesas Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis. Sūdzības iesniegšana Eiropas Ombudam nevar ne atlikt šo periodu, ne arī atklāt jaunu periodu pārsūdzību iesniegšanai.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Segretarjati tekniċi għall-grupp tal-entitajiet innotifikati skont id-Direttivi dwar il-Liftijiet 2014/33/UE: Ir-4 lott</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ir-4 lott: Il-liftijiet: Is-segretarjat tekniku għall-grupp tal-entitajiet innotifikati skont id-Direttiva 2014/33/UE relattivament għal liftijiet u komponenti ta’ sikurezza għal-liftijiet.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Id-Direttiva dwar il-liftijiet 2014/33/UE</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il-post fejn jitwettqu x-xogħlijiet għandu jkun il-bini tal-kuntrattur jew kwalunkwe post ieħor indikat fis-sejħa għall-offerti, bl-eċċezzjoni tal-bini tal-Kummissjoni.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L-għan ta' din is-sejħa għall-offerti hu li jinħatar is-segretarjat tekniku għall-grupp tal-entitajiet innotifikati stabbilit skont id-Direttiva 2014/33/UE relattivament għal liftijiet u komponenti ta’ sikurezza għal-liftijiet.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-kwalità tal-approċċ ta' dak li jitfa' l-offerta għar-rwol ġenerali tas-segretarjat tekniku fix-xogħol tal-grupp tal-entitajiet innotifikati</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-kwalità tal-metodoloġija proposta biex tassigura x-xogħlijiet speċifiċi deskritti fil-punti rilevanti tal-ispeċifikazzjonijiet tekniċi</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-kwalità tal-metodoloġija proposta u l-azzjonijiet biex tinbena relazzjoni tajba mal-gruppi tal-entitajiet rilevanti tal-valutazzjoni tal-konformità u l-partijiet interessati ewlenin</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Il-punti tal-kwalità/il-prezz</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>L-ammont imsemmi hawn fuq huwa għat-tul ta' żmien massimu ta' 4 snin.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Id-Direttiva dwar il-liftijiet 2014/33/UE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali tal-Qorti tal-Ġustizzja tal-Unjoni Ewropea</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż li jintbagħat lil min qiegħed iressaq l-appell jew, fin-nuqqas ta' dan, mill-jum li fih isir jaf b'dan. Ilment li jitressaq quddiem l-Ombudsman Ewropew m'għandux l-effett li jew jissospendi dan il-perijodu jew jiftaħ perijodu ġdid għat-tressiq ta' appelli.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sekretariaty techniczne dla grupy jednostek notyfikowanych na podstawie Dyrektywy 2014/33/EU w sprawie dźwigów: Część 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Część 4: dźwigi: sekretariat techniczny dla grupy jednostek notyfikowanych na podstawie dyrektywy Parlamentu Europejskiego i Rady 2014/33/UE w sprawie dźwigów i elementów bezpieczeństwa do dźwigów.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dyrektywa 2014/33/EU w sprawie dźwigów</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>miejscem wykonania zadań będzie siedziba wykonawcy lub inne miejsce wskazane w ofercie, z wyjątkiem siedziby Komisji.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Celem niniejszego zaproszenia do składania ofert jest powołanie sekretariatu technicznego dla grupy jednostek notyfikowanych ustanowionej na podstawie dyrektywy Parlamentu Europejskiego i Rady 2014/33/UE w sprawie dźwigów i elementów bezpieczeństwa do dźwigów.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jakość podejścia oferenta do ogólnej roli sekretariatu technicznego w pracach grupy jednostek notyfikowanych</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>jakość proponowanej metodologi w celu zapewnienia realizacji konkretnych zadań określonych w odpowiednich puntach specyfikacji technicznej</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>jakość proponowanej metodologii i działań mających na celu ustanowienie dobrych relacji między grupami odpowiednich organów oceny zgodności i głównymi zainteresowanymi stronami</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>stosunek punktów otrzymanych za jakość do ceny</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Kwota, o której mowa powyżej, dotyczy maksymalnego całkowitego okresu trwania wynoszącego 4 lata.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Dyrektywa 2014/33/EU w sprawie dźwigów</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd Trybunału Sprawiedliwości Unii Europejskiej</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>W ciągu 2 miesięcy od zawiadomienia strony skarżącej o rozstrzygnięciu przetargu lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości. Wniesienie skargi do Europejskiego Rzecznika Praw Obywatelskich nie skutkuje zawieszeniem ani rozpoczęciem na nowo biegu terminu składania odwołań.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technické sekretariáty pre skupinu notifikovaných orgánov podľa Smernice o výťahoch 2014/33/EÚ: Časť 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Časť 4: Výťahy: Technický sekretariát pre skupinu notifikovaných orgánov v rámci smernice 2014/33/EÚ týkajúcej sa výťahov a bezpečnostných komponentov pre výťahy.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Smernica o výťahoch 2014/33/EÚ</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Miestom vykonávania úloh budú priestory dodávateľa alebo akékoľvek iné miesta označené v ponuke, s výnimkou priestorov Komisie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cieľom tejto výzvy na súťaž je určiť technický sekretariát pre skupinu notifikovaných orgánov stanovených podľa Smernice 2014/33/EÚ týkajúcej sa výťahov a bezpečnostných komponentov pre výťahy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita prístupu uchádzača k celkovej úlohe technického sekretariátu pri práci skupiny notifikovaných orgánov</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita navrhovanej metodiky na zaistenie konkrétnych úloh opísaných v príslušných bodoch technických špecifikácií</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvalita navrhovanej metodiky a činností s cieľom vytvoriť dobré vzťahy so skupinami príslušných orgánov posudzovania zhody a hlavnými zainteresovanými stranami</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kvalitatívne body/cena</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Vyššie uvedená hodnota sa vzťahuje na celkové maximálne trvanie v dĺžke 4 rokov.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Smernica o výťahoch 2014/33/EÚ</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd Súdneho dvora Európskej únie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia žalobcu alebo v prípade, že nie je k dispozícii, odo dňa, keď túto skutočnosť zistil. Sťažnosť predložená európskemu ombudsmanovi nespôsobí prerušenie tohto obdobia, ani začatie novej lehoty na predloženie odvolaní.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehnični sekretariat za skupino priglašenih organov v skladu z Direktivo 2014/33/EU o dvigalih: sklop 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sklop 4: dvigala: tehnični sekretariat za skupino priglašenih organov v skladu z Direktivo 2014/33/EU v zvezi z dvigali in varnostnimi komponentami za dvigala.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Direktiva 2014/33/EU o dvigalih</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Naloge se bodo izvajale v prostorih izvajalca ali v katerih koli drugih prostorih, navedenih v ponudbi, z izjemo prostorov Komisije.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Namen tega javnega razpisa je imenovati tehnični sekretariat za skupino priglašenih organov, ustanovljenih v skladu z Direktivo 2014/33/EU v zvezi z dvigali in varnostnimi komponentami za dvigala.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kakovost ponudnikovega pristopa k splošni vlogi tehničnega sekretariata pri delu skupine priglašenih organov</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kakovost predlagane metodologije za izvedbo posebnih nalog, opisanih v ustreznih točkah tehničnih specifikacij</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kakovost predlagane metodologije in ukrepov za vzpostavitev dobrih odnosov s skupinami ustreznih organov za ugotavljanje skladnosti in glavnimi deležniki</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>kakovostne točke/cena</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Znesek, naveden zgoraj, se nanaša na najdaljše skupno trajanje 4 let.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Direktiva 2014/33/EU o dvigalih</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče Sodišča Evropske unije</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel. Pritožba Evropskemu varuhu človekovih pravic ne vpliva na zadržanje navedenega obdobja ali na začetek novega obdobja za vložitev pritožb.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rúnaíochtaí teicniúla don ghrúpa comhlachtaí dá dtugtar fógra faoin treoir maidir le hArdaitheoirí 2014/33/AE: Beart 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Beart 4: Ardaitheoirí: An rúnaíocht theicniúil do ghrúpaí na gcomhlachtaí dá dtugtar fógra faoi Threoir 2014/33/AE a bhaineann le hardaitheoirí agus le comhpháirteanna sábháilteachta le haghaidh ardaitheoirí.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Treoir 2014/33/AE maidir le hArdaitheoirí</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Is é áitreabh an chonraitheora nó aon áit eile a luaitear sa tairiscint áit feidhmíochta na dtascanna, ach amháin áitreabh an Choimisiúin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is é cuspóir an Ghlao seo ar Thairiscintí an Rúnaíocht Theicniúil a ainmniú don ghrúpa comhlachtaí dá dtugtar fógra a bhunaítear faoi Threoir 2014/33/CE maidir le hardaitheoirí agus le comhpháirteanna sábháilteachta le haghaidh ardaitheoirí.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Cáilíocht chur chuige an tairgeora maidir le ról foriomlán na Rúnaíochta Teicniúla in obair ghrúpa na gcomhlachtaí dá dtugtar fógra</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Cáilíocht na modheolaíochta molta chun na tascanna sainiúla ar a gcuirtear síos i bpointí ábhartha na Sonraíochtaí Teicniúla a dhearbhú</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Cáilíocht na modheolaíochta agus na ngníomhaíochtaí molta chun dea-chaidreamh a bhunú leis na grúpaí comhlachtaí um measúnú comhréireachta ábhartha agus leis na príomh-gheallsealbhóirí</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>pointí cáilíochta/praghas</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Is don tréimhse iomlán uasta 4 bliana é an méid thuasluaite.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Treoir 2014/33/AE maidir le hArdaitheoirí</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Cúirt Ghinearálta Chúirt Bhreithiúnais an Aontais Eorpaigh</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra a bheith curtha in iúl don ghearánaí, nó dá éagmais sin, ón lá a bhfuarthas an t-eolas. Ní chuirfear an tréimhse sin ar fionraí mar thoradh ar ghearán chuig an Ombudsman Eorpach ná ní chuirfear tréimhse nua ar siúl chun achomhairc a dhéanamh.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Технически секретариати за групата от нотифицирани органи по Директива 2014/33/ЕС относно асансьорите: Обособена позиция 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Обособена позиция 4: асансьори: Технически секретариат за групата от нотифицирани органи по Директива 2014/33/ЕС по отношение на асансьори и предпазни устройства за асансьори.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Директива 2014/33/ЕС относно асансьорите</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Мястото на изпълнение на задачите ще бъдат помещенията на изпълнителя или всяко друго място, посочено в офертата, с изключение на помещенията на Комисията.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Целта на тази покана за участие в търг е определянето на технически секретариат за групата от нотифицирани органи, създадени по силата на Директива 2014/33/ЕС по отношение на асансьори и предпазни устройства за асансьори.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Качество на подхода на оферента към цялостната роля на техническия секретариат в работата на групата на нотифицираните органи</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Качество на предложената методология за осигуряване на конкретните задачи, описани в съответните точки на техническите спецификации</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Качество на предложената методология и действия за установяване на добри връзки с групите от съответните органи за оценка на съответствието и основните заинтересовани лица</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Точки за качество/цена</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Сумата, посочена по-горе, е за максимална обща продължителност от 4 години.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Директива 2014/33/ЕС относно асансьорите</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд на Съда на Европейския съюз</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно. Жалба до Европейския омбудсман нито спира този срок, нито води до откриване на нов срок за подаване на жалби.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretariate tehnice pentru grupul de organisme notificate în baza Directivei privind ascensoarele 2014/33/UE: Lotul 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lotul 4: Ascensoare: Secretariat tehnic pentru grupul de organisme notificate în baza Directivei 2014/33/UE privind ascensoarele și componentele de siguranță pentru ascensoare.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Directiva privind ascensoarele 2014/33/UE</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Locul de executare a sarcinilor va fi sediul contractantului sau orice alt loc indicat în ofertă, cu excepția sediului Comisiei.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Scopul acestei licitații este de a desemna secretariatul tehnic pentru grupul de organisme notificate stabilit în baza Directivei 2014/33/UE privind ascensoarele și componentele de siguranță pentru ascensoare.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calitatea abordării ofertantului în ceea ce privește rolul general al secretariatului tehnic în cadrul activității grupului de organisme notificate</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calitatea metodologiei propuse pentru asigurarea sarcinilor specifice descrise la punctele relevante din specificațiile tehnice</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calitatea metodologiei propuse și a acțiunilor de stabilire de bune rapoarte cu grupurile organismelor relevante de evaluare a conformității și cu principalele părți interesate</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Punctele pentru calitate/prețul</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Valoarea menționată mai sus este pentru durata totală maximă de 4 ani.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Directiva privind ascensoarele 2014/33/UE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul Curții de Justiție a Uniunii Europene</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv. O plângere depusă la Ombudsmanul European nu are drept efect suspendarea acestui termen sau deschiderea unui nou termen pentru utilizarea căilor de atac.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehnička tajništva za skupinu prijavljenih tijela u okviru Direktive o dizalima 2014/33/EU: Grupa 4</P>
+            </TITLE>
+            <REFERENCE_NUMBER>608/PP/GRO/IMA/17/1135/9564</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Grupa 4: Dizala: Tehničko tajništvo za skupinu prijavljenih tijela u okviru Direktive 2014/33/EU o dizalima i sigurnosnim komponentama za dizala.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Direktiva o dizalima 2014/33/EU</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Mjesto izvršavanja zadataka su prostori izvoditelja ili bilo koje drugo mjesto navedeno u ponudi, s iznimkom Komisijinih prostora.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Svrha je ovog poziva na nadmetanje odrediti tehničko tajništvo za skupinu prijavljenih tijela uspostavljenu Direktivom 2014/33/EU o dizalima i sigurnosnim komponentama za dizala.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteta pristupa ponuditelja ukupnoj ulozi tehničkog tajništva u radu skupine prijavljenih tijela</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteta predložene metodologije za osiguravanje određenih zadataka opisanih u relevantnim točkama tehničkih specifikacija</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kvaliteta predložene metodologije i aktivnosti za postizanje dobrog odnosa sa skupinama relevantnih tijela za procjenu sukladnosti i glavnim dionicima</AC_CRITERION>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>Bodovi za kvalitetu/cijena</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Prethodno navedeni iznos je za najduže ukupno trajanje od 4 godine.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 084-162471</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>SI2.767063</CONTRACT_NO>
+            <TITLE>
+               <P>Direktiva o dizalima 2014/33/EU</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-12</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abertech SNC di Sara Balzano &amp; Walter Ferrari</OFFICIALNAME>
+                     <NATIONALID>01636480228</NATIONALID>
+                     <ADDRESS>Via Dante nº 48</ADDRESS>
+                     <TOWN>Rovereto</TOWN>
+                     <POSTAL_CODE>38068</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <E_MAIL>info@abertech.it</E_MAIL>
+                     <n2016:NUTS CODE="IT"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">188000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">168400.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud Suda Europske unije</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje. Podnošenjem pritužbe Europskom ombudsmanu ne obustavlja se ovo razdoblje i ne otvara se novo razdoblje za podnošenje žalbi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-10</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

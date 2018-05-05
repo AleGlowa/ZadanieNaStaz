@@ -1,0 +1,3382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="166097-2018"
+            EDITION="2018075">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-161814-001</RECEPTION_ID>
+      <DELETION_DATE>20180531</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>75</NO_OJ>
+         <DATE_PUB>20180418</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 075-166097</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:166097-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="71300000">Engineering services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">180000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180411</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180531 16:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Teknisk sekretariat til gruppen af de bemyndigede organer under forordningen om personlige værnemidler (EU) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technisches Sekretariat für die Gruppe der in Kenntnis gesetzten Stellen gemäß der Verordnung über persönliche Schutzausrüstungen (EU) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Technical Secretariat for the group of notified bodies under the Personal Protective Equipment Regulation (EU) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretaría técnica para el grupo de organismos notificados en el marco de la Directiva sobre equipos de protección individual, Reglamento (UE) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Henkilösuojaimia koskevan asetuksen (EU) 2016/425 yhteydessä ilmoitettujen laitosten ryhmän tekninen sihteeristö</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Secrétariat technique pour le groupe d’organismes notifiés visés par le règlement relatif aux équipements de protection individuelle (EU) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Τεχνική γραμματεία για την ομάδα των γνωστοποιηθέντων οργανισμών στο πλαίσιο της οδηγίας 2016/425/ΕΟΚ σχετικά με τα μέσα ατομικής προστασίας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Segretariato Tecnico per il gruppo degli organismi notificati previsti dalla direttiva (UE) 2016/425, relativa ai Dispositivi di Protezione Individuale</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technisch secretariaat voor de groep van aangemelde instanties krachtens Verordening (EU) 2016/425 betreffende persoonlijke beschermingsmiddelen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretariado técnico do grupo dos organismos notificados nos termos do Regulamento (UE) 2016/425 relativo aos equipamentos de proteção individual</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tekniskt sekretariat för gruppen av anmälda organ inom ramen för förordning (EU) 2016/425 om personlig skyddsutrustning</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technický sekretariát pro skupinu pověřených orgánů týkající se osobních ochranných pomůcek v rámci nařízení EU č. 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Isikukaitsevahendeid käsitleva määruse (EL) 2016/425 alusel teavitatud asutuste rühma tehniline sekretariaat</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Az egyéni védőeszközökről szóló 2016/425/EU rendelet szerint bejelentett szervezetek csoportjának szakmai titkársága</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Pagal Reglamentą (ES) 2016/425 dėl asmeninių apsaugos priemonių paskelbtųjų įstaigų grupės techninis sekretoriatas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Pilnvaroto iestāžu grupas tehniskais sekretariāts Regulas (ES) 2016/425 par individuālajiem aizsardzības līdzekļiem ietvaros</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Is-Segretarjat Tekniku għall-grupp ta' korpi nnotifikati li jaqa' taħt ir-Regolament (UE) 2016/425 dwar Tagħmir ta' Protezzjoni Personali</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Sekretariat techniczny grupy jednostek notyfikowanych na podstawie rozporządzenia w sprawie środków ochrony indywidualnej (UE) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Technický sekretariát pre skupinu notifikovaných orgánov v rámci nariadenia o osobných ochranných prostriedkoch (EÚ) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehnični sekretariat za skupino priglašenih organov iz Uredbe (EU) 2016/425 o osebni varovalni opremi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>An rúnaíocht theicniúil do ghrúpa na gcomhlachtaí ar tugadh fógra dóibh faoi Rialachán (AE) 2016/425 maidir le trealamh cosanta pearsanta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Технически секретариат за групата на нотифицирани органи по Регламент (ЕС) 2016/425 относно личните предпазни средства</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Secretariat tehnic pentru grupul de organisme notificate în baza Regulamentului (UE) 2016/425 privind echipamentul individual de protecție</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Tehničko tajništvo za skupinu prijavljenih tijela u okviru Uredbe o osobnoj zaštitnoj opremi (EU) 2016/425</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen — Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="EN">European Commission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon – Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs – Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija – Directorate General for Internal Market, Industry, Entrepreneurship and SMEs – Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen — Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Teknisk sekretariat til gruppen af de bemyndigede organer under forordningen om personlige værnemidler (EU) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>For at udpege det tekniske sekretariat til grupperne af bemyndigede organer, der blev oprettet under forordningen om personlige værnemidler (EU) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Udførelsesstedet for opgaverne vil være kontrahentens lokaler eller andre steder, som angivet i buddet, undtagen hos Kommissionen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>For at udpege det tekniske sekretariat til grupperne af bemyndigede organer, der blev oprettet under forordningen om personlige værnemidler (EU) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kontrakten kan fornys 3 gange for en periode på 12 måneder, men kun efter udtrykt skriftlig aftale mellem begge parter før betaling af saldoen. Forlængelse ændrer eller udsætter ikke eksisterende forpligtelser.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Det beløb, der er anført ovenfor i punkt II.1.5) og II.2.6) gælder for den samlede varighed på højst 4 år. Anslået værdi pr. år er 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europa-Kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Virksomheder, der ønsker at deltage, bedes meddele dette ved fremsendelse af en e-mail til GROW-C-FINANCIAL-TEAM@ec.europa.eu mindst 48 timer i forvejen. Meddelelsen skal underskrives af en bemyndiget ansat hos tilbudsgiveren. Tilbudsgivere, der afgiver et bud og ikke var til stede ved åbningen, kan anmode om at få oplyst, om deres tilbud er gyldigt samt identiteten af de andre tilbudsgivere.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 måneder</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se udbuddet: https://etendering.ted.europa.eu/cft/cft-display.html?cftid=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technisches Sekretariat für die Gruppe der in Kenntnis gesetzten Stellen gemäß der Verordnung über persönliche Schutzausrüstungen (EU) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Benennung des Technischen Sekretariats für die Gruppen der in Kenntnis gesetzten Stellen, die gemäß der Verordnung (EU) 2016/425 über persönliche Schutzausrüstungen errichtet wurden.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Die Aufgaben sind in den Räumlichkeiten des Auftragnehmers durchzuführen oder an jedem anderen Ort, der im Angebot genannt wird; ausgenommen sind die Räumlichkeiten der Kommission.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Benennung des Technischen Sekretariats für die Gruppen der in Kenntnis gesetzten Stellen, die gemäß der Verordnung (EU) 2016/425 über persönliche Schutzausrüstungen errichtet wurden.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Der Vertrag kann 3-mal um einen Zeitraum von 12 Monaten verlängert werden, jedoch ausschließlich mit ausdrücklicher schriftlicher Zustimmung der Vertragsparteien vor Zahlung des Restbetrags. Die Verlängerung bewirkt weder die Veränderung noch den Aufschub einer bestehenden Verpflichtung.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Der zuvor unter Ziffer II.1.5 und II.2.6 genannte Betrag bezieht sich auf die maximale Gesamtlaufzeit von 4 Jahren. Der geschätzte Wert pro Jahr beläuft sich auf 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europäische Kommission, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Unternehmen, die teilnehmen möchten, müssen ihre Absicht mindestens 48 Stunden im Voraus mitteilen, indem sie eine E-Mail an GROW-C-FINANCIAL-TEAM@ec.europa.eu senden. Diese Mitteilung muss von einem bevollmächtigten Vertreter der Bieter unterzeichnet sein. Bieter, die ein Angebot eingereicht haben und nicht bei der Öffnung der Angebote anwesend waren, können beantragen, über die Entscheidung, ob ihr Angebot zulässig war, sowie über die Identität der anderen Bieter in Kenntnis gesetzt zu werden.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 Monate</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Siehe Ausschreibungsunterlagen: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technical Secretariat for the group of notified bodies under the Personal Protective Equipment Regulation (EU) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>To designate the Technical Secretariat for the groups of notified bodies established under Personal Protective Equipment Regulation (EU) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>The place of performance of the tasks shall be the contractor's premises or any other place indicated in the tender, with the exception of the Commission's premises.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>To designate the Technical Secretariat for the groups of notified bodies established under Personal Protective Equipment Regulation (EU) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>The contract may be renewed 3 times for a period of 12 months, only with the express written agreement of the Contracting parties before the payment of the balance. Renewal does not change or postpone any existing obligation.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>The amount mentioned above under Point II.1.5) and II.2.6) is for the maximum total duration of 4 years. Estimated value per year is 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>European Commission, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgium.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Companies wishing to attend must notify their intention by sending an email to GROW-C-FINANCIAL-TEAM@ec.europa.eu at least 48 hours in advance. This notification must be signed by an authorised officer of the tenderers. Tenderers who submitted an offer and were not present at the opening may request to be informed if their offer was admissible as well as of the identity of the other tenderers.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 months</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>See invitation to tender: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretaría técnica para el grupo de organismos notificados en el marco de la Directiva sobre equipos de protección individual, Reglamento (UE) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Designar la Secretaría técnica para el grupo de organismos notificados establecidos en el marco de la Directiva sobre equipos de protección individual, Reglamento (UE) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Las tareas se desarrollarán en las instalaciones del contratista o en otro sitio indicado en el concurso, a excepción de las instalaciones de la Comisión.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Designar la Secretaría técnica para el grupo de organismos notificados establecidos en el marco de la Directiva sobre equipos de protección individual, Reglamento (UE) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>El contrato podrá ser renovado en 3 ocasiones por un período de 12 meses, únicamente con el acuerdo expreso por escrito de las partes contratantes antes del pago del saldo. La renovación no modifica ni aplaza ninguna de las obligaciones existentes.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>El importe indicado en los apartados II.1.5) y II.2.6) corresponde a la duración máxima total de 4 años. El importe estimado por año es de 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Comisión Europea, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d'Auderghem 45, 1049 Brussels, Bélgica.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Las empresas que deseen asistir deberán notificarlo enviando un correo electrónico a: GROW-C-FINANCIAL-TEAM@ec.europa.eu con al menos 48 horas de antelación. Esta notificación deberá estar firmada por un representante autorizado del licitador. Los licitadores que hayan presentado una oferta y no asistan a la sesión de apertura podrán solicitar que se les comunique si su oferta ha sido aceptada, así como la identidad de los otros licitadores.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 meses</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Véase la invitación a licitar: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Henkilösuojaimia koskevan asetuksen (EU) 2016/425 yhteydessä ilmoitettujen laitosten ryhmän tekninen sihteeristö</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Henkilösuojaimia koskevan asetuksen (EU) 2016/425 yhteydessä ilmoitettujen laitosten ryhmän tekninen sihteeristön nimittäminen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>tehtävät suoritetaan sopimusosapuolen toimitiloissa tai tarjouksessa ilmoitetussa muussa paikassa lukuun ottamatta komission toimitiloja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Henkilösuojaimia koskevan asetuksen (EU) 2016/425 yhteydessä ilmoitettujen laitosten ryhmän tekninen sihteeristön nimittäminen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Sopimus voidaan uusia 3 kertaa 12 kuukauden kestoajaksi. Sopimus voidaan uusia ainoastaan ennen loppumaksun maksamista sopimusosapuolten välisellä nimenomaisella kirjallisella hyväksynnällä. Uusimisella ei muuteta eikä lykätä mitään nykyisiä velvoitteita.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Kohdissa II.1.5 ja II.2.6 mainittu summa on tarkoitettu koko 4 vuoden enimmäiskestoajalle. Arvioitu vuotuinen arvo on 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Euroopan komissio, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d’Auderghem 45, 1049 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Yritysten, jotka haluavat osallistua avaustilaisuuteen, on ilmoitettava aikomuksestaan lähettämällä sähköpostia osoitteeseen GROW-C-FINANCIAL-TEAM@ec.europa.eu vähintään 48 tuntia etukäteen. Tässä ilmoituksessa on oltava tarjoajien valtuuttaman virkailijan allekirjoitus. Tarjoajat, jotka jättivät tarjouksen mutta eivät olleet paikalla tarjousten avaustilaisuudessa, voivat pyytää tietoa tarjouksensa hyväksyttävyydestä sekä muista tarjoajista.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 kuukautta</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Katso tarjouspyyntö: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secrétariat technique pour le groupe d’organismes notifiés visés par le règlement relatif aux équipements de protection individuelle (EU) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pour désigner le secrétariat technique pour le groupe d’organismes établis au titre du règlement relatif aux équipements de protection individuelle (EU) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Les tâches seront exécutées dans les locaux du contractant ou dans tout autre lieu indiqué dans l'offre, à l'exception des locaux de la Commission.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pour désigner le secrétariat technique pour le groupe d’organismes établis au titre du règlement relatif aux équipements de protection individuelle (EU) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>le contrat pourra être reconduit à 3 reprises pour une période de 12 mois, uniquement avec l'accord écrit exprès des parties contractantes avant le paiement du solde. La reconduction n'a pas pour effet de modifier ou de suspendre les obligations existantes.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Le montant mentionné plus haut aux points II.1.5) et II.2.6) correspond à la durée totale maximale de 4 ans. Le montant annuel est estimé à 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Commission européenne, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussel, Belgique.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Les sociétés qui souhaitent y assister devront faire part de leur intention par courrier électronique (GROW-C-FINANCIAL-TEAM@ec.europa.eu), au moins 48 heures à l'avance. Cette notification devra être signée par un mandataire des soumissionnaires. Les soumissionnaires qui ont présenté une offre et qui n'ont pas assisté à l'ouverture des offres pourront demander si leur offre est admissible ainsi que l'identité des autres soumissionnaires.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mois</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Voir invitation à soumissionner : https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Τεχνική γραμματεία για την ομάδα των γνωστοποιηθέντων οργανισμών στο πλαίσιο της οδηγίας 2016/425/ΕΟΚ σχετικά με τα μέσα ατομικής προστασίας</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Διορισμός της τεχνικής γραμματείας για την ομάδα των γνωστοποιηθέντων οργανισμών στο πλαίσιο της οδηγίας 2016/425/ΕΟΚ σχετικά με τα μέσα ατομικής προστασίας.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Ο τόπος εκτέλεσης των καθηκόντων θα είναι οι εγκαταστάσεις του αναδόχου ή οποιοσδήποτε άλλος τόπος αναφέρεται στα έγγραφα του διαγωνισμού, εκτός των εγκαταστάσεων της Επιτροπής.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Διορισμός της τεχνικής γραμματείας για την ομάδα των γνωστοποιηθέντων οργανισμών στο πλαίσιο της οδηγίας 2016/425/ΕΟΚ σχετικά με τα μέσα ατομικής προστασίας.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Η σύμβαση δύναται να ανανεωθεί 3 φορές για περίοδο 12 μηνών, μόνο κατόπιν γραπτής συμφωνίας μεταξύ των συμβαλλόμενων μερών πριν από την πληρωμή του υπολοίπου. Η ανανέωση δεν μεταβάλλει ούτε αναστέλλει τυχόν υπάρχουσες υποχρεώσεις.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Το ποσό που αναφέρεται ανωτέρω στα σημεία II.1.5 και II.2.6 αντιστοιχεί στη μέγιστη συνολική διάρκεια των 4 ετών. Η εκτιμώμενη αξία ανά έτος είναι 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Ευρωπαϊκή Επιτροπή, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Βέλγιο.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Οι εταιρείες που επιθυμούν να παραστούν πρέπει να κοινοποιήσουν την πρόθεσή τους αποστέλλοντας μήνυμα ηλεκτρονικού ταχυδρομείου στη διεύθυνση GROW-C-FINANCIAL-TEAM@ec.europa.eu τουλάχιστον 48 ώρες νωρίτερα. Η κοινοποίηση αυτή πρέπει να είναι υπογεγραμμένη από εξουσιοδοτημένο υπάλληλο των υποψηφίων. Οι υποψήφιοι που έχουν υποβάλει προσφορά και δεν θα παραστούν κατά την αποσφράγιση μπορούν να ζητήσουν να ενημερωθούν εάν έγινε δεκτή η προσφορά τους καθώς και σχετικά με την ταυτότητα των άλλων υποψηφίων.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 μήνες</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Βλέπε πρόσκληση υποβολής προσφορών: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Segretariato Tecnico per il gruppo degli organismi notificati previsti dalla direttiva (UE) 2016/425, relativa ai Dispositivi di Protezione Individuale</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Designare il Segretariato Tecnico per il gruppo degli organismi notificati stabiliti ai sensi della direttiva (UE) 2016/425, relativa ai Dispositivi di Protezione Individuale.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il luogo di esecuzione degli incarichi sarà presso i locali del contraente o in qualsiasi altro luogo indicato nell'offerta ad eccezione degli uffici della Commissione.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Designare il Segretariato Tecnico per il gruppo degli organismi notificati stabiliti ai sensi della direttiva (UE) 2016/425, relativa ai Dispositivi di Protezione Individuale.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Il contratto potrà essere rinnovato 3 volte per un periodo di 12 mesi, solo con l'esplicito accordo scritto delle parti contraenti prima del pagamento del saldo. Il rinnovo non modifica o rinvia l’obbligo esistente.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>L'importo summenzionato di cui al punto II.1.5) e II.2.6) è per la durata massima complessiva di 4 anni. Il valore stimato annuo è di 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Commissione europea, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d'Auderghem 45, 1049 Brussels, Belgio.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Le società che desiderano partecipare devono comunicare la propria intenzione inviando una e-mail all'indirizzo GROW-C-FINANCIAL-TEAM@ec.europa.eu con almeno 48 ore di anticipo. Tale notifica dovrà recare la firma di un funzionario autorizzato degli offerenti. I candidati che hanno presentato un'offerta e non saranno presenti all'apertura delle offerte, potranno chiedere di essere informati sull’ammissibilità della propria offerta, nonché sull'identità degli altri offerenti.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mesi</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Cfr. bando di gara: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technisch secretariaat voor de groep van aangemelde instanties krachtens Verordening (EU) 2016/425 betreffende persoonlijke beschermingsmiddelen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Het toewijzen van het technisch secretariaat voor de groep van aangemelde instanties vastgesteld krachtens Verordening (EU) 2016/425 betreffende persoonlijke beschermingsmiddelen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>de taken zullen worden uitgevoerd in de kantoren van de contractant of op elke andere plaats die in de inschrijving wordt vermeld, met uitzondering van de kantoren van de Commissie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Het toewijzen van het technisch secretariaat voor de groep van aangemelde instanties vastgesteld krachtens Verordening (EU) 2016/425 betreffende persoonlijke beschermingsmiddelen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De overeenkomst kan 3 keer worden verlengd voor telkens 12 maanden, uitsluitend met het uitdrukkelijke schriftelijke akkoord van de overeenkomstsluitende partijen vóór de betaling van het saldo. Een verlenging leidt niet tot een wijziging of uitstel van de bestaande verplichting.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Het bovenstaande bedrag vermeld in II.1.5 en II.2.6 is voor de maximale looptijd van 4 jaar. De geraamde waarde per jaar bedraagt 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europese Commissie, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d'Auderghem 45, 1049 Brussels, België.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Bedrijven die de opening willen bijwonen, moeten dit minstens 48 uur van tevoren meedelen via e-mail op: grow-c-financial-team@ec.europa.eu. Deze kennisgeving moet door een gemachtigde vertegenwoordiger van de inschrijver zijn ondertekend. Inschrijvers die een inschrijving hebben ingediend en niet aanwezig waren op de opening, kunnen vragen op de hoogte te worden gehouden over de aanvaardbaarheid van hun inschrijving en de identiteit van de andere inschrijvers.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 maanden</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>zie uitnodiging tot inschrijving: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretariado técnico do grupo dos organismos notificados nos termos do Regulamento (UE) 2016/425 relativo aos equipamentos de proteção individual</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Designar o secretariado técnico do grupo dos organismos notificados estabelecidos nos termos do Regulamento (UE) 2016/425 relativo aos equipamentos de proteção individual.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>As tarefas deverão ser executadas nas instalações do contratante ou em qualquer outro local indicado na proposta, à exceção das instalações da Comissão.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Designar o secretariado técnico do grupo dos organismos notificados estabelecidos nos termos do Regulamento (UE) 2016/425 relativo aos equipamentos de proteção individual.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>O contrato poderá ser renovado 3 vezes por um período de 12 meses, apenas mediante acordo expresso por escrito das partes contratantes antes do pagamento do saldo. A renovação não altera nem adia qualquer obrigação existente.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A quantia supramencionada nos pontos II.1.5) e II.2.6) refere-se à duração máxima total de 4 anos. O valor estimado por ano corresponde a 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Comissão Europeia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Bélgica.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>As empresas que pretendam participar devem comunicar a sua intenção por correio eletrónico para o endereço GROW-C-FINANCIAL-TEAM@ec.europa.eu com uma antecedência mínima de 48 horas. Esta notificação deve ser assinada por um agente autorizado dos proponentes. Os proponentes que apresentaram uma proposta e não estiveram presentes na abertura podem solicitar ser informados da admissibilidade, ou não, da sua proposta, bem como da identidade dos restantes proponentes.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 meses</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ver convite à apresentação de propostas: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tekniskt sekretariat för gruppen av anmälda organ inom ramen för förordning (EU) 2016/425 om personlig skyddsutrustning</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Att utse det tekniska sekretariatet för grupperna av anmälda organ inom ramen för förordning (EU) 2016/425 om personlig skyddsutrustning.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Platsen för utförandet av uppgifterna kommer att vara uppdragstagarens lokaler eller annan plats som angetts i anbudet med undantag för kommissionens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Att utse det tekniska sekretariatet för grupperna av anmälda organ inom ramen för förordning (EU) 2016/425 om personlig skyddsutrustning.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kontraktet kan förnyas 3 gånger för en period på 12 månader, endast med kontraktsparternas uttryckliga skriftliga medgivande före slutbetalningen. En förnyelse ändrar inte och skjuter inte upp befintliga åtaganden.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Beloppet som anges under punkt II.1.5) och II.2.6) avser den längsta totala löptiden på 4 år. Uppskattat värde per år är 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europeiska kommissionen, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d'Auderghem 45, 1049 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Företag som önskar närvara ska anmäla sig via e-post till GROW-C-FINANCIAL-TEAM@ec.europa.eu minst 48 timmar i förväg. Denna anmälan ska undertecknas av en behörig representant för anbudsgivaren. Anbudsgivare som lämnat anbud och som inte närvarade vid öppningen kan begära information om huruvida anbudet godkändes samt om de andra anbudsgivarnas identitet.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 månader</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se anbudsinfordran: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technický sekretariát pro skupinu pověřených orgánů týkající se osobních ochranných pomůcek v rámci nařízení EU č. 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>S cílem jmenovat technický sekretariát pro skupinu pověřených orgánů týkající se osobních ochranných pomůcek v rámci nařízení EU č. 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Místem provedení úkolů budou prostory poskytovatele služeb nebo jakékoliv jiné místo uvedené v nabídce s výjimkou prostor Komise.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>S cílem jmenovat technický sekretariát pro skupinu pověřených orgánů týkající se osobních ochranných pomůcek v rámci nařízení EU č. 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Tuto smlouvu lze prodloužit 3krát o dobu 12 měsíců, a to pouze s výslovným písemným souhlasem smluvních stran před úhradou zůstatkové částky. Obnovením se nemění, ani neodkládají žádné stávající závazky.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Částka uvedená v bodech II.1.5) a II.2.6) je na maximální celkovou dobu trvání 4 let. Odhadovaná roční hodnota je ve výši 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Evropská komise, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, avenue d'Auderghem 45, 1049 Brussels, Belgie.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Společnosti, které se chtějí zúčastnit, jsou povinny svůj záměr oznámit zasláním e-mailu na adresu GROW-C-FINANCIAL-TEAM@ec.europa.eu alespoň 48 hodin předem. Toto oznámení musí podepsat oprávněný zástupce uchazeče. Uchazeči, kteří předložili nabídku, ale nezúčastnili se otevírání nabídek, jsou oprávněni požádat, aby byli informováni o tom, zda byla jejich nabídka přijatelná, a o totožnosti ostatních uchazečů.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 měsíců</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Viz výzva k podání nabídky: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon – Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs – Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Isikukaitsevahendeid käsitleva määruse (EL) 2016/425 alusel teavitatud asutuste rühma tehniline sekretariaat</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Isikukaitsevahendeid käsitleva määruse (EL) 2016/425 kohaselt loodud teavitatud asutuste rühma tehnilise sekretariaadi määramine.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>ülesandeid täidetakse töövõtja ruumides või muus kohas, mis on näidatud pakkumises, välja arvatud komisjoni ruumid.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Isikukaitsevahendeid käsitleva määruse (EL) 2016/425 kohaselt loodud teavitatud asutuste rühma tehnilise sekretariaadi määramine.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Lepingut võidakse uuendada 3 korda 12 kuuks ning seda vaid enne jääksumma tasumist lepinguosaliste kirjaliku sõnaselge kokkuleppe alusel. Uuendamine ei muuda ega lükka edasi olemasolevaid kohustusi.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Eespool punktides II.1.5) ja II.2.6) nimetatud maksumus on maksimaalseks 4aastaseks kogukestuseks. Hinnanguline maksumus aasta kohta on 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Euroopa Komisjon, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Osaleda soovivad ettevõtted peavad sellest teatama vähemalt 48 tundi ette e-postiga aadressil GROW-C-FINANCIAL-TEAM@ec.europa.eu. Selle teate peab olema allkirjastanud pakkuja volitatud ametnik. Pakkumise esitanud pakkujad, kes ei osalenud avamisel, võivad taotleda teavet oma pakkumise nõuetekohasuse kohta ning teiste pakkujate identiteedi kohta.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 kuud</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>vt pakkumuskutset aadressil: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Az egyéni védőeszközökről szóló 2016/425/EU rendelet szerint bejelentett szervezetek csoportjának szakmai titkársága</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Az egyéni védőeszközökről szóló 2016/425/EU rendelet szerint bejelentett szervezetek csoportja szakmai titkárságának kijelölése.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>A teljesítés helyszíne a nyertes ajánlattevő hivatali helyiségei vagy bármely egyéb, a pályázatban megjelölt helyszín a Bizottság irodáinak kivételével.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Az egyéni védőeszközökről szóló 2016/425/EU rendelet szerint bejelentett szervezetek csoportja szakmai titkárságának kijelölése.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A szerződés 3 alkalommal meghosszabbítható 12-12 hónapra, kizárólag a szerződő feleknek a kifejezett írásbeli megállapodásával az egyenleg rendezése előtt. A meghosszabbítás nem változtat, illetve halaszt el semmilyen meglévő kötelezettséget.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A fenti II.1.5. és II.2.6. pontban említett összeg a 4 éves maximális időtartamra vonatkozik. A becsült érték évente 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Európai Bizottság, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C, Unit C3, avenue d'Auderghem 45, 1049 Brussels, Belgium.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Azoknak a vállalatoknak, amelyek részt kívánnak venni, szándékukat jelezniük kell e-mail küldésével a GROW-C-FINANCIAL-TEAM@ec.europa.eu e-mail-címre legalább 48 órával korábban. Az értesítést a pályázók meghatalmazott tisztségviselőjének kell aláírnia. Azok az ajánlattevők, akik ajánlatot nyújtottak be, és nem voltak jelen a bontási ülésen, tájékoztatást kérhetnek arról, hogy az ajánlatuk elfogadható volt-e, illetve a többi ajánlattevő kilétéről.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 hónap</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lásd az ajánlattételi felhívást: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pagal Reglamentą (ES) 2016/425 dėl asmeninių apsaugos priemonių paskelbtųjų įstaigų grupės techninis sekretoriatas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Paskirti paskelbtųjų įstaigų grupės techninį sekretoriatą pagal Reglamentą (ES) 2016/425 dėl asmeninių apsaugos priemonių.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Užduotys bus vykdomos rangovo ar kitose pasiūlyme nurodytose patalpose, išskyrus Komisijos patalpas.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Paskirti paskelbtųjų įstaigų grupės techninį sekretoriatą pagal Reglamentą (ES) 2016/425 dėl asmeninių apsaugos priemonių.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Sutartis gali būti atnaujinta 3 kartus 12 mėnesių laikotarpiui, bet tik iki balanso sumokėjimo ir su specialiu raštišku šalių susitarimu. Atnaujinimas nereiškia, kad esamas įsipareigojimas bus pakeistas ar atidėtas.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Suma, nurodyta II.1.5 ir II.2.6 dalyse, yra skirta bendram daugiausia 4 metų laikotarpiui. Numatyta vertė per metus yra 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europos Komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pageidaujančių dalyvauti bendrovių prašoma apie tai pranešti el. paštu GROW-C-FINANCIAL-TEAM@ec.europa.eu bent prieš 48 valandas. Šį pranešimą turi pasirašyti įgaliotasis konkurso dalyvių atstovas. Pasiūlymą pateikę ir vokų su pasiūlymais atplėšime nedalyvavę konkurso dalyviai gali paprašyti informuoti juos, ar jų pasiūlymas buvo priimtinas, ir nurodyti kitų konkurso dalyvių tapatybes.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mėnesiai</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Žr. kvietimą pateikti pasiūlymus: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija – Directorate General for Internal Market, Industry, Entrepreneurship and SMEs – Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pilnvaroto iestāžu grupas tehniskais sekretariāts Regulas (ES) 2016/425 par individuālajiem aizsardzības līdzekļiem ietvaros</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Mērķis ir iecelt pilnvaroto iestāžu grupas tehnisko sekretariātu, kas izveidots Regulas (ES) 2016/425 par individuālajiem aizsardzības līdzekļiem ietvaros.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>uzdevumu izpildes vieta ir darbuzņēmēja telpas vai jebkura cita piedāvājumā norādīta vieta, izņemot Komisijas telpas.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Mērķis ir iecelt pilnvaroto iestāžu grupas tehnisko sekretariātu, kas izveidots Regulas (ES) 2016/425 par individuālajiem aizsardzības līdzekļiem ietvaros.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>līgumu var atjaunot 3 reizes uz 12 mēnešiem tikai ar līgumslēdzēju pušu skaidru rakstisku vienošanos pirms atlikuma maksājuma. Atjaunošana nemaina un neatceļ spēkā esošās saistības.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Iepriekš II.1.5) un II.2.6) iedaļā minētā summa ir paredzēta maksimālajam kopējam 4 gadu darbības laikam. Paredzamā vērtība gadā ir 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eiropas Komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Beļģija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>uzņēmumiem, kas vēlas piedalīties, par to jāpaziņo vismaz 48 stundas iepriekš, nosūtot e-pastu uz GROW-C-FINANCIAL-TEAM@ec.europa.eu. Šim paziņojumam jābūt pretendenta pilnvarota pārstāvja parakstītam. Pretendenti, kas iesnieguši piedāvājumu un nav piedalījušies atvēršanas sanāksmē, var lūgt informāciju par to, vai to piedāvājums bijis pieņemams, kā arī par pārējo pretendentu identitāti.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mēneši</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Skatīt uzaicinājumu uz konkursu: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Is-Segretarjat Tekniku għall-grupp ta' korpi nnotifikati li jaqa' taħt ir-Regolament (UE) 2016/425 dwar Tagħmir ta' Protezzjoni Personali</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Biex jinħatar is-Segretarjat Tekniku għall-gruppi ta' korpi nnotifikati stabbiliti taħt ir-Regolament (UE) 2016/425 dwar Tagħmir ta' Protezzjoni Personali.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il-post fejn jitwettqu x-xogħlijiet għandu jkun il-bini tal-kuntrattur jew kwalunkwe post ieħor indikat fis-sejħa għall-offerti, bl-eċċezzjoni tal-bini tal-Kummissjoni.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Biex jinħatar is-Segretarjat Tekniku għall-gruppi ta' korpi nnotifikati stabbiliti taħt ir-Regolament (UE) 2016/425 dwar Tagħmir ta' Protezzjoni Personali.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Il-kuntratt jista' jiġġedded sa 3 darbiet għal perijodu ta' 12-il xahar, bi ftehim espress bil-miktub biss tal-Partijiet li qed jieħdu sehem fil-kuntratt qabel il-ħlas tal-bilanċ. It-tiġdid la jbiddel u lanqas jipposponi xi obbligi eżistenti.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>L-ammont imsemmi hawn fuq taħt il-Punt II.1.5) u II.2.6) hu għat-tul ta' żmien massimu kollu ta' 4 snin. Il-valur stmat għal kull sena huwa ta' 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Il-Kummissjoni Ewropea, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, il-Belġju.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Il-kumpaniji li jixtiequ jattendu iridu javżaw bl-intenzjoni tagħhom billi jibagħtu Email lil GROW-C-FINANCIAL-TEAM@ec.europa.eu mill-inqas 48 siegħa bil-quddiem. Din in-notifika għandha tkun iffirmata minn rappreżentant awtorizzat ta' dawk li qegħdin jitfgħu l-offerta. Dawk li jitfgħu l-offerti li tefgħu offerta u ma kinux preżenti għall-ftuħ jistgħu jitolbu li jkunu infurmati jekk l-offerta tagħhom kinitx ammissibbli kif ukoll mill-identità ta' dawk l-oħra li tefgħu l-offerti.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 xahar</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ara l-istedina għall-offerti: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sekretariat techniczny grupy jednostek notyfikowanych na podstawie rozporządzenia w sprawie środków ochrony indywidualnej (UE) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Wyznaczenie sekretariatu technicznego dla grup jednostek notyfikowanych ustanowionych na mocy rozporządzenia w sprawie środków ochrony indywidualnej (UE) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Miejscem wykonania zadania będzie siedziba wykonawcy lub inne miejsce wskazane w ofercie, z wyjątkiem siedziby Komisji.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wyznaczenie sekretariatu technicznego dla grup jednostek notyfikowanych ustanowionych na mocy rozporządzenia w sprawie środków ochrony indywidualnej (UE) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>umowa może zostać odnowiona 3-krotnie, każdorazowo na okres 12 miesięcy: odnowienie następuje wyłącznie za wyraźną pisemną zgodą umawiających się stron przed zapłatą ostatniej części należności. Przedłużenie nie powoduje zmiany ani odroczenia wykonywania istniejących zobowiązań umownych.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Kwota, o której mowa powyżej w pkt II.1.5 i II.2.6 dotyczy maksymalnego całkowitego okresu trwania wynoszącego 4 lata. Szacowana roczna wartość wynosi 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Komisja Europejska, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>przedsiębiorstwa wyrażające chęć uczestnictwa muszą zgłosić ten zamiar pocztą elektroniczną na adres GROW-C-FINANCIAL-TEAM@ec.europa.eu z co najmniej 48-godzinnym wyprzedzeniem. To powiadomienie musi być podpisane przez upoważnionego przedstawiciela oferenta. Oferenci, którzy byli nieobecni podczas otwarcia ofert, mogą uzyskać na życzenie informacje dotyczące dopuszczalności ich oferty oraz tożsamości pozostałych oferentów.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 miesięcy</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zob. zaproszenie do składania wniosków: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C – Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Technický sekretariát pre skupinu notifikovaných orgánov v rámci nariadenia o osobných ochranných prostriedkoch (EÚ) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Určiť technický sekretariát pre skupinu notifikovaných orgánov vytvorenú v rámci nariadenia o osobných ochranných prostriedkoch (EÚ) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Miestom vykonávania úloh budú priestory dodávateľa alebo akékoľvek iné miesta označené v ponuke, s výnimkou priestorov Komisie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Určiť technický sekretariát pre skupinu notifikovaných orgánov vytvorenú v rámci nariadenia o osobných ochranných prostriedkoch (EÚ) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Zmluva môže byť obnovená 3-krát na obdobie 12 mesiacov, len s výslovným písomným súhlasom zmluvných strán pred zaplatením zostatku. Obnovenie neznamená žiadnu zmenu, ani odklad existujúcej povinnosti.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Hodnota uvedená vyššie v bodoch II.1.5) a II.2.6) sa vzťahuje na celkové maximálne trvanie v dĺžke 4 rokov. Odhadovaná hodnota na rok je 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Európska komisia, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgicko.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Spoločnosti, ktoré sa chcú zúčastniť na otváraní ponúk, musia svoj zámer oznámiť e-mailom na adresu GROW-C-FINANCIAL-TEAM@ec.europa.eu aspoň 48 hodín vopred. Toto oznámenie musí byť podpísané oprávneným zástupcom uchádzačov. Uchádzači, ktorí predložili ponuku, ale nemohli sa zúčastniť na otváraní ponúk, môžu požiadať, aby boli informovaní, či ich ponuka bola prijateľná, ako aj o totožnosti iných uchádzačov.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mesiacov</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Pozri výzvu na predkladanie ponúk: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehnični sekretariat za skupino priglašenih organov iz Uredbe (EU) 2016/425 o osebni varovalni opremi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cilj naročila je imenovati tehnični sekretariat za skupine priglašenih organov, vzpostavljene v skladu z Uredbo (EU) 2016/425 o osebni varovalni opremi.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Naloge se bodo izvajale v prostorih izvajalca ali v katerih koli drugih prostorih, navedenih v ponudbi, z izjemo prostorov Komisije.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cilj naročila je imenovati tehnični sekretariat za skupine priglašenih organov, vzpostavljene v skladu z Uredbo (EU) 2016/425 o osebni varovalni opremi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Naročilo se lahko podaljša 3-krat za obdobje 12 mesecev, in sicer izključno na podlagi pisnega sporazuma pogodbenih strank pred plačilom preostalega zneska. Podaljšanje ne spremeni ali preloži nobenih obstoječih obveznosti.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Znesek, naveden v točkah II.1.5) in II.2.6) zgoraj, se nanaša na najdaljše skupno trajanje 4 let. Ocenjena vrednost na leto je 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Evropska komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Podjetja, ki želijo sodelovati, morajo to vsaj 48 ur vnaprej potrditi po e-pošti na naslov GROW-C-FINANCIAL-TEAM@ec.europa.eu. To obvestilo mora podpisati pooblaščeni uslužbenec ponudnikov. Ponudniki, ki so oddali ponudbo, vendar se niso udeležili odpiranja, lahko zahtevajo informacije o sprejemljivosti svoje ponudbe in o identiteti drugih ponudnikov.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mesecev</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Glej povabilo k oddaji ponudb: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>An rúnaíocht theicniúil do ghrúpa na gcomhlachtaí ar tugadh fógra dóibh faoi Rialachán (AE) 2016/425 maidir le trealamh cosanta pearsanta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>An rúnaíocht theicniúil a ainmniú do ghrúpaí na gcomhlachtaí ar tugadh fógra dóibh faoi Rialachán (AE) 2016/425 maidir le trealamh cosanta pearsanta.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Is é áitreabh an chonraitheora nó aon áit eile a luaitear sa tairiscint láthair feidhmíochta na dtascanna, ach amháin áitreabh an Choimisiúin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>An rúnaíocht theicniúil a ainmniú do ghrúpaí na gcomhlachtaí ar tugadh fógra dóibh faoi Rialachán (AE) 2016/425 maidir le trealamh cosanta pearsanta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Is féidir an conradh a athnuachan faoi 3 ar feadh thréimhse 12 mhí, ach ní mór comhaontú soiléir i scríbhinn a fháil ó na páirtithe conarthacha roimh an iarmhéid a íoc. Ní dhéantar aon oibleagáid atá ann a athrú ná a chur siar leis an athnuachan.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Is ionann an méid thuasluaite faoi Phointe II.1.5) agus II.2.6) agus t-achar uasta iomlán 4 bliana. 45 000 EUR atá sa luach measta in aghaidh na bliana.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>An Coimisiún Eorpach, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 , Brussels, an Bheilg.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Iarrtar ar chuideachtaí a bhfuil fonn orthu freastal é sin a chur in iúl trí ríomhphost a sheoladh 48 uair roimh ré ar a dhéanaí chuig GROW-C-FINANCIAL-TEAM@ec.europa.eu. Ní mór d'oifigeach údaraithe na dtairgeoirí an fógra seo a shíniú. Is féidir le tairgeoirí a chuireann tairiscint isteach gan a bheith i láthair ag an oscailt a iarraidh go gcuirfí ar an eolas iad maidir le hinghlacthacht a dtairisceana agus aitheantas na dtairgeoirí eile.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mí</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Féach an cuireadh chun tairisceana: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Технически секретариат за групата на нотифицирани органи по Регламент (ЕС) 2016/425 относно личните предпазни средства</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Да се определи технически секретариат за групата на нотифицирани органи по Регламент (ЕС) 2016/425 относно личните предпазни средства.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Мястото на изпълнение на задачите ще бъдат помещенията на изпълнителя или всяко друго място, посочено в офертата, с изключение на помещенията на Комисията.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Да се определи технически секретариат за групата на нотифицирани органи по Регламент (ЕС) 2016/425 относно личните предпазни средства.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Поръчката може да бъде подновена 3 пъти за период от по 12 месеца, само чрез изрично писмено съгласие на договарящите страни преди плащане на остатъка. Подновяването не променя или не отменя съществуващите задължения.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Сумата, посочена в II.1.5 и II.2.6, е за максимална обща продължителност от 4 години. Прогнозната годишна стойност е 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Европейска комисия, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Белгия.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Дружествата, желаещи да присъстват, трябва да уведомят чрез изпращане на електронно писмо на GROW-C-FINANCIAL-TEAM@ec.europa.eu най-малко 48 часа предварително. Това уведомление трябва да бъде подписано от упълномощен служител на оферента. Оферентите, които са подали оферта и не присъстват на отварянето, могат да поискат да бъдат информирани, ако тяхната оферта е допустима, както и относно самоличността на другите оференти.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 месеца</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Вж. поканата за участие в търг: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C - Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Secretariat tehnic pentru grupul de organisme notificate în baza Regulamentului (UE) 2016/425 privind echipamentul individual de protecție</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pentru desemnarea Secretariatului tehnic pentru grupurile de organisme notificate stabilite în baza Regulamentului (UE) 2016/425 privind echipamentul individual de protecție.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Locul de executare a sarcinilor va fi sediul contractantului sau orice alt loc indicat în ofertă, cu excepția sediului Comisiei.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pentru desemnarea Secretariatului tehnic pentru grupurile de organisme notificate stabilite în baza Regulamentului (UE) 2016/425 privind echipamentul individual de protecție.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Contractul poate fi reînnoit de 3 ori pentru o perioadă de 12 luni, numai cu acordul expres în scris al părților contractante înainte de plata soldului. Reînnoirea nu modifică sau amână obligațiile existente.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Valoarea menționată la punctele II.1.5 și II.2.6 vizează durata totală maximă de 4 ani. Valoarea estimată anuală este de 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Comisia Europeană, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Companiile care doresc să participe trebuie să își notifice intenția prin trimiterea unui e-mail la adresa GROW-C-FINANCIAL-TEAM@ec.europa.eu cu cel puțin 48 de ore în prealabil. Această notificare trebuie să fie semnată de un funcționar autorizat al ofertantului. Ofertanții care au depus o ofertă și nu au fost prezenți la deschiderea ofertelor pot solicita să fie informați cu privire la admisibilitatea ofertei lor, precum și cu privire la identitatea celorlalți ofertanți.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 luni</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A se vedea invitația la licitație: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija — Directorate General for Internal Market, Industry, Entrepreneurship and SMEs — Directorate C — Industrial Transformation and Advanced Value Chains</OFFICIALNAME>
+               <ADDRESS>avenue d'Auderghem 45 — Office BREY 10/124</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>grow-c-financial-team@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://ec.europa.eu/growth/contracts-grants/calls-for-tenders/index_en.htm</URL_GENERAL>
+               <URL_BUYER>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tehničko tajništvo za skupinu prijavljenih tijela u okviru Uredbe o osobnoj zaštitnoj opremi (EU) 2016/425</P>
+            </TITLE>
+            <REFERENCE_NUMBER>677/PP/GRO/IMA/18/1135/10115</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Odrediti Tehničko tajništvo za skupinu prijavljenih tijela uspostavljeno u okviru Uredbe o osobnoj zaštitnoj opremi (EU) 2016/425.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">180000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71300000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Mjesto izvršavanja zadataka su prostorije izvoditelja ili bilo koje drugo mjesto navedeno u ponudi, s iznimkom Komisijinih prostorija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Odrediti Tehničko tajništvo za skupinu prijavljenih tijela uspostavljeno u okviru Uredbe o osobnoj zaštitnoj opremi (EU) 2016/425.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">180000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Ugovor se može obnoviti 3 puta na razdoblje od 12 mjeseci, samo s izričitim pisanim sporazumom ugovornih strana prije isplate preostalog iznosa. Obnovom se ne mijenjaju niti odgađaju postojeće obveze.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Iznos naveden u točkama II.1.5. i II.2.6. je za najduže ukupno trajanje od 4 godine. Procijenjena godišnja vrijednost je 45 000 EUR.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-31</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-04</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europska komisija, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Directorate C; avenue d'Auderghem 45, 1049 Brussels, Belgija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Poduzeća koja žele prisustvovati moraju o tome poslati obavijest e-poštom na GROW-C-FINANCIAL-TEAM@ec.europa.eu najmanje 48 sati unaprijed. Ovu obavijest mora potpisati ovlašteni službenik ponuditelja. Ponuditelji koji su dostavili ponudu, a nisu bili prisutni na otvaranju mogu zatražiti da ih se obavijesti je li njihova ponuda prihvatljiva te o identitetu drugih ponuditelja.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>48 mjeseci</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vidjeti poziv na dostavu ponuda: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3254</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-04-11</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

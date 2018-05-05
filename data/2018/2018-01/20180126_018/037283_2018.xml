@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="037283-2018"
+            EDITION="2018018">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-036445-001</RECEPTION_ID>
+      <DELETION_DATE>20180223</DELETION_DATE>
+      <FORM_LG_LIST>FR NL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>18</NO_OJ>
+         <DATE_PUB>20180126</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 018-037283</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:037283-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:037283-2018:TEXT:NL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <LG_ORIG>NL</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>www.etterbeek.be</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://ec.europa.eu/tools/espd/filter?lang=fr</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="66510000">Insurance services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:CA_CE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE">BELGIQUE-BELGIË</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180123</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180223 12:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01C02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Services d'assurance</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Verzekeringsdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Застрахователни услуги</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Pojištění</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Forsikringstjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Versicherungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες ασφάλισης</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Insurance services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de seguros</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Kindlustusteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Vakuutuspalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Insurance services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Osigurateljne usluge</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Biztosítási szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi assicurativi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Draudimo paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Apdrošināšanas pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ta' assigurazzjoni</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi ubezpieczeniowe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de seguros</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de asigurare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Poisťovacie služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Zavarovalniške storitve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Etterbeek</TI_TOWN>
+            <TI_TEXT>
+               <P>Försäkringar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="FR">Commune d'Etterbeek</AA_NAME>
+         <AA_NAME LG="NL">Gemeente Etterbeek</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commune d'Etterbeek</OFFICIALNAME>
+               <ADDRESS>Avenue d'Auderghem, 113-117</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>monsieur alain boo</CONTACT_POINT>
+               <PHONE>+32 26272702</PHONE>
+               <E_MAIL>alain.boon@etterbeek.be</E_MAIL>
+               <FAX>+32 26272710</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>www.etterbeek.be</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://ec.europa.eu/tools/espd/filter?lang=fr</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>AON Belgium BVBA</OFFICIALNAME>
+               <NATIONALID>426531863</NATIONALID>
+               <ADDRESS>Telecomlaan 5-7</ADDRESS>
+               <TOWN>Diegem</TOWN>
+               <POSTAL_CODE>1831</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Madame Violaine Maufroid</CONTACT_POINT>
+               <PHONE>+32 27697405</PHONE>
+               <E_MAIL>violaine.maufroid@aon.be</E_MAIL>
+               <FAX>+32 27309888</FAX>
+               <n2016:NUTS CODE="BE"/>
+               <URL_GENERAL>www.aon.be</URL_GENERAL>
+            </ADDRESS_FURTHER_INFO>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>AON Belgium BVBA</OFFICIALNAME>
+               <NATIONALID>426531863</NATIONALID>
+               <ADDRESS>Telecomlaan 5-7</ADDRESS>
+               <TOWN>Diegem</TOWN>
+               <POSTAL_CODE>1831</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Madame Violaine Maufroid</CONTACT_POINT>
+               <PHONE>+32 27697405</PHONE>
+               <E_MAIL>violaine.maufroid@aon.be</E_MAIL>
+               <FAX>+32 27309888</FAX>
+               <n2016:NUTS CODE="BE"/>
+               <URL_GENERAL>www.aon.be</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Appel à demandes de participation — Marché public conjoint de renouvellement du portefeuille des assurances de la Cmmune – du CPAS – de la Régie Foncière et Régie Communale Autonome d’Etterbeek</P>
+            </TITLE>
+            <REFERENCE_NUMBER>TP/ORD/AB/EG/2018/57</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="66510000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ce marché est scindé en 4 lots distincts, à savoir:</P>
+               <P>LOT 1: accidents du travail.</P>
+               <P>LOT 2: dommages matériels.</P>
+               <P>LOT 4: Responsabilité civile.</P>
+               <P>LOT 5: Automobiles.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Accidents du Travail</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Volet 1 – Assurance Accidents du travail et Excédent-loi.</P>
+                  <P>Volet 2 – Assurance Accidents corporels.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durée du marché est de 1 an ferme avec éventuelle reconduction tacite d'une période d'un an sans excéder la durée totale de 4 ans prévue pour ce marché.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Dommages matériels</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Volet 1 – Assurance Dommages matériels incendie.</P>
+                  <P>Volet 2 – Assurance Tous Risques Electroniques et informatiques.</P>
+                  <P>Volet 3 – Assurance Tous Risques Divers.</P>
+                  <P>Volet 4 – Assurance Tous Risques Transport et Séjour de valeurs/ vol.</P>
+                  <P>Volet 5 – Assurance Tous Risques Expositions et Œuvres d’art.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durée du marché est de 1 an ferme avec éventuelle reconduction tacite d'une période d'un an sans excéder la durée totale de 4 ans prévue pour ce marché.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Responsabilité civile</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Volet 1 – responsabilité civile Générale (ILA pour le CPAS).</P>
+                  <P>Volet 2 – responsabilité civile objective incendie &amp; explosion.</P>
+                  <P>Volet 3 – responsabilité civile sécurité des élus.</P>
+                  <P>Volet 4 – responsabilité civile Architectes et bureaux d’étude.</P>
+                  <P>Volet 5 – responsabilité civile et accidents corporels des activités diverses.</P>
+                  <P>Volet 6 –responsabilité civile et accidents corporels des activités scolaires.</P>
+                  <P>Volet 7 – Responsabilité civile et accidents corporels des enfants participant aux activités sportives diverses.</P>
+                  <P>Volet 8 – Responsabilité civile et accidents corporels du conseil communal des enfants.</P>
+                  <P>Volet 9 – Assurance accidents corporels des enfants fréquentant les crèches communales.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durée du marché est de 1 an ferme avec éventuelle reconduction tacite d'une période d'un an sans excéder la durée totale de 4 ans prévue pour ce marché.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Automobiles</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Volet 1 a Assurances véhicules (flotte).</P>
+                  <P>Volet 2 – Assurance Omnium Missions.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durée du marché est de 1 an ferme avec éventuelle reconduction tacite d'une période d'un an sans excéder la durée totale de 4 ans prévue pour ce marché.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Le candidat produit le Document unique de marché européen, qui consiste en une déclaration sur l'honneur propre actualisée et qui est accepté par le pouvoir adjudicateur à titre de preuve a priori en lieu et placedes documents ou certificats délivrés par des autorités publiques ou des tiers pour confirmer que le candidat concerné:</P>
+               <P>1º ne se trouve pas dans l'une des situations d'exclusion visées aux articles 67 à 69 de la loi du 17.6. 2016;</P>
+               <P>2º répond aux critères de sélection applicables qui ont été établis conformément à l'article 71 de la loi du 17.6.2016.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>Le candidat doit démontrer une cote minimale de rating de «BBB» ou équivalent par un certificat approprié.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Lot 1: assurances de personnes: supérieur à 5 000 000 EUR.</P>
+               <P>Lot 2: assurances de dommages matériels: supérieur à 5 000 000 EUR.</P>
+               <P>Lot 3: assurances de responsabilité civile: supérieur à 2 500 000 EUR.</P>
+               <P>Lot 4: assurances automobiles: supérieur à 2 500 000 EUR.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>— agrément pour pratiquer les branches d’assurance mentionnées au point II.2 soit pour les candidats belges une attestation FSMA et pour les candidats étrangers, un certificat émis par l’autorité concernée de l’État membre de l’Union Européenne indiquant les branches d’assurance pour lesquelles les prestataires agréés et la preuve de l’existence d’un siège d’exploitation en Belgique,</P>
+               <P>— un document précisant le savoir-faire du candidat/soumissionnaire notamment en produisant le C.V. de l'équipe dédicacée au projet ainsi que l’indication des diplômes/titres professionnels et une maîtrise de la langue française et/ou du néerlandais,</P>
+               <P>— le candidat/soumissionnaire doit démontrer son expérience dans la souscription des branches d’assurance mentionnées au point II.2 Avec un minimum de 5 contrats en secteur public au cours des 3 dernières années en lien avec la nature du présent marché,</P>
+               <P>— le candidat doit préciser sa vision stratégique en matière de marchés publics d’assurances (notamment en démontrant l’expérience et la connaissance de la législation en marchés publics assurances et du secteur public au cours des 5 dernières années).</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>— l'équipe doit être composée de:</P>
+               <P>—— personne de contact: 1 avec 1 back-up.</P>
+               <P>—— gestionnaire sinistre: 2.</P>
+               <P>—— gestionnaire administratif: 2.</P>
+               <P>— Expérience de 5 ans en marchés publics assurances.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-23</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-03-20</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">4</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Conseil d'État</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Conseil d'État</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemeente Etterbeek</OFFICIALNAME>
+               <ADDRESS>Oudergemlaan, 113-117</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>De heer Alain BOON</CONTACT_POINT>
+               <PHONE>+32 26272702</PHONE>
+               <E_MAIL>alain.boon@etterbeek.be</E_MAIL>
+               <FAX>+32 26272710</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>www.etterbeek.be</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://ec.europa.eu/tools/espd/filter?lang=fr</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>AON BELGIUM BVBA</OFFICIALNAME>
+               <NATIONALID>426531863</NATIONALID>
+               <ADDRESS>Telecomlaan 5-7</ADDRESS>
+               <TOWN>Diegem</TOWN>
+               <POSTAL_CODE>1831</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Mevrouw Violaine Maufroid</CONTACT_POINT>
+               <PHONE>+32 27697405</PHONE>
+               <E_MAIL>violaine.maufroid@aon.be</E_MAIL>
+               <FAX>+32 27309888</FAX>
+               <n2016:NUTS CODE="BE"/>
+               <URL_GENERAL>www.aon.be</URL_GENERAL>
+            </ADDRESS_FURTHER_INFO>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>AON BELGIUM BVBA</OFFICIALNAME>
+               <NATIONALID>426531863</NATIONALID>
+               <ADDRESS>Telecomlaan 5-7</ADDRESS>
+               <TOWN>Diegem</TOWN>
+               <POSTAL_CODE>1831</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Mevrouw Violaine Maufroid</CONTACT_POINT>
+               <PHONE>+32 27697405</PHONE>
+               <E_MAIL>violaine.maufroid@aon.be</E_MAIL>
+               <FAX>+32 27309888</FAX>
+               <n2016:NUTS CODE="BE"/>
+               <URL_GENERAL>www.aon.be</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Oproep tot aanvraag tot deelneming - Gezamenlijke overheidsopdracht voor de vernieuwing van de verzekeringsportefeuille van de Gemeente - het OCMW - het Regie van grondbeleid en het Gemeentebedrijf van Etterbeek</P>
+            </TITLE>
+            <REFERENCE_NUMBER>TP/ORD/AB/EG/2018/57</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="66510000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Deze opdracht is verdeeld in 4 verscheidene percelen, te weten:</P>
+               <P>PERCEEL 1: Werkongevallen.</P>
+               <P>PERCEEL 2: Materiele schaden.</P>
+               <P>PERCEEL 3: Burgerlijke aansprakelijkheid.</P>
+               <P>PERCEEL 4: Automobielen.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Werkongevallen</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Luik 1 - Verzekering werkongevallen en Excedent wet.</P>
+                  <P>Luik 2 - Verzekering lichamelijke ongevallen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De duur van de opdracht staat vast voor één jaar met mogelijkheid van stilzwijgende verlenging van één jaar zonder een globale duur van 4 jaar te overschrijden voor deze opdracht.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Materiele schaden</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Luik 1 - Verzekering Materiele schaden brand.</P>
+                  <P>Luik 2 - Verzekering Alle elektronische en informatica risico's.</P>
+                  <P>Luik 3 - Verzekering Alle risico's allerlei.</P>
+                  <P>Luik 4 - Verzekering Alle risico's vervoer en waardeverblijven/diefstal.</P>
+                  <P>Luik 5 - Verzekering Alle risico's exposities en kunstwerk.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De duur van de opdracht staat vast voor één jaar met mogelijkheid van stilzwijgende verlenging van één jaar zonder een globale duur van 4 jaar te overschrijden voor deze opdracht.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Burgerlijke aansprakelijkheid</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Luik 1 - Algemene burgerlijk aansprakelijkheid (Lokale opvanginitiativen voor het OCMW).</P>
+                  <P>Luik 2 - Objectieve burgerlijk aansprakelijkheid brand &amp; explosie.</P>
+                  <P>Luik 3 - Burgerlijk aansprakelijkheid veiligheid van de verkozen.</P>
+                  <P>Luik 4 - Burgerlijk aansprakelijkheid architecten &amp; studiebureau's.</P>
+                  <P>Luik 5 - Burgerlijk aansprakelijkheid en lichamelijke ongevallen van allerlei activiteiten.</P>
+                  <P>Luik 6 - Burgerlijk aansprakelijkheid en lichamelijke ongevallen van schoolactiviteiten.</P>
+                  <P>Luik 7 - Burgerlijke aansprakelijkheid en lichamelijke ongevallen van kinderen die deelnemen aan allerlei sportactiviteiten.</P>
+                  <P>Luik 8 - Burgerlijke aansprakelijkheid en lichamelijke ongevallen van de kinderengemeenteraad.</P>
+                  <P>Luik 9 - Verzekering lichamelijke ongevallen van kinderen die de gemeentelijke creche bezoeken.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De duur van de opdracht staat vast voor één jaar met mogelijkheid van stilzwijgende verlenging van één jaar zonder een globale duur van 4 jaar te overschrijden voor deze opdracht.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Auto's</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="66510000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <SHORT_DESCR>
+                  <P>Luik 1 - Autoverzekeringen(vloot).</P>
+                  <P>Luik 2 - Verzekeringen Omnium missies.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De duur van de opdracht staat vast voor één jaar met mogelijkheid van stilzwijgende verlenging van één jaar zonder een globale duur van 4 jaar te overschrijden voor deze opdracht.</P>
+               </RENEWAL_DESCR>
+               <NB_MIN_LIMIT_CANDIDATE>5</NB_MIN_LIMIT_CANDIDATE>
+               <ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>De inschrijver legt het door hen ingevulde Uniform Europees Aanbestedingsdocument voor, dat bestaat uit een bijgewerkte eigen verklaring en dat door de aanbestedende overheid als voorlopig bewijs wordt aanvaard ter vervanging van door overheidsinstanties of derden afgegeven documenten of certificaten die bevestigen dat de betrokken inschrijver aan alle hierna vermelde voorwaarden voldoet:</P>
+               <P>1<FT TYPE="SUP">o</FT> hij bevindt zich niet in een van de uitsluitingssituaties als bedoeld in de artikelen 67 tot 69 van de wet van 17 juni 2016;</P>
+               <P>2<FT TYPE="SUP">o</FT> hij voldoet aan de toepasselijke selectiecriteria als vastgesteld overeenkomstig artikel 71 van de wet van 17 juni 2016.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>De kandidaat moet een minimale ratingscore "BBB" vertonen of gelijkaardig door een geschikt certificaat.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Perceel 1: Verzekeringen van personen: boven de 5.000.000 euros.</P>
+               <P>Perceel 2: Verzekeringen materiele schaden: boven de 5.000.000 euros.</P>
+               <P>Perceel 3: Verzekeringen burgerlijke aansprakelijkheid: boven de 2.500.000 euros.</P>
+               <P>Perceel 4: Autoverzekeringen: boven de 2.500.000 euros.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>— Goedkeuring om de verzekeringstakken uit te oefenen vermeld onder punt II.2 ofwel voor de Belgische kandidaten door een FSMA attest en voor de buitenlandse kandidaten door een getuigschrift opgesteld door de betrokken overheid Lidstaat van de Europese Unie met aanduiding van de verzekeringstakken waarvoor de dienstverlener goedgekeurd is en het bewijs van het bestaan van een hoofdkantoor in België,</P>
+               <P>— Een document die verwijst naar de know-how van de kandidaat ondermeer door het indienen van de C.V. van de ploeg betrokken met het project alsook het aanduiden van de diploma's/professionele titels en een kennis van de Franse EN/OF Nederlandse taal,</P>
+               <P>— De kandidaat moet zijn ervaring vertonen in het opmaken van contracten in de verzekeringstakken vermeld onder punt II.2 met een minimum van 5 contracten in de openbare sector over de drie laatste jaren in link met de aard van huidige opdracht,</P>
+               <P>— De kandidaat moet zijn strategische vizie uitleggen inzake verzekeringoverheidsopdrachten (ondermeer door zijn ervaring en zijn kennis van de wetgeving van verzekeringoverheidsopdrachten en de openbare sector) te demonstreren over de 5 laatste jaren.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>— de ploeg moet bestaan uit:</P>
+               <P>* contactpersoon: 1 met een back-up.</P>
+               <P>* rampbeheerder: 2.</P>
+               <P>* administratieve beheerders: 2.</P>
+               <P>— Ervaring van 5 jaar in verzekeringoverheidsopdrachten.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-23</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>12:00</TIME_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-03-20</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">4</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapstraat 33</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapstraat 33</ADDRESS>
+               <TOWN>Brussel</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <PHONE>+32 22349611</PHONE>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,3801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="064308-2018"
+            EDITION="2018030">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-059206-001</RECEPTION_ID>
+      <DELETION_DATE>20180517</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>30</NO_OJ>
+         <DATE_PUB>20180213</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 030-064308</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:064308-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="IT"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72316000">Data analysis services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72310000">Data-processing services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72312100">Data preparation services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72314000">Data collection and collation services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72315000">Data network management and support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72322000">Data management services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC41">Varese</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ITC41">Varese</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITF52">Matera</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="DEA22">Bonn, Kreisfreie Stadt</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="EL301">Βόρειος Τομέας Αθηνών</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="FRF11">Bas-Rhin</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">2500000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2016/S 221-402418</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180206</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus-data</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus-Daten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Italy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus Data</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Datos Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus-ohjelmaan liittyvät tiedot</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Italie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Données Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ιταλία</TI_CY>
+            <TI_TOWN>Ίσπρα</TI_TOWN>
+            <TI_TEXT>
+               <P>Δεδομένα του προγράμματος Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dati Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Italië</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus-gegevens.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Itália</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dados Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus Data</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Itálie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Údaje Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Itaalia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicuse andmed</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Olaszország</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>A Kopernikusz program adatai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>„Copernicus“ duomenys</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Itāija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Copernicus dati</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Italja</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Id-dejta Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Włochy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dane programu Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Taliansko</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Údaje z programu Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Podatki Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Iodáil, an</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Sonraí Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Итaлия</TI_CY>
+            <TI_TOWN>Испра</TI_TOWN>
+            <TI_TEXT>
+               <P>Данни на Коперник</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Date Copernicus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Podaci Copernicusa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">European-Kommissionen, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="EN">European Commission, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, DG Joint Research Centre (JRC), Directorate Space Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, DG Joint Research Centre (JRC), Directorate E — Space Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European-Kommissionen, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus-data</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Beregningen af brandfareprognoser samt kortlægning og vurdering af skovbrande og naturbrande i næsten realtid fra satellitbaseret fjernovervågning er komponenter i det europæiske skovbrandsinformationssystem (EFFIS), som er en del af Copernicus-katastrofehåndteringstjenesten siden oktober 2015. Det nuværende udbud sigter mod at outsource driften af EFFIS under Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tjenesteydelser vedrørende overvågning af brande</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Kontrahenten skal levere oplysninger til Det Fælles Forskningscenter om aktive brande, afbrændte områder og vurdering af skader på arealdække efter branden på europæisk og globalt plan og støtte driften af EFFIS og den videre udvikling af det globale informationssystem for naturbrande.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk kvalitet</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Europa-Parlamentets og Rådets forordning (EU) nr. 377/2014 af 3.4.2014 om oprettelse af Copernicusprogrammet</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Tjenesteydelser vedrørende overvågning af brande</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Kapabiliteter for erhvervelse af backup.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forschung</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus-Daten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Die Berechnung von Prognosen zur Brandgefahr und die echtzeitnahe Kartierung und Bewertung von Wald- und Flurbränden mittels Satellitenfernerkundung sind Bestandteile des Europäischen Waldbrandinformationssystems (European Forest Fire Information System — EFFIS), das wiederum seit Oktober 2015 Teil der Copernicus-Notfallmanagementdienste ist. Die vorliegende Beschaffung dient der Auslagerung des Betriebs des EFFIS im Rahmen von Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Brandüberwachungsdienst</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Zur Unterstützung des Betriebs des Europäischen Waldbrandinformationssystems und zur Weiterentwicklung des globalen Lauffeuerinformationssystems stellt der Auftragnehmer der JRC-Informationen über aktive Brandherde und Gebiete mit verbrannten Flächen sowie Bewertungen zu Schäden der Landbedeckung auf europäischer und globaler Ebene bereit.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technische Qualität (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Verordnung (EU) Nr. 377/2014 des Europäischen Parlaments und des Rates vom 3. April 2014 zur Einrichtung des Programms Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Brandüberwachungsdienst</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Datenerfassungsfähigkeiten für Back-up.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Research</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus Data</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Fire danger forecast computation and near-real time mapping and assessment of forest fires and wildfires from satellite remote sensing are components of the European Forest Fire Information System (EFFIS), which is part of the Emergency Management Services of Copernicus since October 2015. The current procurement is aimed at outsourcing the operation of EFFIS under Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Fire Monitoring Service</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>The contractor shall provide to JRC the information on active fires, perimeters of burnt areas and post-fire land cover damage assessments at European and global scales supporting the operation of the European Forest Fire Information System and the further development of the Global Wildfire Information System.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical Quality (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Regulation (EU) No 377/2014 of the European Parliament and of the Council of 3 April 2014, establishing the Copernicus Programme</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Fire Monitoring Service</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Back-up acquisition capabilities.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigación</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Datos Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El cálculo de previsiones del peligro de incendio y la cartografía y la evaluación en tiempo casi real de los incendios forestales e incendios salvajes a partir de teledetección vía satélite son componentes del sistema europeo de información sobre los incendios forestales, que forma parte de los servicios de gestión de emergencias de Copernicus desde octubre de 2015. El presente contrato tiene por objeto la externalización de la explotación del sistema europeo de información sobre incendios forestales en el marco de Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Servicio de control de incendios</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>El contratista deberá proporcionar al JRC información sobre los incendios activos, los perímetros de las zonas quemadas y una evaluación de los daños de la cubierta terrestre tras los incendios a nivel europeo y mundial para contribuir al funcionamiento del sistema europeo de información sobre los incendios forestales, así como al desarrollo ulterior del sistema mundial de información sobre los incendios salvajes.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calidad técnica (CT)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Reglamento (UE) n.{^&gt;o&lt;^} 377/2014 del Parlamento Europeo y del Consejo, de 3 de abril de 2014, por el que se establece el Programa Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Servicio de control de incendios</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Capacidades de adquisición de respaldo.
+</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Tutkimus</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus-ohjelmaan liittyvät tiedot</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tulipalovaaraa koskeva ennustelaskenta ja metsä- ja maastopalojen lähes reaaliaikainen kartoitus sekä arvioiminen satelliittikaukokartoituksella ovat osa EU:n metsäpalotietojärjestelmää (EFFIS), joka on kuulunut Copernicus-ohjelman hätätilanteiden hallintapalveluun vuoden 2015 lokakuusta asti. Tämän hankintamenettelyn tavoitteena on EFFISin toiminnan ulkoistaminen Copernicus-ohjelman yhteydessä.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tulipalojen seurantapalvelu</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Sopimusosapuolen on toimitettava yhteiselle tutkimuskeskukselle (JRC) tietoja palamisvaiheessa olevista tulipaloista, palaneiden alueiden rajoista ja tulipalon jälkeisten maanpeitteen vahinkojen arvioinneista eurooppalaisessa ja maailmanlaajuisessa mittakaavassa.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekninen laatu (technical quality – TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Euroopan parlamentin ja neuvoston asetus (EU) N:o 377/2014, annettu 3.4.2014, Copernicus-ohjelman perustamisesta.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Tulipalojen seurantapalvelu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Potentiaaliset lisähankinnat.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Données Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le calcul prévisionnel des dangers d'incendie, la cartographie et l'évaluation en temps quasi réel des incendies de forêt et des feux de friches à partir de données de télédétection par satellite sont des composants du système européen d'information sur les incendies de forêt (EFFIS), qui fait partie du service de gestion des situations d'urgence de Copernicus depuis octobre 2015. Le présent marché porte sur l'externalisation de l'exploitation du système EFFIS dans le cadre de Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Services de surveillance des incendies</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Le contractant devra fournir au JRC des informations sur les incendies actifs, les périmètres de zones incendiées et l'évaluation des dommages consécutifs aux incendies en matière d'occupation des sols à l'échelle européenne et à l'échelle mondiale. Cela permettra de contribuer à l'exploitation du système européen d'information sur les incendies de forêt (EFFIS) ainsi qu'à la poursuite de la mise au point du système mondial d'information sur les incendies de forêt.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualité technique (QT)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Règlement (UE) no 377/2014 du Parlement européen et du Conseil du 3.4.2014 établissant le programme Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Services de surveillance des incendies</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Capacités d'acquisition de sauvegarde.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Έρευνα</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Δεδομένα του προγράμματος Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ο υπολογισμός προβλέψεων κινδύνου εκδήλωσης πυρκαγιών και η χαρτογράφηση και αξιολόγηση σχεδόν σε πραγματικό χρόνο πυρκαγιών σε δάση και λοιπών πυρκαγιών από δορυφορική τηλεανίχνευση είναι συνιστώσες του ευρωπαϊκού συστήματος πληροφόρησης για τις δασικές πυρκαγιές (EFFIS), το οποίο αποτελεί μέρος των υπηρεσιών διαχείρισης καταστάσεων έκτακτης ανάγκης του προγράμματος Copernicus από τον Οκτώβριο του 2015. Η παρούσα σύμβαση στοχεύει στην εξωτερική ανάθεση της λειτουργίας του EFFIS στο πλαίσιο του προγράμματος Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Υπηρεσία παρακολούθησης πυρκαγιών</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Ο ανάδοχος θα παράσχει στο JRC πληροφορίες σχετικά με πυρκαγιές σε εξέλιξη, περιμέτρους των καμένων περιοχών και εκτιμήσεις των ζημιών μετά τις πυρκαγιές ως προς την κάλυψη εδαφικών εκτάσεων σε ευρωπαϊκή και παγκόσμια κλίμακα για την υποστήριξη της λειτουργίας του ευρωπαϊκού συστήματος πληροφόρησης για τις δασικές πυρκαγιές και την περαιτέρω ανάπτυξη του παγκόσμιου συστήματος πληροφόρησης δασικών πυρκαγιών.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική ποιότητα (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Κανονισμός (ΕΕ) αριθ. 377/2014 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 3 Απριλίου 2014, για τη θέσπιση του προγράμματος Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Υπηρεσία παρακολούθησης πυρκαγιών</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Δυνατότητες απόκτησης αντιγράφων ασφαλείας.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>ricerca</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dati Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il calcolo previsionale del pericolo d'incendio e la mappatura e valutazione in tempo quasi reale degli incendi boschivi e degli incendi di incolto con telerilevamento satellitare sono componenti del sistema europeo d'informazione sugli incendi boschivi (EFFIS), che costituisce parte integrante dei servizi di gestione delle emergenze Copernicus dall'ottobre 2015. Il presente appalto mira ad esternalizzare la gestione del sistema EFFIS nel quadro di Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Servizio di monitoraggio degli incendi</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Il contraente dovrà fornire al JRC le informazioni sugli incendi attivi, i perimetri delle zone incendiate e la valutazione dei danni in seguito agli incendi in termini di occupazione dei terreni a livello europeo e globale contribuendo al funzionamento del sistema europeo d'informazione sugli incendi boschivi e all'ulteriore sviluppo del sistema d’informazione globale sugli incendi boschivi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>qualità tecnica</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Regolamento (UE) n. 377/2014 del Parlamento europeo e del Consiglio, del 3 aprile 2014, che istituisce il programma Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Servizio di monitoraggio degli incendi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Funzionalità di acquisizione di backup.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>onderzoek.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus-gegevens.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De voorspellingsberekening inzake brandgevaar en de kartering en beoordeling van bos- en andere branden in bijna-realtime op basis van satellietteledetectie zijn onderdelen van het Europese bosbrandinformatiesysteem (Effis) dat sinds oktober 2015 deel uitmaakt van de Copernicus-rampenbeheerdienst. Onderhavige aanbesteding is gericht op de uitbesteding van de exploitatie van het Effis in het kader van Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dienst voor de monitoring van brand</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>De contractant moet het JRC voorzien van de informatie over actieve brandhaarden, de perimeters van verbrande gebieden en de beoordeling van de schade aan de bodembedekking op Europese en wereldschaal, ter ondersteuning van de werking van het Europese bosbrandinformatiesysteem (Effis) en de verdere ontwikkeling van het wereldwijde brandinformatiesysteem (GWIS).</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische kwaliteit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Verordening (EU) nr. 377/2014 van het Europees Parlement en de Raad van 3.4.2014 tot vaststelling van het Copernicus-programma.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Dienst voor de monitoring van brand</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>back-upverwervingsmogelijkheden.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigação</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dados Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O cálculo de previsões de risco de incêndio e a cartografia de imagens em tempo quase real e a avaliação de incêndios florestais e incêndios de grandes proporções através de teledeteção por satélite são componentes do sistema de informação europeu relativo a incêndios florestais, que integra os serviços de gestão de emergências do Copernicus desde outubro de 2015. O concurso atual visa a subcontratação da operação do sistema de informação europeu relativo a incêndios florestais no âmbito do Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Serviço de monitorização de incêndios</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>O contratante deve fornecer ao JRC informações sobre incêndios ativos, perímetros de áreas ardidas e avaliações de danos de cobertura terrestre pós-incêndios às escalas europeia e global que apoiam a operação do sistema de informação europeu relativo a incêndios florestais e o desenvolvimento adicional do sistema de informação global relativo a incêndios de grandes proporções.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Qualidade técnica (QT)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Regulamento (UE) n.º 377/2014 do Parlamento Europeu e do Conselho, de 3 de abril de 2014, que cria o programa Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Serviço de monitorização de incêndios</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Recursos de aquisição de «back-up».</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus Data</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Beräkning av brandriskprognos samt kartläggning och utvärdering i näst intill realtid av skogsbränder och okontrollerade skogsbränder via fjärranalys med hjälp av satellit är delar av det europeiska informationssystemet för skogsbränder (European forest fire information system – EFFIS), som är en del av Copernicus katastrofhanteringstjänst sedan oktober 2015. Denna upphandling syftar till utkontraktering av driften av EFFIS inom ramen för Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Brandövervakningstjänst</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Uppdragstagaren ska förse JRC med information om aktiva bränder, omkrets avseende brända områden och skadebedömning avseende vegetationstäcket efter brand på europeisk och global skala. Detta ska stödja driften av det europeiska informationssystemet för skogsbränder samt vidareutvecklingen av det globala informationssystemet för okontrollerade skogsbränder.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk kvalitet (Technical quality – TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Europaparlamentets och rådets förordning (EU) nr 377/2014 av den 3 april 2014 om inrättande av Copernicusprogrammet</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Brandövervakningstjänst</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Kapacitet avseende anskaffning av säkerhetskopiering.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Výzkum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Údaje Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Výpočet prognózy rizika požáru a mapování a vyhodnocení lesních požárů a ničivých požárů v téměř reálném čase z družicových snímků jsou součásti evropského systému informací o lesních požárech (EFFIS), který je součástí služeb krizového řízení Copernicus od října roku 2015. Toto výběrové řízení je zaměřeno na vyčlenění operace EFFIS v rámci systému Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Služba monitorování požárů</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Zhotovitel poskytne Společnému výzkumnému středisku údaje o aktivních požárech, obvodech spálených oblastí a posouzení pokrytí půdy po požárech v evropském a globálním měřítku při podpoře provozu evropského systému informací o lesních požárech a další rozvíjení globálního systému informací o ničivých požárech.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická kvalita (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Nařízení Evropského parlamentu a Rady (EU) č. 377/2014 ze dne 3. dubna 2014, kterým se zavádí program Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Služba monitorování požárů</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Možnosti zálohování.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Teadusuuringud</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicuse andmed</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Satelliitide kaugseire abil metsatulekahjude ja kulupõlengute peaaegu reaalajas kaardistamine ning tulekahjuohu prognoosi arvutamine on osad Euroopa metsatulekahjude teabesüsteemist (EFFIS), mis on alates 2015. aasta oktoobrist osa Copernicuse hädaolukordade ohjamise teenusest. Kõnealune hange on ette nähtud Copernicuse raames EFFISe töö väljasttellimiseks.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tulekahjude seire teenus</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Töövõtja peab esitama Teadusuuringute Ühiskeskusele teabe aktiivsete tulekahjude, põlenud alade ulatuse ja tulekahjujärgse maakatte kahju hindamise kohta Euroopa ja ülemaailmsel tasandil, toetades Euroopa metsatulekahjude teabesüsteemi tööd ning metsatulekahjude ülemaailmse teabesüsteemi edasiarendamist.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniline kvaliteet</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Euroopa Parlamendi ja nõukogu 3. aprilli 2014. aasta määrus (EL) nr 377/2014, millega luuakse Copernicuse programm</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Tulekahjude seire teenus</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Varundamise omandamise suutlikkus.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Kutatás</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>A Kopernikusz program adatai</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A tűzveszély-előrejelzési számítások, valamint az erdőtüzek és futótüzek közel valós idejű, műholdas távérzékelésen alapuló feltérképezése és értékelése az Európai Erdőtűz-információs Rendszer (EFFIS) alkotóelemei, amely rendszer 2015 októbere óta része a Kopernikusz vészhelyzet-kezelési szolgáltatásainak. E közbeszerzési eljárás célja az EFFIS rendszer Kopernikusz keretében való működtetésének kiszervezése.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tűzfigyelési szolgáltatás</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>A nyertes ajánlattevőnek információkat kell nyújtania a Közös Kutatóközpont számára az aktív tüzekről, a leégett területek határairól és a földfelszín károsodásának a tűzesetek utáni európai és globális szintű értékeléséről, támogatva az Európai Erdőtűz-információs Rendszer (EFFIS) működését és a globális futótűzvédelmi információs rendszer továbbfejlesztését.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technikai minőség</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Az Európai Parlament és a Tanács 3.4.2014 keltezésű 377/2014/EU rendelete a Kopernikusz program létrehozásáról</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Tűzfigyelési szolgáltatás</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Tartalék adatgyűjtés.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Moksliniai tyrimai</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>„Copernicus“ duomenys</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Gaisro pavojaus prognozės apskaičiavimas ir miškų gaisrų ir savaiminių gaisrų vaizdų, gautų nuotoliniu tyrimu iš palydovų, kartografavimas beveik realiuoju laiku ir vertinimas yra Europos miškų gaisrų informavimo sistemos (European forest fire information system – EFFIS), kuri yra „Copernicus“ krizinių situacijų valdymo paslaugų dalis nuo 2015 m. spalio mėnesio, komponentai. Šio pirkimo tikslas – Europos miškų gaisrų informacijos sistemos pagal „Copernicus“ veiklos užsakomieji darbai.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Gaisrų stebėsenos paslauga</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Rangovas turi teikti JRC informaciją apie aktyvius gaisrus, išdegusių plotų išorines ribas ir žemės dangai padarytos žalos įvertinimą Europos ir pasauliniu mastu remdamas Europos miškų gaisrų informacijos sistemos veikimą ir tolesnę pasaulinės savaiminių gaisrų informavimo sistemos plėtrą.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninė kokybė</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 377/2014, kuriuo nustatoma „Copernicus“ programa</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Gaisrų stebėsenos paslauga</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Atsarginio įsigijimo galimybės.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>pētniecība.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Copernicus dati</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ugunsgrēku draudu prognožu aprēķins un reāllaikam tuva kartēšana, kā arī mežu un savvaļas ugunsgrēku novērtēšana no tālzondēšanas satelīta ir Eiropas Meža ugunsgrēku informācijas sistēmas (EFFIS) komponenti; minētā sistēma kopš 2015. gada oktobra ir ietverta Copernicus ārkārtas situāciju pārvaldības pakalpojumos. Šā iepirkuma mērķis ir EFFIS uzdevuma Copernicus ietvaros nodošana ārpakalpojumu sniedzējam.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Ugunsgrēku uzraudzības pakalpojumi</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Darbuzņēmējam jāsniedz JRC informācija par esošajiem ugunsgrēkiem, izdegušo teritoriju robežām, kā arī pēc ugunsgrēka veiktajiem zemes pārklājuma bojājumu novērtējumiem Eiropas un pasaules mērogā, atbalstot Eiropas Meža ugunsgrēku informācijas sistēmas darbību un turpmāku pasaules mežu ugunsgrēku informācijas sistēmas pilnveidi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte (TK)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Eiropas Parlamenta un Padomes 3.4.2014 Regula (ES) Nr. 377/2014, ar ko izveido programmu Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Ugunsgrēku uzraudzības pakalpojumi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Rezervju iegūšanas spējas.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, DG Joint Research Centre (JRC), Directorate Space Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ir-riċerka</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Id-dejta Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il-komputazzjoni ta' tbassir ta' periklu min-nar u l-immarkar f'ħin kważi reali u l-valutazzjoni tan-nirien fil-foresti u nirien fl-imsaġar minn sensers mill-bogħod b'satellita huma komponenti tas-sistema Ewropea ta' tagħrif dwar nar fil-foresti (EFFIS), li hija parti mis-servizzi ta' mmaniġġjar ta' emerġenzi ta' Copernicus minn Ottubru tal-2015. Il-ksib kurrenti hu mmirat lejn l-għoti lil terzi tal-operazzjoni tal-EFFIS taħt Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Servizz ta' Monitoraġġ ta' Nar</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Il-kuntrattur se jipprovdi lill-JRC it-tagħrif fuq nirien attivi, il-perimetri ta' żoni maħruqin u valutazzjonijiet ta' kopertura tal-art għal danni wara nirien fuq skali Ewropej u globali li jappoġġjaw l-operazzjoni tas-sistema Ewropea ta' tagħrif f'każ ta' nar fil-foresti u l-iżjed żvilupp tas-sistema globali ta' tagħrif dwar nirien fl-imsaġar.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-kwalità Teknika (KT)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Ir-Regolament (UE) Nru 377/2014 tal-Parlament Ewropew u tal-Kunsill tat-3 ta' April 2014 li jistabbilixxi l-Programm Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Servizz ta' Monitoraġġ ta' Nar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Kapaċitajiet ta' kisba ta' bekapp.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Badania</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dane programu Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Prognozowanie zagrożenia pożarowego oraz mapowanie i ocena pożarów lasów i pożarów terenów zielonych w czasie zbliżonym do rzeczywistego za pomocą teledetekcji satelitarnej to elementy europejskiego systemu informacji o pożarach lasów (EFFIS), stanowiącego od października 2015 komponent zarządzania kryzysowego programu Copernicus. Celem niniejszego zamówienia jest zlecenie wykonawcy zewnętrznemu działań EFFIS w ramach programu Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Usługa monitorowania pożarów</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Wykonawca zapewni dla JRC dane dotyczące aktywnych pożarów i granic spalonych obszarów oraz dane pochodzące z ocen zniszczeń pokrycia terenu na skutek pożarów, obejmujące Europę i obszary poza Europą. Dane te zostaną wykorzystane w działaniach europejskiego systemu informacji o pożarach lasów oraz do dalszego rozwoju globalnego systemu informacji o pożarach terenów zielonych.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>jakość techniczna</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 377/2014 z dnia 3.4.2014, ustanawiające program Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Usługa monitorowania pożarów</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Możliwości pozyskania kopii zapasowych.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>výskum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Údaje z programu Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Výpočet predpovede nebezpečenstva vzniku požiaru a mapovanie a hodnotenie lesných požiarov a ničivých požiarov v takmer reálnom čase na základe satelitného diaľkového snímania je súčasťou Európskeho informačného systému o lesných požiaroch (EFFIS), ktorý je súčasťou služieb riadenia núdzových situácií v rámci programu Copernicus od októbra 2015. Toto obstarávanie je zamerané na realizáciu prevádzky EFFIS v rámci programu Copernicus externým dodávateľom.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Služby monitorovania požiarov</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Dodávateľ má za úlohu poskytovať Spoločnému výskumnému centru informácie o aktívnych požiaroch, hraniciach spálených oblastí a hodnotenia poškodenia krajinnej pokrývky po požiaroch na európskej až globálnej úrovni na podporu prevádzky Európskeho informačného systému o lesných požiaroch (EFFIS) a ďalší rozvoj globálneho informačného systému o ničivých požiaroch (GWIS).</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická kvalita (TK)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Nariadenie Európskeho parlamentu a Rady (EÚ) č. 377/2014 z 3.4.2014, ktorým sa zriaďuje program Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Služby monitorovania požiarov</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Spôsobilosť získavania záloh.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>raziskave</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podatki Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Izračun za napoved nevarnosti požarov ter kartiranje in ocenjevanje gozdnih požarov in požarov v naravi v skoraj realnem času na podlagi satelitskega daljinskega zaznavanja so komponente evropskega informacijskega sistema za gozdne požare (European forest fire information system – EFFIS), ki je od oktobra 2015 del storitev programa Copernicus za obvladovanje izrednih razmer. Namen tega javnega naročila je oddaja dejavnosti EFFIS v okviru programa Copernicus v zunanje izvajanje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Storitev spremljanja požarov</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Izvajalec bo JRC zagotovil informacije o aktivnih požarih, obsegih požganih površin in popožarni oceni škode glede pokrovnosti tal po evropskih in globalnih lestvicah za podpiranje delovanja evropskega informacijskega sistema za gozdne požare ter nadaljnji razvoj globalnega informacijskega sistema za požare v naravi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehnična kakovost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Uredba (EU) št. 377/2014 Evropskega parlamenta in Sveta z dne 3.4.2014 o vzpostavitvi programa Copernicus in o razveljavitvi Uredbe (EU) št. 911/2010.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Storitev spremljanja požarov</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Zmogljivosti za pridobitev podpore.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Taighde</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sonraí Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is ionann ríomh réamhaisnéise um baol dóiteáin agus léarscáiliú agus measúnú neas-fhíorama ar dhóiteáin foraoise agus ar fhalscaithe ó chianbhraiteacht satailíte agus comhchodanna den Chóras faisnéise Eorpaigh um dhóiteáin foraoise (EFFIS), ar cuid é de sheirbhísí bainistíochta géarchéime Copernicus ó Dheireadh Fómhair 2015 i leith. Tá an soláthar reatha dírithe ar sheachfhoinsiú oibriú EFFIS faoi Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Seirbhísí monatóireachta dóiteáin</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Soláthróidh an conraitheoir an fhaisnéis don JRC maidir le dóiteáin ghníomhacha, imlínte na limistéar loiscthe agus measúnuithe um dhamáiste do chlúdach talún iardhóiteáin ag scálaí Eorpacha agus domhanda chun tacú le hoibriú an Chórais Faisnéise Eorpaigh um Dhóiteáin Foraoise agus chun an Córas Faisnéise Domhanda um Fhalscaí (GWIS - global wildfire information system) a fhorbairt a thuilleadh.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Cáilíocht theicniúil (TQ - technical quality)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Rialachán (AE) Uimh. 377/2014 ó Pharlaimint na hEorpa agus ón gComhairle an 3 Aibreán 2014, lena mbunaítear Clár Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Seirbhísí monatóireachta dóiteáin</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Cumais éadála cúltaca.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, DG Joint Research Centre (JRC), Directorate E — Space Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Изследване</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Данни на Коперник</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Прогнозното изчисляване на опасност от пожар и очертаването и оценяването почти в реално време на горски пожари и спонтанни пожари от дистанционно сателитно наблюдение, са компоненти на Европейската информационна система за горски пожари (EFFIS), която е част от услугите по управление на извънредни ситуации на Коперник от октомври 2015 г. Текущата обществена поръчка е насочена към наемането на външни изпълнители за изпълнение на Европейската информационна система за горски пожари (EFFIS) по „Коперник“.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Услуги по наблюдение на пожари</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Изпълнителят трябва да предостави на JRC информацията за активните пожари, периметрите на опожарените площи и оценките на щетите на земното покритие след пожар в европейски и световен мащаб, в подкрепа на работата на Европейската информационна система за горски пожари (EFFIS) и по-нататъшното развитие на глобалната информационна система за горски пожари.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Регламент (ЕС) № 377/2014 на Европейския парламент и на Съвета от 3 април 2014 г. за създаване на програма „Коперник“</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Услуги по наблюдение на пожари</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Капацитет за резервно архивиране.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Cercetare</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Date Copernicus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Calculul previzional al pericolului de incendii și cartografierea și evaluarea în timp aproape real a incendiilor de pădure și de vegetație pe baza teledetecției satelitare sunt componente ale sistemului european de informații privind incendiile forestiere (EFFIS), care face parte dintre serviciile de gestionare a situațiilor de urgență ale Copernicus începând din octombrie 2015. Această procedură de achiziții publice vizează externalizarea exploatării EFFIS în cadrul Copernicus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Serviciul de monitorizare a incendiilor</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Contractantul va furniza JRC informații privind incendiile active, perimetrele suprafețelor arse și evaluarea daunelor în urma incendiilor din punctul de vedere al ocupării terenurilor la scară europeană și globală, susținând exploatarea sistemului european de informații privind incendiile forestiere și continuarea dezvoltării sistemului global de informații privind incendiile forestiere.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Calitatea tehnică (CT)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Regulamentul (UE) nr. 377/2014 al Parlamentului European și al Consiliului din 3 aprilie 2014 de instituire a programului Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Serviciul de monitorizare a incendiilor</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Capacități de achiziție back-up.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, DG Joint Research Centre (JRC), Directorate Space, Security and Migration (Ispra)</OFFICIALNAME>
+               <ADDRESS>Ispra, Via Enrico Fermi, 2749 (TP 581)</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-ispra-dir-e-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Istraživanje</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podaci Copernicusa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2016/D.1/5011/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Preliminarni izračun opasnosti od požara te mapiranje i procjena u skoro stvarnom vremenu šumskih požara i požara iz daljinskog satelitskog istraživanja sastavni su dijelovi Europskog informacijskog sustava za šumske požare (European forest fire information system — EFFIS) koji je dio usluga Copernicusa za upravljanje u hitnim slučajevima od listopada 2015. Ova je nabava usmjerena na eksternalizaciju rada EFFIS-a u okviru Copernicusa.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Usluga praćenja požara</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72312100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72314000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72315000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72322000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <SHORT_DESCR>
+                  <P>Izvršitelj pruža JRC-u informacije o aktivnim požarima, perimetrima izgorenih područja i procjene štete pokrova zemljišta nakon požara na europskoj i svjetskoj razini, pružajući podršku radu Europskog informacijskog sustava za šumske požare i daljnjem razvoju globalnog informacijskog sustava za šumske požare.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta (TQ)</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Uredba (EU) br. 377/2014 Europskog parlamenta i Vijeća od 3.4.2014 o uspostavi programa Copernicus</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2016/S 221-402418</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>932878</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Usluga praćenja požara</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-02</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>e-GEOS SPA</OFFICIALNAME>
+                     <NATIONALID>01032180778</NATIONALID>
+                     <TOWN>Matera</TOWN>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITF52"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</OFFICIALNAME>
+                     <NATIONALID>121965658</NATIONALID>
+                     <TOWN>Bonn</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DEA22"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>National Observatory of Athens (NOA)</OFFICIALNAME>
+                     <NATIONALID>EL090050779</NATIONALID>
+                     <TOWN>Athens</TOWN>
+                     <COUNTRY VALUE="GR"/>
+                     <n2016:NUTS CODE="EL301"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>University of Strasbourg (SERTIT)</OFFICIALNAME>
+                     <NATIONALID>FR44130005457</NATIONALID>
+                     <TOWN>Strasbourg</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FRF11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2500000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Rezervne mogućnosti nabave.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L– 2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

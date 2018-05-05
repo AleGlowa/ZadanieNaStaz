@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="018899-2018"
+            EDITION="2018010">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-019040-001</RECEPTION_ID>
+      <DELETION_DATE>20180422</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>10</NO_OJ>
+         <DATE_PUB>20180116</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 010-018899</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:018899-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.golabki.torun.lasy.gov.pl</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="77200000">Forestry services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77210000">Logging services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77211000">Services incidental to logging</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77211100">Timber harvesting services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77211200">Transport of logs within the forest</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77211400">Tree-cutting services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL414">Koniński</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="PL617">Inowrocławski</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL617">Inowrocławski</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL617">Inowrocławski</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL414">Koniński</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="PLN">2415330.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180112</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>01C03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги, свързани с горското стопанство и дърводобива</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Služby v oblasti lesnictví</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Tjenesteydelser inden for skovbrug</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Dienstleistungen in der Forstwirtschaft</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες δασοκομίας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Forestry services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios forestales</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Metsandusteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Metsänhoitopalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Services sylvicoles</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Forestry services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Šumarske usluge</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Erdészeti szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi forestali</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Miškininkystės paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Mežsaimniecības pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi tal-foresterija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Bosbouwdiensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi leśnictwa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços florestais</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii pentru silvicultură</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Lesnícke služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Gozdarske storitve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Gołąbki</TI_TOWN>
+            <TI_TEXT>
+               <P>Skogstjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Nadleśnictwo Gołąbki</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Nadleśnictwo Gołąbki</OFFICIALNAME>
+               <ADDRESS>Gołąbki 5</ADDRESS>
+               <TOWN>Gołąbki</TOWN>
+               <POSTAL_CODE>88-420 Rogowo</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Marcin Nawrot</CONTACT_POINT>
+               <PHONE>+48 523024905/+48 600421411</PHONE>
+               <E_MAIL>golabki@torun.lasy.gov.pl</E_MAIL>
+               <FAX>+48 523024905 / 523024911</FAX>
+               <n2016:NUTS CODE="PL617"/>
+               <URL_GENERAL>http://www.golabki.torun.lasy.gov.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE_OTHER>Państwowa Jednostka Organizacyjna Nieposiadająca Osobowości Prawnej</CA_TYPE_OTHER>
+            <CA_ACTIVITY_OTHER>Gospodarka Leśna</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ZG.270.5.3.2017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="77200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki.</P>
+               <P>Zamawiający podzielił zamówienie na 9 części (pakietów).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="PLN">2415330.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 1/6</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Oćwieka i Mięcierzyn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Oćwieka i Mięcierzyn.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 2/5</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Głęboczek i Długi Bród.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Głęboczek i Długi Bród.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 3</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Jeziora.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Jeziora.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 4</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL414"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Smolary.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Smolary.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 5</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Długi Bród.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Długi Bród.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 6</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Mięcierzyn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Mięcierzyn.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 6A</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Mięcierzyn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Mięcierzyn.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 9/10</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Niedźwiedzi Kierz i Łysinin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Niedźwiedzi Kierz i Łysinin.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 10</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77211400"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL617"/>
+               <MAIN_SITE>
+                  <P>Nadleśnictwo Gołąbki - Leśnictwo Łysinin.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki - Leśnictwo Łysinin.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Zamawiający przewiduje skorzystanie z prawa opcji na wartość do 20 % wartości przedmiotu zamówienia dla danej części zamówienia.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Zamówienie z wolnej ręki na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_REPETITION_EXISTING CTYPE="SERVICES"/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Zamawiający na podstawie art. 67 ust. 1 pkt 6 ustawy z dnia 29.1.2004 r. Prawo Zamówień Publicznych (Dz. U. z 2017 r., poz. 1579 ze zm.) udzielił w trybie zamówienia z wolnej ręki dotychczasowym wykonawcom usług podstawowych zamówień z art. 67 ust.1 pkt 6 polegających na powtórzeniu usług podobnych do tych przewidzianych w ogłoszeniu o zamówieniu dla zamówienia podstawowego i zgodnego z jego przedmiotem.</P>
+                  <P>Zamówienie z art. 67 ust.1 pkt. 6 było przewidziane w SIWZ i ogłoszeniu o zamówieniu dla zamówienia podstawowego i jest zgodne z jego przedmiotem, a całkowita wartość tego zamówienia została uwzględniona przy obliczaniu jego wartości, a samo zamówienie polega na powtórzeniu podobnych usług do usług zamówienia podstawowego.Zamówienie podstawowe było prowadzone zgodnie z zasadami przewidzianymi dla zamówień o wartości równej lub wyższej niż kwoty określonej w przepisach wydanych na podstawie art. 11 ust. 8 PZP i było podzielone na 11 części zamówienia. Wartość zamówienia podstawowego to 14 724 570,60 PLN netto (łącznie z przewidzianymi zamówieniami z art. 67 ust. 1 pkt. 6 oraz prawem opcji), co w przeliczeniu na euro daje kwotę: 3 526 927,73 € netto. Numer ogłoszenia w Dzienniku Urzędowym Unii Europejskiej zamówienia podstawowego: 2016/ S 210 - 381561, data zawarcia umów podstawowych: 22.12.2016 r. i 28.12.2016 r.</P>
+                  <P>Przedmiotem zamówienia podstawowego były usługi z zakresu gospodarki leśnej zgodnie z określeniem w art. 6 ust. 1 pkt. 1 ustawy z dnia 28.9.1991 r. o lasach (tekst jedn.: Dz. U. z 2015 r., poz. 2100 z późn. zm.) obejmujące prace z zakresu hodowli i ochrony lasu, pozyskania i zrywki drewna.</P>
+                  <P>Zamówienie zostało udzielone na skutek wystąpienia warunków atmosferycznych – nawałnicy, która w nocy z 11 na 12 sierpnia br., która zniszczyła na terenie nadleśnictwa ok. 610 ha drzewostanów o szacowanej objętości drewna ok. 200 tys. m3 - potrzeba jak najszybszego usunięcia skutków siły wyższej.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 1/6</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Jerzy Tomczyk Zakład Usług Leśnych</OFFICIALNAME>
+                     <ADDRESS>9/1</ADDRESS>
+                     <TOWN>Parlinek</TOWN>
+                     <POSTAL_CODE>88-306</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 784278997</PHONE>
+                     <E_MAIL>jurek0420@amorki.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 2/5</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-08</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Marek Folaron Zakład Usług Leśnych</OFFICIALNAME>
+                     <ADDRESS>3</ADDRESS>
+                     <TOWN>Cegielnia</TOWN>
+                     <POSTAL_CODE>88-420</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 603867865</PHONE>
+                     <E_MAIL>zul.folaron@wp.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="3">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>3</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 3</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-05</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Ryszard Grajkowski Zakład Wielobranżowy</OFFICIALNAME>
+                     <ADDRESS>28</ADDRESS>
+                     <TOWN>Cegielnia</TOWN>
+                     <POSTAL_CODE>88-420</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 662163002</PHONE>
+                     <E_MAIL>maciejg111@o2.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="4">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>4</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 4</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Mateusz Sikorski Zakład Usług Leśnych</OFFICIALNAME>
+                     <ADDRESS>8</ADDRESS>
+                     <TOWN>Jastrzębowo</TOWN>
+                     <POSTAL_CODE>62-240</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 606788887</PHONE>
+                     <E_MAIL>mateuszsikorski5@gmail.com</E_MAIL>
+                     <n2016:NUTS CODE="PL414"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="5">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>5</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 5</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Zakład Usług Leśnych s.c. Paweł Stachowiak Jan Matelski</OFFICIALNAME>
+                     <ADDRESS>51</ADDRESS>
+                     <TOWN>Gościeszyn</TOWN>
+                     <POSTAL_CODE>88-420</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 601504676/+48 666533505</PHONE>
+                     <E_MAIL>pawels.janm@op.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="6">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>6</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 6</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-09</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Leszek Usowski Zakład Usług Leśnych</OFFICIALNAME>
+                     <ADDRESS>ul. Dębowa 24</ADDRESS>
+                     <TOWN>Janowiec Wielkopolski</TOWN>
+                     <POSTAL_CODE>88-430</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 603516956</PHONE>
+                     <E_MAIL>leszekusowski@wp.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Pozyskanie i zrywka drewna.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="7">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>7</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 6A</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Paweł Krzyżan Zakład Usług Leśnych</OFFICIALNAME>
+                     <ADDRESS>3</ADDRESS>
+                     <TOWN>Niestronno</TOWN>
+                     <POSTAL_CODE>88-300</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 608319095</PHONE>
+                     <E_MAIL>pawelkrzyzan@wp.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Pozyskanie i zrywka drewna.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="8">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>8</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 9/10</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-08</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Zakład Usług Leśnych Zagospodarowanie Lasu Barbara Grzesik</OFFICIALNAME>
+                     <ADDRESS>ul. Ogrodowa 4</ADDRESS>
+                     <TOWN>Szczepanowo</TOWN>
+                     <POSTAL_CODE>88-306</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 695174372</PHONE>
+                     <E_MAIL>grzesik_barbara@tlen.pl</E_MAIL>
+                     <FAX>+48 695174372</FAX>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="9">
+            <CONTRACT_NO>ZG.270.5.3.2017</CONTRACT_NO>
+            <LOT_NO>9</LOT_NO>
+            <TITLE>
+               <P>Wykonywanie usług z zakresu pozyskania i zrywki drewna na terenach klęskowych Nadleśnictwa Gołąbki Pakiet K 10</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-08</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>1</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Zakład Usług Wielobranżowych Henryk Wilk</OFFICIALNAME>
+                     <ADDRESS>50</ADDRESS>
+                     <TOWN>Szelejewo</TOWN>
+                     <POSTAL_CODE>88-410</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <PHONE>+48 601439279</PHONE>
+                     <E_MAIL>henryk.wilk@onet.com.pl</E_MAIL>
+                     <n2016:NUTS CODE="PL617"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">312467.70</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">268370.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <INFO_ADD_SUBCONTRACTING>
+                  <P>Pozyskanie i zrywka drewna.</P>
+               </INFO_ADD_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Zamówienia udzielono na podstawie art. 67. ust. 1 pkt. 6 ustawy Prawo Zamówień Publicznych.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17A</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801 / +48 224587840</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800 / +48 224587803</FAX>
+               <URL>https://www.uzp.gov.pl/kio</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów PZP, przysługuje odwołanie wyłącznie od niezgodnej z przepisami PZP czynności Zamawiającego podjętej w postępowaniu o udzielenie zamówienia lub zaniechaniu czynności, do której Zamawiający jest zobowiązany na podstawie PZP.</P>
+               <P>2. Odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli zostały przesłane w sposób określony w art. 180 ust. 5 zd. drugie PZP, albo w terminie 15 dni - jeżeli zostały przesłane w inny sposób.</P>
+               <P>3. Odwołanie wobec czynności innych niż określone w pkt 2 i wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.</P>
+               <P>4. Odwołanie wnosi się do Prezesa Izby w formie pisemnej w postaci papierowej albo w postaci elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym.</P>
+               <P>5. Odwołujący przesyła kopię odwołania Zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.</P>
+               <P>6. Na orzeczenie Krajowej Izby Odwoławczej stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się do sądu okręgowego właściwego dla siedziby albo miejsca zamieszkania Zamawiającego. Skargę wnosi się za pośrednictwem Prezesa Krajowej Izby Odwoławczej w terminie 7 dni od dnia doręczenia orzeczenia Izby, przesyłając jednocześnie jej odpis przeciwnikowi skargi.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Urząd Zamówień Publicznych, Biuro Odwołań</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17A</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587800</FAX>
+               <URL>https://www.uzp.gov.pl/</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-12</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="031824-2018"
+            EDITION="2018016">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-026293-001</RECEPTION_ID>
+      <DELETION_DATE>20180427</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>16</NO_OJ>
+         <DATE_PUB>20180124</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 016-031824</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:031824-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="DK"/>
+         <IA_URL_GENERAL>http://www.eea.europa.eu/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="50700000">Repair and maintenance services of building installations</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="DK011">Byen København</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="DK011">Byen København</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="DK021">Østsjælland</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">260000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180117</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="E">Environment</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Danmark</TI_CY>
+            <TI_TOWN>København</TI_TOWN>
+            <TI_TEXT>
+               <P>Udførelse af reparation på og vedligeholdelse af Det Europæiske Miljøagenturs bygninger</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Dänemark</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Gebäudereparatur- und Instandhaltungsdienste für die Europäische Umweltagentur</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Denmark</TI_CY>
+            <TI_TOWN>Copenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Provision of Building Repair and Maintenance Services for the European Environment Agency</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Dinamarca</TI_CY>
+            <TI_TOWN>Copenhague</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestación de servicios de reparación y mantenimiento de edificios a favor de la Agencia Europea de Medio Ambiente</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Tanska</TI_CY>
+            <TI_TOWN>Kööpenhamina</TI_TOWN>
+            <TI_TEXT>
+               <P>Rakennusten korjaus- ja huoltopalvelujen toimittaminen Euroopan ympäristökeskukselle</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Danemark</TI_CY>
+            <TI_TOWN>Copenhague</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestation de services de réparation et d'entretien de bâtiments en faveur de l'Agence européenne pour l'environnement</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Δανία</TI_CY>
+            <TI_TOWN>Κοπεγχάγη</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή υπηρεσιών κατασκευής και συντήρησης κτιρίων για τον Ευρωπαϊκό Οργανισμό Περιβάλλοντος</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Danimarca</TI_CY>
+            <TI_TOWN>Copenaghen</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestazione di servizi di riparazione e manutenzione di edifici per l'Agenzia europea dell'ambiente</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Denemarken</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Verlening van gebouwreparatie- en onderhoudsdiensten voor het Europees Milieuagentschap</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Dinamarca</TI_CY>
+            <TI_TOWN>Copenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestação de serviços de reparação e manutenção de edifícios a favor da Agência Europeia do Ambiente</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Danmark</TI_CY>
+            <TI_TOWN>Köpenhamn</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av tjänster för reparation och underhåll av byggnader för Europeiska miljöbyrån</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Dánsko</TI_CY>
+            <TI_TOWN>Kodaň</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytování služeb oprav a údržby budov pro Evropskou agenturu pro životní prostředí</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Taani</TI_CY>
+            <TI_TOWN>Kopenhaagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Euroopa Keskkonnaametile hoonete remontimise ja hooldamise teenuste osutamine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Dánia</TI_CY>
+            <TI_TOWN>Koppenhága</TI_TOWN>
+            <TI_TEXT>
+               <P>Épületjavítási és -karbantartási szolgáltatások az Európai Környezetvédelmi Ügynökség részére</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Danija</TI_CY>
+            <TI_TOWN>Kopenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Pastatų remonto ir priežiūros paslaugų teikimas Europos aplinkos agentūrai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Dānija</TI_CY>
+            <TI_TOWN>Kopenhāgena</TI_TOWN>
+            <TI_TEXT>
+               <P>Ēku remontdarbu un uzturēšanas pakalpojumu sniegšana Eiropas Vides aģentūrai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>id-Danimarka</TI_CY>
+            <TI_TOWN>Kopenħagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Provvista ta' servizzi ta' tiswija u manutenzjoni tal-bini għall-Aġenzija Ewropea tal-Ambjent</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Dania</TI_CY>
+            <TI_TOWN>Kopenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Świadczenie usług remontu i konserwacji budynków na rzecz Europejskiej Agencji Środowiska</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Dánsko</TI_CY>
+            <TI_TOWN>Kodaň</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytovanie služieb opravy a údržby budov pre Európsku environmentálnu agentúru</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Danska</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Zagotavljanje storitev popravil in vzdrževanja stavb za Evropsko agencijo za okolje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Danmhairg, an</TI_CY>
+            <TI_TOWN>Cóbanhávan</TI_TOWN>
+            <TI_TEXT>
+               <P>Seirbhísí deisithe agus cothabhála foirgneamh a chur ar fáil don Ghníomhaireacht Eorpach Comhshaoil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Дaния</TI_CY>
+            <TI_TOWN>Копенхаген</TI_TOWN>
+            <TI_TEXT>
+               <P>Осигуряване на услуги по ремонт и поддръжка на сгради за Европейската агенция за околна среда</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Danemarca</TI_CY>
+            <TI_TOWN>Copenhaga</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestare de servicii de reparare și de întreținere a clădirilor pentru Agenția Europeană de Mediu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Danska</TI_CY>
+            <TI_TOWN>Kopenhagen</TI_TOWN>
+            <TI_TEXT>
+               <P>Pružanje usluga popravka i održavanja zgrade za Europsku agenciju za okoliš</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Miljøagentur</AA_NAME>
+         <AA_NAME LG="DE">Europäische Umweltagentur</AA_NAME>
+         <AA_NAME LG="EN">European Environment Agency</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de Medio Ambiente</AA_NAME>
+         <AA_NAME LG="FI">Euroopan ympäristökeskus</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne pour l'environnement</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός Περιβάλλοντος</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea dell'ambiente</AA_NAME>
+         <AA_NAME LG="NL">Europees Milieuagentschap</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia do Ambiente</AA_NAME>
+         <AA_NAME LG="SV">Europeiska miljöbyrån</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro životní prostředí</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Keskkonnaamet</AA_NAME>
+         <AA_NAME LG="HU">Európai Környezetvédelmi Ügynökség</AA_NAME>
+         <AA_NAME LG="LT">Europos aplinkos agentūra</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Vides aģentūra</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għall-Ambjent</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Środowiska</AA_NAME>
+         <AA_NAME LG="SK">Európska environmentálna agentúra (EEA)</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za okolje</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach Chomhshaoil</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за околна среда</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană de Mediu</AA_NAME>
+         <AA_NAME LG="HR">Europska agencija za okoliš</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Miljøagentur</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Udførelse af reparation på og vedligeholdelse af Det Europæiske Miljøagenturs bygninger</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålet med dette udbud er at indgå en rammeaftale med en tjenesteyder, der kan tilbyde et bredt spektrum af tjenester inden for reparation og vedligeholdelse af bygninger til følgende områder: Elektricitetsarbejde, blikkenslagerarbejde, tømrer-/snedkerarbejde, maler- og dekorationsarbejde, gulvbelægning og pudsning.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Tjenesterne vil blive leveret i EEA's lokaler på adressen Kongens Nytorv Nº 6 and 8, 1050 Copenhagen K, Danmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Formålet med dette udbud er at indgå en rammeaftale med en tjenesteyder, der kan tilbyde et bredt spektrum af tjenester inden for reparation og vedligeholdelse af bygninger til følgende områder: Elektricitetsarbejde, blikkenslagerarbejde, tømrer-/snedkerarbejde, maler- og dekorationsarbejde, gulvbelægning og pudsning.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kundeservicepolitik, herunder den måde, hvorpå der hurtigt reageres på hastende servicebehov, backupsystem til teknikere, fleksibilitet, mv.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kontraktforvaltning og interaktion med agenturet</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Efter et offentligt udbud (ref. EEA/ADS/17/007) der ikke modtog nogen bud, blev et udbud med forhandling lanceret under artikel 134, stk 1, litra a) i gennemførelsesbestemmelserne.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Udførelse af reparation på og vedligeholdelse af Det Europæiske Miljøagenturs bygninger.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Den Europæiske Ombudsmand</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Umweltagentur</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Gebäudereparatur- und Instandhaltungsdienste für die Europäische Umweltagentur</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Der Zweck dieser Ausschreibung ist der Abschluss eines Rahmenvertrags mit einem Dienstleister, der ein breites Spektrum an Gebäudereparatur- und Instandhaltungsdiensten in folgenden Bereichen anbieten kann: Elektrische Arbeiten, Klempnerarbeiten, Zimmermanns- bzw. Tischlerarbeiten, Maler- und dekorative Arbeiten, Arbeiten im Bereich Bodenbeläge, Putzarbeiten.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Die Dienstleistungen werden in den Räumlichkeiten der EUA an folgendem Standort erbracht: Kongens Nytorv N° 6 and 8, 1050 Copenhagen K, Dänemark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der Zweck dieser Ausschreibung ist der Abschluss eines Rahmenvertrags mit einem Dienstleister, der ein breites Spektrum an Gebäudereparatur- und Instandhaltungsdiensten in folgenden Bereichen anbieten kann: Elektrische Arbeiten, Klempnerarbeiten, Zimmermanns- bzw. Tischlerarbeiten, Maler- und dekorative Arbeiten, Arbeiten im Bereich Bodenbeläge, Putzarbeiten.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kundenservicepolitik, einschließlich dem Verfahren, auf dringende Serviceanfragen zügig zu reagieren, Backup-System für Techniker, Flexibilität usw.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Auftragsverwaltung und Interaktion mit der Agentur</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Infolge einer öffentlichen Ausschreibung (Ref. EEA/ADS/17/007), für die keine Angebote eingegangen sind, wurde gemäß Artikel 134, Absatz 1, Buchstabe a der Anwendungsbestimmungen (Rules of Application – RAP) ein Verhandlungsverfahren eingeleitet.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Gebäudereparatur- und Instandhaltungsdienste für die Europäische Umweltagentur (EUA)</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europäischer Bürgerbeauftragter</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Environment Agency</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provision of Building Repair and Maintenance Services for the European Environment Agency</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The purpose of this call for tenders is to establish a framework contract with a service provider that will be able to offer a wide spectrum of building repair and maintenance services in the following areas: Electrical work, Plumbing, Carpentry/Joinery, Painting and decorating, Flooring, Plastering.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>The services will be provided at the premises of the EEA located at Kongens Nytorv Nº 6 and 8, 1050 Copenhagen K, Denmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The purpose of this call for tenders is to establish a framework contract with a service provider that will be able to offer a wide spectrum of building repair and maintenance services in the following areas: Electrical work, Plumbing, Carpentry/Joinery, Painting and decorating, Flooring, Plastering.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Customer service policy, including the way to respond quickly to urgent service needs, back-up system for technicians, flexibility etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Contract administration and interaction with the Agency</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Following an open call for tenders (ref. EEA/ADS/17/007) for which no tenders were received, a negotiated procedure under Article 134(1)(a) of the RAP was launched.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Provision of Building Repair and Maintenance services for the European Environment Agency</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>European Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 Avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de Medio Ambiente</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestación de servicios de reparación y mantenimiento de edificios a favor de la Agencia Europea de Medio Ambiente</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objetivo de esta convocatoria de licitación es establecer un contrato marco con un proveedor de servicios que pueda ofrecer una amplia gama de servicios de mantenimiento y reparación de edificios en las siguientes áreas: trabajos electrotécnicos, fontanería, carpintería/ebanistería, pintura y decoración, pavimentos y revocos.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Los servicios se prestarán en las instalaciones de la AEMA situadas en Kongens Nytorv 6 and 8, 1050 Copenhagen K, Dinamarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El objetivo de esta convocatoria de licitación es establecer un contrato marco con un proveedor de servicios que pueda ofrecer una amplia gama de servicios de mantenimiento y reparación de edificios en las siguientes áreas: trabajos electrotécnicos, fontanería, carpintería/ebanistería, pintura y decoración, pavimentos y revocos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Política de servicio al cliente, incluida la manera de responder rápidamente a las necesidades de servicios urgentes, sistema de apoyo para técnicos, flexibilidad, etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Administración del contrato e interacción con la Agencia</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Tras una convocatoria abierta (ref. EEA/ADS/17/007) para la que no se recibieron ofertas, se inició un procedimiento negociado de conformidad con el artículo 134 (1) (a) de las normas de desarrollo.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Prestación de servicios de reparación y mantenimiento de edificios a favor de la Agencia Europea de Medio Ambiente</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Defensor del Pueblo Europeo</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan ympäristökeskus</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rakennusten korjaus- ja huoltopalvelujen toimittaminen Euroopan ympäristökeskukselle</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tämän tarjouspyynnön tarkoituksena on puitesopimuksen tekeminen sellaisen palveluntarjoajan kanssa, joka voi tarjota laajan valikoiman rakennusten korjaus- ja huoltopalveluja seuraavilla aloilla: sähkö- ja putkityöt, rakennus- ja huonekalupuusepäntyöt, maalaus ja sisustus, lattioiden asennus ja tasoitetyöt.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>palvelujen suorituspaikkana ovat EYK:n toimitilat osoitteessa Kongens Nytorv 6 ja 8, 1050 Copenhagen K, Tanska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tämän tarjouspyynnön tarkoituksena on puitesopimuksen tekeminen sellaisen palveluntarjoajan kanssa, joka voi tarjota laajan valikoiman rakennusten korjaus- ja huoltopalveluja seuraavilla aloilla: sähkö- ja putkityöt, rakennus- ja huonekalupuusepäntyöt, maalaus ja sisustus, lattioiden asennus ja tasoitetyöt.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>asiakaspalvelupolitiikka mukaan lukien se, miten vastataan nopeasti kiireellisiin palvelutarpeisiin, varajärjestelmä ammattilaisten saatavuuden takaamiseksi, joustavuus jne.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>sopimuksen hallinta ja vuorovaikutus viraston kanssa</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Koska avoimeen tarjouspyyntöön (viite  EEA/ADS/17/007) ei saatu tarjouksia, käynnistettiin neuvottelumenettely soveltamissääntöjen artiklan 134 kohdan 1 alakohdan a mukaisesti.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Rakennusten korjaus- ja huoltopalvelujen toimittaminen Euroopan ympäristökeskukselle (EYK)</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Euroopan oikeusasiamies</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne pour l'environnement</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestation de services de réparation et d'entretien de bâtiments en faveur de l'Agence européenne pour l'environnement</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le présent appel d'offres a pour but de conclure un contrat-cadre avec un prestataire de services qui sera en mesure de proposer un large éventail de services de réparation et d'entretien de bâtiments dans les domaines suivants : travaux d’électricité, plomberie, charpenterie/menuiserie, peinture et décoration, plancher, plâtrage.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Les services seront exécutés dans les locaux de l'AEE (Agence européenne pour l'environnement) situés Kongens Nytorv 6-8, 1050 Copenhagen K, Danemark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Le présent appel d'offres a pour but de conclure un contrat-cadre avec un prestataire de services qui sera en mesure de proposer un large éventail de services de réparation et d'entretien de bâtiments dans les domaines suivants : travaux d’électricité, plomberie, charpenterie/menuiserie, peinture et décoration, plancher, plâtrage.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politique en matière de service client, y compris méthode adoptée pour répondre rapidement aux besoins de services urgents, système de remplacement des techniciens, flexibilité, etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Gestion du contrat et interaction avec l'Agence</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Suite à l’appel d’offres ouvert (réf. EEA/ADS/17/007) pour lequel aucune offre n’a été reçue, une procédure négociée conformément à l'article 134(1)(a) des règles d'application a été lancée.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Prestation de services de réparation et d'entretien de bâtiments en faveur de l'Agence européenne pour l'environnement</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Médiateur européen</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκός Οργανισμός Περιβάλλοντος</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή υπηρεσιών κατασκευής και συντήρησης κτιρίων για τον Ευρωπαϊκό Οργανισμό Περιβάλλοντος</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Σκοπός της εν λόγω πρόσκλησης υποβολής προσφορών είναι η σύναψη σύμβασης-πλαίσιο με πάροχο υπηρεσιών ο οποίος θα είναι σε θέση να προσφέρει ένα ευρύ φάσμα υπηρεσιών επισκευής και συντήρησης κτιρίων στους ακόλουθους τομείς: Ηλεκτρικές εργασίες, υδραυλικές εργασίες, ξυλουργικές εργασίες, βαφή και διακόσμηση, κατασκευή δαπέδων, γύψωση.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Οι υπηρεσίες θα παρασχεθούν στις εγκαταστάσεις του ΕΟΠ στη διεύθυνση Kongens Nytorv 6 και 8, 1050 Copenhagen K, Δανία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Σκοπός της εν λόγω πρόσκλησης υποβολής προσφορών είναι η σύναψη σύμβασης-πλαίσιο με πάροχο υπηρεσιών ο οποίος θα είναι σε θέση να προσφέρει ένα ευρύ φάσμα υπηρεσιών επισκευής και συντήρησης κτιρίων στους ακόλουθους τομείς: Ηλεκτρικές εργασίες, υδραυλικές εργασίες, ξυλουργικές εργασίες, βαφή και διακόσμηση, κατασκευή δαπέδων, γύψωση.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Πολιτική εξυπηρέτησης πελατών, συμπεριλαμβανομένου του τρόπου γρήγορης αντίδρασης σε επείγουσες ανάγκες παροχής υπηρεσιών, σύστημα εφεδρικής υποστήριξης για τεχνικούς, ευελιξία, κ.λπ.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Διαχείριση της σύμβασης και αλληλεπίδραση με τον Οργανισμό</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Έπειτα από ανοικτή πρόσκληση υποβολής προσφορών (αριθ. EEA/ADS/17/007) για την οποία δεν υποβλήθηκαν προσφορές, δρομολογήθηκε διαδικασία με διαπραγμάτευση βάσει του άρθρου 134 παράγραφος 1 στοιχείο α) των κανόνων εφαρμογής.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Παροχή υπηρεσιών κατασκευής και συντήρησης κτιρίων για τον Ευρωπαϊκό Οργανισμό Περιβάλλοντος</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Ευρωπαίος Διαμεσολαβητής</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea dell'ambiente</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestazione di servizi di riparazione e manutenzione di edifici per l'Agenzia europea dell'ambiente</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lo scopo del presente bando di gara consiste nella stipula di un contratto quadro con un prestatore di servizi che sarà in grado di offrire un'ampia gamma di servizi di manutenzione e riparazione di edifici nei seguenti settori: impianto elettrico, idraulica, carpenteria/falegnameria, tinteggiatura e decorazione, pavimentazione, intonacatura.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>I servizi saranno prestati presso le strutture dell'AEA, ubicate in Kongens Nytorv nn. 6 e 8, 1050 Copenhagen K, Danimarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lo scopo del presente bando di gara consiste nella stipula di un contratto quadro con un prestatore di servizi che sarà in grado di offrire un'ampia gamma di servizi di manutenzione e riparazione di edifici nei seguenti settori: impianto elettrico, idraulica, carpenteria/falegnameria, tinteggiatura e decorazione, pavimentazione, intonacatura.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politica del servizio ai clienti, comprendente modalità di risposta rapida ad esigenze di servizio urgenti, sistema di recupero per i tecnici, flessibilità, ecc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Amministrazione del contratto e interazione con l'Agenzia</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>A seguito del bando di gara con procedura aperta (rif. EEA/ADS/17/007) per il quale non sono state ricevute offerte, è stata indetta una procedura negoziata ai sensi dell'articolo 134, paragrafo 1, lettera a), delle modalità di applicazione.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Prestazione di servizi di riparazione e manutenzione di edifici per l'Agenzia europea dell'ambiente</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Mediatore europeo</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Milieuagentschap</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verlening van gebouwreparatie- en onderhoudsdiensten voor het Europees Milieuagentschap</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Doel van deze oproep tot inschrijvingen is de opstelling van een raamovereenkomst met een dienstverlener die in staat is een brede waaier aan gebouwreparatie- en onderhoudsdiensten te verlenen op de volgende gebieden: elektriciteitswerken, loodgieterswerken, timmerwerk/schrijnwerk, verf en decoratie, bevloering, bepleistering.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>de diensten zullen worden verleend in de kantoren van het EEA (Kongens Nytorv 6 en 8, 1050 Copenhagen K, Denemarken).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Doel van deze oproep tot inschrijvingen is de opstelling van een raamovereenkomst met een dienstverlener die in staat is een brede waaier aan gebouwreparatie- en onderhoudsdiensten te verlenen op de volgende gebieden: elektriciteitswerken, loodgieterswerken, timmerwerk/schrijnwerk, verf en decoratie, bevloering, bepleistering.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>klantendienstbeleid, met inbegrip van de manier om snel te reageren op dringende dienstbehoeften, back-upsysteem voor technici, flexibiliteit, enz.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>opdrachtbeheer en interactie met het Agentschap</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>volgend op een openbare oproep tot inschrijving (ref. EEA/ADS/17/007) waarvoor geen inschrijvingen werden ontvangen, werd op basis van artikel 134, lid 1, onder a) van de uitvoeringsvoorschriften een onderhandelingsprocedure uitgeschreven.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Verlening van gebouwreparatie- en onderhoudsdiensten voor het Europees Milieuagentschap</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europese Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia do Ambiente</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestação de serviços de reparação e manutenção de edifícios a favor da Agência Europeia do Ambiente</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objetivo do presente concurso consiste no estabelecimento de um contrato-quadro com um prestador de serviços que terá capacidade para prestar uma vasta gama de serviços de reparação e manutenção de edifícios nas seguintes áreas: trabalhos de eletricidade, canalização, carpintaria/marcenaria, pintura e decoração, revestimento de pavimentos, estucagem.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Os serviços serão prestados nas instalações da AEA em Kongens Nytorv n.º 6 and 8, 1050 Copenhagen K, Dinamarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O objetivo do presente concurso consiste no estabelecimento de um contrato-quadro com um prestador de serviços que terá capacidade para prestar uma vasta gama de serviços de reparação e manutenção de edifícios nas seguintes áreas: trabalhos de eletricidade, canalização, carpintaria/marcenaria, pintura e decoração, revestimento de pavimentos, estucagem.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Política de serviço de apoio ao cliente, incluindo a forma de responder rapidamente a necessidades de serviço urgentes, sistemas de substituição para técnicos, flexibilidade, etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Gestão de contratos e interação com a agência</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>No seguimento de um concurso público (ref. EEA/ADS/17/007) para o qual não foram recebidas propostas,foi lançado um processo por negociação nos termos do Artigo 134.º n.º 1, alínea a) das normas de execução.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Prestação de serviços de reparação e manutenção de edifícios a favor da Agência Europeia do Ambiente</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Provedor de Justiça Europeu</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska miljöbyrån</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av tjänster för reparation och underhåll av byggnader för Europeiska miljöbyrån</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med denna anbudsinfordran är att upprätta ett ramavtal med en tjänsteleverantör som kan erbjuda ett brett spektrum av tjänster för reparation och underhåll inom följande områden: Elarbeten, rörmokeri, byggnads- och inredningssnickeri, målning och dekorering, golvbeläggning och gipsning.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Tjänsterna ska tillhandahållas i EEA:s lokaler belägna på Kongens Nytorv 6 and 8, 1050 Copenhagen K, Danmark.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Syftet med denna anbudsinfordran är att upprätta ett ramavtal med en tjänsteleverantör som kan erbjuda ett brett spektrum av tjänster för reparation och underhåll inom följande områden: Elarbeten, rörmokeri, byggnads- och inredningssnickeri, målning och dekorering, golvbeläggning och gipsning.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kundtjänstpolicy, inbegripet sättet att snabbt svara på brådskande tjänstebehov, reservsystem för tekniker, flexibilitet etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kontraktsförvaltning och samverkan med byrån</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Efter en öppen anbudsinfordran (ref. EEA/ADS/17/007) för vilken inga anbud mottogs, inleddes ett förhandlat förfarande under artikel 134(1)(a) i tillämpningsföreskrifterna.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Tillhandahållande av tjänster för reparation och underhåll av byggnader för Europeiska miljöbyrån</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europeiska ombudsmannen</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro životní prostředí</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytování služeb oprav a údržby budov pro Evropskou agenturu pro životní prostředí</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Účelem této výzvy k podání nabídek je uzavřít rámcovou smlouvu s poskytovatelem služeb, který bude schopen nabídnout širokou škálu služeb oprav a údržby budov v následujících oblastech: elektrické práce, instalatérské práce, truhlářské/tesařské práce, malířské a dekorační práce, pokrývačské a omítací práce.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Služby budou poskytovány v prostorách EEA nacházejících se na adrese Kongens Nytorv 6 a 8, 1050 Copenhagen K, Dánsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Účelem této výzvy k podání nabídek je uzavřít rámcovou smlouvu s poskytovatelem služeb, který bude schopen nabídnout širokou škálu služeb oprav a údržby budov v následujících oblastech: elektrické práce, instalatérské práce, truhlářské/tesařské práce, malířské a dekorační práce, pokrývačské a omítací práce.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politika týkající se zákaznických služeb, včetně způsobu, jakým se rychle reaguje na naléhavé potřeby služeb, zálohovacího systému pro techniky, flexibility atd.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Správa smlouvy a součinnost s agenturou</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Dle otevřené výzvy k podání nabídek (ref. číslo EEA/ADS/17/007), ke které nebyly obdrženy žádné nabídky, bylo zahájeno jednací řízení dle článku 134 odst. 1 písm. a) prováděcích pravidel.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Poskytování služeb oprav a údržby budov pro Evropskou agenturu pro životní prostředí</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Evropský veřejný ochránce práv</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Keskkonnaamet</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Euroopa Keskkonnaametile hoonete remontimise ja hooldamise teenuste osutamine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Selle pakkumiskutse eesmärk on sõlmida raamleping teenuseosutajaga, kes suudab pakkuda mitmesuguseid hoonete remontimise ja hooldamise teenuseid järgmistes valdkondades:  elektritööd, torutööd, puusepa/tisleritööd, värvimine ja siseviimistlus, põrandakatted, krohvimine.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Teenuseid tuleb osutada EEA ruumides aadressil Kongens Nytorv Nº 6 ja 8, 1050 Copenhagen K, Taani.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Selle pakkumiskutse eesmärk on sõlmida raamleping teenuseosutajaga, kes suudab pakkuda mitmesuguseid hoonete remontimise ja hooldamise teenuseid järgmistes valdkondades:  elektritööd, torutööd, puusepa/tisleritööd, värvimine ja siseviimistlus, põrandakatted, krohvimine.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>klienditeeninduse poliitika, sh viis, kuidas reageerida kiiresti kiireloomulistele teenuse vajadustele, varundussüsteem tehnikutele, paindlikkus jne</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>lepingu haldamine ja suhtlus ametiga</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Avatud hankemenetluse (viide  EEA/ADS/17/007) järel, millele ei laekunud ühtegi pakkumist algatati läbirääkimistega menetlus vastavalt kohaldamise eeskirjade (RAP) artikli 134 lõike 1 punktile a.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Euroopa Keskkonnaametile hoonete remontimise ja hooldamise teenuste osutamine</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Euroopa Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Környezetvédelmi Ügynökség</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Épületjavítási és -karbantartási szolgáltatások az Európai Környezetvédelmi Ügynökség részére</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>E pályázati felhívás célja egy keretszerződés megkötése egy olyan szolgáltatóval, aki képes széles spektrumú épületjavítási és -karbantartási szolgáltatásokat nyújtani a következő területeken: villamossági munkák; vízvezeték-szerelés; ács- és asztalosmunkák; festés és dekorációs munkák; padlóburkolás; vakolás.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>A szolgáltatásokat az EEA épületeinél kell teljesíteni a következő címen: Kongens Nytorv 6 and 8, 1050 Copenhagen K, Dánia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>E pályázati felhívás célja egy keretszerződés megkötése egy olyan szolgáltatóval, aki képes széles spektrumú épületjavítási és -karbantartási szolgáltatásokat nyújtani a következő területeken: villamossági munkák; vízvezeték-szerelés; ács- és asztalosmunkák; festés és dekorációs munkák; padlóburkolás; vakolás.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Ügyfélszolgálati politika, ideértve a sürgős szolgáltatásigényekre való gyors reagálást biztosító módszert, a tartalékrendszert a technikusok számára, a rugalmasságot stb.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Szerződéskezelés és együttműködés az ügynökséggel</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Nyílt pályázati felhívást követően (hiv. EEA/ADS/17/007) melyre nem érkezett be ajánlat, az alkalmazási szabályok 134. cikke (1) bekezdésének a) pontja értelmében tárgyalásos eljárás került közzétételre.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Épületjavítási és -karbantartási szolgáltatások az Európai Környezetvédelmi Ügynökség részére</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Európai Ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos aplinkos agentūra</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pastatų remonto ir priežiūros paslaugų teikimas Europos aplinkos agentūrai</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šio kvietimo pateikti pasiūlymus tikslas – sudaryti preliminariąją sutartį su paslaugų teikėju, kuris galės pasiūlyti įvairių pastatų remonto ir priežiūros paslaugų šiose srityse: elektros darbai, santechnika, dailidžių ir stalių darbai, tapyba ir dekoravimas, grindų tiesimas, tinkavimas.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>paslaugos bus teikiamos EAA patalpose, adresu Kongens Nytorv Nr. 6 ir 8, 1050 Copenhagen K, Danija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šio kvietimo pateikti pasiūlymus tikslas – sudaryti preliminariąją sutartį su paslaugų teikėju, kuris galės pasiūlyti įvairių pastatų remonto ir priežiūros paslaugų šiose srityse: elektros darbai, santechnika, dailidžių ir stalių darbai, tapyba ir dekoravimas, grindų tiesimas, tinkavimas;</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>klientų aptarnavimo politika, įskaitant greitą reagavimą į skubius paslaugų poreikius, atsargines sistemas technikams, lankstumą ir kt.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Sutarties administravimas ir sąveika su agentūra</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Po atviro konkurso (žr. EEA/ADS/17/007), per kurį nebuvo gauta nė vieno pasiūlymo, buvo pradėta derybų procedūra, remiantis taikymo taisyklių 134 straipsnio 1 dalies a punktu.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Pastatų remonto ir priežiūros paslaugų teikimas Europos aplinkos agentūrai</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europos ombudsmenas</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Vides aģentūra</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ēku remontdarbu un uzturēšanas pakalpojumu sniegšana Eiropas Vides aģentūrai</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā uzaicinājuma uz konkursu mērķis ir noslēgt pamatnolīgumu ar pakalpojumu sniedzēju, kas spēs piedāvāt plaša spektra ēku remontdarbu un uzturēšanas pakalpojumus šādās jomās: elektriskie, sanitārtehniskie, galdniecības, krāsošanas un dekorēšanas darbi, grīdas segumu ieklāšana un sienu apmešana.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>pakalpojumi tiks nodrošināti EVA telpās, kas atrodas Kongens Nytorv 6 and 8, 1050 Copenhagen K, Dānijā.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šā uzaicinājuma uz konkursu mērķis ir noslēgt pamatnolīgumu ar pakalpojumu sniedzēju, kas spēs piedāvāt plaša spektra ēku remontdarbu un uzturēšanas pakalpojumus šādās jomās: elektriskie, sanitārtehniskie, galdniecības, krāsošanas un dekorēšanas darbi, grīdas segumu ieklāšana un sienu apmešana.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Klientu apkalpošanas politika, tai skaitā metode ātrai reaģēšanai uz steidzamām pakalpojuma vajadzībām, tehnisko darbinieku aizvietošanas sistēma, elastīgums, u. c.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Līgumu pārvaldība un sadarbība ar aģentūru</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Pēc atklāta uzaicinājuma uz konkursu (ats. EEA/ADS/17/007), kurā netika saņemts neviens piedāvājums, tika izsludināta sarunu procedūra saskaņā ar RAP 134. panta 1. punkta a) apakšpunktu.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Ēku remontdarbu un uzturēšanas pakalpojumu sniegšana Eiropas Vides aģentūrai</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Eiropas Ombuds</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għall-Ambjent</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provvista ta' servizzi ta' tiswija u manutenzjoni tal-bini għall-Aġenzija Ewropea tal-Ambjent</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-iskop ta' din is-sejħa għall-offerti hu li jkun imwaqqaf qafas ta' kuntratt ma' fornitur ta' servizz li jkollu l-ħila joffri spettru wiesa' ta' servizzi ta' tiswija u manutenzjoni tal-bini f'dawn l-oqsma li ġejjin: Xogħol tal-elettriku, Plaming, Xogħol ta' Mastrudaxxa/Injam, Tibjid u tisbiħ, Paviment, Tikħil.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Is-servizzi se jkunu pprovduti fil-bini tal-EEA li jinsab f'Kongens Nytorv Nº 6 and 8, 1050 Copenhagen K, id-Danimarka.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L-iskop ta' din is-sejħa għall-offerti hu li jkun imwaqqaf qafas ta' kuntratt ma' fornitur ta' servizz li jkollu l-ħila joffri spettru wiesa' ta' servizzi ta' tiswija u manutenzjoni tal-bini f'dawn l-oqsma li ġejjin: Xogħol tal-elettriku, Plaming, Xogħol ta' Mastrudaxxa/Injam, Tibjid u tisbiħ, Paviment, Tikħil.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politika tas-servizz lill-klijent, inkluż il-mod kif tirrispondi malajr għal ħtiġijiet għal servizz urġenti, sistema ta' ħażna għat-tekniċi, flessibbiltà, eċċ.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>L-amministrazzjoni tal-kuntratt u l-interazzjoni mal-Aġenzija</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Wara s-sejħa miftuħa għall-offerti (ref. EEA/ADS/17/007) li għaliha ma ntefgħu l-ebda offerti, tnediet proċedura nnegozjata skont l-Artikolu 134(1)(a) tar-RAP (Pjan għal Azzjoni ta' Rimedju).</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Provvista ta' servizzi ta' tiswija u manutenzjoni tal-bini għall-Aġenzija Ewropea tal-Ambjent</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>L-Ombudsman Ewropew</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Środowiska</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Świadczenie usług remontu i konserwacji budynków na rzecz Europejskiej Agencji Środowiska</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Celem niniejszego zaproszenia do składania ofert jest zawarcie umowy ramowej z usługodawcą zdolnym do zaoferowania wielu różnych usług w zakresie remontu i konserwacji, takich jak: prace elektryczne, instalacje hydrauliczne, stolarka/ślusarka, malowanie i wykończenie, pokrycia posadzek, gipsowanie.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>usługi będą świadczone w siedzibie EEA zlokalizowanej pod adresem: Kongens Nytorv 6 and 8, 1050 Copenhagen K, Dania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Celem niniejszego zaproszenia do składania ofert jest zawarcie umowy ramowej z usługodawcą zdolnym do zaoferowania wielu różnych usług w zakresie remontu i konserwacji, takich jak: prace elektryczne, instalacje hydrauliczne, stolarka/ślusarka, malowanie i wykończenie, pokrycia posadzek, gipsowanie.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Polityka obsługi klienta, w tym sposób szybkiego reagowania na pilne potrzeby w zakresie usług, system wsparcia personelu technicznego, elastyczność itd.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zarządzanie zamówieniem oraz interakcja z Agencją</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Po ogłoszeniu otwartej procedury przetargowej (nr EEA/ADS/17/007) nie otrzymano żadnych ofert, w związku z czym wszczęto procedurę negocjacyjną, na mocy Artykułu 134 pkt. (1) lit. (a) zasad stosowania.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Świadczenie usług remontu i konserwacji budynków na rzecz Europejskiej Agencji Środowiska</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europejski Rzecznik Praw Obywatelskich</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska environmentálna agentúra (EEA)</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytovanie služieb opravy a údržby budov pre Európsku environmentálnu agentúru</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cieľom tejto výzvy na predloženie ponúk je uzatvoriť rámcovú zmluvu s poskytovateľom služieb, ktorý bude schopný ponúknuť široké spektrum služieb opravy a údržby budov v nasledujúcich oblastiach: elektroinštalačné práce, inštalatérske práce, tesárske/stolárske práce, maľovanie a výzdoba, podlahy, omietanie.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Služby budú poskytnuté v priestoroch EEA na adrese Kongens Nytorv Nº 6 and 8, 1050 Copenhagen K, Dánsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cieľom tejto výzvy na predloženie ponúk je uzatvoriť rámcovú zmluvu s poskytovateľom služieb, ktorý bude schopný ponúknuť široké spektrum služieb opravy a údržby budov v nasledujúcich oblastiach: elektroinštalačné práce, inštalatérske práce, tesárske/stolárske práce, maľovanie a výzdoba, podlahy, omietanie.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politika služieb zákazníkom vrátane spôsobu, akým rýchlo reagovať na naliehavé potreby služieb, zálohovací systém pre technikov, flexibilita atď.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Správa zmluvy a spolupráca s agentúrou</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Po verejnej výzve na predkladanie ponúk (ref.číslo EEA/ADS/17/007), ku ktorej nebola doručená žiadna ponuka, bolo zrealizované rokovacie konanie na základe článku 134 ods. 1 písm. a) pravidiel uplaňovania.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Poskytovanie služieb opravy a údržby budov pre Európsku environmentálnu agentúru</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Európsky ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za okolje</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zagotavljanje storitev popravil in vzdrževanja stavb za Evropsko agencijo za okolje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Namen tega javnega razpisa je skleniti okvirno naročilo s ponudnikom storitev, ki bo lahko zagotovil širok nabor storitev popravil in vzdrževanja na naslednjih področjih: električna dela, vodovodna dela, tesarska/mizarska dela, pleskanje in okraševanje, polaganje tal, štukaterska dela.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Storitve se bodo zagotavljale v prostorih EEA na naslovu Kongens Nytorv 6 and 8, 1050 Copenhagen K, Danska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Namen tega javnega razpisa je skleniti okvirno naročilo s ponudnikom storitev, ki bo lahko zagotovil širok nabor storitev popravil in vzdrževanja na naslednjih področjih: električna dela, vodovodna dela, tesarska/mizarska dela, pleskanje in okraševanje, polaganje tal, štukaterska dela.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politika odnosa s strankami, vključno z načinom hitrega odziva na nujne potrebe po storitvah, rezervni sistem za tehnike, prilagodljivost itd.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Upravljanje naročila in interakcija z Agencijo</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Po odprtem javnem razpisu (ref. št. EEA/ADS/17/007), v katerem ni bilo prejetih ponudb, je bil sprožen postopek s pogajanji v skladu s členom 134(1)(a) pravil uporabe.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Zagotavljanje storitev popravil in vzdrževanja stavb za Evropsko agencijo za okolje</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Evropski varuh človekovih pravic</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach Chomhshaoil</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Seirbhísí deisithe agus cothabhála foirgneamh a chur ar fáil don Ghníomhaireacht Eorpach Comhshaoil</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é cuspóir an ghlao ar thairiscintí seo creatchonradh a dhéanamh le soláthraí seirbhíse a bheidh in ann raon leathan seirbhísí cothabhála agus deisithe foirgnimh a thairiscint sna réimsí a leanas: Obair leictreach, Pluiméireacht, Cearpantóireacht/Siúinéireacht, Péinteáil agus Maisiú, Leagan Urlár, Plástráil.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Soláthrófar na seirbhísí ag áitreabh na Gníomhaireachta Eorpaí Comhshaoil atá lonnaithe ag Nº Kongens Nytorv 6 and 8, 1050 Copenhagen K, an Danmhairg.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is é cuspóir an ghlao ar thairiscintí seo creatchonradh a dhéanamh le soláthraí seirbhíse a bheidh in ann raon leathan seirbhísí cothabhála agus deisithe foirgnimh a thairiscint sna réimsí a leanas: Obair leictreach, Pluiméireacht, Cearpantóireacht/Siúinéireacht, Péinteáil agus Maisiú, Leagan Urlár, Plástráil.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Beartas um sheirbhís do chustaiméirí, lena n-áirítear an bealach chun freagairt go mear do riachtanais seirbhíse práinneacha, córas cúltaca do theicneoirí, solúbthacht etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Riarachán conartha agus idirghníomhú leis an nGníomhaireacht</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Tar éis glao oscailte ar thairiscint (tag. EEA/ADS/17/007) nach bhfuarthas aon tairiscintí ina leith, seoladh nós imeachta idirbheartaithe faoi Alt 134(1)(a) den RAP.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Seirbhísí deisithe agus cothabhála foirgneamh a chur ar fáil don Ghníomhaireacht Eorpach Comhshaoil</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>An tOmbudsman Eorpach</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за околна среда</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Осигуряване на услуги по ремонт и поддръжка на сгради за Европейската агенция за околна среда</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Целта на тази покана за участие в търг е да се сключи рамков договор с доставчик на услуги, който ще бъде в състояние да предложи широк спектър от услуги по ремонт и поддръжка на сгради в следните сфери: дейности по електрифициране, водопроводни дейности, дърводелски/довършителни дейности, боядисване и декориране, поставяне на подови настилки, полагане на гипсова мазилка.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Услугите ще бъдат извършени в помещенията на ЕАОС, разположени на Kongens Nytorv Nº 6 и 8, 1050 Copenhagen K, Дания</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Целта на тази покана за участие в търг е да се сключи рамков договор с доставчик на услуги, който ще бъде в състояние да предложи широк спектър от услуги по ремонт и поддръжка на сгради в следните сфери: дейности по електрифициране, водопроводни дейности, дърводелски/довършителни дейности, боядисване и декориране, поставяне на подови настилки, полагане на гипсова мазилка.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Политика за обслужване на клиенти, включително начин да се реагира бързо на спешни нужди от обслужване, система при случаи на заместване за техниците, гъвкавост и др.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Управление на поръчки и взаимодействие с Агенцията</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>След открита покана за участие в търг (реф. EEA/ADS/17/007), за която не бяха получени оферти, беше стартирана процедура на договаряне съгласно член 134, параграф 1, буква а) от правилата за прилагане.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Осигуряване на услуги по ремонт и поддръжка на сгради за Европейската агенция за околна среда (EАОС)</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Европейски омбудсман</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană de Mediu</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestare de servicii de reparare și de întreținere a clădirilor pentru Agenția Europeană de Mediu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Scopul acestei licitații este de a încheia un contract-cadru cu un prestator de servicii care va avea capacitatea de a oferi o gamă largă de servicii de reparare și de întreținere a clădirilor în următoarele domenii: Lucrări la instalații electrice, instalații sanitare, tâmplărie/dulgherie, zugrăvire și decorare, pardoseală, tencuială.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Serviciile vor fi prestate la sediul AEM situat la adresa Kongens Nytorv 6 and 8, 1050 Copenhagen K, Danemarca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Scopul acestei licitații este de a încheia un contract-cadru cu un prestator de servicii care va avea capacitatea de a oferi o gamă largă de servicii de reparare și de întreținere a clădirilor în următoarele domenii: Lucrări la instalații electrice, instalații sanitare, tâmplărie/dulgherie, zugrăvire și decorare, pardoseală, tencuială.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politica privind serviciile pentru clienți, inclusiv modul de a răspunde rapid la nevoie de servicii urgente, sisteme de rezervă pentru tehnicieni, flexibilitate, etc.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Administrarea contractului și interacțiunea cu agenția</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>În urma unei licitații deschise (ref. AEM/ADS/17/007) pentru care nu au fost primite oferte, o procedură de negociere a fost lansată în temeiul Art.134 alineatul (1) litera (a) din normele e aplicare.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Prestare de servicii de reparare și de întreținere a clădirilor pentru Agenția Europeană de Mediu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Ombudsmanul European</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska agencija za okoliš</OFFICIALNAME>
+               <ADDRESS>Kongens Nytorv 6</ADDRESS>
+               <TOWN>Copenhagen</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="DK"/>
+               <CONTACT_POINT>Corina Samson</CONTACT_POINT>
+               <PHONE>+45 33367249</PHONE>
+               <E_MAIL>procurement@eea.europa.eu</E_MAIL>
+               <FAX>+45 33367199</FAX>
+               <n2016:NUTS CODE="DK011"/>
+               <URL_GENERAL>http://www.eea.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://www.eea.europa.eu/about-us/tenders</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pružanje usluga popravka i održavanja zgrade za Europsku agenciju za okoliš</P>
+            </TITLE>
+            <REFERENCE_NUMBER>EEA/ADS/17/010</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="50700000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Svrha ovoga poziva na nadmetanje sklopiti je okvirni ugovor s pružateljem usluga koji će moći ponuditi širok spektar usluga popravka i održavanja zgrada u sljedećim područjima: električni radovi, vodovodne instalacije, tesarski/stolarski radovi, ličenje i uređenje, postavljanje podova, žbukanje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="DK011"/>
+               <MAIN_SITE>
+                  <P>Usluge će biti pružene u prostorima EEA-e koje se nalaze na adresi Kongens Nytorv Nº 6 i 8, 1050 Copenhagen K, Danska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Svrha ovoga poziva na nadmetanje sklopiti je okvirni ugovor s pružateljem usluga koji će moći ponuditi širok spektar usluga popravka i održavanja zgrada u sljedećim područjima: električni radovi, vodovodne instalacije, tesarski/stolarski radovi, ličenje i uređenje, postavljanje podova, žbukanje.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Politika službe za korisnike, uključujući način za brzi odgovor na hitne potražnje usluge, sustav za podršku za tehničare, fleksibilnost itd.</AC_CRITERION>
+                  <AC_WEIGHTING>35</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Upravljanje ugovorom i interakcija s Agencijom</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>50</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROC_OPEN/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>Nakon otvorenog poziva na nadmetanje (ref. EEA/ADS/17/007) za koji nije zaprimljena nijedna ponuda, pokrenut je pregovarački postupak u skladu s člankom 134. stavkom 1. točkom (a) pravila za primjenu (rules of application - RAP)..</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>EEA/ADS/17/010</CONTRACT_NO>
+            <TITLE>
+               <P>Pružanje usluga popravka i održavanja zgrada za Europsku agenciju za okoliš</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-10-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Skou Gruppen A/S</OFFICIALNAME>
+                     <NATIONALID>6654653</NATIONALID>
+                     <ADDRESS>Kærvej 34</ADDRESS>
+                     <TOWN>Hørsholm</TOWN>
+                     <COUNTRY VALUE="DK"/>
+                     <n2016:NUTS CODE="DK021"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">260000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">260000.00</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Europski ombudsman</OFFICIALNAME>
+               <ADDRESS>1 avenue du Président Robert Schuman</ADDRESS>
+               <TOWN>Strasbourg</TOWN>
+               <POSTAL_CODE>67001</POSTAL_CODE>
+               <COUNTRY VALUE="FR"/>
+               <PHONE>+33 388172313</PHONE>
+               <E_MAIL>eo@ombudsman.europa.eu</E_MAIL>
+               <FAX>+33 388179062</FAX>
+               <URL>http://www.ombudsman.europa.eu</URL>
+            </ADDRESS_MEDIATION_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

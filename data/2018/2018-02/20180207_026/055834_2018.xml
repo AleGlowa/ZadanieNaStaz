@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="055834-2018"
+            EDITION="2018026">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-055027-001</RECEPTION_ID>
+      <DELETION_DATE>20180319</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>26</NO_OJ>
+         <DATE_PUB>20180207</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 026-055834</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:055834-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LU"/>
+         <IA_URL_GENERAL>http://www.eib.org</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72252000">Computer archiving services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72315100">Data network support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72228000">Hardware integration consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72315000">Data network management and support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72511000">Network management software services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72246000">Systems consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72261000">Software support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72500000">Computer-related services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72253000">Helpdesk and support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72611000">Technical computer support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72254100">Systems testing services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72222300">Information technology services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72253100">Helpdesk services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72510000">Computer-related management services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72212516">Exchange software development services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72710000">Local area network services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72910000">Computer back-up services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72610000">Computer support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72317000">Data storage services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72120000">Hardware disaster-recovery consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72220000">Systems and technical consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72700000">Computer network services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72110000">Hardware selection consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72250000">System and support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72212650">Personal computer (PC) operating system software development services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72100000">Hardware consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72240000">Systems analysis and programming services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72540000">Computer upgrade services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72315200">Data network management services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72600000">Computer support and consultancy services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72253200">Systems support services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="LU">LUXEMBOURG</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="LU00">Luxembourg</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="LU000">Luxembourg</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LU000">Luxembourg</n2016:CA_CE_NUTS>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 247-516961</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180202</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180319</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="2">Additional information</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="F">Economic and financial affairs</MA_MAIN_ACTIVITIES>
+         <HEADING>BIC14</HEADING>
+         <INITIATOR>BI</INITIATOR>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Levering af eksternt personale og tjenester til støtte for it-infrastruktur og driftsydelser til EIB-Gruppen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Bereitstellung von externem Personal und Dienstleistungen zur Unterstützung der IT-Infrastruktur und betriebliche Dienstleistungen bei der EIB-Gruppe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Provision of External Staff and Services in Support of IT Infrastructure and Operations Services at the EIB Group</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Suministro de personal externo y servicios de apoyo de infraestructura informática y servicios de operación para el Grupo BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIP - Ulkoisen henkilöstön ja ulkoisten palvelujen toimittaminen EIP-ryhmän tietotekniseen infrastruktuuriin ja toimintaan liittyvien palvelujen tueksi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Fourniture de personnel externe et de services pour le soutien de l'infrastructure informatique et des services d'exploitation du groupe de la Banque européenne d’investissement (BEI)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λουξεμβούργο</TI_CY>
+            <TI_TOWN>Λουξεμβούργο</TI_TOWN>
+            <TI_TEXT>
+               <P>ΕΤΕπ - Παροχή εξωτερικού προσωπικού και υπηρεσιών για την υποστήριξη των υποδομών πληροφορικής και υπηρεσιών λειτουργιών στον Όμιλο της ΕΤΕπ</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lussemburgo</TI_CY>
+            <TI_TOWN>Lussemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Fornitura di personale esterno e servizi a sostegno dell'infrastruttura informatica e delle operazioni presso il Gruppo BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Terbeschikkingstelling van extern personeel en verlening van diensten ter ondersteuning van de IT-infrastructuur- en operationele diensten van de EIB-groep.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Fornecimento de Pessoal Externo e Serviços de Apoio às Infraestruturas TI e Serviços Operacionais no Grupo BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Tillhandahållande av extern personal och tjänster till stöd för IT-infrastruktur och driftstjänster vid EIB-gruppen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lucembursko</TI_CY>
+            <TI_TOWN>Lucemburk</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Poskytování externích zaměstnanců a služeb na podporu IT infrastruktury a operačních služeb ve skupině EIB</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIP - Euroopa Investeerimispanga grupis infotehnoloogia (IT) taristu ja talitlusteenuste toetamiseks asutuseväliste töötajate ja teenuste tagamine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EBB - Külső személyzet és szolgáltatások biztosítása az informatikai infrastruktúrával és műveletekkel kapcsolatos szolgáltatások támogatása céljából az EBB csoportnál</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Liuksemburgas</TI_CY>
+            <TI_TOWN>Liuksemburgas</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Išorės personalo ir paslaugų, skirtų IT infrastruktūros ir operacijų paslaugų palaikymui, teikimas EIB grupėje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Luksemburga</TI_CY>
+            <TI_TOWN>Luksemburga</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Ārštata darbinieku un pakalpojumu nodrošināšana EIB grupas IT infrastruktūras un darbības dienestu atbalstam</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Lussemburgu</TI_CY>
+            <TI_TOWN>Lussemburgu</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Il-Provvista ta' Persunal Estern u Servizzi b'appoġġ ta' Servizzi tal-Infrastruttura u l-Operazzjonijiet tat-TI fil-grupp tal-BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luksemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EBI - Usługi w zakresie zapewnienia zewnętrznego personelu i usług na potrzeby wsparcia infrastruktury IT i działań operacyjnych Grupy EIB</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Luxembursko</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Poskytovanie externých pracovníkov a služieb na podporu IT infraštruktúry a prevádzkových služieb v skupine EIB</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Zagotavljanje zunanjega osebja in storitev za podporo infrastrukture IT in operativnih storitev v skupini EIB</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Lucsamburg</TI_CY>
+            <TI_TOWN>Lucsamburg</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Soláthar Foirne agus Seirbhísí Seachtraí chun Tacú le Bonneagar TF agus le Seirbhísí Oibríochtaí ag Grúpa an BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Люксембург</TI_CY>
+            <TI_TOWN>Люксембург</TI_TOWN>
+            <TI_TEXT>
+               <P>ЕИБ - Предоставяне на външен персонал и услуги за подпомагане на услугите, свързани с ИТ инфраструктурата и операциите, в групата на ЕИБ</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>BEI - Furnizarea de personal extern pentru sprijinirea infrastructurii informatice și a serviciilor de operare la Grupul BEI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIB - Nabava usluga i vanjskog osoblja radi osiguravanja potpore IT infrastrukturi i operativnim uslugama za EIB grupu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Den Europæiske Investeringsbank</AA_NAME>
+         <AA_NAME LG="DE">Europäische Investitionsbank (EIB)</AA_NAME>
+         <AA_NAME LG="EN">European Investment Bank</AA_NAME>
+         <AA_NAME LG="ES">Banco Europeo de Inversiones</AA_NAME>
+         <AA_NAME LG="FI">Euroopan investointipankki (EIP)</AA_NAME>
+         <AA_NAME LG="FR">Banque européenne d'investissement</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Τράπεζα Επενδύσεων</AA_NAME>
+         <AA_NAME LG="IT">Banca europea per gli investimenti</AA_NAME>
+         <AA_NAME LG="NL">Europese Investeringsbank</AA_NAME>
+         <AA_NAME LG="PT">Banco Europeu de Investimento</AA_NAME>
+         <AA_NAME LG="SV">Europeiska investeringsbanken</AA_NAME>
+         <AA_NAME LG="CS">Evropská investiční banka</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Investeerimispank</AA_NAME>
+         <AA_NAME LG="HU">Európai Beruházási Bank (EBB)</AA_NAME>
+         <AA_NAME LG="LT">Europos investicijų bankas</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Investīciju banka</AA_NAME>
+         <AA_NAME LG="MT">Il-Bank Ewropew tal-Investiment</AA_NAME>
+         <AA_NAME LG="PL">Europejski Bank Inwestycyjny</AA_NAME>
+         <AA_NAME LG="SK">Európska investičná banka (EIB)</AA_NAME>
+         <AA_NAME LG="SL">Evropska investicijska banka</AA_NAME>
+         <AA_NAME LG="GA">An Banc Eorpach Infheistíochta</AA_NAME>
+         <AA_NAME LG="BG">Европейска инвестиционна банка</AA_NAME>
+         <AA_NAME LG="RO">Banca Europeană de Investiții</AA_NAME>
+         <AA_NAME LG="HR">Europska investicijska banka</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Den Europæiske Investeringsbank</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af eksternt personale og tjenester til støtte for it-infrastruktur og driftsydelser til EIB-Gruppen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålet med dette udbud er levering af eksterne medarbejdere og specifikke tjenesteydelser til støtte for aktiviteterne i de respektive organisatoriske enheder i IT-afdelingen i Den Europæiske Investeringsbank.</P>
+               <P>Dette udbud er opdelt i 3 særskilte partier med hvert sit tekniske område og omfang:</P>
+               <P>— Parti 1: Levering af personale og tjenesteydelser til støtte af tjenester vedrørende IT-slutbruger-, identitets- og adgangsforvaltning (»IT End User and Identity and Access Management«) i EIB-Gruppens lokaler i Luxembourg og gruppens eksterne kontorer på verdensplan</P>
+               <P>— Parti 2: Levering af personale og tjenesteydelser til støtte for drift af IT-infrastruktur i EIB-Gruppens lokaler i Luxembourg</P>
+               <P>— Parti 3: Levering af personale og tjenesteydelser til støtte for drift af IT- netværk og Unified Communication i EIB-Gruppens lokaler i Luxembourg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Investitionsbank (EIB)</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Bereitstellung von externem Personal und Dienstleistungen zur Unterstützung der IT-Infrastruktur und betriebliche Dienstleistungen bei der EIB-Gruppe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Der Umfang dieser Ausschreibung umfasst die Bereitstellung von externen Mitarbeitern und spezifischen Dienstleistungen zur Unterstützung der Aktivitäten der jeweiligen organisatorischen Einheiten der Abteilung Informationstechnologie (IT) der Europäischen Investitionsbank.</P>
+               <P>Diese Ausschreibung ist in 3 verschiedene Lose unterteilt, wobei jedes Los einem anderen Bereich oder Markt entspricht:</P>
+               <P>— Los 1: Bereitstellung von Personal und Dienstleistungen zur Unterstützung der IT-Endnutzer- und Identitäts- und Zugangsmanagementdienste in den Räumlichkeiten der EIB-Gruppe in Luxemburg und ihren externen Büros weltweit.</P>
+               <P>— Los 2: Bereitstellung von Personal und Dienstleistungen zur Unterstützung des Betriebs der IT-Infrastruktur in den Räumlichkeiten der EIB-Gruppe in Luxemburg</P>
+               <P>— Los 3: Bereitstellung von Personal und Dienstleistungen zur Unterstützung des IT-Netzwerks und der Vorgänge der Unified Communication in den Räumlichkeiten der EIB-Gruppe in Luxemburg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="ORIGINAL" FORM="F14" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Investment Bank</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provision of External Staff and Services in Support of IT Infrastructure and Operations Services at the EIB Group</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The scope of this call for tenders is the provision of external staff members and specific services to support the activities of the respective organisational units of the information technology (IT) Department of the European Investment Bank.</P>
+               <P>This call for tenders is divided into 3 distinct lots, each lot representing a different technical domain and scope:</P>
+               <P>— Lot 1: Provision of staff and services to support IT End User and Identity and Access Management Services at the EIB Group’s premises in Luxembourg and its external offices worldwide</P>
+               <P>— Lot 2: Provision of staff and services to support IT Infrastructure Operations at the EIB Group’s premises in Luxembourg</P>
+               <P>— Lot 3: Provision of staff and services to support IT Network and Unified Communication Operations at the EIB Group’s premises in Luxembourg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Banco Europeo de Inversiones</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro de personal externo y servicios de apoyo de infraestructura informática y servicios de operación para el Grupo BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objeto de la presenta licitación es la provisión de miembros del personal externo y servicios específicos en apoyo a las actividades de las unidades organizativas respectivas del Departamento Informático del Banco Europeo de Inversiones.</P>
+               <P>La presente convocatoria de licitación se divide en 3 lotes distintos, y cada lote representa un ámbito o enfoque técnico diferente:</P>
+               <P>— Lote 1: Provisión de personal y servicios en apoyo al usuario final y servicios de gestión de identidad y accesos en las instalaciones del Grupo BEI en Luxemburgo y sus oficinas externas en todo el mundo</P>
+               <P>— Lote 2: Provisión de personal y servicios en apoyo a las operaciones de infraestructura informática en las instalaciones del Grupo BEI en Luxemburgo</P>
+               <P>— Lote 3: Provisión de personal y servicios en apoyo a la red informática y a las operaciones unificadas de comunicación en las instalaciones del Grupo BEI en Luxemburgo</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan investointipankki (EIP)</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ulkoisen henkilöstön ja ulkoisten palvelujen toimittaminen EIP-ryhmän tietotekniseen infrastruktuuriin ja toimintaan liittyvien palvelujen tueksi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tähän tarjouspyyntöön kuuluu ulkoisten henkilöstön jäsenien ja yksittäisten palvelujen toimittaminen tukemaan Euroopan investointipankin tietotekniikkaosaston vastaavien organisaatioyksikköjen toimintaa.</P>
+               <P>Tarjouspyyntö on jaettu 3 erilliseen erään, joista kukin koskee eri tekniikan alaa ja joista kullakin on eri kattavuus:</P>
+               <P>— erä 1: Henkilöstön ja palvelujen toimittaminen tukemaan IT-loppukäyttäjä- sekä tunnistus- ja pääsynhallintapalveluja EIP-ryhmän toimitiloissa Luxemburgissa ja sen ulkoisissa toimitiloissa eri puolilla maailmaa</P>
+               <P>— erä 2: henkilöstön ja palvelujen toimittaminen tukemaan IT-infrastruktuuriin liittyvää toimintaa EIP-ryhmän toimitiloissa Luxemburgissa,</P>
+               <P>— erä 3: henkilöstön ja palvelujen toimittaminen tukemaan IT-verkko- ja yhdennettyä viestintätoimintaa EIP-ryhmän toimitiloissa Luxemburgissa.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Banque européenne d'investissement</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture de personnel externe et de services pour le soutien de l'infrastructure informatique et des services d'exploitation du groupe de la Banque européenne d’investissement (BEI)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'étendue de cet appel d'offres est la fourniture de membres de personnel externe et des services spécifiques pour soutenir les activités des unités organisationnelles respectives du département de la technologie de l’information (TI) de la Banque européenne d'investissement.</P>
+               <P>Le présent appel d'offres est divisé en 3 lots distincts, chaque lot constituant un domaine technique et une étendue différents :</P>
+               <P>— Lot 1 : Fourniture de personnel externe et de services pour un soutien de l'utilisateur final de l'informatique et identifier et accéder aux services de gestion dans les locaux du groupe BEI au Luxembourg et à ses bureaux externes dans le monde entier</P>
+               <P>— Lot 2 : Fourniture de personnel et de services pour le soutien d'opérations d’infrastructure informatique dans les locaux du groupe BEI au Luxembourg</P>
+               <P>— Lot 3 : Fourniture de personnel et de services pour le soutien du réseau informatique et des opérations de communication unifiées dans les locaux du groupe BEI au Luxembourg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Τράπεζα Επενδύσεων</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή εξωτερικού προσωπικού και υπηρεσιών για την υποστήριξη των υποδομών πληροφορικής και υπηρεσιών λειτουργιών στον Όμιλο της ΕΤΕπ</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Το αντικείμενο της παρούσας πρόσκλησης υποβολής προσφορών είναι η παροχή εξωτερικού προσωπικού και ειδικών υπηρεσιών για την υποστήριξη των δραστηριοτήτων των αντίστοιχων οργανωτικών μονάδων του Τμήματος Πληροφορικής (IT) της Ευρωπαϊκής Τράπεζας Επενδύσεων.</P>
+               <P>Η παρούσα πρόσκληση υποβολής προσφορών διαιρείται σε 3 ξεχωριστές παρτίδες, καθεμία από τις οποίες αντιπροσωπεύει διαφορετικό τεχνικό τομέα και πεδίο εφαρμογής:</P>
+               <P>— Παρτίδα 1: Παροχή προσωπικού και υπηρεσιών για την υποστήριξη των υπηρεσιών πληροφορικής τελικού χρήστη και διαχείρισης ταυτότητας και πρόσβασης στις εγκαταστάσεις του ομίλου ΕΤΕπ στο Λουξεμβούργο και τα εξωτερικά γραφεία του σε ολόκληρο τον κόσμο,</P>
+               <P>— Παρτίδα 2: Παροχή προσωπικού και υπηρεσιών για την υποστήριξη των λειτουργιών υποδομής πληροφορικής στις εγκαταστάσεις του Ομίλου της ΕΤΕπ στο Λουξεμβούργο,</P>
+               <P>— Παρτίδα 3: Παροχή προσωπικού και υπηρεσιών για την υποστήριξη των δικτύων πληροφορικής και των λειτουργιών ενοποιημένης επικοινωνίας στις εγκαταστάσεις του Ομίλου της ΕΤΕπ στο Λουξεμβούργο</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Banca europea per gli investimenti</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di personale esterno e servizi a sostegno dell'infrastruttura informatica e delle operazioni presso il Gruppo BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lo scopo del presente bando di gara consiste nella fornitura di personale esterno e di servizi specifici a sostegno delle attività delle relative unità organizzative del dipartimento di tecnologia informatica della Banca europea per gli investimenti.</P>
+               <P>Il presente bando di gara è suddiviso in 3 lotti distinti, ciascuno rappresentante un diverso settore o scopo:</P>
+               <P>— lotto 1: Fornitura di personale e servizi a sostegno dell'utente finale delle tecnologie informatiche e dei servizi di gestione delle identità e degli accessi presso la sede del Gruppo BEI a Lussemburgo e presso gli uffici esterni in tutto il mondo</P>
+               <P>— lotto 2: fornitura di personale e servizi a sostegno delle operazioni delle infrastrutture informatiche presso la sede del Gruppo BEI a Lussemburgo</P>
+               <P>— lotto 3: fornitura di personale e servizi a sostegno delle operazioni della rete informatica e della comunicazione unificata presso la sede del Gruppo BEI a Lussemburgo</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Investeringsbank</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Terbeschikkingstelling van extern personeel en verlening van diensten ter ondersteuning van de IT-infrastructuur- en operationele diensten van de EIB-groep.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De oproep tot inschrijving behelst de terbeschikkingstelling van extern personeel en de verlening van specifieke diensten ter ondersteuning van de activiteiten van de respectievelijke organisatorische eenheden van de IT-afdeling van de Europese Investeringsbank.</P>
+               <P>Deze oproep tot inschrijving is verdeeld in 3 afzonderlijke percelen, waarbij elk perceel een verschillend technisch gebied of een verschillend toepassingsgebied vertegenwoordigt:</P>
+               <P>— perceel 1: terbeschikkingstelling van personeel en verlening van diensten ter ondersteuning van IT-eindgebruikers en gebruikers- en toegangsbeheerdiensten in de kantoren van de EIB-groep in Luxemburg en zijn wereldwijde externe kantoren,</P>
+               <P>— perceel 2: terbeschikkingstelling van personeel en verlening van diensten ter ondersteuning van de IT-infrastructuuractiviteiten in de kantoren van de EIB-groep in Luxemburg,</P>
+               <P>— perceel 3: terbeschikkingstelling van personeel en verlening van diensten ter ondersteuning van de IT-netwerk- en centrale communicatieactiviteiten in de kantoren van de EIB-groep in Luxemburg.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Banco Europeu de Investimento</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de Pessoal Externo e Serviços de Apoio às Infraestruturas TI e Serviços Operacionais no Grupo BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O âmbito deste convite a concurso é o fornecimento de membros de pessoal externo e serviços específicos de apoio às atividades das respetivas unidades organizacionais do Departamento de Tecnologia de Informação (TI) do Banco Europeu de Investimento.</P>
+               <P>O presente concurso está dividido em 3 lotes distintos, cada lote representa um domínio técnico e âmbito diferente:</P>
+               <P>— Lote 1: Fornecimento de pessoal e serviços de apoio TI aos Serviços de Gestão de Acesso e Identidade do Utilizador Final nas instalações do Grupo BEI no Luxemburgo e nos seus escritórios a nível mundial</P>
+               <P>— Lote 2: Fornecimento de pessoal e serviços de apoio TI às Operações de Infraestrutura nas instalações do Grupo BEI no Luxemburgo</P>
+               <P>— Lote 3: Fornecimento de pessoal e serviços de apoio TI de Rede e Operações de Comunicações Unificadas nas instalações do Grupo BEI no Luxemburgo</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska investeringsbanken</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av extern personal och tjänster till stöd för IT-infrastruktur och driftstjänster vid EIB-gruppen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Denna anbudsinfordran omfattar tillhandahållandet av extern personal och specifika tjänster för att stödja verksamheten i respektive organisationsenheter inom IT-avdelningen vid Europeiska investeringsbanken.</P>
+               <P>Denna anbudsinfordran är uppdelad i 3 separata delar som var och en representerar olika teknisk områden och omfattningar:</P>
+               <P>– Del 1: Tillhandahållande av personal och tjänster för att stödja IT-slutanvändare och identitets- och åtkomsthanteringstjänster i EIB-koncernens lokaler i Luxemburg och dess externa kontor över hela världen</P>
+               <P>– Del 2: Tillhandahållande av personal och tjänster för att stödja IT-infrastrukturverksamheten i EIB-gruppens lokaler i Luxemburg</P>
+               <P>– Del 3: Tillhandahållande av personal och tjänster för att stödja IT-nätverket och enhetlig kommunikationsverksamhet på EIB-gruppens lokaler i Luxemburg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská investiční banka</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytování externích zaměstnanců a služeb na podporu IT infrastruktury a operačních služeb ve skupině EIB</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Předmětem této výzvy k podávání nabídek je poskytování externích zaměstnanců a specifických služeb na podporu činností příslušných organizačních složek oddělení informačních technologií (IT) Evropské investiční banky.</P>
+               <P>Tato výzva k podávání nabídek je rozdělena do 3 různých položek, přičemž každá položka představuje odlišnou technickou oblast a rozsah:</P>
+               <P>— položka č. 1: Poskytování zaměstnanců a služeb na podporu služeb pro koncové uživatele IT a služeb správy identit a přístupů v prostorách skupiny EIB v Lucemburku a v jejích externích kancelářích po celém světě</P>
+               <P>— položka č. 2: Poskytování zaměstnanců a služeb na podporu operací IT infrastruktury v prostorách skupiny EIB v Lucemburku</P>
+               <P>— položka č. 3: Poskytování zaměstnanců a služeb na podporu operací sítí IT a jednotné komunikace v prostorách skupiny EIB v Lucemburku</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Investeerimispank</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Euroopa Investeerimispanga grupis infotehnoloogia (IT) taristu ja talitlusteenuste toetamiseks asutuseväliste töötajate ja teenuste tagamine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Käesoleva pakkumiskutse eesmärk on Euroopa Investeerimispanga (EIP) infotehnoloogia (IT) osakonna vastavate organisatsiooniliste üksuste tegevuse toetamiseks asutusevälise personali liikmete ja spetsiifiliste teenuste tagamine.</P>
+               <P>Kõnealune pakkumiskutse on jagatud 3 eraldiseisvasse ossa, millest iga osa hõlmab erinevat tehnilist valdkonda ja käsitlusala:</P>
+               <P>1. osa: IT-lõppkasutaja ja identiteedi ja pääsuhaldusteenuste toetamiseks EIP grupi ruumides Luxembourgis ja EIP väliskontorites kogu maailmas töötajate ja teenuste tagamine; </P>
+               <P>2. osa: IT-taristu talitluse toetamiseks EIP grupi ruumides Luxembourgis töötajate ja teenuste tagamine; </P>
+               <P>3. osa: IT-võrgu ja koondside talitluse toetamiseks EIP grupi ruumides Luxembourgis töötajate ja teenuste tagamine. </P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Beruházási Bank (EBB)</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Külső személyzet és szolgáltatások biztosítása az informatikai infrastruktúrával és műveletekkel kapcsolatos szolgáltatások támogatása céljából az EBB csoportnál</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Az ajánlati felhívás tárgya külső személyzet és specifikus szolgáltatások biztosítása az Európai Beruházási Bank információs technológiával (IT) foglalkozó részlege megfelelő szervezeti egységei tevékenységének támogatására.</P>
+               <P>A jelen ajánlati felhívás 3 tételből áll, mindegyik tétel külön szakterületet és tárgykört fed le:</P>
+               <P>— 1. tétel: személyzet és szolgáltatások biztosítása az informatikai végfelhasználói, valamint azonosító- és hozzáférés-kezelési szolgáltatások támogatására az EBB csoport luxembourgi és világszerte megtalálható külső irodáiban</P>
+               <P>— 2. tétel: személyzet és szolgáltatások biztosítása az informatikai infrastruktúrával kapcsolatos műveletek támogatására az EBB csoport luxembourgi irodáiban</P>
+               <P>— 3. tétel: személyzet és szolgáltatások biztosítása az informatikai hálózati és egységes kommunikációs műveletek támogatására az EBB csoport luxembourgi irodáiban</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos investicijų bankas</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Išorės personalo ir paslaugų, skirtų IT infrastruktūros ir operacijų paslaugų palaikymui, teikimas EIB grupėje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šis kvietimas teikti pasiūlymus apima išorės personalo ir konkrečių paslaugų, skirtų atitinkamų Europos investicijų banko Informacinių technologijų (IT) departamento organizacinių padalinių veiklos palaikymui, teikimą.</P>
+               <P>Šis kvietimas teikti pasiūlymus yra padalytas į 3 dalis, iš kurių kiekviena yra skirta skirtingai techninei sričiai ir apimčiai:</P>
+               <P>– 1 dalis: personalo ir paslaugų, skirtų IT galutinio vartotojo, tapatybės ir prieigos valdymo paslaugų palaikymui, teikimas EIB grupės patalpose Liuksemburge ir jos išorės įstaigose visame pasaulyje</P>
+               <P>– 2 dalis: personalo ir paslaugų, skirtų IT infrastruktūros operacijų palaikymui, teikimas EIB grupės patalpose Liuksemburge</P>
+               <P>– 3 dalis: personalo ir paslaugų, skirtų IT tinklų ir vieningo ryšio palaikymui, teikimas EIB grupės patalpose Liuksemburge</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Investīciju banka</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ārštata darbinieku un pakalpojumu nodrošināšana EIB grupas IT infrastruktūras un darbības dienestu atbalstam</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā uzaicinājuma uz konkursu darbības joma ir ārštata darbinieku un konkrētu pakalpojumu nodrošināšana, lai atbalstītu Eiropas Investīciju bankas (EIB) Informācijas tehnoloģiju (IT) nodaļas attiecīgo organizatorisko vienību darbību.</P>
+               <P>Šis uzaicinājums uz konkursu ir sadalīts 3 atsevišķās daļās; katra daļa attiecas uz atšķirīgu tehnisko un darbības jomu.</P>
+               <P>— 1. daļa: darbinieku un pakalpojumu nodrošināšana, lai atbalstītu IT galalietotāju identificēšanas un piekļuves pārvaldības pakalpojumus EIB grupas telpās Luksemburgā un tās birojos visā pasaulē,</P>
+               <P>— 2. daļa: darbinieku un pakalpojumu nodrošināšana, lai atbalstītu IT infrastruktūras darbību EIB grupas telpās Luksemburgā,</P>
+               <P>— 3. daļa: darbinieku un pakalpojumu nodrošināšana, lai atbalstītu IT tīklu un vienoto sakaru darbību EIB grupas telpās Luksemburgā.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Bank Ewropew tal-Investiment</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-Provvista ta' Persunal Estern u Servizzi b'appoġġ ta' Servizzi tal-Infrastruttura u l-Operazzjonijiet tat-TI fil-grupp tal-BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-għan ta' din is-sejħa għall-offerti hu l-provvista ta' membri tal-persunal esterni u servizzi speċifiċi biex jappoġġjaw l-unitajiet organizzattivi rispettivi tad-Dipartiment tat-Teknoloġija tal-Informazzjoni (TI) tal-Bank Ewropew tal-Investiment.</P>
+               <P>Din is-sejħa għall-offerti hi maqsuma fi 3 lottijiet distinti, u kull lott jirrappreżenta qasam tekniku u għan differenti:</P>
+               <P>— L-1 lott: Il-provvista ta' persunal u servizzi biex jappoġġjaw Servizzi ta' Mmaniġġjar tal-Utent Finali u l-Identità u l-Aċċess tat-TI fil-bini tal-Grupp tal-BEI fil-Lussemburgu u fl-uffiċċji esterni tiegħu madwar id-dinja</P>
+               <P>— It-2 lott: Il-provvista ta' persunal u servizzi biex jappoġġjaw l-Operazzjonijiet tal-Infrastruttura tat-TI fil-bini tal-Grupp tal-BEI fil-Lussemburgu</P>
+               <P>— It-3 lott: Il-provvista ta' persunal u servizzi biex jappoġġjaw l-Operazzjonijiet tan-Netwerk u tal-Komunikazzjoni Unifikata tat-TI fil-bini tal-Grupp tal-BEI fil-Lussemburgu</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejski Bank Inwestycyjny</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Usługi w zakresie zapewnienia zewnętrznego personelu i usług na potrzeby wsparcia infrastruktury IT i działań operacyjnych Grupy EIB</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zakresem niniejszego zaproszenia do składania ofert jest zapewnienie personelu zewnętrznego oraz konkretnych usług w ramach wsparcia działalności konkretnych jednostek organizacyjnych Działu technologii informatycznej (IT) Europejskiego Banku Inwestycyjnego.</P>
+               <P>Niniejsze zaproszenie do składania ofert jest podzielone na 3 odrębne części. Każdej z nich odpowiada inna domena technologiczna lub inny zakres:</P>
+               <P>– Część 1: Zapewnienie personelu i usług w celu wparcia dla użytkownika końcowego IT oraz usług zarządzania tożsamością i dostępem na terenach Grupy EIB w Luksemburgu i w jej biurach na całym świecie</P>
+               <P>– Część 2: Zapewnienie personelu i usług w celu wsparcia działań infrastruktury IT na terenach Grupy EIB w Luksemburgu</P>
+               <P>– Część 3: Zapewnienie personelu i usług w celu wsparcia sieci IT i działania komunikacji zintegrowanej na terenach Grupy EIB w Luksemburgu</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska investičná banka (EIB)</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytovanie externých pracovníkov a služieb na podporu IT infraštruktúry a prevádzkových služieb v skupine EIB</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Rozsahom tejto výzvy na predloženie ponúk je poskytovanie externých pracovníkov a špecifických služieb na podporu činností príslušných organizačných jednotiek oddelenia informačných technológií (IT) Európskej investičnej banky.</P>
+               <P>Táto výzva na predloženie ponúk je rozdelená na 3 samostatné časti, každá časť predstavuje odlišnú technickú oblasť a rozsah:</P>
+               <P>— Časť 1: Poskytovanie pracovníkov a služieb na podporu služieb pre koncových používateľov IT a služieb správy totožnosti a prístupu v priestoroch skupiny EIB v Luxemburgu a v jej externých kanceláriách po celom svete</P>
+               <P>— Časť 2: Poskytovanie pracovníkov a služieb na podporu prevádzky IT infraštruktúry v priestoroch skupiny EIB v Luxemburgu</P>
+               <P>— Časť 3: Poskytovanie pracovníkov a služieb na podporu prevádzky IT siete a operácií jednotnej komunikácie v priestoroch skupiny EIB v Luxemburgu</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska investicijska banka</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zagotavljanje zunanjega osebja in storitev za podporo infrastrukture IT in operativnih storitev v skupini EIB</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ta javni razpis zajema zagotavljanje zunanjega osebja in posebnih storitev za podporo dejavnostim ustreznih organizacijskih enot Oddelka za informacijsko tehnologijo (IT) Evropske investicijske banke.</P>
+               <P>Ta javni razpis je razdeljen v 3 ločene sklope, pri čemer vsak sklop predstavlja drugačno tehnično področje in obseg:</P>
+               <P>— sklop 1: zagotavljanje osebja in storitev za podporo končnim uporabnikom IT ter storitev upravljanja identitete in dostopa v prostorih skupine EIB v Luxembourgu in njenih zunanjih uradih po vsem svetu,</P>
+               <P>— sklop 2: zagotavljanje osebja in storitev za podporo operacij IT infrastrukture v prostorih skupine EIB v Luxembourgu,</P>
+               <P>— sklop 3: zagotavljanje osebja in storitev za podporo operacij IT omrežja in združenih komunikacij v prostorih skupine EIB v Luxembourgu.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Banc Eorpach Infheistíochta</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar Foirne agus Seirbhísí Seachtraí chun Tacú le Bonneagar TF agus le Seirbhísí Oibríochtaí ag Grúpa an BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é soláthar ball foirne seachtrach agus seirbhísí sonracha raon feidhme an ghlao seo ar thairiscintí chun tacú le gníomhaíochtaí na n-aonad eagrúcháin faoi seach de Rannóg teicneolaíochta na faisnéise (TF) leis an mBanc Eorpach Infheistíochta.</P>
+               <P>Tá an glao seo ar thairiscintí roinnte ina 3 bheart ar leithligh, agus gach beart bainteach le fearann teicniúil nó le raon feidhme éagsúil:</P>
+               <P>— Beart 1: Soláthar foirne agus seirbhísí chun tacú leis an Úsáideoir Deiridh TF agus le Seirbhísí Bainistíochta Sainaitheantais agus Rochtana ag áitreabh Ghrúpa an BEI i Lucsamburg agus ag a oifigí seachtracha ar fud an domhain</P>
+               <P>— Beart 2: Soláthar foirne agus seirbhísí chun tacú le hOibríochtaí Bonneagair TF ag áitreabh Ghrúpa an BEI i Lucsamburg</P>
+               <P>— Beart 3: Soláthar foirne agus seirbhísí chun tacú le hOibríochtaí Líonra agus Cumarsáide Aontaithe ag áitreabh Ghrúpa an BEI i Lucsamburg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска инвестиционна банка</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Предоставяне на външен персонал и услуги за подпомагане на услугите, свързани с ИТ инфраструктурата и операциите, в групата на ЕИБ</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Обхватът на настоящата покана за участие в търг е предоставянето на външен персонал и специфични услуги за подпомагане на дейностите на съответните организационни звена на отдела по информационни технологии (ИТ) на Европейската инвестиционна банка.</P>
+               <P>Настоящата покана за участие в търг е разделена на 3 отделни обособени позиции, като всяка обособена позиция представлява различна техническа област и е с различен обхват:</P>
+               <P>— Обособена позиция 1: Предоставяне на персонал и услуги за подпомагане на ИТ услугите за крайните потребители и услугите за управление на самоличността и достъпа в помещенията на групата на ЕИБ в Люксембург и нейните външни офиси по света.</P>
+               <P>— Обособена позиция 2: Предоставяне на персонал и услуги за подпомагане на операциите, свързани с ИТ инфраструктурата, в помещенията на групата на ЕИБ в Люксембург.</P>
+               <P>— Обособена позиция 3: Предоставяне на персонал и услуги за подпомагане на операциите, свързани с ИТ мрежи и обединени комуникации, в помещенията на групата на ЕИБ в Люксембург.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Banca Europeană de Investiții</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizarea de personal extern pentru sprijinirea infrastructurii informatice și a serviciilor de operare la Grupul BEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectivul prezentei cereri de oferte este furnizarea de membri personalului extern și servicii specifice pentru sprijinirea activităților din unitățile organizaționale respective ale Departamentului pentru Tehnologia Informației (IT) a Băncii Europene de Investiții.</P>
+               <P>Această licitație este împărțită în 3 loturi distincte, fiecare lot reprezentând un domeniu tehnic sau domeniu de aplicare diferit:</P>
+               <P>— Lotul 1: Furnizarea de personal și servicii pentru sprijinirea utilizatorilor finali IT și a serviciilor de gestionare a identității și accesului la sediul Grupului BEI din Luxemburg și a birourilor sale externe din întreaga lume</P>
+               <P>— Lotul 2: Furnizarea de personal și servicii pentru sprijinirea operațiunilor de infrastructură IT la sediul Grupului BEI din Luxemburg</P>
+               <P>— Lotul 3: Furnizarea de personal și servicii pentru sprijinirea operațiunilor de rețea IT și de comunicare unificată la sediul Grupului BEI din Luxemburg</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska investicijska banka</OFFICIALNAME>
+               <ADDRESS>98–100, boulevard Konrad Adenauer</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2950</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>cs-procurement@eib.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://www.eib.org</URL_GENERAL>
+               <URL_BUYER>http://www.eib.org/about/procurement/calls/op-1455.htm</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava usluga i vanjskog osoblja radi osiguravanja potpore IT infrastrukturi i operativnim uslugama za EIB grupu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>OP-1455</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Opseg ovog poziva na dostavu ponuda je nabava posebnih usluga i osiguravanje članova vanjskog osoblja radi potpore aktivnostima pojedinih organizacijskih jedinica Odjela za informacijsku tehnologiju (IT) Europske investicijske banke.</P>
+               <P>Ovaj je poziv na dostavu ponuda podijeljen u 3 različite grupe, od kojih svaka predstavlja različitu domenu ili tržište:</P>
+               <P>— Grupa 1: nabava usluga i osoblja za IT potporu krajnjem korisniku te usluge upravljanja identitetima i pristupom u prostorima EIB grupe u Luxembourgu i vanjskim uredima banke širom svijeta</P>
+               <P>— Grupa 2: nabava usluga i osoblja za potporu operacijama IT infrastrukture u prostorima EIB grupe u Luxembourgu</P>
+               <P>— Grupa 3: nabava usluga i osoblja za potporu IT mreže i ujedinjenim komunikacijskim operacijama u prostorima EIB grupe u Luxembourgu</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-02</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 247-516961</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-05</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-19</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-03-07</DATE>
+                  <TIME>11:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-03-21</DATE>
+                  <TIME>11:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

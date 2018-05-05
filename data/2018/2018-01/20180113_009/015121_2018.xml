@@ -1,0 +1,2953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="015121-2018"
+            EDITION="2018009">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-008175-001</RECEPTION_ID>
+      <DELETION_DATE>20180418</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>9</NO_OJ>
+         <DATE_PUB>20180113</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 009-015121</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:015121-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="80000000">Education and training services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="80500000">Training services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE21">Prov. Antwerpen</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE213">Arr. Turnhout</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="BE310">Arr. Nivelles</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">250000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 177-361587</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180108</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt vedrørende levering af sprogundervisning ved JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag über Sprachunterricht bei der JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract for the provision of language trainings at JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco para la impartición de cursos de idiomas en el JRC de Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Puitesopimus kielikoulutusten toimittamisesta yhteisen tutkimuskeskuksen (JRC) Geelin-toimipaikassa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre relatif à la fourniture de formations linguistiques au JRC de Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο για την παροχή γλωσσικής κατάρτισης στο JRC στο Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro per la prestazione di corsi di formazione linguistica presso il JRC di Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor het geven van taalcursussen in het JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro relativo à disponibilização de cursos de formação linguística no JRC de Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för tillhandahållande av språkutbildning vid JRC i Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva o poskytování jazykových kurzů ve Společném výzkumném středisku v Geelu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamleping Teadusuuringute Ühiskeskuse Geeli tegevuskohas keelekoolituste pakkumiseks</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Keretszerződés nyelvi képzések nyújtására a JRC geeli telephelyén</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Žilis</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis dėl kalbų mokymų teikimo JRC Gelyje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Ģēle</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums par valodu apmācības nodrošināšanu JRC Gēlā</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt għall-provvista ta' taħriġ fil-lingwi fil-JRC ta' Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o prowadzenie szkoleń językowych w placówce JRC w Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na poskytovanie kurzov jazykového vzdelávania na pracovisku JRC v Geeli</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo za zagotavljanje jezikovnih usposabljanj na JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Conradh creatlaí le haghaidh oiliúint teanga a chur ar fáil ag JRC Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Геел</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за предоставяне на езиково обучение в JRC Геел</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru pentru furnizarea de cursuri de formare lingvistică la JRC din Geel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Geel</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor za pružanje poduke jezika u JRC-u u Geelu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="EN">European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af sprogundervisning ved JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Inden for rammerne af JRC's undervisningspolitik tilbydes der hvert år sprogundervisning til ansatte ved anlægsområdet JRC Geel. Sprogundervisningen skal leveres på 3 af Den Europæiske Unions officielle sprog: engelsk, fransk og nederlandsk. Undervisningen består af standardsprogkurser (i henhold til Det Europæiske Råds overordnede skala »for den fælles europæiske referenceramme for sprog«) og særlige kurser for alle de tilbudte sprog med henblik på at opfylde indlæringsbehovet hos en flersproget og multikulturel målgruppe, der udfører forskellige opgaver og funktioner.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europa-Kommissionen, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rammekontrakt vedrørende levering af sprogundervisning ved JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af sprogundervisning ved JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag über Sprachunterricht bei der JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Im Rahmen der Schulungspolitik der JRC wird den Mitarbeitern des JRC-Standorts Geel jedes Jahr Sprachunterricht angeboten. Der Sprachunterricht wird in drei Amtssprachen der Europäischen Union erteilt: Englisch, Französisch und Niederländisch. Es handelt sich um Standard-Sprachkurse (gemäß der allgemeinen Skala des „Gemeinsamen Europäischen Referenzrahmens für Sprachen“ des Europäischen Rates — GER) und Spezial-Sprachkurse für alle angebotenen Sprachen, um den Lernbedürfnissen einer mehrsprachigen und multikulturellen Gruppe, die verschiedene Arten von Aufgaben und Pflichten erledigen muss, gerecht zu werden.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europäische Kommission, Joint Research Centre, Retieseweg 111, 2440 Geel, Belgien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rahmenvertrag über Sprachunterricht bei der JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Rahmenvertrag über Sprachunterricht bei der JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract for the provision of language trainings at JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>In the framework of the JRC Training Policy, language trainings are offered every year to the staff of the JRC Geel site. Language training is provided in three official languages of the European Union: English, French and Dutch. It consists of standard language courses (according to the Global Scale of the “Common European Framework of Reference for Languages” of the European Council — CEF) and special courses for all the offered languages to meet the learning demands of a multilingual and multicultural population that has to carry out different types of tasks and duties.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>European Commission, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgium.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Framework contract for the provision of language trainings at JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Framework contract for the provision of language trainings at JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco para la impartición de cursos de idiomas en el JRC de Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>En el marco de la política de formación del JRC, cada año se imparten cursos de idiomas dirigidos al personal del JRC en su sede en Geel. Los cursos de idiomas se impartirán en 3 lenguas oficiales de la Unión Europea: inglés, francés y neerlandés: Inglés, francés y neerlandés. Se trata de cursos de idiomas estándar (de acuerdo con la escala global del «Marco Común Europeo de Referencia para las Lenguas» del Consejo Europeo — MCER) y cursos especiales de todos los idiomas ofrecidos, a fin de cubrir las demandas de formación de una población multicultural y multilingüe que desempeña diferentes tipos de tareas y deberes.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Comisión Europea, Joint Research Centre, Retieseweg 111, B-2440 Geel, Bélgica.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contrato marco para la impartición de cursos de idiomas en el JRC de Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato marco para la impartición de cursos de idiomas en el JRC de Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Puitesopimus kielikoulutusten toimittamisesta yhteisen tutkimuskeskuksen (JRC) Geelin-toimipaikassa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Yhteisen tutkimuskeskuksen (JRC) Geelin-toimipaikan henkilöstölle tarjotaan joka vuosi kielikoulutusta osana yhteisen tutkimuskeskuksen koulutuspolitiikkaa. Kielikoulutusta toimitetaan seuraavilla 3:lla Euroopan unionin virallisella kielellä: englanti, hollanti ja ranska. Kielikoulutus koostuu perustason kielikursseista (Eurooppa-neuvoston kieliä koskevan yhteisen eurooppalaisen viitekehyksen (Common European Framework of Reference for Languages – CEF) yleisluokittelun mukaisesti) sekä kaikkien tarjottujen kielten erityiskursseista, jotta voidaan täyttää sellaisen monikielisen ja monikulttuurisen henkilöstön oppimistarpeet, jonka on suoritettava erilaisia tehtäviä ja velvollisuuksia.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Euroopan komissio, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kyseessä on puitesopimus kielikoulutusten toimittamisesta yhteisen tutkimuskeskuksen (JRC) Geelin-toimipaikassa.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Puitesopimus kielikoulutusten toimittamisesta yhteisen tutkimuskeskuksen (JRC) Geelin-toimipaikassa</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre relatif à la fourniture de formations linguistiques au JRC de Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Dans le cadre de la politique du JRC en matière de formation, chaque année des cours de langue sont proposés au personnel du site de Geel. Les cours de langues sont dispensés dans trois langues officielles de l'Union européenne : l'anglais, le français et le néerlandais. Il s'agit de cours standard (conformément à l'échelle globale du « Cadre européen commun de référence pour les langues » du Conseil européen — CEF) et de cours spéciaux pour toutes les langues proposées, afin de répondre aux besoins d'apprentissage d'une population multilingue et multiculturelle qui doit effectuer différents types de tâches et de devoirs.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Commission européenne, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgique.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contrat-cadre relatif à la fourniture de formations linguistiques au JRC de Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Contrat-cadre relatif à la fourniture de formations linguistiques au JRC de Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή γλωσσικής κατάρτισης στο JRC στο Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Στο πλαίσιο της πολιτικής κατάρτισης του JRC, μαθήματα γλωσσικής κατάρτισης διατίθενται κάθε χρόνο για το προσωπικό των εγκαταστάσεων του JRC στο Geel. Τα μαθήματα γλωσσικής κατάρτισης θα παραδίδονται σε τρεις επίσημες γλώσσες της Ευρωπαϊκής Ένωσης: αγγλικά, γαλλικά και ολλανδικά. Πρόκειται για την παροχή τυποποιημένων γλωσσικών μαθημάτων (σύμφωνα με την παγκόσμια κλίμακα του «κοινού ευρωπαϊκού πλαισίου αναφοράς για τα γλωσσικά προσόντα» του Ευρωπαϊκού Συμβουλίου — CEF) καθώς και ειδικών μαθημάτων για όλες τις προσφερόμενες γλώσσες προκειμένου να επιτευχθούν οι μαθησιακές απαιτήσεις ενός πολυγλωσσικού και πολυπολιτισμικού πληθυσμού, ο οποίος πρέπει να φέρει εις πέρας διαφορετικά είδη καθηκόντων και υποχρεώσεων.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Ευρωπαϊκή Επιτροπή, Joint Research Centre, Retieseweg 111, B-2440 Geel, Βέλγιο.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Σύμβαση-πλαίσιο για την παροχή γλωσσικής κατάρτισης στο JRC στο Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή γλωσσικής κατάρτισης στο JRC στο Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro per la prestazione di corsi di formazione linguistica presso il JRC di Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nel quadro della politica di formazione del JRC, ogni anno sono offerti al personale del sito JRC di Geel corsi di formazione linguistica. I servizi di formazione linguistica vengono prestati in 3 lingue ufficiali dell'Unione europea: francese, inglese e neerlandese. Si tratta di corsi di lingua standard (secondo la scala globale del "quadro comune europeo di riferimento per le lingue" del Consiglio d'Europa) e corsi speciali per tutte le lingue offerte al fine di soddisfare la domanda di apprendimento di una popolazione multilingue e multiculturale che deve eseguire differenti tipi di incarichi e compiti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Commissione europea, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgio.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contratto quadro per la prestazione di corsi di formazione linguistica presso il JRC di Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Contratto quadro per la prestazione di corsi di formazione linguistica presso il JRC di Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor het geven van taalcursussen in het JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>In het kader van het JRC-opleidingsbeleid worden elk jaar taalcursussen georganiseerd voor het personeel van de standplaats in Geel. Er worden taalcursussen georganiseerd voor 3 officiële talen van de Europese Unie: Engels, Frans en Nederlands. Het gaat hierbij om standaardtaalcursussen (conform de algemene indeling van het gemeenschappelijk Europees referentiekader voor talen van de Europese Raad) en speciale cursussen voor het volledige taalaanbod teneinde te voldoen aan de leervereisten van een meertalige en multiculturele bevolking die verantwoordelijk is voor de uitvoering van verschillende taken en verplichtingen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europese Commissie, Joint Research Centre, Retieseweg 111 Geel, België.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Raamovereenkomst voor het geven van taalcursussen in het JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Raamovereenkomst voor het geven van taalcursussen in het JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro relativo à disponibilização de cursos de formação linguística no JRC de Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>No quadro da política de formação do JRC, são disponibilizadas anualmente formações linguísticas ao pessoal das instalações do JRC de Geel. Os cursos de formação de línguas serão ministrados em três línguas oficiais da União Europeia: francês, inglês e neerlandês. Trata-se de cursos de línguas normalizados (de acordo com a escala global do «Quadro Europeu Comum de Referência para as Línguas» do Conselho Europeu — QECR) e cursos especiais para todas as línguas em oferta de forma a satisfazer as exigências de aprendizagem de uma população multilingue e multicultural que tem de realizar diversos tipos de tarefas e funções.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Comissão Europeia, Joint Research Centre, Retieseweg 111, B-2440 Geel, Bélgica.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contrato-quadro relativo à disponibilização de cursos de formação linguística no JRC de Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato-quadro relativo à disponibilização de cursos de formação linguística no JRC de Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av språkutbildning vid JRC i Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Inom ramen för JRC:s utbildningspolicy erbjuds varje år språkutbildning för personalen vid JRC:s anläggning i Geel. Språkutbildningen ges i 3 av Europeiska unionens officiella språk: Engelska, franska och nederländska. Utbildningen omfattar språkkurser av standardtyp (enligt den övergripande skalan i Europeiska rådets gemensamma europeiska referensram för språk – GERS) och specialkurser i alla språk som erbjuds för att möta lärandebehoven hos en flerspråkig och mångkulturell grupp av människor som har olika slags uppgifter och skyldigheter att ta hand om.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europeiska kommissionen, Joint Research Centre, Retieseweg B-2440 Geel, Belgien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ramavtal för tillhandahållande av språkutbildning vid JRC i Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av språkutbildning vid JRC i Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva o poskytování jazykových kurzů ve Společném výzkumném středisku v Geelu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>V rámci vzdělávací politiky Společného výzkumného střediska jsou každoročně nabízeny jazykové kurzy pro zaměstnance pracoviště Společného výzkumného střediska v Geelu. Jazykové kurzy jsou poskytovány ve 3 úředních jazycích Evropské unie: angličtina, francouzština a nizozemština. Jedná se o standardní jazykové kurzy (podle globálního měřítka „Společného evropského referenčního rámce pro jazyky“ Evropské rady – CEFR) a zvláštní kurzy všech nabízených jazyků za účelem pokrytí výukových potřeb vícejazyčného a multikulturního personálu, který odpovídá za různé typy úkolů a povinností.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Evropská komise, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rámcová smlouva o poskytování jazykových kurzů ve Společném výzkumném středisku v Geelu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová smlouva o poskytování jazykových kurzů ve Společném výzkumném středisku v Geelu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamleping Teadusuuringute Ühiskeskuse Geeli tegevuskohas keelekoolituste pakkumiseks</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Teadusuuringute Ühiskeskuse (JRC) koolituspoliitika raames pakutakse JRC Geeli tegevuskoha töötajatele igal aastal keelekoolitusi. Keeleõpe toimub kolmes ELi ametlikus keeles, milleks on inglise, prantsuse ja hollandi keel. Õpe koosneb standardsetest keelekursustest (kooskõlas Euroopa Nõukogu keeleõppe raamdokumendi (CEF) üldskaalaga) ja erikursustest kõigis pakutavates keeltes, et rahuldada erinevaid ülesandeid ja kohustusi täitva mitmekeelse ning mitmekultuurilise töötajaskonna õppevajadused.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Euroopa Komisjon, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Raamleping Teadusuuringute Ühiskeskuse Geeli tegevuskohas keelekoolituste pakkumiseks.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Raamleping Teadusuuringute Ühiskeskuse Geeli tegevuskohas keelekoolituste pakkumiseks</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Keretszerződés nyelvi képzések nyújtására a JRC geeli telephelyén</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A JRC képzési politikájának keretében minden évben nyelvi képzéseket nyújtanak a JRC geeli telephelyének személyzete számára. Az alábbi három hivatalos uniós nyelvből biztosítanak képzést: Angol, francia és holland. A képzés az összes kínált nyelven biztosított szabványos nyelvi kurzusokból (az Európai Tanács nyelvekre vonatkozó közös európai referenciakerete – CEF – szerinti globális skála alapján) és speciális kurzusokból áll, a különböző típusú feladatok végrehajtásáért felelős többnyelvű és multikulturális közösség tanulási igényeinek kielégítése érdekében.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Európai Bizottság, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgium.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Keretszerződés nyelvi képzések nyújtására a JRC geeli telephelyén.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Keretszerződés nyelvi képzések nyújtására a JRC geeli telephelyén</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl kalbų mokymų teikimo JRC Gelyje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>JRC mokymų politikos pagrindu kiekvienais metais JRC Gelyje darbuotojams organizuojami kalbų mokymai. Kalbų mokoma 3 oficialiosiomis Europos Sąjungos kalbomis: anglų, prancūzų ir olandų. Juos sudaro standartiniai (vadovaujantis Europos Tarybos „Bendros Europos kalbų mokėjimo orientacinės sistemos“ visuotine skale – CEF) ir specialieji visų pasiūlytų kalbų kursai, atitinkantys daugiakalbės ir daugiakultūrės visuomenės, turinčios atlikti įvairių rūšių užduotis ir pareigas, mokymosi reikalavimus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europos Komisija, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Preliminarioji sutartis dėl kalbų mokymų teikimo JRC Gelyje.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl kalbų mokymų teikimo JRC Gelyje</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums par valodu apmācības nodrošināšanu JRC Gēlā</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kopīgā pētniecības centra (JRC) apmācības politikas ietvaros JRC Gēlas struktūrvienības darbiniekiem katru gadu tiek piedāvāta valodu apmācība. Valodu apmācība tiek nodrošināta 3 oficiālajās Eiropas Savienības valodās: angļu, franču un nīderlandiešu. Tā ietver standarta valodu kursus (saskaņā ar Eiropas Padomes Eiropas vienotās valodu prasmes līmeņa noteikšanas sistēmas (CEFR) vispārējo skalu) un speciālos kursus visām piedāvātajām valodām, lai apmierinātu daudzvalodu un daudzkultūru iedzīvotāju, kuriem jāpilda dažādu veidu uzdevumi un pienākumi, apmācības vajadzības.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Eiropas Komisija, Joint Research Centre, Retieseweg 111, B-2440 Geel, Beļģija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pamatnolīgums par valodu apmācības nodrošināšanu JRC Gēlā.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Pamatnolīgums par valodu apmācības nodrošināšanu JRC Gēlā</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' taħriġ fil-lingwi fil-JRC ta' Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Fil-qafas tal-Politika tat-Taħriġ tal-JRC, taħriġ fil-lingwi hu offrut kull sena lill-persunal tal-JRC fis-sit ta' Geel. It-taħriġ fil-lingwi huwa pprovdut fi tliet ilsna uffiċjali tal-Unjoni Ewropea: l-Ingliż, il-Franċiż u n-Netherlandiż. Dan jikkonsisti f'korsijiet standard fil-lingwi (skont l-Iskala Globali tal-"Qafas Komuni Ewropew ta' Referenza għall-Lingwi" tal-Kunsill Ewropew — CEFR) u korsijiet speċjali għal-lingwi kollha offruti biex jintlaħqu t-talbiet għat-taħriġ ta' popolazzjoni multilingwi u multikulturali li trid twettaq tipi differenti ta' xogħlijiet u doveri.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Il-Kummissjoni Ewropea, Joint Research Centre, Retieseweg 111, B-2440 Geel, il-Belġju.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Qafas ta' kuntratt għall-provvista ta' taħriġ fil-lingwi fil-JRC ta' Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' taħriġ fil-lingwi fil-JRC ta' Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o prowadzenie szkoleń językowych w placówce JRC w Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>W ramach polityki szkoleń JRC każdego roku pracownikom placówki JRC w Geel oferowane są szkolenia językowe. Szkolenia obejmują 3 języki urzędowe Unii Europejskiej: angielski, francuski i niderlandzki. Zamówienie dotyczy standardowych kursów językowych (zgodnie ze skalą ogólną „europejskiego systemu opisu kształcenia językowego” Rady Europejskiej – CEFR) i kursów specjalnych w zakresie wszystkich oferowanych języków w celu zaspokojenia potrzeb szkoleniowych wielojęzycznego i wielokulturowego zespołu pracowników, którzy muszą wykonywać różnego rodzaju zadania i obowiązki.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Komisja Europejska, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Umowa ramowa o prowadzenie szkoleń językowych w placówce JRC w Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Umowa ramowa o prowadzenie szkoleń językowych w placówce JRC w Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na poskytovanie kurzov jazykového vzdelávania na pracovisku JRC v Geeli</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>V rámci politiky Spoločného výskumného centra v oblasti odbornej prípravy sa každoročne zamestnancom pracoviska JRC v Geeli ponúka jazykové vzdelávanie. Jazykové vzdelávanie sa poskytuje v 3 úradných jazykoch Európskej únie: v angličtine, francúzštine a holandčine. Vzdelávanie pozostáva zo štandardných jazykových kurzov (na základe globálneho rozsahu „Spoločného európskeho referenčného rámca pre jazyky“ Európskej Rady – CEFD) a špeciálnych kurzov pre všetky ponúkané jazyky s cieľom splniť požiadavky vyučovania viacjazyčnej a multikultúrnej populácie, ktorá má vykonať rôzne typy úloh a povinností.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Európska komisia, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgicko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rámcová zmluva na poskytovanie kurzov jazykového vzdelávania na pracovisku JRC v Geeli.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová zmluva na poskytovanie kurzov jazykového vzdelávania na pracovisku JRC v Geeli</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo za zagotavljanje jezikovnih usposabljanj na JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>V okviru politike usposabljanja JRC so jezikovna usposabljanja vsako leto ponujena osebju na lokaciji JRC Geel. Jezikovno usposabljanje je zagotovljeno za 3 uradne jezike Evropske unije: angleščino, francoščino in nizozemščino. Sestavljeno je iz standardnih jezikovnih tečajev (v skladu z globalno lestvico „Skupnega evropskega referenčnega okvira za jezike“ Evropskega sveta – CEFR) in posebnih tečajev za vse ponujene jezike, da bi zadovoljili učnim potrebam večjezične in večkulturne populacije, ki mora izvajati različne vrste nalog in dolžnosti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Evropska komisija, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Okvirno naročilo za zagotavljanje jezikovnih usposabljanj na JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirno naročilo za zagotavljanje jezikovnih usposabljanj na JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Conradh creatlaí le haghaidh oiliúint teanga a chur ar fáil ag JRC Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>I gcreatlach Bheartas Oiliúna an JCR, cuirtear oiliúintí teanga ar fáil gach bliain d'fhoireann láithreán JRC in Geel. Cuirtear an oiliúint teanga ar fáil i dtrí theanga oifigiúla de chuid an Aontais Eorpaigh: Béarla, Fraincis agus Ollainnis. Cuimsíonn sí gnáthchúrsaí teanga (de réir Scála Domhanda de “Chreat Comhchoiteann Tagartha Eorpach le haghaidh Teangacha” de chuid na Comhairle Eorpaí — CEF) agus cúrsaí speisialta le haghaidh na dteangacha uile a thairgtear chun freastal ar éilimh fhoghlama daonra ilteangaigh agus ilchultúrtha a chaitheann cineálacha éagsúla tascanna agus dualgas a chomhlíonadh.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>An Coimisiún Eorpach, Joint Research Centre, Retieseweg 111, B-2440 Geel, an Bheilg.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Creatchonradh le haghaidh oiliúintí teanga a chur ar fáil ag JRC Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Conradh creatlaí le haghaidh oiliúint teanga a chur ar fáil ag JRC Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.5 – Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за предоставяне на езиково обучение в JRC Геел</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>В рамките на политиката за обучение на JRC, езикови обучения се предлагат всяка година за персонала на обекта на JRC Геел. Езиковото обучение се осигурява на три официални езика на Европейския съюз: английски, френски и нидерландски език. То се състои от стандартни езикови курсове (съгласно глобалната таблица за „Общата европейска референтна рамка за езиците“ на Европейския съвет – ОЕЕР) и специални курсове, които имат за цел всички предложени езици да отговорят на изискванията за обучение на многоезичното и мултикултурно население, което трябва да изпълнява различни типове задачи и задължения.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Европейска комисия, Joint Research Centre, Retieseweg 111, B-2440 Geel, Белгия.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Рамков договор за предоставяне на езиково обучение в JRC Геел.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Рамков договор за предоставяне на езиково обучение в JRC Геел</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru pentru furnizarea de cursuri de formare lingvistică la JRC din Geel</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>În cadrul politicii de formare a JRC, cursurile de formare lingvistică sunt oferite în fiecare an personalului de la sediul JRC din Geel. Cursurile de formare lingvistică sunt furnizate în 3 limbi oficiale ale Uniunii Europene: engleză, franceză și neerlandeză. Sunt furnizate cursuri standard de limbă (conform scalei globale a „Cadrului european comun de referință pentru limbi” al Consiliului European – CECRL) și cursuri speciale pentru toate limbile oferite, în vederea satisfacerii cerințelor de învățare ale unei populații multilingve și multiculturale, care trebuie să execute diferite tipuri de sarcini și de activități.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Comisia Europeană, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contract-cadru pentru furnizarea de cursuri de formare lingvistică la JRC din Geel.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Contract-cadru pentru furnizarea de cursuri de formare lingvistică la JRC din Geel</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centrul de limbi străine din Louvain-la-Neuve și Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.5 — Resource Management Geel</OFFICIALNAME>
+               <ADDRESS>Retieseweg 111</ADDRESS>
+               <TOWN>Geel</TOWN>
+               <POSTAL_CODE>B-2440</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Van Menxel Ann</CONTACT_POINT>
+               <E_MAIL>jrc-geel-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE213"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor za pružanje poduke jezika u JRC-u u Geelu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/GEE/2017/R.5/0100/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="80000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>U okviru politike JRC-a o osposobljavanju, poduke jezika nude se svake godine osoblju JRC-a na lokaciji u Geelu. Poduka jezika pruža se na 3 službena jezika Europske unije: engleskom, francuskom i nizozemskom. Obuhvaća standardne tečajeve jezika (u skladu s globalnom ljestvicom „Zajedničkog europskog referentnog okvira za jezike” Europskog vijeća — CEF) i posebne tečajeve za sve ponuđene jezike za zadovoljavanje potreba za učenjem višejezične i multikulturne populacije koja mora izvršavati različite vrste zadataka i dužnosti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="80500000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE21"/>
+               <MAIN_SITE>
+                  <P>Europska komisija, Joint Research Centre, Retieseweg 111, B-2440 Geel, Belgija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Okvirni ugovor za pružanje poduke jezika u JRC-u u Geelu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 177-361587</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>934574</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirni ugovor za pružanje poduke jezika u JRC-u u Geelu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-27</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>2</NB_TENDERS_RECEIVED_SME>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Centre de langues à Louvain-la-Neuve et en Woluwe ASBL</OFFICIALNAME>
+                     <NATIONALID>0431.176.282</NATIONALID>
+                     <TOWN>Louvain-la-Neuve</TOWN>
+                     <COUNTRY VALUE="BE"/>
+                     <n2016:NUTS CODE="BE310"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=2757</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

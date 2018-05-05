@@ -1,0 +1,3888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="136429-2018"
+            EDITION="2018062">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-132729-001</RECEPTION_ID>
+      <DELETION_DATE>20180430</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>62</NO_OJ>
+         <DATE_PUB>20180329</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 062-136429</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:136429-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="48000000">Software package and information systems</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72321000">Added-value database services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72400000">Internet services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">120000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180322</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180430</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering af elektroniske data vedrørende lufttransport</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Lieferung von elektronischen Daten zum Luftverkehr</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Supply of electronic data related to air transport</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Provisión de datos electrónicos relativos al transporte aéreo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Lentoliikennettä koskevien sähköisten tietojen toimittaminen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture de données électroniques relatives au transport aérien</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Προμήθεια ηλεκτρονικών δεδομένων σχετικά με αερομεταφορές</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di dati elettronici relativi al trasporto aereo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering van elektronische gegevens in verband met luchtvervoer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de dados eletrónicos relacionados com os transportes aéreos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av elektroniska data med anknytning till lufttransport</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka elektronických dat týkajících se letecké dopravy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Lennutranspordiga seonduvate elektrooniliste andmete tagamine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>A légiközlekedéssel kapcsolatos elektronikus adatok beszerzése</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektroninių duomenų, susijusių su oro transportu, teikimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Ar gaisa pārvadājumiem saistītu elektronisko datu piegāde</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista ta' dejta elettronika rrelatata mat-trasport bl-ajru</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Dostarczanie danych elektronicznych związanych z sektorem transportu lotniczego</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytovanie elektronických údajov týkajúcich sa leteckej dopravy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Dobava elektronskih podatkov, povezanih z zračnim prometom</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Sonraí leictreonacha maidir le haeriompar a sholáthar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Осигуряване на електронни данни, свързани с въздушния транспорт</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizare de date electronice privind transportul aerian</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava elektroničkih podataka povezanih sa zračnim prometom</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="EN">European Commission - Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="IT">Commissione Europea, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate-General for Mobility and Transport</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate-General for Mobility and Transport</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af elektroniske data vedrørende lufttransport</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kontrakten omfatter udførelse af datatjenester vedrørende lufttransportbranchen, nemlig levering af information om luftfartøjsflåder og levering af online-nyheder og branchedata, der skal støtte Kommissionens vidensbaserede beslutningstagning</P>
+               <P>inden for en bred vifte af politikområder.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Data og tjenesteydelser vedrørende luftfartøjsflåder</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>En database/webbaseret tjeneste, der indeholder oplysninger om luftfartøjsflåder, uheld samt virksomhedens kontaktoplysninger.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatisk forlængelse af kontrakten op til 2 gange.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webbaseret data og tjeneste med relation til lufttransportbranchen</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>En webbaseret tjeneste, der muliggør effektiv overvågning af udviklingerne i lufttransportbranchen ved levering af online-nyheder og branchedata.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatisk forlængelse af kontrakten op til 2 gange.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lieferung von elektronischen Daten zum Luftverkehr</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Der Auftrag umfasst die Bereitstellung von Datendiensten im Zusammenhang mit der Luftverkehrsbranche. Insbesondere geht es um Informationen über Flugzeugflotten sowie um die Bereitstellung von Online-Nachrichten &amp; Branchendaten, um die Kommission bei einer faktenbasierten Entscheidungsfindung zu unterstützen.</P>
+               <P>In einem breiten Spektrum von Politikbereichen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Daten und Dienstleistungen im Zusammenhang mit Flugzeugflotten</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Ein datenbank-/webbasierter Dienst mit Informationen zu Flugzeugflotten, Unfällen und Kontaktdaten von Unternehmen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatische Vertragsverlängerung bis zu 2 Mal.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webbasierte Daten und Dienst im Zusammenhang mit der Luftverkehrsbranche</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Ein webbasierter Dienst zur effektiven Verfolgung der Entwicklungen in der Luftverkehrsbranche durch Bereitstellung von Online-Nachrichten und Branchendaten.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatische Vertragsverlängerung bis zu 2 Mal.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission - Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supply of electronic data related to air transport</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The contract shall provide data services related to air transport industry; namely to supply information on aircraft fleets and to provide on-line news &amp; industry data to support the Commission in knowledge-based decision.</P>
+               <P>Making across wide range of policy areas.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Data and service related to aircraft fleets</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>A database/web-based service that holds information on aircraft fleets, accidents and company contact details.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatic renewal of the contract up to 2 times.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Web-based data and service related to air transport industry</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>A web-based service that enables effective monitoring of the developments in the air transport industry by providing on-line news and industry data.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatic renewal of the contract up to 2 times.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provisión de datos electrónicos relativos al transporte aéreo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El contrato deberá prestar servicios de datos relativos a la industria del transporte aéreo; concretamente proveer información sobre las flotas aéreas y también noticias y datos industriales en línea para asistir a la Comisión en la toma de decisiones basadas en el conocimiento</P>
+               <P>en una amplia variedad de ámbitos políticos.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Servicio y datos relacionados con flotas aéreas</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Una base de datos/servicio web que disponga de información sobre las flotas aéreas, los accidentes y los datos de contacto de las empresas.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Renovación automática del contrato hasta en 2 ocasiones.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Servicio y datos basados en instrumentos web relativos a la industria del transporte aéreo</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Un servicio basado en instrumentos web que permita la supervisión eficaz de los desarrollos en la industria del transporte aéreo suministrando noticias y datos industriales en línea.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Renovación automática del contrato hasta en 2 ocasiones.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lentoliikennettä koskevien sähköisten tietojen toimittaminen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen avulla toimitetaan lentoliikenneteollisuuteen liittyviä tietopalveluja. Tarkoituksena on hankkia lentokonekantoja koskevaa tietoa ja toimittaa verkkouutisia ja teollisuudenalaan liittyviä tietoja komission tietoon perustuvan päätöksenteon tukemiseksi useilla eri politiikan aloilla.</P>
+               <P/>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Lentokonekantoihin liittyvät tiedot ja palvelu</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Erän kohteena on tietokantapalvelu / verkkopohjainen palvelu, joka sisältää lentokonekantoja ja onnettomuuksia koskevat tiedot sekä yritysten yhteystiedot.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>sopimus uusitaan automaattisesti enintään 2 kertaa.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Lentoliikenneteollisuuteen liittyvät verkkopohjaiset tiedot ja palvelu</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Erä kohteena on verkkopohjainen palvelu, jonka avulla voidaan tarkkailla tehokkaasti lentoliikenneteollisuuden kehitystä. Palvelun avulla toimitetaan verkkouutisia ja teollisuudenalaan liittyviä tietoja.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>sopimus uusitaan automaattisesti enintään 2 kertaa.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture de données électroniques relatives au transport aérien</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il s'agira notamment de fournir des informations sur les flottes aériennes, ainsi que des informations et des données industrielles en ligne en vue de soutenir la Commission lors de la prise de décisions basées sur la connaissance.</P>
+               <P>Dans de nombreux domaines politiques.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Données et service relatifs aux flottes aériennes</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Service de base de données/en ligne comportant des informations sur les flottes aériennes, les accidents et les coordonnées des compagnies aériennes.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Reconduction automatique du contrat à 2 reprises au maximum.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Données et service en ligne relatifs à l'industrie du transport aérien</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Service en ligne permettant un suivi efficace des développements de l'industrie du transport aérien par la fourniture d'informations et de données industrielles en ligne.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Reconduction automatique du contrat à 2 reprises au maximum.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Προμήθεια ηλεκτρονικών δεδομένων σχετικά με αερομεταφορές</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Η σύμβαση αφορά την παροχή υπηρεσιών δεδομένων σχετικά με τον κλάδο των εναέριων μεταφορών, κυρίως την παροχή πληροφοριών σχετικά με αεροπορικούς στόλους και την παροχή τηλεματικών ειδήσεων και δεδομένων του κλάδου για την υποστήριξη της Επιτροπής όσον αφορά τη λήψη ενημερωμένων αποφάσεων</P>
+               <P>σε μια ευρεία σειρά τομέων πολιτικής.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Δεδομένα και υπηρεσίες σχετικά με αεροπορικούς στόλους</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Μια βάση δεδομένων/διαδικτυακή υπηρεσία για την τήρηση πληροφοριών σχετικά με αεροπορικούς στόλους, ατυχήματα και στοιχεία επικοινωνίας εταιρειών.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Αυτόματη ανανέωση της σύμβασης έως 2 φορές.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Διαδικτυακά δεδομένα και υπηρεσία σχετικά με τον κλάδο των εναέριων μεταφορών</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Υπηρεσία που βασίζεται στο διαδίκτυο, η οποία επιτρέπει την αποτελεσματική παρακολούθηση των εξελίξεων στον κλάδο των εναέριων μεταφορών παρέχοντας τηλεματικές ειδήσεις και δεδομένα σχετικά με τον κλάδο.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Αυτόματη ανανέωση της σύμβασης έως 2 φορές.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione Europea, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di dati elettronici relativi al trasporto aereo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il presente contratto dovrà fornire servizi di dati relativi all'industria del trasporto aereo; cioè finalizzati alla fornitura di informazioni riguardanti le flotte aeree e di notizie on-line e dati relativi all'industria al fine di assistere la Commissione in un processo di decisione basato sulla conoscenza dei fatti.</P>
+               <P>In una vasta gamma di aree politiche.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dati e servizi riguardanti le flotte aeree</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Una banca dati/servizio basata sul web che contenga informazioni sulle flotte aeree, gli incidenti e le informazioni relative ai contatti della società.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rinnovo automatico del contratto fino a 2 volte.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Servizi e dati basati sul web relativi all'industria del trasporto aereo</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Un servizio basato sul Web che consenta un effettivo monitoraggio degli sviluppi nell'industria del trasporto aereo fornendo dati sull'industria e notizie online.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rinnovo automatico del contratto fino a 2 volte.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van elektronische gegevens in verband met luchtvervoer</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De opdracht behelst de verlening van gegevensdiensten in verband met de sector luchtvervoer; met name het verstrekken van informatie over vliegtuigvloten en het leveren van onlinenieuws en sectorspecifieke gegevens ter ondersteuning van de Commissie bij kennisgebaseerde besluitvorming</P>
+               <P>in een brede waaier aan beleidsgebieden.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Gegevens en diensten die verband houden met vliegtuigvloten.</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Een database-/webgebaseerde dienst waarin informatie zit over vliegtuigvloten, ongevallen en contactgegevens van het bedrijf.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>de opdracht is maximaal tweemaal automatisch verlengbaar.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webgebaseerde gegevens en diensten in verband met de sector luchtvervoer.</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Een webgebaseerde dienst die de doeltreffende monitoring van de ontwikkelingen in de sector luchtvervoer mogelijk maakt door onlinenieuws en sectorspecifieke gegevens te verstrekken.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>de opdracht is maximaal tweemaal automatisch verlengbaar.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de dados eletrónicos relacionados com os transportes aéreos</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O contrato deverá prestar serviços de dados relacionados com a indústria dos transportes aéreos; designadamente, para o fornecimento de informações relativas a frotas aéreas e para o fornecimento de dados da indústria e notícias em linha, de modo a apoiar a Comissão na tomada de decisões baseada no conhecimento.</P>
+               <P>Numa vasta gama de áreas políticas.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dados e serviço relacionados com frotas aéreas</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Uma base de dados/serviço baseado na Web que contemple informações sobre frotas aéreas, acidentes e contactos de empresas.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Renovação automática do contrato até 2 vezes.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Dados e serviço baseados na Web relacionados com a indústria dos transportes aéreos</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Um serviço baseado na Web que permita monitorizar eficazmente a evolução da indústria dos transportes aéreos, através do fornecimento de dados da indústria e notícias em linha.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Renovação automática do contrato até 2 vezes.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av elektroniska data med anknytning till lufttransport</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med kontraktet är att tillhandahålla datatjänster med anknytning till lufttransportindustrin, nämligen att leverera information om luftfartygsflottor samt tillhandahålla online-nyheter och industridata för att stödja kommissionen vid kunskapsbaserat beslutsfattande</P>
+               <P>inom en rad olika politikområden.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Data och tjänst med anknytning till luftfartygsflottor</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>En databasbaserad/webbaserad tjänst med tillgång till information om luftfartygsflottor och luftfartygsolyckor samt kontaktuppgifter för företag.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatisk förlängning av kontraktet upp till 2 gånger.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webbaserade data och webbaserad tjänst med anknytning till lufttransportindustrin</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>En webbaserad tjänst som möjliggör effektiv övervakning av utvecklingen inom lufttransportindustrin genom att tillhandahålla online-nyheter och industridata.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatisk förlängning av kontraktet upp till 2 gånger.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka elektronických dat týkajících se letecké dopravy</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zakázka má zajistit údaje týkající se odvětví letecké dopravy; zejména dodávku informací o letadlových flotilách a zajistit zprávy a údaje odvětví on-line na podporu Komise v procesu rozhodování</P>
+               <P>na základě znalostí v širokém spektru politických oblastí.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Údaje a služby týkající se leteckých flotil</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Služby databáze / internetová služba, která disponuje informacemi o letadlových flotilách, nehodách a kontaktní údaje společnosti.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatické prodloužení smlouvy až 2krát.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webové údaje a služby týkající se odvětví letecké dopravy</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Webové služby, které umožňují efektivní monitorování vývojových trendů v odvětví letecké dopravy prostřednictvím poskytování on-line zpráv a údajů odvětví.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatické prodloužení smlouvy až 2krát.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lennutranspordiga seonduvate elektrooniliste andmete tagamine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lepinguga osutatakse lennutransporditööstusega seotud andmeteenuseid (konkreetsemalt õhusõidukite parkide kohta teabe, veebipõhiste uudiste ning tööstuse kohta andmete tagamine) eesmärgiga toetada komisjoni teadmistepõhises otsuste</P>
+               <P>langetamise protsessis mitmesugustes erinevates poliitikavaldkondades.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Õhusõidukiparkidega seonduvad andmed ja teenus</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Teavet õhusõidukiparkide ja lennuõnnetuste kohta ning lennuettevõtete kontaktandmeid hõlmav andmebaasi-/veebipõhine teenus.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>lepingut uuendatakse automaatselt kuni 2 korda.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Õhutranspordi tööstusega seonduv(ad) veebipõhised andmed ja teenus</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Veebipõhine teenus, mis võimaldab õhutranspordi tööstuse arengut tõhusalt seirata, tagades veebipõhiseid uudised ja tööstuse andmed.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>lepingut uuendatakse automaatselt kuni 2 korda.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>A légiközlekedéssel kapcsolatos elektronikus adatok beszerzése</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A szerződés a légi közlekedési ágazattal kapcsolatos adatszolgáltatásokra irányul; nevezetesen repülőgépflottákra vonatkozó információszolgáltatásra, valamint olyan hírek és ágazati adatok online biztosítására, amelyek támogatják a Bizottságot a tudásalapú döntéshozatalban a szakpolitikai területek széles skáláján.</P>
+               <P/>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Légijármű-flottákkal kapcsolatos adatok és szolgáltatások</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Adatbázis/webalapú szolgáltatás, amely repülőgép-flottákról, balesetekről és vállalati kapcsolattartási adatokról tartalmaz információt.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A szerződés automatikus meghosszabbítása legfeljebb 2 alkalommal.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>A légi közlekedési ágazattal kapcsolatos webalapú adatok és szolgáltatások</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Olyan webalapú szolgáltatás, amely lehetővé teszi a légi közlekedési ágazat terén bekövetkezett fejlemények hatékony nyomon követését híradások és ágazati adatok online biztosítása útján.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A szerződés automatikus meghosszabbítása legfeljebb 2 alkalommal.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Elektroninių duomenų, susijusių su oro transportu, teikimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Remiantis sutartimi bus teikiamos duomenų paslaugos, susijusios su oro transporto pramone, konkrečiai siekiant teikti informaciją apie orlaivių parkus bei interneto naujienas ir pramonės duomenis, kad Komisija galėtų priimti informacija pagrįstus sprendimus</P>
+               <P>Įvairios politikos sritys.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Duomenys ir paslaugos, susijusios su orlaivių parkais</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Duomenų bazė / interneto paslauga, kur laikoma informacija apie orlaivių parkus, avarijas ir bendrovės kontaktiniai duomenys.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatinis sutarties atnaujinimas ne daugiau nei 2 kartus.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Interneto duomenys ir paslaugos, susijusios su oro transporto pramone</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Interneto paslauga, leidžianti veiksmingai stebėti oro transporto pramonės plėtrą, pateikiant interneto naujienas ir pramonės duomenis.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatinis sutarties atnaujinimas ne daugiau nei 2 kartus.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ar gaisa pārvadājumiem saistītu elektronisko datu piegāde</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Līguma ietvaros jāsniedz datu pakalpojumi saistībā ar gaisa pārvadājumu nozari, proti, jāpiegādā informācija par lidaparātu flotēm un tiešsaistē jānodrošina jaunumi un nozares dati, lai atbalstītu Komisiju uz zināšanām pamatotu lēmumu pieņemšanā.</P>
+               <P>dažādās politikas nozarēs.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Ar lidaparātu flotēm saistīti dati un pakalpojumi</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Datubāzē/tīmeklī balstīti pakalpojumi, kas nodrošina informāciju par lidaparātu flotēm, negadījumiem un uzņēmumu kontaktinformāciju.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>līgums tiks automātiski atjaunots līdz 2 reizēm.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Ar gaisa pārvadājumu nozari saistīti, tīmeklī balstīti dati un pakalpojumi</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Tīmeklī balstīti pakalpojumi, kas nodrošina gaisa pārvadājumu nozares attīstības efektīvu pārraudzību, nodrošinot jaunumus tiešsaistē un nozares datus.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>līgums tiks automātiski atjaunots līdz 2 reizēm.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista ta' dejta elettronika rrelatata mat-trasport bl-ajru</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il-kuntratt se jipprovdi servizzi tad-dejta relatati mal-industrija tat-trasport bl-ajru; sabiex prinċipalment jipprovdi tagħrif dwar flotot ta' inġenji tal-ajru u biex jipprovdi aħbarijiet onlajn u dejta dwar l-industrija biex jappoġġjaw lill-Kummissjoni fit-teħid tad-deċiżjonijiet ibbażati fuq l-għarfien</P>
+               <P>dwar firxa wiesgħa ta' oqsma ta' politika.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dejta u servizz relatati mal-flotot tal-inġenji tal-ajru</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Servizz ta' bażi tad-dejta/ibbażat fuq l-Internet li jkollu tagħrif dwar il-flotot ta' inġenji tal-ajru, l-inċidenti u d-dettalji ta' kuntatt tal-kumpaniji.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Tiġdid awtomatiku tal-kuntratt sa darbtejn (2).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Servizz ibbażat fuq l-Internet relatat mal-industrija tat-trasport bl-ajru</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Servizz ibbażat fuq l-Internet li permezz tiegħu jista' jsir monitoraġġ effettiv tal-iżviluppi fl-industrija tat-trasport bl-ajru billi jkunu pprovduti aħbarijiet fuq l-Internet u dejta dwar l-industrija.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Tiġdid awtomatiku tal-kuntratt sa darbtejn (2).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostarczanie danych elektronicznych związanych z sektorem transportu lotniczego</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zamówienie obejmuje usługi w zakresie danych związanych z sektorem transportu lotniczego, mianowicie usługi dostarczania informacji na temat flot statków powietrznych oraz aktualności i danych branżowych on-line w celu wsparcia Komisji w podejmowaniu opartych na wiedzy decyzji.</P>
+               <P>W wielu obszarach polityki.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dane i usługi związane z flotami statków powietrznych</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Baza danych / serwis internetowy zawierający informacje na temat flot statków powietrznych, wypadków oraz danych kontaktowych przedsiębiorstw.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>automatyczne wznowienie zamówienia maksymalnie 2 razy.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Internetowe dane i usługi związane z sektorem transportu lotniczego</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Serwis sieciowy umożliwiający skuteczne monitorowanie wydarzeń w sektorze transportu lotniczego poprzez dostarczanie aktualności i danych branżowych on-line.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>automatyczne wznowienie zamówienia maksymalnie 2 razy.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytovanie elektronických údajov týkajúcich sa leteckej dopravy</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>V rámci zákazky sa budú poskytovať dátové služby týkajúce sa odvetvia leteckej dopravy; konkrétne sa budú poskytovať informácie o lietadlových parkoch a on-line správy a odvetvové informácie na podporu Komisie pri rozhodovaní na základe znalostí.</P>
+               <P>V rámci širokého rozsahu oblastí politiky.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Údaje a služby týkajúce sa lietadlových parkov</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Databáza/webová služba, ktorá obsahuje informácie o lietadlových parkoch, nehodách a kontaktné údaje spoločností.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatické obnovenie zmluvy maximálne 2-krát.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Webové údaje a služby týkajúce sa odvetvia leteckej dopravy</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Webová služba, ktorá umožňuje efektívne sledovanie vývoja v odvetví leteckej dopravy poskytovaním on-line správ a odvetvových informácií.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatické obnovenie zmluvy maximálne 2-krát.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dobava elektronskih podatkov, povezanih z zračnim prometom</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>V okviru naročila bo treba zagotoviti podatkovne storitve, povezane s panogo zračnega prometa; natančneje bo treba zagotoviti informacije o zračnih flotah ter spletne novice in panožne podatke, kar bo Komisijo podprlo pri odločanju, ki temelji na znanju,</P>
+               <P>na številnih področjih politike.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Podatki in storitve v zvezi z zračnimi flotami</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Storitev, ki temelji na podatkovni zbirki/spletu, za zagotavljanje informacij o zračnih flotah, nesrečah in kontaktnih podatkih podjetij.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Naročilo se lahko samodejno podaljša največ 2‑krat.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Spletni podatki in storitev v zvezi s panogo zračnega prometa</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Spletna storitev, ki omogoča učinkovito spremljanje razvoja v panogi zračnega prometa z zagotavljanjem spletnih novic in panožnih podatkov.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Naročilo se lahko samodejno podaljša največ 2‑krat.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sonraí leictreonacha maidir le haeriompar a sholáthar</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Soláthrófar leis an gconradh seirbhísí sonraí maidir leis an tionscal aeriompair; eadhon faisnéis a sholáthar maidir le haerloingis agus nuacht ar líne agus sonraí tionscail a chur ar fáil chun tacú leis an gCoimisiún cinnteoireacht eolasbhunaithe a dhéanamh ar fud raon leathan réimsí beartais.</P>
+               <P>Beartú trasna réimse leathan limistéar beartais.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dáta agus seirbhís a bhaineann le loingis aerárthaí</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Seirbhís bunaithe ar bhunachar sonraí/ar an ngréasán ina gcoimeádtar faisnéis maidir le haerloingis, timpistí agus sonraí teagmhála cuideachta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Athnuachan uathoibríoch ar an gconradh suas le 2 uair.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Sonraí agus seirbhís bunaithe ar an ngréasán maidir leis an tionscal aeriompair</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Seirbhís bunaithe ar an ngréasán lena gcumasófar monatóireacht éifeachtach ar fhorbairtí sa tionscal aeriompair trí nuacht ar líne agus sonraí tionscail a chur ar fáil.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Athnuachan uathoibríoch ar an gconradh suas le 2 uair.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Осигуряване на електронни данни, свързани с въздушния транспорт</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Поръчката ще предостави услуги за данни, свързани с промишлеността на въздушния транспорт, а именно осигуряване на информация за самолети и предоставяне на онлайн новини и промишлени данни за подпомагане на Комисията при вземане на решения, основаващи се на познания</P>
+               <P>по широк обхват от политически области.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Данни и услуги, свързани с въздухоплавателни флоти</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>База данни/уеб базирани услуга, която съдържа информация за самолети, злополуки и данни за контакт с дружеството.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Автоматично подновяване на договора до 2 пъти.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Уеб-базирани данни и услуги, свързани с промишлеността на въздушния транспорт</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Уеб-базирана услуга, даваща възможност за ефективен мониторинг на развитието в промишлеността на въздушния транспорт чрез предоставяне на онлайн новини и данни за промишлеността.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Автоматично подновяване на договора до 2 пъти.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizare de date electronice privind transportul aerian</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>În baza contractului, vor fi furnizate servicii de date privind industria transportului aerian; și anume oferirea de informații cu privire la flotele de aeronave și furnizarea de știri și de date industriale online în vederea susținerii Comisiei în procesul decizional bazat pe cunoștințe.</P>
+               <P>Cu privire la o gamă largă de domenii de politică.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Date și servicii cu privire la flotele de aeronave</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>O bază de date/serviciu bazat pe web care include informații cu privire la flotele aeriene, la accidente și la detaliile de contact al companiilor.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Reînnoire automată a contractului de maximum 2 ori.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Date și serviciu bazate pe web privind industria transportului aerian</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Un serviciu bazat pe web care permite monitorizarea eficientă a evoluțiilor din industria transportului aerian prin furnizarea de știri și de date industriale online.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Reînnoire automată a contractului de maximum 2 ori.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate-General for Mobility and Transport</OFFICIALNAME>
+               <ADDRESS>Rue de Mot 24 — 05/104</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>move-air-annual@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://ec.europa.eu/transport/modes/air_en</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3336</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava elektroničkih podataka povezanih sa zračnim prometom</P>
+            </TITLE>
+            <REFERENCE_NUMBER>MOVE/E1/2018-479</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="48000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ugovorom će se pružiti usluge pružanja podataka povezanih s industrijom zračnog prometa; poglavito u svrhu nabave informacija o zrakoplovnim flotama i pružanja mrežnih novosti i industrijskih podataka radi podrške Komisiji u donošenju odluka temeljenih na znanju diljem širokog raspona političkih područja.</P>
+               <P/>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">120000.00</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Podaci i usluge povezane s flotama letjelica</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Podatkovna baza/usluga temeljena na mreži koja sadržava informacije o flotama letjelica, nesrećama i kontaktnim detaljima poduzeća.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">45000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatsko obnavljanje ugovora najviše 2 puta.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Podaci i usluge temeljeni na mreži i povezani s industrijom zračnog prometa</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <SHORT_DESCR>
+                  <P>Usluga temeljena na mreži koja omogućuje učinkovito praćenje razvoja u industriji zračnog prometa pružanjem mrežnih vijesti i industrijskih podataka.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">75000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Automatsko obnavljanje ugovora najviše 2 puta.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-30</DATE_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-02</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 43032100</FAX>
+               <URL>http://curia.eu.int</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

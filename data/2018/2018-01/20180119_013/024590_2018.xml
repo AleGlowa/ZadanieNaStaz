@@ -1,0 +1,3406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="024590-2018"
+            EDITION="2018013">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-021461-001</RECEPTION_ID>
+      <DELETION_DATE>20180305</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>13</NO_OJ>
+         <DATE_PUB>20180119</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 013-024590</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:024590-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="ES"/>
+         <IA_URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72200000">Software programming and consultancy services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ES521">Alicante/Alacant</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ES521">Alicante/Alacant</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">16000000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180115</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180305 13:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC02</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering af it-software kvalitetstjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Bereitstellung von qualitativen Dienstleistungen für IT-Software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Spain</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Provision of IT software quality services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>España</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestación de servicios de calidad del software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Espanja</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Tietoteknisten ohjelmistojen laatupalvelujen toimittaminen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Espagne</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestation des services logiciels informatiques de qualité</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ισπανία</TI_CY>
+            <TI_TOWN>Αλικάντε</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή υπηρεσιών ποιότητας λογισμικού πληροφορικής</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Spagna</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Prestazione di servizi informatici software di qualità</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Spanje</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Verlening van IT-softwarediensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Espanha</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de serviços de qualidade de software informático</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av IT-programvarutjänster av god kvalitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Španělsko</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytnutí služeb IT v rámci zabezpečení kvality softwaru</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Hispaania</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>IT tarkvarakvaliteedi teenuste osutamine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Spanyolország</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Informatikai szoftverek minőségére irányuló szolgáltatások biztosítása</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Ispanija</TI_CY>
+            <TI_TOWN>Alikantė</TI_TOWN>
+            <TI_TEXT>
+               <P>IT programinės įrangos kokybės paslaugų teikimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Spānija</TI_CY>
+            <TI_TOWN>Alikante</TI_TOWN>
+            <TI_TEXT>
+               <P>IT programmatūras kvalitātes pakalpojumu nodrošināšana</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>Spanja</TI_CY>
+            <TI_TOWN>Alikante</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista ta' servizzi ta' softwer tat-TI ta' kwalità</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Hiszpania</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Świadczenie usług w zakresie jakości oprogramowania informatycznego</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Španielsko</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytovanie kvalitných služieb v oblasti softvéru IT</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Španija</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve zagotavljanja kakovosti programske opreme IT</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Spáinn, an</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Soláthar seirbhísí cáilíochta bogearraí TF</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Иcпaния</TI_CY>
+            <TI_TOWN>Аликанте</TI_TOWN>
+            <TI_TEXT>
+               <P>Предоставяне на услуги по качеството на ИТ софтуера</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Spania</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizare de servicii de calitate IT pentru software</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Španjolska</TI_CY>
+            <TI_TOWN>Alicante</TI_TOWN>
+            <TI_TEXT>
+               <P>Pružanje usluga osiguranja kvalitete IT softvera</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Den Europæiske Unions Kontor for Intellektuel Ejendomsret</AA_NAME>
+         <AA_NAME LG="DE">Amt der Europäischen Union für geistiges Eigentum</AA_NAME>
+         <AA_NAME LG="EN">European Union Intellectual Property Office</AA_NAME>
+         <AA_NAME LG="ES">Oficina de Propiedad Intelectual de la Unión Europea</AA_NAME>
+         <AA_NAME LG="FI">Euroopan unionin teollisoikeuksien virasto (EUIPO)</AA_NAME>
+         <AA_NAME LG="FR">Office de l'Union européenne pour la propriété intellectuelle</AA_NAME>
+         <AA_NAME LG="EL">Γραφείο Διανοητικής Ιδιοκτησίας της Ευρωπαϊκής Ένωσης</AA_NAME>
+         <AA_NAME LG="IT">Ufficio dell'Unione europea per la proprietà intellettuale</AA_NAME>
+         <AA_NAME LG="NL">Bureau voor intellectuele eigendom van de Europese Unie</AA_NAME>
+         <AA_NAME LG="PT">Instituto da Propriedade Intelectual da União Europeia</AA_NAME>
+         <AA_NAME LG="SV">Europeiska unionens immaterialrättsmyndighet</AA_NAME>
+         <AA_NAME LG="CS">Úřad Evropské unie pro duševní vlastnictví</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Liidu Intellektuaalomandi Amet</AA_NAME>
+         <AA_NAME LG="HU">Az Európai Unió Szellemi Tulajdoni Hivatala</AA_NAME>
+         <AA_NAME LG="LT">Europos Sąjungos intelektinės nuosavybės tarnyba</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Savienības Intelektuālā īpašuma birojs</AA_NAME>
+         <AA_NAME LG="MT">L-Uffiċċju tal-Proprjetà Intellettwali tal-Unjoni Ewropea</AA_NAME>
+         <AA_NAME LG="PL">Urząd Unii Europejskiej ds. Własności Intelektualnej (EUIPO)</AA_NAME>
+         <AA_NAME LG="SK">Úrad Európskej únie pre duševné vlastníctvo (EUIPO)</AA_NAME>
+         <AA_NAME LG="SL">Urad Evropske unije za intelektualno lastnino</AA_NAME>
+         <AA_NAME LG="GA">Oifig Maoine Intleachtúla an Aontais Eorpaigh</AA_NAME>
+         <AA_NAME LG="BG">Служба на Европейския съюз за интелектуална собственост (EUIPO)</AA_NAME>
+         <AA_NAME LG="RO">Oficiul Uniunii Europene pentru Proprietate Intelectuală</AA_NAME>
+         <AA_NAME LG="HR">Ured Europske unije za intelektualno vlasništvo</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Den Europæiske Unions Kontor for Intellektuel Ejendomsret</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af it-software kvalitetstjenester</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålet med nærværende udbud er at få leveret it-software kvalitetstjenester.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO's lokaler (Avda- de Europa, 4 - 03008 Alicante) og/eller kontrahentens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kontrahenten skal sikre softwarens livscyklusprocesser og produkter er i overensstemmelse med EUIPO's krav, til standarder og procedurer, med den rette kvalitet og respekt for de rettidige aspekter.</P>
+                  <P>De tjenesteydelser der forventes leveret af kontrahenten opdeles som følger:</P>
+                  <P>- Kvalitetssikring.</P>
+                  <P>- Kvalitetskontrol.</P>
+                  <P>- Kvalitetsteknologi.</P>
+                  <P>- Generelle tjenester.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Hver tilbudsgiver kan sende op til to repræsentanter. De besøgendes navne og numrene på deres identitetspapirer skal meddeles kontoret pr e-mail til procurement@euipo.europa.eu inden den 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Udbudsmaterialet kan downloades fra adressen anført ovenfor i punkt I.3. Webstedet vil blive opdateret regelmæssigt, og det er tilbudsgivernes ansvar at kontrollere, om der er opdateringer, ændringer eller svar på spørgsmål i udbudsperioden.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter datoen for underrettelse af vedkommende eller, i mangel heraf, efter den dag sagen er taget til efterretning af denne.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Amt der Europäischen Union für geistiges Eigentum</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Bereitstellung von qualitativen Dienstleistungen für IT-Software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Gegenstand der vorliegenden Ausschreibung ist die Beschaffung von qualitativen Dienstleistungen für IT-Software (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten des EUIPO (Avda. de Europa, 4 - 03008 Alicante) und/oder Räumlichkeiten des Auftragnehmers.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der Auftragnehmer gewährleistet, dass die Prozesse und Produkte des Software-Lebenszyklus den Anforderungen des EUIPO, den Normen und Verfahren entsprechen sowie einen angemessene Qualität aufweisen und die Vorgaben im Hinblick auf die einzuhaltenden Fristen beachten.</P>
+                  <P>Bei den vom Auftragnehmer erwarteten Dienstleistungen handelt es sich um wie folgt:</P>
+                  <P>- Qualitätssicherung.</P>
+                  <P>- Qualitätskontrolle.</P>
+                  <P>- Qualitätstechnik.</P>
+                  <P>- Allgemeine Dienste.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Es können höchstens 2 Vertreter je Bieter anwesend sein. Die Namen und Nummern der Ausweisdokumente der Besucher sind dem Amt vor dem 5/3/2018 per E-Mail an procurement@euipo.europa.eu mitzuteilen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Die Ausschreibungsunterlagen stehen zum Herunterladen bei der unter Ziffer I.3 genannten Adresse zur Verfügung. Die Website wird regelmäßig aktualisiert; es obliegt den Bietern, sie während des Ausschreibungszeitraums auf etwaige Aktualisierungen, Änderungen oder Antworten auf Fragen zu prüfen.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>innerhalb von 2 Monaten nach dem Datum, an dem die betreffende Person benachrichtigt wird, oder, in Ermangelung dessen, nach dem Datum, an dem sie von dem betreffenden Umstand Kenntnis erlangt hat.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Union Intellectual Property Office</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provision of IT software quality services</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The scope of the present call for tender is to obtain provision for IT software quality services (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO premises (Avda. de Europa, 4 - 03008 Alicante) and/or contractor's premises.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The Contractors will ensure that software life cycle processes and products are conform to EUIPO requirements, to standards and to procedures, at the appropriate quality and respecting timeliness aspects.</P>
+                  <P>The services that are expected to be delivered by the Contractor are broken down as follows:</P>
+                  <P>- Quality assurance.</P>
+                  <P>- Quality control.</P>
+                  <P>- Quality engineering.</P>
+                  <P>- General services.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Each tenderer may send up to two representatives. The Office should be informed by email to procurement@euipo.europa.eu of the names and identity document numbers of the visitors before 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>The invitation to tender documents will be available for download at the address stated in point I.3. The website will be updated periodically and it is the responsibility of tenderers to check for updates, amendments or answers to questions during the tender period.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the date on which the party concerned is notified or, failing this, of the date on which the act in question became known to them.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oficina de Propiedad Intelectual de la Unión Europea</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestación de servicios de calidad del software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objeto de la presente convocatoria de licitación consiste en obtener la prestación de servicios de calidad del software.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>En las instalaciones de la OPIUE (Avda. de Europa, 4 - 03008 Alicante) y/o las instalaciones del contratista.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El contratista garantizará que los procesos del ciclo de vida del software y los productos cumplen con los requisitos de la OPIUE, con los estándares y los procedimientos, con la calidad adecuada y respetando los plazos.</P>
+                  <P>Los servicios que el contratista deberá prestar se desglosan como sigue:</P>
+                  <P>— Garantía de calidad.</P>
+                  <P>— Control de calidad.</P>
+                  <P>— Ingeniería de calidad.</P>
+                  <P>— Servicios generales.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Cada licitador podrá enviar como máximo a 2 representantes. Deberá informarse a la Oficina de los nombres y los números de los documentos de identidad de los visitantes mediante un correo electrónico dirigido a procurement@euipo.europa.eu a más tardar el 05.03.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Los documentos de la licitación estarán disponibles para su descarga en la dirección indicada en el punto I.3. La página web se actualizará periódicamente y es responsabilidad de los licitadores verificar las actualizaciones, modificaciones o respuestas a preguntas durante el período de licitación.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la fecha de notificación a la parte interesada o, en su defecto, desde la fecha en que haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan unionin teollisoikeuksien virasto (EUIPO)</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tietoteknisten ohjelmistojen laatupalvelujen toimittaminen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tämän tarjouspyynnön kohteena on tietoteknisten ohjelmistojen laatupalvelujen (IT software quality services – ITSQS) hankkiminen</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPOn toimitilat (Avda. de Europa, 4 – 03008 Alicante) ja/tai sopimusosapuolen toimitilat.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sopimusosapuolen tehtävänä on taata, että ohjelmistojen elinkaariprosessit ja niiden tulokset vastaavat EUIPOn vaatimuksia, normeja ja menettelytapoja noudattaen asiaankuuluvaa laatua ja pitäytyen annetuissa aikaraameissa.</P>
+                  <P>Sopimusosapuolen odotetaan toimittavan seuraavankaltaisia eri palveluja:</P>
+                  <P>— laadunvarmistus,</P>
+                  <P>— laadunvalvonta,</P>
+                  <P>— laadun optimointi mm. analysoimalla, mallintamalla ja numeerisia menetelmiä käyttämällä (quality engineering),</P>
+                  <P>— yleisluontoiset palvelut.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 – 03008 Alicante, Espanja.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Kukin tarjoaja voi lähettää enintään kaksi edustajaa. Virastolle on ilmoitettava vierailijoiden nimet ja henkilöllisyystodistusten numerot sähköpostitse osoitteeseen procurement@euipo.europa.eu ennen 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Tarjouspyyntöasiakirjat ovat ladattavissa kohdassa I.3 annetusta osoitteesta. Kyseistä verkkosivustoa päivitetään säännöllisin väliajoin, ja tarjoajien on itse huolehdittava päivitysten, muutosten tai kysymyksiin esitettyjen vastausten seuraamisesta tarjousmenettelyn aikana.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Euroopan unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Muutosta on haettava 2 kuukauden kuluessa ilmoituksesta asianosaiselle tai, jos ilmoitus puuttuu, siitä päivästä, jona asia tuli hänen tietoonsa.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Office de l'Union européenne pour la propriété intellectuelle</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestation des services logiciels informatiques de qualité</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le présent appel d'offres porte sur la prestation de services logiciels informatiques de qualité.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Locaux de l’OUEPI (Avda. de Europa, 4 - 03008 Alicante) et/ou locaux du contractant.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Les contractants devront se rassurer que les processus du cycle de vie du logiciel et des produits logiciels sont conformes aux exigences de l’OUEPI, aux normes et aux procédures, possèdent la qualité requise et respectent l’actualité des données.</P>
+                  <P>Le contractant devra fournir les services repartis comme suit:</P>
+                  <P>- Assurance qualité.</P>
+                  <P>- Contrôle de la qualité.</P>
+                  <P>- Ingénierie de qualité.</P>
+                  <P>- Services généraux.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Chaque soumissionnaire pourra déléguer 2 représentants au maximum. L'Office devra être informé par courrier électronique (procurement@euipo.europa.eu) des noms et des numéros de pièce d'identité des visiteurs avant le 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Les documents de l'appel d'offres seront disponibles pour téléchargement à l'adresse indiquée au point I.3. Le site internet sera actualisé régulièrement. Il incombe donc aux soumissionnaires de le consulter pour prendre connaissance des actualisations, modifications ou réponses aux questions durant la période de soumission.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Γραφείο Διανοητικής Ιδιοκτησίας της Ευρωπαϊκής Ένωσης</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή υπηρεσιών ποιότητας λογισμικού πληροφορικής</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Αντικείμενο της εν λόγω πρόσκλησης υποβολής προσφορών είναι η παροχή υπηρεσιών ποιότητας λογισμικού πληροφορικής (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Στις εγκαταστάσεις του EUIPO (Avda. de Europa, 4 - 03008 Alicante) και/ή στις εγκαταστάσεις του αναδόχου.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Οι ανάδοχοι θα διασφαλίσουν ότι οι διαδικασίες και τα προϊόντα κατά τη διάρκεια του κύκλου ζωής του λογισμικού συμμορφώνονται με τις προδιαγραφές, τα πρότυπα και τις διαδικασίες του EUIPO, στην κατάλληλη ποιότητα και τηρώντας τις πτυχές της επικαιρότητας.</P>
+                  <P>Οι υπηρεσίες που αναμένεται να παρασχεθούν από τον ανάδοχο αναλύονται ως εξής:</P>
+                  <P>- διασφάλιση της ποιότητας.</P>
+                  <P>- ποιοτικός έλεγχος.</P>
+                  <P>- τεχνική ελέγχου ποιότητας.</P>
+                  <P>- γενικές υπηρεσίες.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Κάθε υποψήφιος μπορεί να εκπροσωπηθεί από 2 άτομα κατ' ανώτατο όριο. Το Γραφείο θα πρέπει να ενημερωθεί μέσω ηλεκτρονικού ταχυδρομείου στη διεύθυνση procurement@euipo.europa.eu σχετικά με τα ονόματα και τους αριθμούς των δελτίων ταυτότητας των επισκεπτών πριν από τις 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Τα έγγραφα της πρόσκλησης υποβολής προσφορών θα είναι διαθέσιμα προς καταφόρτωση στη διεύθυνση που αναφέρεται στο σημείο I.3. Ο δικτυακός τόπος θα ενημερώνεται κατά περιόδους και αποτελεί ευθύνη των υποψηφίων να ελέγχουν για ενημερώσεις, τροποποιήσεις ή απαντήσεις κατά τη διάρκεια της περιόδου υποβολής προσφορών.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την ημερομηνία κοινοποίησης στον ενδιαφερόμενο διάδικο ή ελλείψει τέτοιας, από την ημερομηνία κατά την οποία ο προσφεύγων έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ufficio dell'Unione europea per la proprietà intellettuale</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prestazione di servizi informatici software di qualità</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Scopo del presente bando di gara è ottenere la prestazione di servizi informatici software di qualità (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Presso le strutture dell'EUIPO (Avda. de Europa, 4 - 03008 Alicante) e/o presso le strutture del contraente.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>il contraente dovrà assicurare che i processi e i prodotti del ciclo di vita del software siano conformi ai requisiti dell'EUIPO e alle norme e procedure, che siano di qualità adeguata e che rispettino i requisiti di puntualità.</P>
+                  <P>I servizi che il contraente dovrà fornire sono suddivisi come segue:</P>
+                  <P>- Garanzia della qualità.</P>
+                  <P>- Controllo della qualità.</P>
+                  <P>- Ingegnerizzazione della qualità.</P>
+                  <P>- Servizi generali.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ciascun offerente potrà inviare al massimo due rappresentanti. All'Ufficio dovranno essere comunicati via e-mail all'indirizzo procurement@euipo.europa.eu i nomi e il numero del documento di identità dei visitatori prima del 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>I documenti di gara potranno essere scaricati all'indirizzo indicato al punto I.3. La pagina web verrà aggiornata periodicamente e spetterà quindi agli offerenti verificare gli aggiornamenti, le modifiche o le risposte alle domande durante il periodo della gara d'appalto.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Entro 2 mesi dalla notifica alla parte in causa o, in assenza di ciò, dalla data in cui si è venuti a conoscenza dell'atto in questione.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bureau voor intellectuele eigendom van de Europese Unie</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verlening van IT-softwarediensten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Onderhavige oproep tot inschrijving behelst het laten uitvoeren van IT-software kwaliteitsdiensten (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>kantoren van EUIPO (Avda. de Europa, 4 - 03008 Alicante) en/of kantoren van de contractant.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>De contractanten moeten verzekeren dat levenscyclussen en -producten voldoen aan de EUIPO-vereisten, -normen en -procedures, op de gepaste kwaliteit met inachtneming van tijdigheidsaspecten.</P>
+                  <P>De diensten die moeten worden geleverd door de contractant zijn als volgt onderverdeeld:</P>
+                  <P>- kwaliteitsborging;</P>
+                  <P>- kwaliteitscontrole;</P>
+                  <P>- kwaliteitsbewaking;</P>
+                  <P>- algemene diensten.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Elke inschrijver mag maximaal 2 vertegenwoordigers sturen. Het Bureau moet vóór 5/03/2018 per e-mail (procurement@euipo.europa.eu) op de hoogte worden gesteld van de namen en identiteitskaartnummers van de bezoekers.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>De aanbestedingsstukken kunnen worden gedownload van het onder I.3 vermelde internetadres. De website wordt regelmatig bijgewerkt en het is de verantwoordelijkheid van de inschrijvers om na te gaan of er updates of wijzigingen zijn aangebracht of antwoorden zijn gepubliceerd op vragen tijdens de aanbestedingsperiode.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de datum van kennisgeving aan de betrokken partij of, bij ontbreken daarvan, binnen 2 maanden na de datum waarop het hem bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Instituto da Propriedade Intelectual da União Europeia</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de serviços de qualidade de software informático</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O âmbito do presente concurso consiste em obter a prestação de serviços de qualidade de software informático.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Instalações do IPIUE (Avda. de Europa, 4 - 03008 Alicante) e/ou as instalações do contratante.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Os contratantes irão assegurar que os processos de ciclo de vida de software e produtos estão em conformidade com os requisitos do IPIUE, as normas e procedimentos, ao nível de qualidade apropriado e respeitando os aspetos de prazo.</P>
+                  <P>Os serviços que se espera que o contratante forneça estão divididos da seguinte forma:</P>
+                  <P>- Garantia de qualidade.</P>
+                  <P>- Controlo de qualidade.</P>
+                  <P>- Engenharia de qualidade.</P>
+                  <P>- Serviços gerais.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Cada proponente poderá enviar dois representantes no máximo. O Instituto deverá ser informado, através de correio eletrónico para procurement@euipo.europa.eu, dos nomes e números de documento de identificação dos visitantes antes de 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>A documentação do concurso encontra-se disponível para ser descarregada no endereço indicado no ponto I.3. A página Web será atualizada periodicamente e é da responsabilidade dos proponentes verificar as atualizações, alterações ou respostas a perguntas durante o período de concurso.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>No prazo de 2 meses a partir da data em que a parte em questão for notificada, ou na sua ausência, da data em que tomaram conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska unionens immaterialrättsmyndighet</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av IT-programvarutjänster av god kvalitet</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med denna anbudsinfordran är att erhålla tillhandahållande av IT-programvarutjänster av god kvalitet (IT software quality services - ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO:s lokaler (Avda. de Europa, 4 - 03008 Alicante) och/eller uppdragstagarens lokaler.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Uppdragstagarna ska säkerställa att programvarors livscykelprocesser och produkter uppfyller EUIPO:s krav, standarder och förfaranden, är av lämplig kvalitet och uppfyller punktlighetskraven.</P>
+                  <P>De tjänster som uppdragstagaren förväntas leverera delas upp i följande:</P>
+                  <P>— Kvalitetssäkring.</P>
+                  <P>— Kvalitetskontroll.</P>
+                  <P>— Kvalitetsteknik.</P>
+                  <P>— Allmänna tjänster.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Varje anbudsgivare får skicka högst två företrädare. Myndigheten ska informeras via e-post till procurement@euipo.europa.eu om besökarnas namn och nummer på identitetshandlingar före den 5.3.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Upphandlingsdokumenten kommer att finnas tillgängliga för nedladdning från den adress som anges i punkt I.3. Webbplatsen kommer att uppdateras med regelbundna mellanrum och det åligger anbudsgivarna att kontrollera vilka uppdateringar, ändringar eller svar på frågor som offentliggörs under anbudsperioden.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag som den klagande delgavs, eller om så inte skett, från och med den dag då denne fick kännedom om åtgärden i fråga.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úřad Evropské unie pro duševní vlastnictví</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytnutí služeb IT v rámci zabezpečení kvality softwaru</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Náplní této výzvy k podání nabídek je snaha zajistit poskytnutí služeb IT v rámci zabezpečení kvality softwaru (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Prostory úřadu EUIPO (Avda. de Europa, 4 – 03008 Alicante) a/nebo prostory poskytovale služeb.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zhotovitelé zajistí, aby procesy životního cyklu softwaru a produkty odpovídaly požadavkům EUIPO, normám a postupům v odpovídající kvalitě a včasnosti.</P>
+                  <P>Očekávané služby, které mají být poskytovány, jsou rozděleny následovně:</P>
+                  <P>– zabezpečení jakosti,</P>
+                  <P>– kontrola kvality,</P>
+                  <P>– kvalitní inženýrské služby,</P>
+                  <P>– obecné služby.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Každý uchazeč může vyslat až 2 zástupce. Úřad musí být informován prostřednictvím e-mailu na adresu procurement@euipo.europa.eu o jménech a číslech dokladů totožnosti návštěvníků do 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Výzva k účasti v nabídkovém řízení bude dostupná pro stažení na adrese uvedené v bodu I.3. Tato internetová stránka bude pravidelně aktualizována a je tedy na odpovědnosti uchazečů se na ni v průběhu období nabídkového řízení pravidelně vracet a čerpat informace z provedených aktualizací, úprav nebo odpovědí na otázky.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od data oznámení dotčené straně nebo, v jiném případě, od data, kdy daný výnos vstoupil ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Liidu Intellektuaalomandi Amet</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>IT tarkvarakvaliteedi teenuste osutamine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Pakkumiskutse eesmärk on hankida IT tarkvarakvaliteedi teenuseid (ITQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO ruumides (Avda. de Europa, 4 - 03008 Alicante) ja/või töövõtja ruumides.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Töövõtjad tagavad, et tarkvara kasutusiga ja tooted vastavad EUIPO nõuetele, standarditele ja menetlustele ning on asjakohase kvaliteediga ja et tähtaegadest peetakse kinni.</P>
+                  <P>Teenused, mille osutamist töövõtjalt oodatakse, on järgmised:</P>
+                  <P>- kvaliteedi tagamine;</P>
+                  <P>- kvaliteedikontroll;</P>
+                  <P>- kvaliteeditehnika;</P>
+                  <P>- üldteenused.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Iga pakkuja võib saata kuni kaks esindajat. EUIPOle tuleb enne 05.03.2018 e-posti teel (procurement@euipo.europa.eu) teatada külastajate nimed ja isikut tõendavate dokumentide numbrid.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Pakkumuskutse dokumente saab alla laadida punktis I.3 esitatud aadressil. Veebisaiti uuendatakse regulaarselt ning pakkujate kohus on pakkumismenetluse vältel uuendusi, muudatusi või küsimustele antud vastuseid kontrollida.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul vastava poole teavitamisest või kui teavitamist ei toimu, siis 2 kuu jooksul päevast, mil kõnealusest asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Az Európai Unió Szellemi Tulajdoni Hivatala</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Informatikai szoftverek minőségére irányuló szolgáltatások biztosítása</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A szóban forgó pályázati felhívás tárgya informatikai szoftverek minőségére irányuló szolgáltatások (ITSQS) igénybe vételére terjed ki.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Az EUIPO székhelye (Avda. de Europa, 4 - 03008 Alicante) és/vagy a nyertes ajánlattevő telephelye.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A nyertes ajánlattevők biztosítják, hogy a szoftveréletciklus-folyamatok és -termékek megfelelnek az EUIPO követelményeinek, szabványainak és eljárásainak, valamint megfelelő minőségűek, és teljesítik az időszerűség szempontjait is.</P>
+                  <P>A nyertes ajánlattevő által nyújtandó szolgáltatásoknak az alábbiakra kell kiterjednie:</P>
+                  <P>- Minőségbiztosítás.</P>
+                  <P>- Minőség-ellenőrzés.</P>
+                  <P>- Minőségirányítás.</P>
+                  <P>- Általános szolgáltatások.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Minden pályázó legfeljebb két képviselőt küldhet. A látogatók nevét és személyazonosító okmányának számát a procurement@euipo.europa.eu e-mail-címen kell jelezni a Hivatalnak 5.3.2018 határidőig.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>A pályázati dokumentáció letölthető az I.3. pontban megadott címről. A weboldalt rendszeresen frissítik; az ajánlattevők felelősek azért, hogy a frissítéseket, módosításokat vagy a kérdésekre adott válaszokat a pályázati időszak során figyelemmel kísérjék.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Az érintett fél értesítésének, illetve ennek hiányában az eredmény ismertté válásának napjától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Sąjungos intelektinės nuosavybės tarnyba</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>IT programinės įrangos kokybės paslaugų teikimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šiuo kvietimu pateikti pasiūlymus siekiama gauti IT programinės įrangos kokybės paslaugas (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO patalpos (Avda. de Europa, 4 - 03008 Alicante) ir (arba) rangovo patalpos.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Rangovai užtikrins, kad programinės įrangos gyvavimo ciklo procesai ir produktai tenkins EUIPO reikalavimus, standartus ir procedūras, bus tinkamos kokybės ir bus pateikiami tinkamu laiku.</P>
+                  <P>Tikimasi, kad rangovas teiks šias paslaugas:</P>
+                  <P>– kokybės užtikrinimą;</P>
+                  <P>– kokybės kontrolę;</P>
+                  <P>– kokybės inžinerijos;</P>
+                  <P>– bendras paslaugas.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alikantė.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Kiekvienas konkurso dalyvis gali atsiųsti po du atstovus. Tarnybai el. paštu procurement@euipo.europa.eu turėtų būti nurodyti lankytojų vardai ir pavardės bei jų tapatybės dokumentų numeriai iki 2018 m. kovo 5 d.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Kvietimą pateikti pasiūlymus bus galima atsisiųsti I.3 dalyje nurodytu adresu. Svetainė bus periodiškai atnaujinama, todėl konkurso laikotarpiu konkurso dalyviai turėtų tikrinti jos atnaujinimus, pakeitimus ar atsakymus į klausimus.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai informuojama šalis, arba, jei pranešimas neparengiamas, nuo dienos, kai apie įstatymą tampa jai žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Savienības Intelektuālā īpašuma birojs</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>IT programmatūras kvalitātes pakalpojumu nodrošināšana</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā uzaicinājuma uz konkursu mērķis ir iegūt IT programmatūras kvalitātes pakalpojumus.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>EUIPO telpas (Avda. de Europa, 4 - 03008 Alicante) un/vai darbuzņēmēja telpas.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Darbuzņēmēji nodrošinās programmatūras dzīves cikla procesu un produktu atbilstību EUIPO prasībām, standartiem un procedūrām atbilstošā kvalitātē un ievērojot savlaicīguma aspektus.</P>
+                  <P>No darbuzņēmēja sagaidāmie pakalpojumi ir sadalīti šādi:</P>
+                  <P>- kvalitātes nodrošināšana,</P>
+                  <P>- kvalitātes kontrole,</P>
+                  <P>- inženiertehniskā kvalitāte,</P>
+                  <P>- vispārējie pakalpojumi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Katrs pretendents var nosūtīt ne vairāk kā 2 pārstāvjus. Līdz 5.3.2018 pa e-pastu procurement@euipo.europa.eu jāpaziņo birojam apmeklētāju vārds un personu apliecinoša dokumenta numurs.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Uzaicinājuma uz konkursu dokumenti būs pieejami lejupielādei I.3. iedaļā norādītajā adresē. Šī tīmekļa vietne tiks regulāri atjaunināta, un pretendentu pienākums konkursa norises laikā ir sekot līdzi precizējumiem, izmaiņām un atbildēm uz jautājumiem.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no attiecīgās personas informēšanas dienas vai, ja tā nav notikusi, no dienas, kad tā uzzinājusi attiecīgo informāciju.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Uffiċċju tal-Proprjetà Intellettwali tal-Unjoni Ewropea</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista ta' servizzi ta' softwer tat-TI ta' kwalità</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-għan ta' din is-sejħa għall-offerti hu li tinkiseb provvista ta' servizzi ta' softwer tat-TI ta' kwalità (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Il-bini ta' EUIPO (Avda. de Europa, 4 - 03008 Alicante) u/jew il-bini tal-kuntrattur.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-Kuntratturi se jiżguraw li l-proċessi taċ-ċiklu tal-ħajja tas-softwer u l-prodotti huma konformi mar-rekwiżiti, l-istandards u l-proċeduri tal-EUIPO, skont il-kwalità xierqa u fir-rispett tal-aspetti tal-iskadenzi.</P>
+                  <P>Is-servizzi li huma mistennija li jkunu pprovduti mill-Kuntrattur huma maqsuma kif ġej:</P>
+                  <P>- L-assigurazzjoni tal-kwalità.</P>
+                  <P>- Il-kontroll tal-kwalità.</P>
+                  <P>- L-inġinerija ta' kwalità.</P>
+                  <P>- Servizzi ġenerali.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Kull min jitfa' offerta jista' jibgħat sa żewġ (2) rappreżentanti. L-Uffiċċju għandu jkun mgħarraf permezz ta' Email fl-indirizz: procurement@euipo.europa.eu bl-ismijiet u n-numri tad-dokumenti tal-identità tal-viżitaturi qabel il-05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Id-dokumenti tal-istedina għall-offerti se jkunu disponibbli għat-tniżżil fl-indirizz indikat fil-punt I.3. Is-sit tal-Internet se jkun aġġornat minn żmien għal żmien u hija r-responsabbiltà ta' dawk li jitfgħu l-offerti li jiċċekkjaw għal aġġornamenti, emendi jew tweġibiet għal mistoqsijiet matul il-perijodu għat-tfigħ tal-offerti.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mid-data li fiha tkun avżata l-parti li għandha x'taqsam jew, fin-nuqqas ta' dan, mid-data li fiha saru jafu bl-att li għandu x'jaqsam.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urząd Unii Europejskiej ds. Własności Intelektualnej (EUIPO)</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Świadczenie usług w zakresie jakości oprogramowania informatycznego</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zakres niniejszego zaproszenia do składania ofert obejmuje świadczenie usług w zakresie jakości oprogramowania informatycznego.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>siedziba EUIPO (Avda. de Europa, 4 - 03008 Alicante) i/lub siedziba wykonawcy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wykonawca zagwarantuje, że procesy i produkty w cyklu życia oprogramowania są zgodne z wymogami, standardami i procedurami EUIPO, przy zachowaniu odpowiedniej jakości i terminowości.</P>
+                  <P>Usługi, których realizacji oczekuje się od Wykonawcy, rozkładają się następująco:</P>
+                  <P>- zapewnienie jakości,</P>
+                  <P>- kontrola jakości,</P>
+                  <P>- inżynieria jakości,</P>
+                  <P>- usługi ogólne.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Każdy oferent może oddelegować maksymalnie 2 przedstawicieli. Nazwiska i numery dowodów tożsamości przedstawicieli należy przesłać do Urzędu pocztą elektroniczną (procurement@euipo.europa.eu) do 5.3.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Dokumentacja przetargowa zostanie udostępniona do pobrania pod adresem podanym w pkt I.3. Strona internetowa będzie okresowo aktualizowana i oferenci zobowiązani są do sprawdzania aktualizacji, zmian lub odpowiedzi na pytania podczas okresu składania ofert.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>w ciągu 2 miesięcy od powiadomienia zainteresowanej strony lub, w przypadku braku powiadomienia, od powzięcia wiadomości o danym akcie.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úrad Európskej únie pre duševné vlastníctvo (EUIPO)</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytovanie kvalitných služieb v oblasti softvéru IT</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Rozsah tejto výzvy na predkladanie ponúk tvorí zabezpečenie poskytovania kvalitných služieb v oblasti softvéru IT.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Priestory EUIPO (Avda. de Europa, 4 – 03008 Alicante) a/alebo priestory dodávateľa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávatelia zabezpečia, aby procesy a produkty životného cyklu softvéru boli v súlade s požiadavkami EUIPO, s normami a s postupmi, aby dosahovali príslušnú kvalitu a rešpektovali hľadisko včasnosti.</P>
+                  <P>Služby, ktoré má dodávateľ poskytnúť, sú rozdelené takto:</P>
+                  <P>– zaistenie kvality,</P>
+                  <P>– kontrola kvality,</P>
+                  <P>– inžiniering kvality,</P>
+                  <P>– všeobecné služby.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 – 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Každý uchádzač môže poslať najviac 2 zástupcov. Úradu je potrebné oznámiť mená a čísla dokladov totožnosti návštevníkov e-mailom na adresu procurement@euipo.europa.eu do 5.3.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Súťažné podklady budú dostupné na prevzatie na adrese uvedenej v bode I.3. Webová stránka bude pravidelne aktualizovaná a je zodpovednosťou uchádzačov, aby počas výberového konania pravidelne sledovali jej aktualizácie, úpravy alebo odpovede na otázky.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od dátumu vyrozumenia dotyčnej strany alebo v prípade, že nie je k dispozícii, odo dňa, kedy sa daný fakt stal známym.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urad Evropske unije za intelektualno lastnino</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Storitve zagotavljanja kakovosti programske opreme IT</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Namen tega javnega razpisa je pridobiti storitve zagotavljanja kakovosti programske opreme IT.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Prostori EUIPO (Avda. de Europa 4, 03008 Alicante, Španija) in/ali prostori izvajalca.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Izvajalci bodo zagotovili, da procesi in proizvodi življenjskega cikla programske opreme ustrezajo zahtevam EUIPO ter standardom in postopkom, da so primerne kakovosti in upoštevajo vidike pravočasnosti.</P>
+                  <P>Storitve, ki jih bo moral zagotoviti izvajalec, se delijo na naslednje elemente:</P>
+                  <P>— zagotavljanje kakovosti,</P>
+                  <P>— nadzor kakovosti,</P>
+                  <P>— inženiring kakovosti,</P>
+                  <P>— splošne storitve.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa 4, 03008 Alicante, Španija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vsak ponudnik lahko pošlje največ 2 zastopnika. Imena in številke osebnih dokumentov obiskovalcev je treba Uradu sporočiti po e-pošti na procurement@euipo.europa.eu do 5.3.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Razpisna dokumentacija bo na voljo za prenos na naslovu, navedenem v točki I.3. Spletno mesto se bo redno posodabljalo, za preverjanje posodobitev, sprememb ali odgovorov na vprašanja v razpisnem obdobju pa so odgovorni ponudniki.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od datuma, na katerega je bila zadevna stranka obveščena, oziroma, če tega ni bilo, od datuma, ko je izvedela za zadevno dejanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oifig Maoine Intleachtúla an Aontais Eorpaigh</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar seirbhísí cáilíochta bogearraí TF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is éard atá i gceist le raon feidhme an ghlao reatha ar thairiscintí soláthar seirbhísí a fháil le haghaidh seirbhísí cáilíochta bogearraí TF (ITSQS - IT Software Quality Services).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Áitreabh EUIPO (Avda. de Europa, 4 - 03008 Alicante) agus/nó áitreabh an chonraitheora.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is iad na Conraitheoirí a áiritheoidh go gcloíonn na próisis agus táirgí um shaolré bogearraí le riachtanais EUIPO, le caighdeáin agus le nósanna imeachta, ag an gcáilíocht iomchuí agus urraim á léiriú do ghnéithe na tráthúlachta.</P>
+                  <P>Miondealaítear mar seo a leanas na seirbhísí a bhfuiltear ag dúil go seachadfaidh an Conraitheoir iad:</P>
+                  <P>- Dearbhú cáilíochta.</P>
+                  <P>- Rialú cáilíochta.</P>
+                  <P>- Innealtóireacht cáilíochta.</P>
+                  <P>- Seirbhísí ginearálta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Is féidir le gach tairgeoir suas le beirt ionadaithe a sheoladh chuige. Ba cheart an Oifig a chur ar an eolas i ríomhphost chuig procurement@euipo.europa.eu maidir le hainmneacha agus uimhreacha dhoiciméid aitheantais na gcuairteoirí roimh 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Beidh doiciméid an chuiridh chun tairisceana ar fáil lena n-íoslódáil ag an seoladh atá tugtha i bpointe I.3. Nuashonrófar an láithreán gréasáin ó am go chéile agus is faoi na tairgeoirí chun seiceáil i gcomhair nuashonruithe, leasuithe nó freagraí ar cheisteanna i rith na tréimhse tairisceana.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra a bheith curtha in iúl don pháirtí lena mbaineann, nó dá éagmais sin, ón dáta a fuair siad eolas ar an ngníomh atá i gceist.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Служба на Европейския съюз за интелектуална собственост (EUIPO)</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Предоставяне на услуги по качеството на ИТ софтуера</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Обхватът на настоящата покана за участие в търг включва осигуряването на услуги по качеството на ИТ софтуера (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Помещенията на EUIPO (Avda. de Europa, 4 - 03008 Alicante) и/или помещенията на изпълнителя.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Изпълнителите ще гарантират, че процесите от жизнения цикъл на софтуера и продуктите отговарят на изискванията на EUIPO, на стандартите и на процедурите, със съответното качество и при спазване на сроковете.</P>
+                  <P>Услугите, които изпълнителят се очаква да предоставя, са разделени както следва:</P>
+                  <P>— гарантиране на качеството,</P>
+                  <P>— контрол на качеството,</P>
+                  <P>-— проектиране на качеството,</P>
+                  <P>— общи услуги.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Всеки оферент може да изпрати до 2-ма представители. Службата трябва да бъде информирана по електронна поща на procurement@euipo.europa.eu за имената и номерата на документите за самоличност на посетителите преди 5.3.2018 г.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Документите по поканата за участие в търг ще бъдат налични за изтегляне на адреса, посочен в точка I.3. Интернет страницата ще се обновява периодично и е отговорност на оферентите да проверяват за нови актуализации, изменения или отговори на въпроси по време на тръжния период.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от датата, на която съответната страна е уведомена, или, в случай че това не е направено, от датата, на която съответното действие е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oficiul Uniunii Europene pentru Proprietate Intelectuală</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizare de servicii de calitate IT pentru software</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectul acestei licitații este de a obține prestarea de servicii de calitate IT pentru software (ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Sediul EUIPO (Avda. de Europa, 4 - 03008 Alicante) și/sau sediul contractantului.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Contractorii se vor asigura că procesele și produsele ciclului de viață al software-ului sunt conforme cerințelor EUIPO, standardelor și procedurilor, la calitatea adecvată și respectând termenele de punctualitatea.</P>
+                  <P>Serviciile care se preconizează a fi livrate de către contractant sunt defalcate după cum urmează:</P>
+                  <P>- Asigurarea calității.</P>
+                  <P>- Controlul calității.</P>
+                  <P>- Ingineria calității</P>
+                  <P>- Servicii generale.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Fiecare ofertant poate trimite maximum 2 reprezentanți. Oficiul trebuie să fie informat prin e-mail la adresa procurement@euipo.europa.eu cu privire la numele și la numerele actelor de identitate ale vizitatorilor, înainte de 05/03/2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Documentele licitației vor fi disponibile pentru descărcare la adresa indicată la punctul I.3. Site-ul va fi actualizat periodic și este responsabilitatea ofertanților să verifice eventualele actualizări, modificări sau răspunsuri la întrebări pe parcursul perioadei de licitație.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea părții în cauză sau, în lipsa acesteia, de la data la care aceasta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ured Europske unije za intelektualno vlasništvo</OFFICIALNAME>
+               <NATIONALID>V-03965324</NATIONALID>
+               <ADDRESS>Avenida de Europa, 4</ADDRESS>
+               <TOWN>Alicante</TOWN>
+               <POSTAL_CODE>03008</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <E_MAIL>procurement@euipo.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ES521"/>
+               <URL_GENERAL>https://euipo.europa.eu/ohimportal/en/public-procurement</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3176</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pružanje usluga osiguranja kvalitete IT softvera</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO/021/17</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Opseg je ovog poziva na nadmetanje nabava pružanje usluga osiguranja kvalitete IT softvera (IT software quality services – ITSQS).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">16000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ES521"/>
+               <MAIN_SITE>
+                  <P>Prostorije Ureda Europske unije za intelektualno vlasništvo (EUIPO) (Avda. de Europa, 4 - 03008 Alicante) i/Ili prostorije izvoditelja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Izvoditelji će se pobrinuti da procesi i proizvodi životnog ciklusa softvera budu u skladu sa zahtjevima EUIPO-a, normama i postupcima, u pogledu odgovarajuće kvalitete i uz poštivanje pravovremenosti.</P>
+                  <P>Od izvoditelja se očekuje isporuka sljedećih usluga:</P>
+                  <P>– osiguranje kvalitete,</P>
+                  <P>– kontrola kvalitete,</P>
+                  <P>– inženjering kvalitete,</P>
+                  <P>– opće usluge.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">16000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>13:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-07</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avenida de Europa, 4 - 03008 Alicante.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Svaki ponuditelj može poslati do 2 predstavnika. Uredu je potrebno dostaviti imena i broj identifikacijske isprave posjetitelja e-poštom na procurement@euipo.europa.eu do 5.3.2018.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <INFO_ADD>
+               <P>Dokumentacija poziva na nadmetanje bit će dostupna za preuzimanje na adresi navedenoj u točki I.3. Internetska se stranica redovito ažurira, a odgovornost je ponuditelja redovito provjeravati nove sadržaje, izmjene ili odgovore na pitanja tijekom trajanja nadmetanja.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxemburgo</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od dana na koji je predmetna strana primila obavijest ili, u slučaju izostanka obavijesti, od dana kad je saznala za dotične okolnosti.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

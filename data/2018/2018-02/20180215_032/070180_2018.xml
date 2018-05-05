@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="070180-2018"
+            EDITION="2018032">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-071048-001</RECEPTION_ID>
+      <DELETION_DATE>20180524</DELETION_DATE>
+      <FORM_LG_LIST>ES </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>32</NO_OJ>
+         <DATE_PUB>20180215</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 032-070180</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:070180-2018:TEXT:ES:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>ES</LG_ORIG>
+         <ISO_COUNTRY VALUE="ES"/>
+         <IA_URL_GENERAL>http://www.agenciamedioambienteyagua.es</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="71620000">Analysis services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ES61">Andalucía</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ES61">Andalucía</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="ES620">Murcia</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ES61">Andalucía</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ES521">Alicante/Alacant</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ES522">Castellón/Castelló</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">123891.96</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 138-284331</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180213</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="E">Environment</MA_MAIN_ACTIVITIES>
+         <HEADING>01C03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Иcпaния</TI_CY>
+            <TI_TOWN>Севиля</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги, свързани с анализи</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Španělsko</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analytické služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analyse</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ισπανία</TI_CY>
+            <TI_TOWN>Σεβίλη</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες αναλύσεων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Spain</TI_CY>
+            <TI_TOWN>Seville</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysis services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>España</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de análisis</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Hispaania</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analüüsiteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Espanja</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysointipalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Espagne</TI_CY>
+            <TI_TOWN>Séville</TI_TOWN>
+            <TI_TEXT>
+               <P>Services d'analyses</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Spáinn, an</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysis services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Španjolska</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge analize</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Spanyolország</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Elemzési szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Spagna</TI_CY>
+            <TI_TOWN>Siviglia</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di analisi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Ispanija</TI_CY>
+            <TI_TOWN>Sevilija</TI_TOWN>
+            <TI_TEXT>
+               <P>Analizės paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Spānija</TI_CY>
+            <TI_TOWN>Seviļa</TI_TOWN>
+            <TI_TEXT>
+               <P>Analīzes pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>Spanja</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ta' l-analiżi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Spanje</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysediensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Hiszpania</TI_CY>
+            <TI_TOWN>Sewilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi analizy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Espanha</TI_CY>
+            <TI_TOWN>Sevilha</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de análise</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Spania</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de analiză</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Španielsko</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analytické služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Španija</TI_CY>
+            <TI_TOWN>Sevilja</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve analiz</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Spanien</TI_CY>
+            <TI_TOWN>Sevilla</TI_TOWN>
+            <TI_TEXT>
+               <P>Analystjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="ES">Agencia de Medio Ambiente y Agua de Andalucía</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia de Medio Ambiente y Agua de Andalucía</OFFICIALNAME>
+               <ADDRESS>C/ Johan G. Gutenberg, 1. Isla de la Cartuja</ADDRESS>
+               <TOWN>Sevilla</TOWN>
+               <POSTAL_CODE>41092</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <PHONE>+34 955260000</PHONE>
+               <E_MAIL>gema.rodriguez@juntadeandalucia.es</E_MAIL>
+               <FAX>+34 955044610</FAX>
+               <n2016:NUTS CODE="ES61"/>
+               <URL_GENERAL>http://www.agenciamedioambienteyagua.es</URL_GENERAL>
+               <URL_BUYER>http://contratacion.chap.junta-andalucia.es/contratacion</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE_OTHER>Agencia pública</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="ENVIRONMENT"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>NET671689: Servicio de apoyo analítico a laboratorios</P>
+            </TITLE>
+            <REFERENCE_NUMBER>NET671689</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="71620000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>NET671689: Servicio de apoyo analítico a laboratorios.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">123891.96</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Análisis serológico de patógenos en felino</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis serológico de patógenos en felino.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Análisis por PCR de patógenos en felino</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis por PCR de patógenos en felino.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Análisis de metales en muestras de origen biológico</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis de metales en muestras de origen biológico.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Análisis de antimicrobianos, antiinflamatorios y otros compuestos en muestras de origen biológico</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis de antimicrobianos, antiinflamatorios y otros compuestos en muestras de origen biológico.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Análisis de plaguicidas, rodenticidas, estricnina en muestras de origen biológico</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis de plaguicidas, rodenticidas, estricnina en muestras de origen biológico.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Análisis de HAP en soportes de muestreo</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis de HAP en soportes de muestreo.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Análisis fisicoquímicos y microbiológicos en muestras de aguas</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Análisis fisicoquímicos y microbiológicos en muestras de aguas.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Interpretación de lesiones histológicas y diagnóstico de patologías y causa de muerte</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Interpretación de lesiones histológicas y diagnóstico de patologías y causa de muerte.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Estudios radiográficos en cadáveres</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Estudios radiográficos en cadáveres.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Estudios morbillivirus en tejido mediante inmunohistoquímica</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Estudios morbillivirus en tejido mediante inmunohistoquímica.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>HCL UNE-EN 1911:2011 y HF UNE-ISO 15713:2007</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>HCL UNE-EN 1911:2011 y HF UNE-ISO 15713:2007.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Cloruros y fluoruros por EPA 26A</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Cloruros y fluoruros por EPA 26A.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>H2S por EPA 11</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>H2S por EPA 11.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>Dioxinas y furanos por norma UNE-EN 1498:2007</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>Dioxinas y furanos por norma UNE-EN 1498:2007.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="15">
+               <TITLE>
+                  <P>COV's por UNE-EN 13649:2002 y otros métodos</P>
+               </TITLE>
+               <LOT_NO>15</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>COV's por UNE-EN 13649:2002 y otros métodos.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="16">
+               <TITLE>
+                  <P>COV's y otros parámetros en aire ambiente</P>
+               </TITLE>
+               <LOT_NO>16</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71620000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ES61"/>
+               <SHORT_DESCR>
+                  <P>COV's y otros parámetros en aire ambiente.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>Prórroga.</P>
+               </OPTIONS_DESCR>
+               <EU_PROGR_RELATED>Programa Operativo. Fondo FEDER - 80 %</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 138-284331</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Análisis serológico de patógenos en felino</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">8438.20</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">3170.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <CONTRACT_NO>2</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Análisis por PCR de patógenos en felino</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">8773.96</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">4004.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="3">
+            <CONTRACT_NO>3</CONTRACT_NO>
+            <LOT_NO>3</LOT_NO>
+            <TITLE>
+               <P>Análisis de metales en muestras de origen biológico</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Laboratorio Analítico Bioclínico, S. L. U.</OFFICIALNAME>
+                     <TOWN>Almería</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES61"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">11234.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1905.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="4">
+            <CONTRACT_NO>4</CONTRACT_NO>
+            <LOT_NO>4</LOT_NO>
+            <TITLE>
+               <P>Análisis de antimicrobianos, antiinflamatorios y otros compuestos en muestras de origen biológico</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="5">
+            <CONTRACT_NO>5</CONTRACT_NO>
+            <LOT_NO>5</LOT_NO>
+            <TITLE>
+               <P>Análisis de plaguicidas, rodenticidas, estricnina en muestras de origen biológico</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">44810.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">20000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="6">
+            <CONTRACT_NO>6</CONTRACT_NO>
+            <LOT_NO>6</LOT_NO>
+            <TITLE>
+               <P>Análisis de HAP en soportes de muestreo</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Labaqua, S. A.</OFFICIALNAME>
+                     <TOWN>Alicante</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES521"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">32960.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">13035.68</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="7">
+            <CONTRACT_NO>7</CONTRACT_NO>
+            <LOT_NO>7</LOT_NO>
+            <TITLE>
+               <P>Análisis fisicoquímicos y microbiológicos en muestras de aguas</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_DISCONTINUED/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="8">
+            <CONTRACT_NO>8</CONTRACT_NO>
+            <LOT_NO>8</LOT_NO>
+            <TITLE>
+               <P>Interpretación de lesiones histológicas y diagnóstico de patologías y causa de muerte</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">10950.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">4125.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="9">
+            <CONTRACT_NO>9</CONTRACT_NO>
+            <LOT_NO>9</LOT_NO>
+            <TITLE>
+               <P>Estudios radiográficos en cadáveres</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">10500.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">4600.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="10">
+            <CONTRACT_NO>10</CONTRACT_NO>
+            <LOT_NO>10</LOT_NO>
+            <TITLE>
+               <P>Estudios morbillivirus en tejido mediante inmunohistoquímica</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Orthem Servicios y Actuaciones Ambientales, S. A. U.</OFFICIALNAME>
+                     <TOWN>Murcia</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES620"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2500.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1150.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="11">
+            <CONTRACT_NO>11</CONTRACT_NO>
+            <LOT_NO>11</LOT_NO>
+            <TITLE>
+               <P>HCL UNE-EN 1911:2011 y HF UNE-ISO 15713:2007</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Labaqua, S. A.</OFFICIALNAME>
+                     <TOWN>Alicante</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES521"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3921.60</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1653.15</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="12">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>12</LOT_NO>
+            <TITLE>
+               <P>Cloruros y fluoruros por EPA 26A</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Investigación y Proyectos Medio Ambiente, S. L.</OFFICIALNAME>
+                     <TOWN>Castellón</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES522"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">14640.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">6583.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="13">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>13</LOT_NO>
+            <TITLE>
+               <P>H2S por EPA 11</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Labaqua, S. A.</OFFICIALNAME>
+                     <TOWN>Sevilla</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES521"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1584.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">640.08</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="14">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>14</LOT_NO>
+            <TITLE>
+               <P>Dioxinas y furanos por norma UNE-EN 1498:2007</P>
+            </TITLE>
+            <NO_AWARDED_CONTRACT>
+               <PROCUREMENT_UNSUCCESSFUL/>
+            </NO_AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="15">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>15</LOT_NO>
+            <TITLE>
+               <P>COV's por UNE-EN 13649:2002 y otros métodos</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-10</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Labaqua, S. A.</OFFICIALNAME>
+                     <TOWN>Alicante</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES521"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">4200.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1870.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="16">
+            <CONTRACT_NO>NET671689</CONTRACT_NO>
+            <LOT_NO>16</LOT_NO>
+            <TITLE>
+               <P>COV's y otros parámetros en aire ambiente</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-01-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Investigación y Proyectos Medio Ambiente, S. L.</OFFICIALNAME>
+                     <TOWN>Castellón</TOWN>
+                     <COUNTRY VALUE="ES"/>
+                     <n2016:NUTS CODE="ES522"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">19822.20</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">9907.10</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Administrativo de Recursos Contractuales de la Junta de Andalucía</OFFICIALNAME>
+               <ADDRESS>C/ Inca Garcilaso, 3, edificio Expo. Isla de la Cartuja</ADDRESS>
+               <TOWN>Sevilla</TOWN>
+               <POSTAL_CODE>41092</POSTAL_CODE>
+               <COUNTRY VALUE="ES"/>
+               <PHONE>+94 671530856</PHONE>
+               <E_MAIL>tribunaladministrativo.contratos@juntadeandalucia.es</E_MAIL>
+               <FAX>+94 955515041</FAX>
+               <URL>http://www.ceh.junta-andalucia.es/contratacion/tribunal_adm/tribunal.htm</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>El procedimiento de recurso se iniciará mediante escrito que deberá presentarse en el plazo de quince días hábiles contados a partir del siguiente a aquel en que se remita la notificación del acto impugnado, de conformidad con lo dispuesto en el artículo 151.4. (artículo 44 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-02-13</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

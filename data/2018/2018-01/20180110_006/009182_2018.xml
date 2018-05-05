@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="009182-2018"
+            EDITION="2018006">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-008779-001</RECEPTION_ID>
+      <DELETION_DATE>20180128</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>6</NO_OJ>
+         <DATE_PUB>20180110</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 006-009182</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:009182-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>www.zeromski-szpital.pl</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="33600000">Pharmaceutical products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15511700">Milk powder</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL213">Miasto Kraków</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL213">Miasto Kraków</n2016:CA_CE_NUTS>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 238-493665</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180108</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180124 09:30</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="2">Additional information</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B14</HEADING>
+         <INITIATOR>01</INITIATOR>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Краков</TI_TOWN>
+            <TI_TEXT>
+               <P>Фармацевтични продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Krakov</TI_TOWN>
+            <TI_TEXT>
+               <P>Léčivé přípravky a zdravotnické prostředky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Krakow</TI_TOWN>
+            <TI_TEXT>
+               <P>Lægemidler</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Krakau</TI_TOWN>
+            <TI_TEXT>
+               <P>Arzneimittel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Κρακοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Φαρμακευτικά προϊόντα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Krakow</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Cracovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Productos farmacéuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Kraków</TI_TOWN>
+            <TI_TEXT>
+               <P>Ravimid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Krakova</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaseuttiset tuotteet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Cracovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Produits pharmaceutiques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Kraków</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Krakov</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Krakkó</TI_TOWN>
+            <TI_TEXT>
+               <P>Gyógyszerészeti termékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Cracovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaceutici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Krokuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacijos produktai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Krakova</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmācijas izstrādājumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Krakovja</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaċewtiċi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Krakau</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutische producten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Kraków</TI_TOWN>
+            <TI_TEXT>
+               <P>Produkty farmaceutyczne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Cracóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produtos farmacêuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Cracovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Produse farmaceutice</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Krakov</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutické výrobky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Krakov</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacevtski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Kraków</TI_TOWN>
+            <TI_TEXT>
+               <P>Läkemedel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Szpital Specjalistyczny im. Stefana Żeromskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krakowie, os. Na Skarpie 66, 31-913 Kraków</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F14_2014 CATEGORY="ORIGINAL" FORM="F14" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Szpital Specjalistyczny im. Stefana Żeromskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krakowie, os. Na Skarpie 66, 31-913 Kraków</OFFICIALNAME>
+               <NATIONALID>ZP 39/2017</NATIONALID>
+               <ADDRESS>os. Na Skarpie 66</ADDRESS>
+               <TOWN>Kraków</TOWN>
+               <POSTAL_CODE>31-913</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Urszula Gawin</CONTACT_POINT>
+               <PHONE>+48 126229487</PHONE>
+               <E_MAIL>zpubl@zeromski-szpital.pl</E_MAIL>
+               <FAX>+48 126444756</FAX>
+               <n2016:NUTS CODE="PL213"/>
+               <URL_GENERAL>www.zeromski-szpital.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa leków</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ZP 52/2017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>1. Przedmiotem zamówienia jest dostawa produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego (grupa 37 i 102), wyrobów medycznych (grupa 32, 47),</P>
+               <P>Zgodnie z opisem zawartym w załączniku nr 5 do SIWZ</P>
+               <P>Minimalny okres przydatności do użycia oferowanego produktu leczniczego, wyrobu medycznego oraz środka spożywczego specjalnego przeznaczenia żywieniowego powinien wynosić minimum 12 miesięcy od daty dostawy.</P>
+               <P>Zamawiający zastrzega sobie prawo zamówienia mniejszej niż określone powyżej ilości produktów leczniczych w przypadku zmniejszenia się jego zapotrzebowania, z tym że Zamawiający zakupi minimum 60 % ilości produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-08</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 238-493665</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.1.4</SECTION>
+                  <LABEL>Krótki opis</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1.. Przedmiotem zamówienia jest dostawa produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego (grupa 37 i 102), wyrobów medycznych (grupa 32, 47),</P>
+                     <P>Zgodnie z opisem zawartym w załączniku nr 5 do SIWZ.</P>
+                     <P>Minimalny okres przydatności do użycia oferowanego produktu leczniczego, wyrobu medycznego oraz środka spożywczego specjalnego przeznaczenia żywieniowego powinien wynosić minimum 12 miesięcy od daty dostawy.</P>
+                     <P>Zamawiający zastrzega sobie prawo zamówienia mniejszej niż określone powyżej ilości produktów leczniczych w przypadku zmniejszenia się jego zapotrzebowania, z tym że Zamawiający zakupi minimum 60 % ilości produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1. Przedmiotem zamówienia jest dostawa produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego (grupa 37 i 102), wyrobów medycznych (grupa 32, 47), zgodnie z opisem zawartym w załączniku nr 5 do SIWZ.</P>
+                     <P>Minimalny okres przydatności do użycia oferowanego produktu leczniczego, wyrobu medycznego powinien wynosić minimum 12 miesięcy od daty dostawy, natomiast minimalny okres przydatności do użycia oferowanego środka spożywczego specjalnego przeznaczenia żywieniowego powinien wynosić minimum 6 miesięcy od daty dostawy.</P>
+                     <P>Zamawiający zastrzega sobie prawo zamówienia mniejszej niż określone powyżej ilości produktów leczniczych w przypadku zmniejszenia się jego zapotrzebowania, z tym że Zamawiający zakupi minimum 60 % ilości produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>17</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Antazolini mesylas 100mg/2ml inj.amp. 800</P>
+                     <P>2 Baclofenum 10mg tabl. 900</P>
+                     <P>3 Biperiden hydrochloride 2mg tabl. 100</P>
+                     <P>4 Biperiden lactate 5mg/ml amp 6</P>
+                     <P>5 Betahistine 24mg tabl. 1 400</P>
+                     <P>6 Carbamazepin 200mg tabl. 800</P>
+                     <P>7 Carbamazepine CR 200mg tabl. przed. I kontr. uwal. 1 000</P>
+                     <P>8 Carbamazepine CR 400mg tabl. przed. I kontr. uwal. 100</P>
+                     <P>9 Cerebrolysin 215,2mg/ml amp. 60</P>
+                     <P>10 Chlorpromazini hydrochloridum 0,025g/5ml amp. 360</P>
+                     <P>11 Diazepam 2mg tabl. 1 600</P>
+                     <P>12 Diazepam 5mg tabl. 7 500</P>
+                     <P>13 Doxepin 10mg kaps. 600</P>
+                     <P>14 Haloperydol 0,005g/ml amp. 2 800</P>
+                     <P>15 Haloperydol 1mg tabl. 19 200</P>
+                     <P>16 Hydroxyzinum 1mg/2ml amp. 3 000</P>
+                     <P>17 Hydroxyzinum 10mg tabl.powl. 16 400</P>
+                     <P>18 Hydroxyzinum 25mg tabl.powl. 50 000</P>
+                     <P>19 Levodopa,benserazide hydrochloride prep.złoż.125mg kaps. 1 600</P>
+                     <P>20 Levodopa,benserazide hydrochloride prep.złoz.125mg HBS kaps. 1 400</P>
+                     <P>21 Levodopa,benserazide hydrochloride prep.złoz.250mg tabl. 1 200</P>
+                     <P>22 Mianserin 10mg tabl.powl. 260</P>
+                     <P>23 Naloxonum hydrochloridum 0,4mg/ml amp. 1 400</P>
+                     <P>24 Neostigmini metilsulfas 0,5mg/1ml inj.amp. 3 800</P>
+                     <P>25 Oxcarbazepine 300mg tabl. 100</P>
+                     <P>26 Oxcarbazepine 600mg tabl. 100</P>
+                     <P>27 Sertralinum 50mg tabl. 1 400</P>
+                     <P>28 Suksamethonii chloridum 200mg fiol. 1 700</P>
+                     <P>29 Sulpiride 50mg kaps. 420</P>
+                     <P>30 Sulpiride 100mg kaps. 90</P>
+                     <P>31 Tolperisone 150mg tabl.powl. 1 500</P>
+                     <P>32 Quetiapine 25mg tabl.powl. 8 000</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Antazolini mesylas 100mg/2ml inj.amp. 800</P>
+                     <P>2 Baclofenum 10mg tabl. 900</P>
+                     <P>3 Biperiden hydrochloride 2mg tabl. 100</P>
+                     <P>4 Biperiden lactate 5mg/ml amp 6</P>
+                     <P>5 Betahistine 24mg tabl. 1 400</P>
+                     <P>6 Carbamazepin 200mg tabl. 800</P>
+                     <P>7 Carbamazepine CR 200mg tabl. przed. I kontr. uwal. 1 000</P>
+                     <P>8 Carbamazepine CR 400mg tabl. przed. I kontr. uwal. 100</P>
+                     <P>9 Cerebrolysin 215,2mg/ml amp. 60</P>
+                     <P>10 Chlorpromazini hydrochloridum 0,025g/5ml amp. 360</P>
+                     <P>11 Diazepam 2mg tabl. 1 600</P>
+                     <P>12 Diazepam 5mg tabl. 7 500</P>
+                     <P>13 Doxepin 10mg kaps. 600</P>
+                     <P>14 Haloperydol 0,005g/ml amp. 2 800</P>
+                     <P>15 Haloperydol 1mg tabl. 19 200</P>
+                     <P>17 Hydroxyzinum 10mg tabl.powl. 16 400</P>
+                     <P>18 Hydroxyzinum 25mg tabl.powl. 50 000</P>
+                     <P>19 Levodopa,benserazide hydrochloride prep.złoż.125mg kaps. 1 600</P>
+                     <P>20 Levodopa,benserazide hydrochloride prep.złoz.125mg HBS kaps. 1 400</P>
+                     <P>21 Levodopa,benserazide hydrochloride prep.złoz.250mg tabl. 1 200</P>
+                     <P>22 Mianserin 10mg tabl.powl. 260</P>
+                     <P>23 Naloxonum hydrochloridum 0,4mg/ml amp. 1 400</P>
+                     <P>24</P>
+                     <P>25 Oxcarbazepine 300mg tabl. 100</P>
+                     <P>26 Oxcarbazepine 600mg tabl. 100</P>
+                     <P>27 Sertralinum 50mg tabl. 1 400</P>
+                     <P>28 Suksamethonii chloridum 200mg fiol. 1 700</P>
+                     <P>29 Sulpiride 50mg kaps. 420</P>
+                     <P>30 Sulpiride 100mg kaps. 90</P>
+                     <P>31 Tolperisone 150mg tabl.powl. 1 500</P>
+                     <P>32 Quetiapine 25mg tabl.powl. 8 000</P>
+                     <P>Dla poz. 16 Hydroxyzinum 1mg/2ml amp. 3 000 tworzy się Grupę 17 a</P>
+                     <P>Dla poz. 24 Neostigmini metilsulfas 0,5mg/1ml inj.amp. 3 800 tworzy się Grupę 17 b</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>22</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Aciclovir 200mg tabl. 7200,00</P>
+                     <P>2 Aciclovir 800mg tabl. 3600,00</P>
+                     <P>3 Aciclovir 400mg tabl. 3600,00</P>
+                     <P>4 Amfotericin B 50mg fiol. 28,00</P>
+                     <P>5 Amfotericin B 100mg/20ml koncentrat dsp.zawiesiny do inf.fiol. 40,00</P>
+                     <P>6 Anidulafungin 100mg fiol. 40,00</P>
+                     <P>7 Azithromycin 500mg fiol. 500,00</P>
+                     <P>8 Azithromycin 100mg/5ml; zawiesina 20ml 20,00</P>
+                     <P>9 Azithromycin 200mg/5ml zawiesina 20ml 30,00</P>
+                     <P>10 Chloramphenicol 0,01 maść 5,0g 240,00</P>
+                     <P>11 Chloramphenicol 0,02 maść 5,0g 240,00</P>
+                     <P>12 Clarythromycin 125mg/5ml zawiesina,60ml 240,00</P>
+                     <P>13 Clarythromycin 500mg tabl.powl. 8400,00</P>
+                     <P>14 Clotrimazole 20,0g krem 960,00</P>
+                     <P>15 Dalbavalcin 500mg fiol. 12,00</P>
+                     <P>16 Doripenem 500mg fiol. 100,00</P>
+                     <P>17 Fluconazole 50 mg kaps. 4688,00</P>
+                     <P>18 Fluconazole 100mg kaps. 98,00</P>
+                     <P>19 Fluconazole 50mg/10ml syrop,150ml 12,00</P>
+                     <P>20 Ganciclovir 0,5g fiol. 240,00</P>
+                     <P>21 Metronidazol 500mg tabl.dopochwowe 960,00</P>
+                     <P>22 Metronidazol 250mg tabl. 310,00</P>
+                     <P>23 Nystatinum 100000 j.m. tabl.dopochwowe 1440,00</P>
+                     <P>24 Nystatinum 2,4mln j.m. zawiesina 5,0g 480,00</P>
+                     <P>25 Nystatinum 500 000 j.m. tabl.dojelitowe 1920,00</P>
+                     <P>26 Sulfametoksazol+trimetoprim 120mg tabl. 8,00</P>
+                     <P>27 Sulfametoksazol+trimetoprim 20mg/40mg/5ml zawiesina 100ml 192,00</P>
+                     <P>28 Sulfametoksazol+trimetoprim 480mg tabl. 4800,00</P>
+                     <P>29 Sulfametoksazol+trimetoprim 960mg tabl. 4800,00</P>
+                     <P>30 Sulfametoksazol+trimetoprim (80mg+16mg)/ml amp.5 ml 1400,00</P>
+                     <P>31 Sultamycillinum(ampicillin+ sulbactam) 1000mg+500mg fiol 125,00</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Aciclovir 200mg tabl. 7200,00</P>
+                     <P>2 Aciclovir 800mg tabl. 3600,00</P>
+                     <P>3 Aciclovir 400mg tabl. 3600,00</P>
+                     <P>4 Amfotericin B 50mg fiol. 28,00</P>
+                     <P>5 Amfotericin B 100mg/20ml koncentrat dsp.zawiesiny do inf.fiol. 40,00</P>
+                     <P>6 Anidulafungin 100mg fiol. 40,00</P>
+                     <P>7 Azithromycin 500mg fiol. 500,00</P>
+                     <P>8 Azithromycin 100mg/5ml; zawiesina 20ml 20,00</P>
+                     <P>9 Azithromycin 200mg/5ml zawiesina 20ml 30,00</P>
+                     <P>10 Chloramphenicol 0,01 maść 5,0g 240,00</P>
+                     <P>11 Chloramphenicol 0,02 maść 5,0g 240,00</P>
+                     <P>12 Clarythromycin 125mg/5ml zawiesina,60ml 240,00</P>
+                     <P>13 Clarythromycin 500mg tabl.powl. 8400,00</P>
+                     <P>14 Clotrimazole 20,0g krem 960,00</P>
+                     <P>15 Dalbavalcin 500mg fiol. 12,00</P>
+                     <P>16</P>
+                     <P>17 Fluconazole 50 mg kaps. 4688,00</P>
+                     <P>18 Fluconazole 100mg kaps. 98,00</P>
+                     <P>19 Fluconazole 50mg/10ml syrop,150ml 12,00</P>
+                     <P>20 Ganciclovir 0,5g fiol. 240,00</P>
+                     <P>21 Metronidazol 500mg tabl.dopochwowe 960,00</P>
+                     <P>22 Metronidazol 250mg tabl. 310,00</P>
+                     <P>23 Nystatinum 100000 j.m. tabl.dopochwowe 1440,00</P>
+                     <P>24 Nystatinum 2,4mln j.m. zawiesina 5,0g 480,00</P>
+                     <P>25 Nystatinum 500 000 j.m. tabl.dojelitowe 1920,00</P>
+                     <P>26 Sulfametoksazol+trimetoprim 120mg tabl. 8,00</P>
+                     <P>27 Sulfametoksazol+trimetoprim 20mg/40mg/5ml zawiesina 100ml 192,00</P>
+                     <P>28 Sulfametoksazol+trimetoprim 480mg tabl. 4800,00</P>
+                     <P>29 Sulfametoksazol+trimetoprim 960mg tabl. 4800,00</P>
+                     <P>30 Sulfametoksazol+trimetoprim (80mg+16mg)/ml amp.5 ml 1400,00</P>
+                     <P>31 Sultamycillinum(ampicillin+ sulbactam) 1000mg+500mg fiol 125,00</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>39</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Acarbozum 50mg tabl. 240</P>
+                     <P>2 Acarbozum 100mg tabl. 150</P>
+                     <P>3 Alfacalcidol 1mcg kaps.elast. 300</P>
+                     <P>4 Alfacalcidol 0,25mcg kaps.elast. 100</P>
+                     <P>5 Betamethasone sodium phosphate 0,004g/ml fiol. 2 400</P>
+                     <P>6 Bromocriptine 2,5mg tabl. 750</P>
+                     <P>7 Carbetocin 100mcg/ml R-ór do wstrzykiwań;amp. 140</P>
+                     <P>8 Cortineff 0,1mg tabl. 600</P>
+                     <P>9 Cholekalcyferolum 0,375mg(15000j.m.)/1ml; krople;fl.10ml 15</P>
+                     <P>10 Clobetasol propionate 0,05 % Maść 25 g 1 000</P>
+                     <P>11 Dinoprost tromethamine 5mg/ml amp. 300</P>
+                     <P>12 D-vitum;wit.D dla niemowląt 400jm. kaps. 27 000</P>
+                     <P>13 Dydrogesteronum 10mg tabl.powl. 4 800</P>
+                     <P>14 Estradiol 1mg tabl.powl. 280</P>
+                     <P>15 Estradiol 2mg tabl.powl. 280</P>
+                     <P>16 Fluticasone propionate 0,05mg/1g maść 15,0g 20</P>
+                     <P>17 Fluticasone propionate 0,5mg/1g krem 15,0g 10</P>
+                     <P>18 Glucagon hydrochloride 1mg fiol.+rozp.w strzyk. 10</P>
+                     <P>19 Levothyroxine sodium 125mcg tabl. 300</P>
+                     <P>20 Levothyroxine sodium 100mcg tabl. 4 200</P>
+                     <P>21 Levothyroxine sodium 88mcg tabl. 300</P>
+                     <P>22 Levothyroxine sodium 50mcg tabl. 5 800</P>
+                     <P>23 Levothyroxine sodium 25mcg tabl. 11 000</P>
+                     <P>24 Linagliptinum 5mg tabl.powl. 220</P>
+                     <P>25 Methylprednisolonum 40mg proszek+rozpuszczalnik dsp.r-ru do inj.fiol.dwukomorowa +rozp.1ml 2 500</P>
+                     <P>26 Methylprednisolonum 250mg proszek+rozpuszczalnik dsp.r-ru do inj. 30</P>
+                     <P>27 Methylprednisolonum 1000mg proszek+rozpuszczalnik dsp.r-ru do inj.fiol.dwukomorowa +rozp.16ml 500</P>
+                     <P>28 Oxytocinum 5j.m./ml inj.amp. 10 600</P>
+                     <P>29 Povidone iodine 0,1g/1,0g maść 20 g 800</P>
+                     <P>30 Prednisonum 1mg tabl. 160</P>
+                     <P>31 Prednisonum 20mg tabl. 2 100</P>
+                     <P>32 Prednisonum 25mg proszek +rozp. Dsp.r-ru do inj.i infuzji 36</P>
+                     <P>33 Progesteronum 50mg tabl.dopochwowe 4 200</P>
+                     <P>34 Progesteronum 50mg tabl.podjęzykowe 650</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Acarbozum 50mg tabl. 240</P>
+                     <P>2 Acarbozum 100mg tabl. 150</P>
+                     <P>3 Alfacalcidol 1mcg kaps.elast. 300</P>
+                     <P>4 Alfacalcidol 0,25mcg kaps.elast. 100</P>
+                     <P>5</P>
+                     <P>6 Bromocriptine 2,5mg tabl. 750</P>
+                     <P>7 Carbetocin 100mcg/ml R-ór do wstrzykiwań;amp. 140</P>
+                     <P>8 Cortineff 0,1mg tabl. 600</P>
+                     <P>9 Cholekalcyferolum 0,375mg(15000j.m.)/1ml; krople;fl.10ml 15</P>
+                     <P>10 Clobetasol propionate 0,05 % Maść 25 g 1 000</P>
+                     <P>11 Dinoprost tromethamine 5mg/ml amp. 300</P>
+                     <P>12 D-vitum;wit.D dla niemowląt 400jm. kaps. 27 000</P>
+                     <P>13 Dydrogesteronum 10mg tabl.powl. 4 800</P>
+                     <P>14 Estradiol 1mg tabl.powl. 280</P>
+                     <P>15 Estradiol 2mg tabl.powl. 280</P>
+                     <P>16 Fluticasone propionate 0,05mg/1g maść 15,0g 20</P>
+                     <P>17 Fluticasone propionate 0,5mg/1g krem 15,0g 10</P>
+                     <P>18 Glucagon hydrochloride 1mg fiol.+rozp.w strzyk. 10</P>
+                     <P>19 Levothyroxine sodium 125mcg tabl. 300</P>
+                     <P>20 Levothyroxine sodium 100mcg tabl. 4 200</P>
+                     <P>21 Levothyroxine sodium 88mcg tabl. 300</P>
+                     <P>22 Levothyroxine sodium 50mcg tabl. 5 800</P>
+                     <P>23 Levothyroxine sodium 25mcg tabl. 11 000</P>
+                     <P>24 Linagliptinum 5mg tabl.powl. 220</P>
+                     <P>25 Methylprednisolonum 40mg proszek+rozpuszczalnik dsp.r-ru do inj.fiol.dwukomorowa +rozp.1ml 2 500</P>
+                     <P>26 Methylprednisolonum 250mg proszek+rozpuszczalnik dsp.r-ru do inj. 30</P>
+                     <P>27 Methylprednisolonum 1000mg proszek+rozpuszczalnik dsp.r-ru do inj.fiol.dwukomorowa +rozp.16ml 500</P>
+                     <P>28 Oxytocinum 5j.m./ml inj.amp. 10 600</P>
+                     <P>29 Povidone iodine 0,1g/1,0g maść 20 g 800</P>
+                     <P>30 Prednisonum 1mg tabl. 160</P>
+                     <P>31 Prednisonum 20mg tabl. 2 100</P>
+                     <P>32 Prednisonum 25mg proszek +rozp. Dsp.r-ru do inj.i infuzji 36</P>
+                     <P>33 Progesteronum 50mg tabl.dopochwowe 4 200</P>
+                     <P>34 Progesteronum 50mg tabl.podjęzykowe 650</P>
+                     <P>Dla poz. 5 Betamethasone sodium phosphate 0,004g/ml fiol. 2 400 tworzy się Grupę 39a</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>40</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Desflurane 240 ml płyn,flakon 120</P>
+                     <P>2 Theophyllinum 300mg/250ml flakon,poliet. 2 600</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Desflurane 240 ml płyn,flakon 120</P>
+                     <P>2</P>
+                     <P>Dla poz. 2 Theophyllinum 300mg/250ml flakon,poliet. 2 600 tworzy się grupę 40a</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>42</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Adenosine 0,006g/2ml fiol. 300</P>
+                     <P>2 Acidum tranexamicum 500mg/5ml amp. 4400</P>
+                     <P>3 Amiodaroni hydrochloridum 0,15g/3ml amp. 5400</P>
+                     <P>4 Amiodaroni hydrochloridum 200mg tabl. 3360</P>
+                     <P>5 Clorazepate dipotassium 5 mg tabl. 2700</P>
+                     <P>6 Clorazepate dipotassium 10 mg tabl. 660</P>
+                     <P>7 Drotaverinum 20mg/ml amp. 13200</P>
+                     <P>8 Drotaverinum 40mg tabl. 1880</P>
+                     <P>9 Enoxaparinum natricum 0,02g/0,2ml amp.strzyk. 1000</P>
+                     <P>10 Enoxaparinum natricum 0,04g/0,4ml amp.strzyk. 44000</P>
+                     <P>11 Ibandronic acid 3mg/3ml amp. 25</P>
+                     <P>12 Isosorbide mononitrate 10mg tabl.powl. 120</P>
+                     <P>13 Isosorbide mononitrate 20mg tabl.powl. 120</P>
+                     <P>14 Isosorbide mononitrate 40mg tabl.powl. 120</P>
+                     <P>15 Isosorbide mononitrate 60mg tabl.powl. 420</P>
+                     <P>16 Isosorbide mononitrate 100mg tabl.powl. 120</P>
+                     <P>17 Polistyrene sulfonate 1,42g/150g prosz.doustny/zawiesina dooodbytnicza 144</P>
+                     <P>18 Sotaloli hydrochloridum 80mg tabl. 2520</P>
+                     <P>19 Teicoplanin 0,4g fiol. 1000</P>
+                     <P>20 Valproic acid,Natrii Valproas 0,3g tabl.powl.o przedł.dział. 2500</P>
+                     <P>21 Valproic acid,Natrii Valproas 0,5g tabl.powl.o przedł.dział. 3000</P>
+                     <P>22 Valproic acid,Natrii Valproas 250mg granulat o przedł.uwaln.saszetka 60</P>
+                     <P>23 Valproic acid,Natrii Valproas 500mg granulat o przedł.uwaln.saszetka 2520</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Adenosine 0,006g/2ml fiol. 300</P>
+                     <P>2 Acidum tranexamicum 500mg/5ml amp. 4400</P>
+                     <P>3 Amiodaroni hydrochloridum 0,15g/3ml amp. 5400</P>
+                     <P>4 Amiodaroni hydrochloridum 200mg tabl. 3360</P>
+                     <P>5 Clorazepate dipotassium 5 mg tabl. 2700</P>
+                     <P>6 Clorazepate dipotassium 10 mg tabl. 660</P>
+                     <P>7 Drotaverinum 20mg/ml amp. 13200</P>
+                     <P>8 Drotaverinum 40mg tabl. 1880</P>
+                     <P>9 Enoxaparinum natricum 0,02g/0,2ml amp.strzyk. 1000</P>
+                     <P>10 Enoxaparinum natricum 0,04g/0,4ml amp.strzyk. 44000</P>
+                     <P>11</P>
+                     <P>12 Isosorbide mononitrate 10mg tabl.powl. 120</P>
+                     <P>13 Isosorbide mononitrate 20mg tabl.powl. 120</P>
+                     <P>14 Isosorbide mononitrate 40mg tabl.powl. 120</P>
+                     <P>15 Isosorbide mononitrate 60mg tabl.powl. 420</P>
+                     <P>16 Isosorbide mononitrate 100mg tabl.powl. 120</P>
+                     <P>17 Polistyrene sulfonate 1,42g/150g prosz.doustny/zawiesina dooodbytnicza 144</P>
+                     <P>18 Sotaloli hydrochloridum 80mg tabl. 2520</P>
+                     <P>19 Teicoplanin 0,4g fiol. 1000</P>
+                     <P>20 Valproic acid,Natrii Valproas 0,3g tabl.powl.o przedł.dział. 2500</P>
+                     <P>21 Valproic acid,Natrii Valproas 0,5g tabl.powl.o przedł.dział. 3000</P>
+                     <P>22 Valproic acid,Natrii Valproas 250mg granulat o przedł.uwaln.saszetka 60</P>
+                     <P>23 Valproic acid,Natrii Valproas 500mg granulat o przedł.uwaln.saszetka 2520</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>50</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Diethylcarbamazine 0,1g tabl. 40</P>
+                     <P>2 Sulfadiazine 0,5g tabl. 1 000</P>
+                     <P>3 Thiamazole 40mg/ml amp. 130</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1</P>
+                     <P>2 Sulfadiazine 0,5g tabl. 1 000</P>
+                     <P>3 Thiamazole 40mg/ml amp. 130</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>II.2.4</SECTION>
+                  <LOT_NO>58</LOT_NO>
+                  <LABEL>Opis zamówienia</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>1 Ascorbic acid 100mg/ml Krople 30 ml 10</P>
+                     <P>2 Ascorbic acid 500mg/5ml inj.amp. 4 900</P>
+                     <P>3 Clacium lactate gluconate 137 % tabl.musuj. 12 500</P>
+                     <P>4 Colecalciferol 0,01mg/400jm. kaps.dla niemowląt 28 500</P>
+                     <P>5 Colecalciferol 2000 jm. kaps.dla dorosłych 1 200</P>
+                     <P>6 Colecalciferol 4000jm. kaps.dla dorosłych 1 200</P>
+                     <P>7 Colecalciferol 15000 j.m./ml płyn 10ml 10</P>
+                     <P>8 Cyjanocobolamin 1000mg/2ml inj.amp. 800</P>
+                     <P>9 Dekstrose 2,0g/10ml 20 %;10ml amp. 2 700</P>
+                     <P>10 Dekstrose 4,0g/10ml 40 %;10ml amp. 650</P>
+                     <P>11 Folic acid 5mg tabl. 400</P>
+                     <P>12 Folic acid 15mg tabl. 6 900</P>
+                     <P>13 Magnesi hydroaspartas, Kali hydroaspartas 0,17g+0,054g tabl. 3 500</P>
+                     <P>14 Phytomenadione 10mg tabl 4 400</P>
+                     <P>15 Phytomenadione 10mg amp. 11 400</P>
+                     <P>16 Retinolum 50000jm./ml krople 10ml 10</P>
+                     <P>17 Thiaminum 25mg/ml amp. 50</P>
+                     <P>18 Tocopherol 0,1g kaps. 90</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>1 Ascorbic acid 100mg/ml Krople 30 ml 10</P>
+                     <P>2 Ascorbic acid 500mg/5ml inj.amp. 4 900</P>
+                     <P>3 Clacium lactate gluconate 137 % tabl.musuj. 12 500</P>
+                     <P>4 Colecalciferol 0,01mg/400jm. kaps.dla niemowląt 28 500</P>
+                     <P>5 Colecalciferol 2000 jm. kaps.dla dorosłych 1 200</P>
+                     <P>6 Colecalciferol 4000jm. kaps.dla dorosłych 1 200</P>
+                     <P>7 Colecalciferol 15000 j.m./ml płyn 10ml 10</P>
+                     <P>8 Cyjanocobolamin 1000mg/2ml inj.amp. 800</P>
+                     <P>9 Dekstrose 2,0g/10ml 20 %;10ml amp. 2 700</P>
+                     <P>10 Dekstrose 4,0g/10ml 40 %;10ml amp. 650</P>
+                     <P>11 Folic acid 5mg tabl. 400</P>
+                     <P>12 Folic acid 15mg tabl. 6 900</P>
+                     <P>13 Magnesi hydroaspartas, Kali hydroaspartas 0,17g+0,054g tabl. 3 500</P>
+                     <P>14 Phytomenadione 10mg tabl 4 400</P>
+                     <P>15</P>
+                     <P>16 Retinolum 50000jm./ml krople 10ml 10</P>
+                     <P>17</P>
+                     <P>18 Tocopherol 0,1g kaps. 90</P>
+                     <P>Dla poz. 15 Phytomenadione 10mg amp. 11 400 tworzy się Grupę 58a</P>
+                     <P>Dla poz. 17 Thiaminum 25mg/ml amp. 50 tworzy się Grupę 58b</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>III.1.2</SECTION>
+                  <LABEL>Sytuacja ekonomiczna i finansowa</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>Wykonawca spełni warunek udziału w postępowaniu, o którym mowa w pkt. 1) ppkt. 2. b), jeśli wykaże, że posiada środki finansowe lub zdolność kredytową w wysokości nie mniejszej niż 4.359.000,00 zł w przypadku złożenia oferty na cały przedmiot zamówienia (w przypadku złożenia ofert częściowych – suma kwot składanych grup): nie mniejsza niż.</P>
+                     <P>GRUPA 1. 118 000,00 PLN.</P>
+                     <P>GRUPA 2. 491 300,00 PLN.</P>
+                     <P>GRUPA 3. 136 100,00 PLN.</P>
+                     <P>GRUPA 4. 10 500,00 PLN.</P>
+                     <P>GRUPA 5. 77 400,00 PLN.</P>
+                     <P>GRUPA 6. 2 400,00 PLN.</P>
+                     <P>GRUPA 7. 7 900,00 PLN.</P>
+                     <P>GRUPA 8. 8 200,00 PLN.</P>
+                     <P>GRUPA 9. 22 200,00 PLN.</P>
+                     <P>GRUPA 10. 5 700,00 PLN.</P>
+                     <P>GRUPA 11. 173 500,00 PLN.</P>
+                     <P>GRUPA 12. 86 700,00 PLN.</P>
+                     <P>GRUPA 13. 17 900,00 PLN.</P>
+                     <P>GRUPA 14. 152 000,00 PLN.</P>
+                     <P>GRUPA 15. 65 300,00 PLN.</P>
+                     <P>GRUPA 16. 9 200,00 PLN.</P>
+                     <P>GRUPA 17. 46 100,00 PLN.</P>
+                     <P>GRUPA 18. 285 200,00 PLN.</P>
+                     <P>GRUPA 19. 101 400,00 PLN.</P>
+                     <P>GRUPA 20. 164 500,00 PLN.</P>
+                     <P>GRUPA 21. 65 900,00 PLN.</P>
+                     <P>GRUPA 22. 116 300,00 PLN.</P>
+                     <P>GRUPA 23. 800,00 PLN.</P>
+                     <P>GRUPA 24. 48 400,00 PLN.</P>
+                     <P>GRUPA 25. 48 200,00 PLN.</P>
+                     <P>GRUPA 26. 184 600,00 PLN.</P>
+                     <P>GRUPA 27. 84 600,00 PLN.</P>
+                     <P>GRUPA 28. 11 200,00 PLN.</P>
+                     <P>GRUPA 29. 60 300,00 PLN.</P>
+                     <P>GRUPA 30. 200,00 PLN.</P>
+                     <P>GRUPA 31. 44 300,00 PLN.</P>
+                     <P>GRUPA 32. 48 400,00 PLN.</P>
+                     <P>GRUPA 33. 13 300,00 PLN.</P>
+                     <P>GRUPA 34. 45 200,00 PLN.</P>
+                     <P>GRUPA 35. 13 700,00 PLN.</P>
+                     <P>GRUPA 36. 123 300,00 PLN.</P>
+                     <P>GRUPA 37. 500,00 PLN.</P>
+                     <P>GRUPA 38. 1 600,00 PLN.</P>
+                     <P>GRUPA 39. 93 700,00 PLN.</P>
+                     <P>GRUPA 40. 37 100,00 PLN.</P>
+                     <P>GRUPA 41. 600,00 PLN.</P>
+                     <P>GRUPA 42. 228 100,00 PLN.</P>
+                     <P>GRUPA 43. 65 600,00 PLN.</P>
+                     <P>GRUPA 44. 800,00 PLN.</P>
+                     <P>GRUPA 45. 217 700,00 PLN.</P>
+                     <P>GRUPA 46. 37 200,00 PLN.</P>
+                     <P>GRUPA 47. 34 500,00 PLN.</P>
+                     <P>GRUPA 48. 4 200,00 PLN.</P>
+                     <P>GRUPA 49. 1 200,00 PLN.</P>
+                     <P>GRUPA 50. 1 400,00 PLN.</P>
+                     <P>GRUPA 51. 27 700,00 PLN.</P>
+                     <P>GRUPA 52. 56 600,00 PLN.</P>
+                     <P>GRUPA 53. 46 200,00 PLN.</P>
+                     <P>GRUPA 54. 16 900,00 PLN.</P>
+                     <P>GRUPA 55. 80 400,00 PLN.</P>
+                     <P>GRUPA 56. 20 500,00 PLN.</P>
+                     <P>GRUPA 57. 46 100,00 PLN.</P>
+                     <P>GRUPA 58. 34 700,00 PLN.</P>
+                     <P>GRUPA 59. 20 700,00 PLN.</P>
+                     <P>GRUPA 60. 28 800,00 PLN.</P>
+                     <P>GRUPA 61. 29 900,00 PLN.</P>
+                     <P>GRUPA 62. 22 700,00 PLN.</P>
+                     <P>GRUPA 63. 2 200,00 PLN.</P>
+                     <P>GRUPA 64. 32 700,00 PLN.</P>
+                     <P>GRUPA 65. 2 000,00 PLN.</P>
+                     <P>GRUPA 66. 900,00 PLN.</P>
+                     <P>GRUPA 67. 1 300,00 PLN.</P>
+                     <P>GRUPA 68. 11 200,00 PLN.</P>
+                     <P>GRUPA 69. 9 100,00 PLN.</P>
+                     <P>GRUPA 70. 13 600,00 PLN.</P>
+                     <P>GRUPA 71. 33 100,00 PLN.</P>
+                     <P>GRUPA 72. 1 900,00 PLN.</P>
+                     <P>GRUPA 73. 300,00 PLN.</P>
+                     <P>GRUPA 74. 25 800,00 PLN.</P>
+                     <P>GRUPA 75. 10 600,00 PLN.</P>
+                     <P>GRUPA 76. 400,00 PLN.</P>
+                     <P>GRUPA 77. 4 200,00 PLN.</P>
+                     <P>GRUPA 78. 1 100,00 PLN.</P>
+                     <P>GRUPA 79. 21 200,00 PLN.</P>
+                     <P>GRUPA 80. 1 900,00 PLN.</P>
+                     <P>GRUPA 81. 27 300,00 PLN.</P>
+                     <P>GRUPA 82. 1 700,00 PLN.</P>
+                     <P>GRUPA 83. 400,00 PLN.</P>
+                     <P>GRUPA 84. 100,00 PLN.</P>
+                     <P>GRUPA 85. 900,00 PLN.</P>
+                     <P>GRUPA 86. 8 000,00 PLN.</P>
+                     <P>GRUPA 87. 200,00 PLN.</P>
+                     <P>GRUPA 88. 2 200,00 PLN.</P>
+                     <P>GRUPA 89. 2 600,00 PLN.</P>
+                     <P>GRUPA 90. 1 800,00 PLN.</P>
+                     <P>GRUPA 91. 3 000,00 PLN.</P>
+                     <P>GRUPA 92. 1 200,00 PLN.</P>
+                     <P>GRUPA 93. 3 500,00 PLN.</P>
+                     <P>GRUPA 94. 21 500,00 PLN.</P>
+                     <P>GRUPA 95. 1 300,00 PLN.</P>
+                     <P>GRUPA 96. 500,00 PLN.</P>
+                     <P>GRUPA 97. 10 100,00 PLN.</P>
+                     <P>GRUPA 98. 8 700,00 PLN.</P>
+                     <P>GRUPA 99. 32 100,00 PLN.</P>
+                     <P>GRUPA 100. 2 400,00 PLN.</P>
+                     <P>GRUPA 101. 800,00 PLN.</P>
+                     <P>GRUPA 102. 9 600,00 PLN.</P>
+                     <P>Wykonawca spełni warunek jeżeli przedłoży informacje banku lub spółdzielczej kasy oszczędnościowo – kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową wykonawcy, w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert.</P>
+                     <P>Jeżeli z uzasadnionych przyczyn wykonawca nie może złożyć ww. dokumentu, zamawiający dopuszcza złożenie innego dokumentu, który w wystarczający sposób potwierdza spełnianie opisanego warunku udziału w postępowaniu.</P>
+                     <P>Minimalny poziom ewentualnie wymaganych standardów:</P>
+                     <P>Został opisany powyżej</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>Wykonawca spełni warunek udziału w postępowaniu, o którym mowa w pkt 1) ppkt 2.b), jeśli wykaże, że posiada środki finansowe lub zdolność kredytową w wysokości nie mniejszej niż 4 359 000,00 PLN w przypadku złożenia oferty na cały przedmiot zamówienia (w przypadku złożenia ofert częściowych – suma kwot składanych grup): nie mniejsza niż.</P>
+                     <P>GRUPA 1. 118 000,00 PLN.</P>
+                     <P>GRUPA 2. 491 300,00 PLN.</P>
+                     <P>GRUPA 3. 136 100,00 PLN.</P>
+                     <P>GRUPA 4. 10 500,00 PLN.</P>
+                     <P>GRUPA 5. 77 400,00 PLN.</P>
+                     <P>GRUPA 6. 2 400,00 PLN.</P>
+                     <P>GRUPA 7. 7 900,00 PLN.</P>
+                     <P>GRUPA 8. 8 200,00 PLN.</P>
+                     <P>GRUPA 9. 22 200,00 PLN.</P>
+                     <P>GRUPA 10. 5 700,00 PLN.</P>
+                     <P>GRUPA 11. 173 500,00 PLN.</P>
+                     <P>GRUPA 12. 86 700,00 PLN.</P>
+                     <P>GRUPA 13. 17 900,00 PLN.</P>
+                     <P>GRUPA 14. 152 000,00 PLN.</P>
+                     <P>GRUPA 15. 65 300,00 PLN.</P>
+                     <P>GRUPA 16. 9 200,00 PLN.</P>
+                     <P>GRUPA 17. 37 600,00 PLN.</P>
+                     <P>GRUPA 17a 5 600,00 PLN</P>
+                     <P>GRUPA 17b 2 900,00 PLN</P>
+                     <P>GRUPA 18. 285 200,00 PLN.</P>
+                     <P>GRUPA 19. 101 400,00 PLN.</P>
+                     <P>GRUPA 20. 164 500,00 PLN.</P>
+                     <P>GRUPA 21. 65 900,00 PLN.</P>
+                     <P>GRUPA 22. 116 300,00 PLN.</P>
+                     <P>GRUPA 23. 800,00 PLN.</P>
+                     <P>GRUPA 24. 48 400,00 PLN.</P>
+                     <P>GRUPA 25. 48 200,00 PLN.</P>
+                     <P>GRUPA 26. 184 600,00 PLN.</P>
+                     <P>GRUPA 27. 84 600,00 PLN.</P>
+                     <P>GRUPA 28. 11 200,00 PLN.</P>
+                     <P>GRUPA 29. 60 300,00 PLN.</P>
+                     <P>GRUPA 30. 200,00 PLN.</P>
+                     <P>GRUPA 31. 44 300,00 PLN.</P>
+                     <P>GRUPA 32. 48 400,00 PLN.</P>
+                     <P>GRUPA 33. 13 300,00 PLN.</P>
+                     <P>GRUPA 34. 45 200,00 PLN.</P>
+                     <P>GRUPA 35. 13 700,00 PLN.</P>
+                     <P>GRUPA 36. 123 300,00 PLN.</P>
+                     <P>GRUPA 37. 500,00 PLN.</P>
+                     <P>GRUPA 38. 1 600,00 PLN.</P>
+                     <P>GRUPA 39. 76 500,00 PLN.</P>
+                     <P>GRUPA 39a 17 200,00 PLN</P>
+                     <P>GRUPA 40. 25 800,00 PLN.</P>
+                     <P>GRUPA 40a 11 300.00 PLN</P>
+                     <P>GRUPA 41. 600,00 PLN.</P>
+                     <P>GRUPA 42. 228 100,00 PLN.</P>
+                     <P>GRUPA 43. 65 600,00 PLN.</P>
+                     <P>GRUPA 44. 800,00 PLN.</P>
+                     <P>GRUPA 45. 217 700,00 PLN.</P>
+                     <P>GRUPA 46. 37 200,00 PLN.</P>
+                     <P>GRUPA 47. 34 500,00 PLN.</P>
+                     <P>GRUPA 48. 4 200,00 PLN.</P>
+                     <P>GRUPA 49. 1 200,00 PLN.</P>
+                     <P>GRUPA 50. 1 400,00 PLN.</P>
+                     <P>GRUPA 51. 27 700,00 PLN.</P>
+                     <P>GRUPA 52. 56 600,00 PLN.</P>
+                     <P>GRUPA 53. 46 200,00 PLN.</P>
+                     <P>GRUPA 54. 16 900,00 PLN.</P>
+                     <P>GRUPA 55. 80 400,00 PLN.</P>
+                     <P>GRUPA 56. 20 500,00 PLN.</P>
+                     <P>GRUPA 57. 46 100,00 PLN.</P>
+                     <P>GRUPA 58. 26 300,00 PLN.</P>
+                     <P>GRUPA 58a 8 340,00 PLN</P>
+                     <P>GRUPA 58B 60,00 PLN</P>
+                     <P>GRUPA 59. 20 700,00 PLN.</P>
+                     <P>GRUPA 60. 28 800,00 PLN.</P>
+                     <P>GRUPA 61. 29 900,00 PLN.</P>
+                     <P>GRUPA 62. 22 700,00 PLN.</P>
+                     <P>GRUPA 63. 2 200,00 PLN.</P>
+                     <P>GRUPA 64. 32 700,00 PLN.</P>
+                     <P>GRUPA 65. 2 000,00 PLN.</P>
+                     <P>GRUPA 66. 900,00 PLN.</P>
+                     <P>GRUPA 67. 1 300,00 PLN.</P>
+                     <P>GRUPA 68. 11 200,00 PLN.</P>
+                     <P>GRUPA 69. 9 100,00 PLN.</P>
+                     <P>GRUPA 70. 13 600,00 PLN.</P>
+                     <P>GRUPA 71. 33 100,00 PLN.</P>
+                     <P>GRUPA 72. 1 900,00 PLN.</P>
+                     <P>GRUPA 73. 300,00 PLN.</P>
+                     <P>GRUPA 74. 25 800,00 PLN.</P>
+                     <P>GRUPA 75. 10 600,00 PLN.</P>
+                     <P>GRUPA 76. 400,00 PLN.</P>
+                     <P>GRUPA 77. 4 200,00 PLN.</P>
+                     <P>GRUPA 78. 1 100,00 PLN.</P>
+                     <P>GRUPA 79. 21 200,00 PLN.</P>
+                     <P>GRUPA 80. 1 900,00 PLN.</P>
+                     <P>GRUPA 81. 27 300,00 PLN.</P>
+                     <P>GRUPA 82. 1 700,00 PLN.</P>
+                     <P>GRUPA 83. 400,00 PLN.</P>
+                     <P>GRUPA 84. 100,00 PLN.</P>
+                     <P>GRUPA 85. 900,00 PLN.</P>
+                     <P>GRUPA 86. 8 000,00 PLN.</P>
+                     <P>GRUPA 87. 200,00 PLN.</P>
+                     <P>GRUPA 88. 2 200,00 PLN.</P>
+                     <P>GRUPA 89. 2 600,00 PLN.</P>
+                     <P>GRUPA 90. 1 800,00 PLN.</P>
+                     <P>GRUPA 91. 3 000,00 PLN.</P>
+                     <P>GRUPA 92. 1 200,00 PLN.</P>
+                     <P>GRUPA 93. 3 500,00 PLN.</P>
+                     <P>GRUPA 94. 21 500,00 PLN.</P>
+                     <P>GRUPA 95. 1 300,00 PLN.</P>
+                     <P>GRUPA 96. 500,00 PLN.</P>
+                     <P>GRUPA 97. 10 100,00 PLN.</P>
+                     <P>GRUPA 98. 8 700,00 PLN.</P>
+                     <P>GRUPA 99. 32 100,00 PLN.</P>
+                     <P>GRUPA 100. 2 400,00 PLN.</P>
+                     <P>GRUPA 101. 800,00 PLN.</P>
+                     <P>GRUPA 102. 9 600,00 PLN.</P>
+                     <P>Wykonawca spełni warunek jeżeli przedłoży informacje banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową wykonawcy, w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert.</P>
+                     <P>Jeżeli z uzasadnionych przyczyn wykonawca nie może złożyć ww. dokumentu, zamawiający dopuszcza złożenie innego dokumentu, który w wystarczający sposób potwierdza spełnianie opisanego warunku udziału w postępowaniu.</P>
+                     <P>Minimalny poziom ewentualnie wymaganych standardów:</P>
+                     <P>Został opisany powyżej</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>III.2.2</SECTION>
+                  <LABEL>Warunki realizacji umowy</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <TEXT>
+                     <P>Dostawy zamawianych leków, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego będą realizowane na podstawie zamówień składanych w zależności od zapotrzebowania Zamawiającego. Dostawa zamawianego ww. asortymentu odbywać się będzie transportem organizowanym przez Dostawcę na jego koszt i ryzyko w warunkach określonych w Rozporządzeniu M. Zdrowia z dnia 13.3.2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej. Dostarczony asortyment musi posiadać okres przydatności nie krótszy niż 12 miesięcy licząc od daty dostarczenia do Apteki Szpitalnej. Dostawy mają odbywać się do Apteki Szpitalnej w godz. 8.00-14.00.</P>
+                     <P>Szczegółowe warunki realizacji zamówienia określa projekt umowy – załącznik nr 4 do SIWZ.</P>
+                  </TEXT>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <TEXT>
+                     <P>Dostawy zamawianych leków, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego będą realizowane na podstawie zamówień składanych w zależności od zapotrzebowania Zamawiającego. Dostawa zamawianego ww. asortymentu odbywać się będzie transportem organizowanym przez Dostawcę na jego koszt i ryzyko w warunkach określonych w Rozporządzeniu M. Zdrowia z dnia 13.3.2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej. Dostarczony asortyment musi posiadać okres przydatności nie krótszy niż 12 miesięcy licząc od daty dostarczenia do Apteki Szpitalnej, w wyjątkowych sytuacjach mogą być dopuszczone dostawy leków z krótszym terminem ważności i każdorazowo zgodę na nie musi wyrazić Kierownik Apteki Szpitalnej. Dostawy mają odbywać się do Apteki Szpitalnej w godz. 8:00-14:00.</P>
+                     <P>Szczegółowe warunki realizacji zamówienia określa projekt umowy – załącznik nr 4 do SIWZ.</P>
+                  </TEXT>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+                  <LABEL>Termin składania ofert lub wniosków o dopuszczenie do udziału</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-01-17</DATE>
+                  <TIME>09:30</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-01-24</DATE>
+                  <TIME>09:30</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+                  <LABEL>Warunki otwarcia ofert</LABEL>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-01-17</DATE>
+                  <TIME>10:30</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-01-24</DATE>
+                  <TIME>10:30</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+            <INFO_ADD>
+               <P>Przystępując do przetargu Wykonawca zobowiązany jest wnieść wadium przed upływem terminu składania ofert w wysokości:</P>
+               <P>Grupa 17 – 2 200,00 PLN</P>
+               <P>Grupa 17a – 330,00 PLN</P>
+               <P>Grupa 17 b – 170,00 PLN</P>
+               <P>Grupa 22 – 6 700,00 PLN</P>
+               <P>Grupa 39 – 4 580,00 PLN</P>
+               <P>Grupa 39a – 1 020,00 PLN</P>
+               <P>Grupa 40 – 1 530,00 PLN</P>
+               <P>Grupa 40a – 670,00 PLN</P>
+               <P>Grupa 50 – 70,00 PLN</P>
+               <P>Grupa 58 – 1 507,00 PLN</P>
+               <P>Grupa 58a – 490,00 PLN</P>
+               <P>Grupa 58b – 3,00 PLN</P>
+            </INFO_ADD>
+         </CHANGES>
+      </F14_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

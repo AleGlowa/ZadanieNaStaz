@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="168923-2018"
+            EDITION="2018076">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-172916-001</RECEPTION_ID>
+      <DELETION_DATE>20180523</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>76</NO_OJ>
+         <DATE_PUB>20180419</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 076-168923</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:168923-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://zp.sw.gov.pl</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://zp.sw.gov.pl</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="33600000">Pharmaceutical products</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL514">Miasto Wrocław</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL514">Miasto Wrocław</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">359173.12</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180417</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180523 11:30</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="U">Public order and safety</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Вроцлав</TI_TOWN>
+            <TI_TEXT>
+               <P>Фармацевтични продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Vratislav</TI_TOWN>
+            <TI_TEXT>
+               <P>Léčivé přípravky a zdravotnické prostředky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Lægemidler</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Breslau</TI_TOWN>
+            <TI_TEXT>
+               <P>Arzneimittel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Φαρμακευτικά προϊόντα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Productos farmacéuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Ravimid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaseuttiset tuotteet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Produits pharmaceutiques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Pharmaceutical products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Gyógyszerészeti termékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Breslavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaceutici</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Vroclavas</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacijos produktai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Vroclava</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmācijas izstrādājumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti farmaċewtiċi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutische producten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Produkty farmaceutyczne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Produtos farmacêuticos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Wrocław</TI_TOWN>
+            <TI_TEXT>
+               <P>Produse farmaceutice</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmaceutické výrobky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Farmacevtski proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Wroclaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Läkemedel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Zakład Karny Nr 1</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Zakład Karny Nr 1</OFFICIALNAME>
+               <NATIONALID>8951012001</NATIONALID>
+               <ADDRESS>ul. Kleczkowska 35</ADDRESS>
+               <TOWN>Wrocław</TOWN>
+               <POSTAL_CODE>50-211</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Zakład Karny Nr 1 we Wrocławiu</CONTACT_POINT>
+               <PHONE>+48 713272672</PHONE>
+               <E_MAIL>zk_1_wroclaw@sw.gov.pl</E_MAIL>
+               <FAX>+48 713291772</FAX>
+               <n2016:NUTS CODE="PL514"/>
+               <URL_GENERAL>http://zp.sw.gov.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://zp.sw.gov.pl</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE_OTHER>Jednostka penitencjarna</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="PUBLIC_ORDER_AND_SAFETY"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+            </TITLE>
+            <REFERENCE_NUMBER>D/Kw.2232.1.2018</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dostawa produktów leczniczych do Apteki Zakładowo-Okręgowej Zakładu Karnego Nr 1 we Wrocławiu.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">359173.12</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+               <LOT_MAX_ONE_TENDERER>10</LOT_MAX_ONE_TENDERER>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Metadon 100mg/100ml.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">6494.78</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>CLEXANE 40mg/0,4ml.</P>
+                  <P>CLEXANE 60mg/0,6ml.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3448.84</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>INS. ACTRAPID penfill 3ml + igły.</P>
+                  <P>INS. GENSULIN M30 3ml + igły.</P>
+                  <P>INS. GENSULIN M50 3ml + igły.</P>
+                  <P>INS. GENSULIN N 3ml + igły.</P>
+                  <P>INS. GENSULIN R 3ml + igly.</P>
+                  <P>INS. HUMALOG 3ml + igły.</P>
+                  <P>INS. HUMULIN N 3ml + igly.</P>
+                  <P>INS. HUMULIN R 300 jm/3ml + igły.</P>
+                  <P>INS. INSULATARD penfill 300jm/3ml + igły.</P>
+                  <P>INS. MIXTARD 30 penfill 300jm/3ml + igły.</P>
+                  <P>INS. NOVORAPID penfil 300jm/3ml + igły.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9347.26</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Natrii valproas+acidum valproicum (200mg+87mg).</P>
+                  <P>Natrii valproas+acidum valproicum (333mg+145mg).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">7844.70</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>INS. APIDRA SOLOSTAR 300jm/3ml.</P>
+                  <P>INS. INSUMAN RAPID SOLOSTAR 300jm/3ml.</P>
+                  <P>INS. LANTUS SOLOSTAR 300jm/3ml.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1493.73</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>GLICLAZID 60mg.</P>
+                  <P>INDAPAMID SR 1,5mg.</P>
+                  <P>IVABRADINUM 5mg.</P>
+                  <P>PERINDORPIL ARGININ 5mg.</P>
+                  <P>TIANEPTIN 12,5mg.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1917.74</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>ACENOCUMAROL 4mg.</P>
+                  <P>ACICLOVIR 800mg *.</P>
+                  <P>BACLOFEN 10mg.</P>
+                  <P>BACLOFEN 25mg.</P>
+                  <P>BETADRIN krople oczne 2.</P>
+                  <P>BETAHISTINE 8mg.</P>
+                  <P>CARBAMAZEPIN 200mg.</P>
+                  <P>DICORTINEFF zaw. do oczu.</P>
+                  <P>ENALAPRIL 5mg.</P>
+                  <P>ENALAPRIL 10mg.</P>
+                  <P>ENALAPRIL 20mg.</P>
+                  <P>ETOPIRYNA.</P>
+                  <P>FUROSEMIDUM 20mg/2ml.</P>
+                  <P>FUROSEMIDUM 40mg.</P>
+                  <P>FLUOXETIN 20 mg.</P>
+                  <P>GENTAMICIN 0,3 % krople oczne.</P>
+                  <P>HALOPERIDOL 1 mg.</P>
+                  <P>HALOPERIDOL 5 mg.</P>
+                  <P>HALOPERIDOL krople doustne 2mg/1ml.</P>
+                  <P>HYDROCHLOROTHIAZIDUM 25mg.</P>
+                  <P>LACRIMAL krople oczne 2x5ml.</P>
+                  <P>LATANOPROST 0,05mg/1ml krople oczne 2,5ml.</P>
+                  <P>LIGNOCAINUM 2 % C. NORAD. 0,00125 % inj. 10amp a 2ml.</P>
+                  <P>LIGNOCAINUM H/CHL. 2 % 2ml.</P>
+                  <P>LOPERAMID 2mg.</P>
+                  <P>METOCLOPRAMIDUM 10mg.</P>
+                  <P>METOPROLOL 50mg.</P>
+                  <P>METOPROLOL 100mg.</P>
+                  <P>METRONIDAZOL 250mg.</P>
+                  <P>MOLSIDOMIN 4mg.</P>
+                  <P>NATRIUM CHLORATUM 0,9 % - 10ml.</P>
+                  <P>OFTENSIN 0.25 % krople do oczu.</P>
+                  <P>OFTENSIN 0.5 % krople do oczu.</P>
+                  <P>PENTOXIFILLIN 400mg.</P>
+                  <P>PIRACETAM 1200mg.</P>
+                  <P>POLCROM 2 % krople do oczu 2.</P>
+                  <P>POLFENON 150mg.</P>
+                  <P>POLOPIRYNA S 300 mg.</P>
+                  <P>PRAMOLAN 50mg.</P>
+                  <P>PROPRANOLOL 10mg.</P>
+                  <P>PROPRANOLOL 40mg.</P>
+                  <P>PYRALGINUM 2,5g/5ml.</P>
+                  <P>PYRALGINUM 500mg.</P>
+                  <P>PYRANTELUM 250mg.</P>
+                  <P>DIAZEPAM 10mg/2ml.</P>
+                  <P>RAMIPRIL 5mg.</P>
+                  <P>RISPERIDON 2mg.</P>
+                  <P>SULFACETAMID 10 %.</P>
+                  <P>TIALORID.</P>
+                  <P>TOBRAMYCIN 0,3 % krople do oczu.</P>
+                  <P>TRAMADOL 50mg.</P>
+                  <P>TRAMADOL 50mg/1ml.</P>
+                  <P>TRAMADOL RETARD 100mg.</P>
+                  <P>TRIMEBUTIN 100mg.</P>
+                  <P>VENLAFAXIN XR 37,5mg.</P>
+                  <P>VENLAFAXIN XR 75mg.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">31476.07</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Dostaw produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>QUETIAPIN 25mg.</P>
+                  <P>QUETIAPIN 100mg.</P>
+                  <P>QUETIAPIN XR 50mg.</P>
+                  <P>QUETIAPIN XR 300mg.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">6507.37</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>AMOXICILLIN 1000mg.</P>
+                  <P>AMOXICILLIN+AC. CLAVULANICUM 825mg + 125mg.</P>
+                  <P>AZITHROMYCIN 500mg.</P>
+                  <P>DOXYCYCLINUM 100mg.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9944.11</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Dostawa produktów leczniczych i wyrobów medycznych</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33600000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL514"/>
+               <MAIN_SITE>
+                  <P>Wrocław ul. Kleczkowska 35.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>ABILIFY MAINTENA.</P>
+                  <P>AC. ACYLSALICYLICUM.</P>
+                  <P>AC. ALFA-LIPOICUM,ACETYLOCYSTEIN,ACICLOVIR,ACIDUM FOLICUM,ACIFUNGIN FORTE.</P>
+                  <P>ACNE-DERM.</P>
+                  <P>ADVANTAN.</P>
+                  <P>AETHYLUM CHLORATUM.</P>
+                  <P>AFLODERM.</P>
+                  <P>AKINETON.</P>
+                  <P>ALANTAN.</P>
+                  <P>ALAX.</P>
+                  <P>ALFUZOSIN.</P>
+                  <P>ALLUPOL 1.</P>
+                  <P>ALPRAZOLAM.</P>
+                  <P>ALTACET.</P>
+                  <P>ALVESCO.</P>
+                  <P>AMANTADIN.</P>
+                  <P>AMISULPRID.</P>
+                  <P>AMITRIPTYLINUM.</P>
+                  <P>AMLODIPIN.</P>
+                  <P>ANAFRANIL.</P>
+                  <P>AQUA PRO INJ.</P>
+                  <P>ARGOSULFAN.</P>
+                  <P>ARIPIPRAZOL.</P>
+                  <P>ARTEMISOL.</P>
+                  <P>ASPARGIN.</P>
+                  <P>ATORVASTATIN.</P>
+                  <P>ATREDERM.</P>
+                  <P>ATROVENT N.</P>
+                  <P>AVAMYS.</P>
+                  <P>AVIOMARIN.</P>
+                  <P>BELOGENT.</P>
+                  <P>BENZACNE.</P>
+                  <P>BERODUAL N.</P>
+                  <P>BERODUAL.</P>
+                  <P>BEROTEC N.</P>
+                  <P>BILASTIN.</P>
+                  <P>BISACODYL.</P>
+                  <P>BISEPTOL.</P>
+                  <P>BISOPROLOL.</P>
+                  <P>BORASOL.</P>
+                  <P>BRODACID.</P>
+                  <P>BUDERHIN.</P>
+                  <P>BUDESONID.</P>
+                  <P>CALCIUM DOBESILATE.</P>
+                  <P>CALCIUM GLUCONICUM.</P>
+                  <P>CALPEROS.</P>
+                  <P>CAPTOPRIL.</P>
+                  <P>CARBAMAZEPIN RETARD.</P>
+                  <P>CARBO MEDICINALIS.</P>
+                  <P>CARIDENT.</P>
+                  <P>CARVEDILOL.</P>
+                  <P>CEFUROXIM.</P>
+                  <P>CERUTIN.</P>
+                  <P>CETIRIZINE.</P>
+                  <P>CHLORCHINALDIN H.</P>
+                  <P>CHLORPROTHIXEN.</P>
+                  <P>CILAZAPRIL.</P>
+                  <P>CILOSTAZOL.</P>
+                  <P>CINNARIZINUM.</P>
+                  <P>CIPROFLOXACIN.</P>
+                  <P>CITALOPRAM.</P>
+                  <P>CLARITHROMYCIN.</P>
+                  <P>CLEMASTINUM.</P>
+                  <P>CLINDAMYCIN.</P>
+                  <P>CLOBETASOL.</P>
+                  <P>CLONAZEPAMUM.</P>
+                  <P>CLOPIDOGREL.</P>
+                  <P>CLOPIXOL DEPOT.</P>
+                  <P>CLOTRIMAZOLUM.</P>
+                  <P>COMBIGAN.</P>
+                  <P>CONVULEX.</P>
+                  <P>CORNEREGEL.</P>
+                  <P>CORTINEFF.</P>
+                  <P>CROTAMITON.</P>
+                  <P>CUPRENIL.</P>
+                  <P>CUTIVATE.</P>
+                  <P>CYCLO 3 FORT.</P>
+                  <P>CYCLONAMINE.</P>
+                  <P>DAVERCIN.</P>
+                  <P>DEPAKINE CHRONOSPHERE 500.</P>
+                  <P>DEPO-MEDROL.</P>
+                  <P>DETREOMYCYNA.</P>
+                  <P>DEXAMETHASON.</P>
+                  <P>DEXAPOLCORT N.</P>
+                  <P>DEXAVEN.</P>
+                  <P>DIAZEPAM.</P>
+                  <P>DICLOFENAC.</P>
+                  <P>DICLOFENAC DUO.</P>
+                  <P>DIMETICON.</P>
+                  <P>DIOSMIN.</P>
+                  <P>DIPROSALIC.</P>
+                  <P>DISTREPTAZA.</P>
+                  <P>DIURAMID.</P>
+                  <P>DIVASCAN.</P>
+                  <P>DOPEGYT.</P>
+                  <P>DORZOLAMID.</P>
+                  <P>DOXAZOSIN.</P>
+                  <P>DOXEPIN.</P>
+                  <P>DUSPATALIN.</P>
+                  <P>DUSPATALIN RETARD.</P>
+                  <P>ENCORTON.</P>
+                  <P>EPLERENON.</P>
+                  <P>ESCITALOPRAM.</P>
+                  <P>ESSELIV FORTE.</P>
+                  <P>EUTHYROX N.</P>
+                  <P>FENOFIBRAT.</P>
+                  <P>FEXOFENADIN.</P>
+                  <P>FINASTERID.</P>
+                  <P>FITOLIZYNA.</P>
+                  <P>FLEGAMINA.</P>
+                  <P>FLIXOTIDE DYSK.</P>
+                  <P>FLUCINAR.</P>
+                  <P>FLUCONAZOLE.</P>
+                  <P>FLUORMEX.</P>
+                  <P>FLUPENTIXOL.</P>
+                  <P>FLUTICASON.</P>
+                  <P>FORMOTEROL.</P>
+                  <P>FORTRANS.</P>
+                  <P>FORXIGA.</P>
+                  <P>FOSTEX.</P>
+                  <P>FUCIDIN.</P>
+                  <P>FURAGINUM.</P>
+                  <P>GABAPENTIN.</P>
+                  <P>GENTAMICIN.</P>
+                  <P>GLIMEPIRID.</P>
+                  <P>GLUCOSUM.</P>
+                  <P>GOPTEN.</P>
+                  <P>GYNALGIN.</P>
+                  <P>HEMORECTAL.</P>
+                  <P>HEMOROL.</P>
+                  <P>HEPA-MERZ 3000.</P>
+                  <P>HEPAREGEN.</P>
+                  <P>HEPARINUM.</P>
+                  <P>HYDROCORTISON.</P>
+                  <P>HYDROCORTISONUM.</P>
+                  <P>HYDROGENIUM PEROXYDATUM.</P>
+                  <P>HYDROXYZINUM.</P>
+                  <P>HYGROTON.</P>
+                  <P>IBUPROFEN.</P>
+                  <P>INDAPAMID.</P>
+                  <P>INFECTOSCAB.</P>
+                  <P>IPOREL.</P>
+                  <P>ISOSORBID MONONITRAT.</P>
+                  <P>IZOTRETINOIN.</P>
+                  <P>KALIPOZ PROL.</P>
+                  <P>KETOPROFEN.</P>
+                  <P>KLOZAPOL.</P>
+                  <P>LACTULOSUM.</P>
+                  <P>LAMOTRIGINE.</P>
+                  <P>LATICORT.</P>
+                  <P>LEKO DO DEZYNFEKCJI.</P>
+                  <P>LEVETIRACETAM.</P>
+                  <P>LIGNOCAINUM.</P>
+                  <P>LINCOMYCINUM.</P>
+                  <P>LISINOPRIL.</P>
+                  <P>LITHIUM CARBONICUM.</P>
+                  <P>LOCOID CRELO.</P>
+                  <P>LOKREN.</P>
+                  <P>LORAFEN.</P>
+                  <P>LORATADIN.</P>
+                  <P>LORINDEN A.</P>
+                  <P>LORINDEN C.</P>
+                  <P>LOSARTAN.</P>
+                  <P>LOTEMAX.</P>
+                  <P>LOTRIDERM.</P>
+                  <P>LOXON.</P>
+                  <P>MAŚĆ ICHTIOLOWA.</P>
+                  <P>MAŚĆ OCHRONNA z vit. A.</P>
+                  <P>MELOXICAM.</P>
+                  <P>MESALAZIN.</P>
+                  <P>METFORMIN.</P>
+                  <P>METHYLPREDNISOLON.</P>
+                  <P>METINDOL RETARD.</P>
+                  <P>METOPROLOL ZK.</P>
+                  <P>METRONIDAZOL.</P>
+                  <P>MIANSERIN.</P>
+                  <P>MILGAMMA.</P>
+                  <P>MILGAMMA N.</P>
+                  <P>MIRTAZAPIN.</P>
+                  <P>MOMETASON.</P>
+                  <P>MONTELUKAST.</P>
+                  <P>MUPIROCIN.</P>
+                  <P>NAPROXEN.</P>
+                  <P>NATRIUM CHLORATUM.</P>
+                  <P>NEBIVOLOL.</P>
+                  <P>NEOMYCINUM.</P>
+                  <P>NEUROTOP RETARD.</P>
+                  <P>NEUROVIT.</P>
+                  <P>NIFUROXAZID.</P>
+                  <P>NIMESULID.</P>
+                  <P>NITRAZEPAM.</P>
+                  <P>NITROMINT.</P>
+                  <P>NO-SPA.</P>
+                  <P>NO-SPA FORTE.</P>
+                  <P>NYSTATYNA.</P>
+                  <P>OFLODINEX.</P>
+                  <P>OFLOXACIN.</P>
+                  <P>OFTAQUIX.</P>
+                  <P>OLANZAPIN.</P>
+                  <P>OLAZAPIN.</P>
+                  <P>OMEPRAZOL.</P>
+                  <P>OPACORDEN.</P>
+                  <P>OTOTALGIN.</P>
+                  <P>OXYCORT.</P>
+                  <P>OXYCORT A.</P>
+                  <P>PANCREATIN.</P>
+                  <P>PANTHENOL.</P>
+                  <P>PANTOPRAZOL.</P>
+                  <P>PARACETAMOL.</P>
+                  <P>PAROXETIN.</P>
+                  <P>PERAZIN.</P>
+                  <P>PIMAFUCORT.</P>
+                  <P>PIOGLITAZONE.</P>
+                  <P>PIRACETAM.</P>
+                  <P>PIROLAM.</P>
+                  <P>PIROXICAM.</P>
+                  <P>PŁYN WIELOELEKTROLITOWY FIZJOL.</P>
+                  <P>POLFUNGICID.</P>
+                  <P>POSORUTIN.</P>
+                  <P>PRADAXA.</P>
+                  <P>PREGABALINUM.</P>
+                  <P>PRIDINOL.</P>
+                  <P>PROMAZIN.</P>
+                  <P>PROTIFAR.</P>
+                  <P>PUDER PŁYNNY.</P>
+                  <P>QUINAPRIL.</P>
+                  <P>RANITIDIN.</P>
+                  <P>RECTANAL.</P>
+                  <P>RISPOLEPT CONSTA.</P>
+                  <P>RIVANOL.</P>
+                  <P>ROSUVASTATIN.</P>
+                  <P>ROZACOM.</P>
+                  <P>SACHOL.</P>
+                  <P>SALBUTAMOL.</P>
+                  <P>SALICYLOL.</P>
+                  <P>SALMETEROL.</P>
+                  <P>SALMEX.</P>
+                  <P>SEBIDIN.</P>
+                  <P>SERTRALIN.</P>
+                  <P>SIGNOPAM.</P>
+                  <P>SILYMARIN.</P>
+                  <P>SIMVASTATIN.</P>
+                  <P>SORBIFER DURULES.</P>
+                  <P>SPASMALGON.</P>
+                  <P>SPIRONOL.</P>
+                  <P>STAVERAN.</P>
+                  <P>SULFARINOL.</P>
+                  <P>SULFASALAZIN EN.</P>
+                  <P>SULPIRYD.</P>
+                  <P>SZCZEP. EUVAX B.</P>
+                  <P>SZCZEP.TETANA /TĘŻCOWA.</P>
+                  <P>TABLETKI USPOKAJAJĄCE.</P>
+                  <P>TAMSULOSIN.</P>
+                  <P>TARDYFERON.</P>
+                  <P>TELMISARTAN.</P>
+                  <P>TERBINAFIN.</P>
+                  <P>TETRACYCLIN.</P>
+                  <P>TETRALYSAL.</P>
+                  <P>THEOSPIREX RETARD.</P>
+                  <P>THIAMAZOL.</P>
+                  <P>THIOCODIN.</P>
+                  <P>TIOTROPIUM.</P>
+                  <P>TISERCIN.</P>
+                  <P>TIZANIDIN MR.</P>
+                  <P>TIZANIDINE.</P>
+                  <P>TOBRAMYCIN.</P>
+                  <P>TOBROSOPT-DEX.</P>
+                  <P>TOLPERISON.</P>
+                  <P>TOLPERISON FORTE.</P>
+                  <P>TOLTERODIN.</P>
+                  <P>TORASEMID.</P>
+                  <P>TRAMAPAR.</P>
+                  <P>TRANXENE.</P>
+                  <P>TRAVOGEN.</P>
+                  <P>TRIDERM.</P>
+                  <P>TRIMETAZIDIN MR.</P>
+                  <P>TRITTICO CR.</P>
+                  <P>TROXERUTIN.</P>
+                  <P>UROSEPT.</P>
+                  <P>URSOPOL.</P>
+                  <P>VALSARTAN.</P>
+                  <P>VENESCIN.</P>
+                  <P>VIDISIC.</P>
+                  <P>VIGANTOLETTEN.</P>
+                  <P>VINPOCETIN.</P>
+                  <P>VITACON.</P>
+                  <P>VITAMINUM A + D3.</P>
+                  <P>VITAMINUM A + E.</P>
+                  <P>VITAMINUM A MEDANA.</P>
+                  <P>VITAMINUM B1.</P>
+                  <P>VITAMINUM B6.</P>
+                  <P>VITAMINUM PP.</P>
+                  <P>XALACOM.</P>
+                  <P>XARELTO.</P>
+                  <P>XYLOMETAZOLIN.</P>
+                  <P>ZENTEL.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">280698.53</VAL_OBJECT>
+               <DURATION TYPE="MONTH">11</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Zezwolenie (koncesja) na prowadzenie hurtowni farmaceutycznej w stosunku do zamówienia - wymóg nie dotyczy wyrobów medycznych.</P>
+            </SUITABILITY>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Wykaz minimum dwóch dostaw wykonanych, a w przypadku świadczeń okresowych lub ciągłych również wykonywanych, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy zostały wykonane, każdej o wartości nie mniejszej niż połowa wartości składanej oferty oraz załączeniem dowodów określających czy te dostawy zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego dostawy były wykonywane, a w przypadku świadczeń okresowych lub ciągłych są wykonywane, a jeżeli z uzasadnionej przyczyny o obiektywnym charakterze Wykonawca nie jest w stanie uzyskać tych dokumentów – oświadczenie Wykonawcy.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-23</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:30</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="PL"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">2</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-23</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>12:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Zakład Karny Nr 1 we Wrocławiu.</P>
+                  <P>Ul. Kleczkowska 35.</P>
+                  <P>Sala konferencyjna (pomieszczenie nr 417 budynku administracyjnego).</P>
+               </PLACE>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <ESTIMATED_TIMING>
+               <P>Marzec 2019.</P>
+            </ESTIMATED_TIMING>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17a</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587801</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17a</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 224587801</PHONE>
+               <E_MAIL>odwolania@uzp.gov.pl</E_MAIL>
+               <FAX>+48 224587801</FAX>
+               <URL>www.uzp.gov.pl</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-17</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="133995-2018"
+            EDITION="2018061">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-129740-001</RECEPTION_ID>
+      <DELETION_DATE>20180515</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>61</NO_OJ>
+         <DATE_PUB>20180328</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 061-133995</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:133995-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LU"/>
+         <IA_URL_GENERAL>http://ec.europa.eu/eurostat</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72320000">Database services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72321000">Added-value database services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="LU">LUXEMBOURG</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LU">LUXEMBOURG</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">2000000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180321</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180515 16:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Indkøb af dataforsyning vedrørende energiinformation</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Erwerb der Beschaffung von Energieinformationsdaten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Acquisition of Energy Information data provision</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Adquisición de suministro de datos de información energética</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Energiaa koskevien tietojen toimittamisen hankinta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Acquisition de la provision de données d’information sur l’énergie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λουξεμβούργο</TI_CY>
+            <TI_TOWN>Λουξεμβούργο</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή δεδομένων απόκτησης πληροφοριών σχετικά με την ενέργεια</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lussemburgo</TI_CY>
+            <TI_TOWN>Lussemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Acquisizione della fornitura di dati informativi sull'energia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Verwerving van gegevensverstrekking inzake energie-informatie.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>Aquisição de fornecimento de dados sobre informação energética</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Anskaffning av tillhandahållande av energiinformationsdata</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lucembursko</TI_CY>
+            <TI_TOWN>Lucemburk</TI_TOWN>
+            <TI_TEXT>
+               <P>Získávání informací v oblasti poskytování energetických údajů</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Energeetikateabe andmete hankimine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Energiainformációs adatszolgáltatás beszerzése</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Liuksemburgas</TI_CY>
+            <TI_TOWN>Liuksemburgas</TI_TOWN>
+            <TI_TEXT>
+               <P>Energetikos informacijos duomenų teikimo paslaugų įsigijimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Luksemburga</TI_CY>
+            <TI_TOWN>Luksemburga</TI_TOWN>
+            <TI_TEXT>
+               <P>Enerģijas informācijas datu nodrošināšanas iegāde</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Lussemburgu</TI_CY>
+            <TI_TOWN>Lussemburgu</TI_TOWN>
+            <TI_TEXT>
+               <P>Ksib ta' forniment tad-dejta għall-Informazzjoni dwar l-Enerġija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luksemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Pozyskanie danych dotyczących energii</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Luxembursko</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytnutie zberu údajov súvisiacich s energetikou</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Zagotovitev pridobivanja informativnih energetskih podatkov</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Lucsamburg</TI_CY>
+            <TI_TOWN>Lucsamburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Soláthar sonraí ar fhaisnéis maidir le fuinneamh a fháil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Люксембург</TI_CY>
+            <TI_TOWN>Люксембург</TI_TOWN>
+            <TI_TEXT>
+               <P>Набавяне на предоставени информационни данни относно енергетиката</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>Achiziționarea datelor privind furnizarea de informații legate de energie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava pružanja podataka o informacijskom sustavu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Eurostat</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Eurostat</AA_NAME>
+         <AA_NAME LG="EN">European Commission, Eurostat</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Eurostat</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Eurostat</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Eurostat</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Eurostat</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Eurostat</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Eurostat</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Eurostat</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Eurostat</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Eurostat</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Eurostat</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Eurostat</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Eurostatas</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Eurostat</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Eurostat</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Eurostat</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Eurostat</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Eurostat</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Eurostat</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Eurostat</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Eurostat</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Eurostat</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistikker</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Indkøb af dataforsyning vedrørende energiinformation</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Dette udbud omfatter aktiviteter vedrørende indkøbet af dataforsyning vedrørende energiinformation.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Dette udbud omfatter aktiviteter vedrørende indkøbet af dataforsyning vedrørende energiinformation.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Se internetadressen anført i punkt I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Se internetadressen anført i punkt I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>En bemyndiget repræsentant for hver tilbudsgiver kan være til stede ved åbningen af bud. Virksomheder, der ønsker at deltage, anmodes om at informere herom ved fremsendelse af en e-mail til mailboksen, der er angivet i punkt I.1 senest 48 timer i forvejen. Denne meddelelse skal underskrives af en bemyndiget ansat hos tilbudsgiveren og skal angive navnet på den person, der skal overvære åbningen af bud.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen anført i punkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistiken</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Erwerb der Beschaffung von Energieinformationsdaten</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Diese Ausschreibung umfasst Aktivitäten in Verbindung mit dem Erwerb der Beschaffung von Energieinformationsdaten.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Diese Ausschreibung umfasst Aktivitäten in Verbindung mit dem Erwerb der Beschaffung von Energieinformationsdaten.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>2721 Luxembourg (Kirchberg), Luxemburg.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ein bevollmächtigter Vertreter je Bieter darf bei der Öffnung der Angebote anwesend sein. Unternehmen, die an der Öffnung der Angebote teilnehmen möchten, werden gebeten, diese Absicht mindestens 48 Stunden im Voraus per E-Mail an die in Abschnitt I.1 genannte Adresse mitzuteilen. Diese Mitteilung ist von einem Anweisungsbefugten des Bieters zu unterzeichnen und muss den Namen der Person enthalten, die an der Öffnung der Angebote teilnehmen wird.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistics</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Acquisition of Energy Information data provision</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>This invitation to tender covers activities related to the acquisition of Energy Information data provision.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>This invitation to tender covers activities related to the acquisition of Energy Information data provision.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>See internet address provided in Section I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>See internet address provided in Section I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>An authorised representative of each tenderer may attend the opening of the bids. Companies wishing to attend are requested to notify their intention by sending an e-mail to the mailbox indicated in I.1 at least 48 hours in advance. This notification must be signed by an authorised officer of the tenderer and specify the name of the person who will attend the opening of the bids.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>See Internet address provided in Section I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Estadísticas</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Adquisición de suministro de datos de información energética</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El presente concurso cubre actividades relacionadas con la adquisición de suministro de datos de información energética.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>El presente concurso cubre actividades relacionadas con la adquisición de suministro de datos de información energética.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Podrá asistir a la apertura de las ofertas un representante de cada licitador. Las empresas que deseen asistir deberán notificarlo enviando un correo electrónico a la dirección electrónica indicada en el apartado I.1 al menos con 48 horas de antelación. Dicha notificación deberá estar firmada por el funcionario autorizado del licitador y deberá especificar el nombre de la persona que asistirá a la apertura de las ofertas.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Véase la dirección de Internet que figura en el apartado I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>tilastot</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Energiaa koskevien tietojen toimittamisen hankinta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tämä tarjouspyyntö koskee toimia, jotka liittyvät energiaa koskevien tietojen toimittamisen hankintaa.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Tämä tarjouspyyntö koskee toimia, jotka liittyvät energiaa koskevien tietojen toimittamisen hankintaa.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>katso kohdassa I.3 annettu internetosoite.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Katso kohdassa I.3 annettu internetosoite.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Tarjousten avaustilaisuuteen voi osallistua 1 valtuutettu edustaja kultakin tarjoajalta. Yrityksiä, jotka haluavat osallistua avaustilaisuuteen, pyydetään ilmoittamaan aikomuksestaan lähettämällä sähköposti kohdassa I.1 ilmoitettuun osoitteeseen vähintään 48 tuntia ennen tilaisuutta. Kyseisessä ilmoituksessa on oltava tarjoajan valtuuttaman edustajan allekirjoitus, ja siihen on merkittävä sen henkilön nimi, joka osallistuu tarjousten avaustilaisuuteen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>katso kohdassa I.3 annettu internetosoite.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistiques</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Acquisition de la provision de données d’information sur l’énergie</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cet appel d’offres couvre les activités liées à l’acquisition de la provision de données d’information sur l’énergie.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Cet appel d’offres couvre les activités liées à l’acquisition de la provision de données d’information sur l’énergie.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Voir adresse Internet indiquée à la section I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Voir adresse Internet indiquée à la section I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg).</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Un représentant autorisé de chaque soumissionnaire peut assister à l'ouverture des offres. Les sociétés qui souhaitent être présentes devront faire part de leur intention par courrier électronique à l'adresse figurant au point I.1, au moins 48 heures à l'avance. Cette notification devra être signée par un mandataire du soumissionnaire en indiquant le nom de la personne qui assistera à l'ouverture des offres.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Voir l’adresse Internet mentionnée à la section I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Στατιστικές</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή δεδομένων απόκτησης πληροφοριών σχετικά με την ενέργεια</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Η παρούσα πρόσκληση υποβολής προσφορών καλύπτει τις δραστηριότητες που σχετίζονται με την παροχή δεδομένων απόκτησης πληροφοριών σχετικά με την ενέργεια.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Η παρούσα πρόσκληση υποβολής προσφορών καλύπτει τις δραστηριότητες που σχετίζονται με την παροχή δεδομένων απόκτησης πληροφοριών σχετικά με την ενέργεια.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Κατά την αποσφράγιση των προσφορών μπορεί να παρίσταται ένας εξουσιοδοτημένος εκπρόσωπος από τον κάθε υποψήφιο. Οι εταιρείες που επιθυμούν να παραστούν καλούνται να κοινοποιήσουν την πρόθεσή τους μέσω της αποστολής μηνύματος ηλεκτρονικού ταχυδρομείου στη θυρίδα που αναφέρεται στο τμήμα I.1 τουλάχιστον 48 ώρες νωρίτερα. Η εν λόγω κοινοποίηση πρέπει να φέρει υπογραφή εξουσιοδοτημένου υπαλλήλου του υποψήφιου και να διευκρινίζει το ονοματεπώνυμο του ατόμου που θα παραστεί κατά το άνοιγμα των προσφορών.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistiche</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Acquisizione della fornitura di dati informativi sull'energia</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>La presente gara d'appalto riguarda le attività connesse all'acquisizione della fornitura di dati informativi sull’energia.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>La presente gara d'appalto riguarda le attività connesse all'acquisizione della fornitura di dati informativi sull’energia.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Cfr. indirizzo internet indicato alla sezione I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Cfr. indirizzo internet indicato alla sezione I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Potrà assistere all'apertura delle offerte un rappresentante autorizzato per ciascun offerente. Le società che desiderano presenziare sono pregate di comunicare la propria intenzione inviando un'e-mail all'indirizzo di posta elettronica indicato alla sezione I.1 con un anticipo di almeno 48 ore. La notifica dovrà recare la firma di un funzionario autorizzato dell'offerente e dovrà specificare le generalità della persona che assisterà all'apertura delle offerte.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Cfr. indirizzo internet indicato alla sezione I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>statistieken.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verwerving van gegevensverstrekking inzake energie-informatie.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De uitnodiging tot inschrijving omvat de activiteiten voor de verwerving van gegevensverstrekking inzake energie-informatie .</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>De uitnodiging tot inschrijving omvat de activiteiten voor de verwerving van gegevensverstrekking inzake energie-informatie .</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>zie het internetadres vermeld in I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Zie het internetadres vermeld in I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5,</P>
+                  <P>L-2721 Luxembourg (Kirchberg).</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Van elke inschrijver mag een gevolmachtigde vertegenwoordiger de opening van de inschrijvingen bijwonen. Ondernemingen die de opening willen bijwonen dienen hun intentie kenbaar te maken door minstens 48 uur van tevoren een e-mail te sturen naar het in I.1 vermelde e-mailadres. Dit bericht moet worden ondertekend door een bevoegde vertegenwoordiger van de inschrijver en de naam vermelden van de persoon die de opening van de inschrijvingen zal bijwonen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>zie het internetadres vermeld in I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Estatísticas</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Aquisição de fornecimento de dados sobre informação energética</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Este anúncio de concurso abrange atividades relacionadas com a aquisição de fornecimento de dados sobre informação energética.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Este anúncio de concurso abrange atividades relacionadas com a aquisição de fornecimento de dados sobre informação energética.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Poderá assistir à abertura das propostas um representante autorizado de cada proponente. As empresas que pretendam estar presentes deverão notificar a sua intenção mediante o envio de uma mensagem de correio eletrónico para o endereço indicado no ponto I.1 com uma antecedência mínima de 48 horas. Esta notificação deve ser assinada por uma pessoa habilitada pelo proponente e especificar o nome da pessoa designada para assistir à sessão de abertura das propostas.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistik</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Anskaffning av tillhandahållande av energiinformationsdata</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Denna anbudsinfordran täcker aktiviteter relaterade till anskaffningen av tillhandahållande av energiinformationsdata.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Denna anbudsinfordran täcker aktiviteter relaterade till anskaffningen av tillhandahållande av energiinformationsdata.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Se internetadressen som anges i avsnitt I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Se internetadressen som anges i avsnitt I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg), Luxemburg</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>En behörig företrädare för varje anbudsgivare får närvara vid anbudsöppningen. Företag som önskar närvara ombeds anmäla detta via e-post till den e-postadress som anges i punkt I.1 minst 48 timmar i förväg. Anmälan ska undertecknas av en behörig representant för anbudsgivaren och namnet på den person som ska närvara vid anbudsöppningen ska anges.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen som anges i avsnitt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Získávání informací v oblasti poskytování energetických údajů</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tato výzva k podávání nabídek se týká činností souvisejících se získáváním informací v oblasti poskytování energetických údajů.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Tato výzva k podávání nabídek se týká činností souvisejících se získáváním informací v oblasti poskytování energetických údajů.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otevírání nabídek se může účastnit oprávněný zástupce každého uchazeče. Společnosti, které se chtějí zúčastnit, žádáme, aby oznámily svůj záměr zasláním e-mailu na adresu elektronické pošty uvedenou v oddíle I.1 alespoň 48 hodin předem. Toto sdělení musí být podepsáno oprávněným úředníkem uchazeče a musí uvádět jméno osoby, která se zúčastní otevírání nabídek.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Energeetikateabe andmete hankimine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Käesolev pakkumiskutse hõlmab energeetikateabe andmete hankimisega seotud tegevusi.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Käesolev pakkumiskutse hõlmab energeetikateabe andmete hankimisega seotud tegevusi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pakkumiste avamisel võib osaleda iga pakkuja üks volitatud esindaja. Osaleda soovivatel ettevõtjatel palutakse vastavast kavatsusest teada anda vähemalt 48 tundi ette, saates e-kirja punktis I.1 nimetatud aadressil. Selle teate peab olema allkirjastanud pakkuja volitatud ametnik ning selles peab olema märgitud selle isiku nimi, kes osaleb pakkuja nimel pakkumiste avamisel.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statisztika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Energiainformációs adatszolgáltatás beszerzése</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ez az ajánlati felhívás energiainformációs adatszolgáltatás beszerzésére irányuló tevékenységeket foglal magában.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Ez az ajánlati felhívás energiainformációs adatszolgáltatás beszerzésére irányuló tevékenységeket foglal magában.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A tenderbontáson minden ajánlattevő egy-egy felhatalmazott képviselője lehet jelen. Kérjük azokat a vállalatokat, amelyek részt kívánnak venni a bontáson, hogy e szándékukat legalább 48 órával előre jelezzék az I.1. szakaszban megadott postafiókba küldött e-mailben. Ezt a szándéknyilatkozatot az ajánlattevő felhatalmazott tisztviselőjének kell aláírnia, megadva annak a személynek a nevét, aki részt vesz a pályázatbontáson.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Eurostatas</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Energetikos informacijos duomenų teikimo paslaugų įsigijimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šis kvietimas pateikti pasiūlymus apima veiklą, susijusią su energetikos informacijos duomenų teikimo paslaugų įsigijimu.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Šis kvietimas pateikti pasiūlymus apima veiklą, susijusią su energetikos informacijos duomenų teikimo paslaugų įsigijimu.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vokų su pasiūlymais atplėšimo procedūroje gali dalyvauti po 1 įgaliotą kiekvieno konkurso dalyvio atstovą. Dalyvauti pageidaujančių bendrovių prašoma pranešti apie savo ketinimą siunčiant el. laišką į I.1 dalyje nurodytą pašto dėžutę, likus bent 48 valandoms iki procedūros. Šį pranešimą turi pasirašyti įgaliotas konkurso dalyvio atstovas ir nurodyti asmens, kuris dalyvaus vokų su pasiūlymais atplėšimo procedūroje, vardą bei pavardę.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Žr. interneto adresą, nurodytą I.3. dalyje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Enerģijas informācijas datu nodrošināšanas iegāde</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šis uzaicinājums uz konkursu ietver pasākumus, kas saistīti ar enerģijas informācijas datu nodrošināšanas iegādi.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Šis uzaicinājums uz konkursu ietver pasākumus, kas saistīti ar enerģijas informācijas datu nodrošināšanas iegādi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg).</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>piedāvājumu atvēršanu var apmeklēt 1 katra pretendenta pilnvarots pārstāvis. Uzņēmumiem, kas vēlas apmeklēt atvēršanu, vismaz 48 stundas iepriekš par to jāpaziņo, nosūtot e-pastu uz I.1. iedaļā norādīto pastkasti. Šis paziņojums jāparaksta pretendenta pilnvarotam pārstāvim, un tajā jānorāda tās personas vārds un uzvārds, kas piedalīsies piedāvājumu atvēršanā.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>L-istatistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ksib ta' forniment tad-dejta għall-Informazzjoni dwar l-Enerġija</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Din is-sejħa għall-offerti tkopri attivitajiet relatati mal-ksib ta' forniment tad-dejta għall-Informazzjoni dwar l-Enerġija.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Din is-sejħa għall-offerti tkopri attivitajiet relatati mal-ksib ta' forniment tad-dejta għall-Informazzjoni dwar l-Enerġija.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 il-Lussemburgu (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Għall-ftuħ tal-offerti jista' jattendi rappreżentant awtorizzat 1 ta' kull min jitfa' offerta. Il-kumpaniji li jixtiequ jattendu huma mitluba jinnotifikaw l-intenzjoni tagħhom billi jibagħtu Email fl-indirizz elettroniku indikat fit-Taqsima I.1 mill-inqas 48 siegħa bil-quddiem. Din in-notifika trid tkun iffirmata minn uffiċjal awtorizzat ta' min jitfa' offerta u tispeċifika l-isem tal-persuna li se tattendi għall-ftuħ tal-offerti.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statystyka</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pozyskanie danych dotyczących energii</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zaproszenie do składania wniosków obejmuje działania związane z pozyskiwaniem danych dotyczących energii.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Zaproszenie do składania wniosków obejmuje działania związane z pozyskiwaniem danych dotyczących energii.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luksemburg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>W sesji otwarcia ofert może uczestniczyć 1 upoważniony przedstawiciel każdego oferenta. Przedsiębiorstwa wyrażające chęć uczestnictwa są proszone o przesyłanie zgłoszeń pocztą elektroniczną z co najmniej 48-godzinnym wyprzedzeniem na adres podany w pkt I.1. Zgłoszenie musi być podpisane przez upoważnionego urzędnika oferenta i zawierać nazwisko osoby, która będzie obecna podczas otwarcia ofert.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>štatistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytnutie zberu údajov súvisiacich s energetikou</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Táto výzva na predkladanie ponúk sa týka činností, ktoré súvisia s poskytovaním zhromažďovania údajov súvisiacich s energetikou.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Táto výzva na predkladanie ponúk sa týka činností, ktoré súvisia s poskytovaním zhromažďovania údajov súvisiacich s energetikou.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otvárania obálok s ponukami sa môže zúčastniť 1 oprávnený zástupca za každého uchádzača. Žiadame spoločnosti, ktoré majú záujem o účasť, aby svoj záujem ohlásili aspoň 48 hodín vopred zaslaním e-mailu do schránky uvedenej v bode I.1. Toto oznámenie musí byť podpísané oprávneným zástupcom uchádzača a musí uvádzať meno osoby, ktorá sa zúčastní otvárania obálok s ponukami.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zagotovitev pridobivanja informativnih energetskih podatkov</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ta javni razpis obsega dejavnosti v zvezi z zagotovitvijo pridobivanja informativnih energetskih podatkov.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Ta javni razpis obsega dejavnosti v zvezi z zagotovitvijo pridobivanja informativnih energetskih podatkov.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pri odpiranju ponudb je lahko navzoč pooblaščeni zastopnik posameznega ponudnika. Podjetja, ki se želijo udeležiti, naj sporočijo svojo namero vsaj 48 ur vnaprej po e-pošti na naslov, naveden v točki I.1. To obvestilo mora podpisati pooblaščeni uradnik ponudnika in navesti ime osebe, ki se bo udeležila odpiranja ponudb.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Staitisticí</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar sonraí ar fhaisnéis maidir le fuinneamh a fháil</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cuimsítear leis an gcuireadh chun tairisceana seo gníomhaíochtaí a bhaineann le soláthar sonraí ar fhaisnéis maidir le fuinneamh a fháil.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Cuimsítear leis an gcuireadh chun tairisceana seo gníomhaíochtaí a bhaineann le soláthar sonraí ar fhaisnéis maidir le fuinneamh a fháil.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Is féidir le hionadaí údaraithe de chuid gach tairgeora freastal ar oscailt na dtairiscintí. Iarrtar ar chuideachtaí ar mian leo freastal é sin a chur in iúl le facs nó le ríomhphost a sheoladh chuig an mbosca poist atá léirithe in I.1 48 uair roimh ré ar a dhéanaí. Ní foláir nó go bhfuil an fógra sin sínithe ag oifigeach údaraithe an tairgeora agus ba cheart ainm an duine a fhreastalóidh ar oscailt na dtairiscintí a shonrú ann.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Féach an seoladh Idirlín atá curtha ar fáil in alt I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Статистика</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Набавяне на предоставени информационни данни относно енергетиката</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Тази покана за участие в търг обхваща дейности свързани с набавянето на предоставени информационни данни относно енергетиката.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Тази покана за участие в търг обхваща дейности свързани с набавянето на предоставени информационни данни относно енергетиката.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>По един упълномощен представител на всеки оферент може да присъства при отварянето на офертите. Дружествата, желаещи да присъстват, се приканват да уведомят за своето намерение, като изпратят електронно писмо на пощенската кутия, посочена в I.1, най-малко 48 часа предварително. Това уведомление трябва да бъде подписано от упълномощен служител на оферента и да посочва името на лицето, което ще присъства при отварянето на офертите.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistică</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Achiziționarea datelor privind furnizarea de informații legate de energie</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Prezenta invitație la licitație se referă la activitățile legate de achiziționarea datelor privind furnizarea de informații legate de energie.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Prezenta invitație la licitație se referă la activitățile legate de achiziționarea datelor privind furnizarea de informații legate de energie.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg).</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Un reprezentant autorizat din partea fiecărui ofertant poate participa la deschiderea ofertelor. Companiile care doresc să participe trebuie să își anunțe intenția prin trimiterea unui e-mail cu cel puțin 48 de ore în prealabil la adresa de e-mail indicată în secțiunea I.1. Această notificare trebuie semnată de un reprezentant autorizat al ofertantului și să menționeze numele persoanei care va participa la deschiderea ofertelor.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A se vedea adresa de internet indicată în secțiunea I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Eurostat</OFFICIALNAME>
+               <ADDRESS>Bâtiment Ariane 00/B063 Tri central — route d'Esch 400</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2920</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <E_MAIL>ESTAT-Call-for-tenders-directorate-B@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LU"/>
+               <URL_GENERAL>http://ec.europa.eu/eurostat</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3050</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Statistika</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava pružanja podataka o informacijskom sustavu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>ESTAT/B/2018/001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ovaj poziv na nadmetanje obuhvaća aktivnosti povezane s nabavom pružanja podataka o informacijskom sustavu.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72321000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LU"/>
+               <SHORT_DESCR>
+                  <P>Ovaj poziv na nadmetanje obuhvaća aktivnosti povezane s nabavom pružanja podataka o informacijskom sustavu.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">2000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-15</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">12</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-17</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Eurostat, Room B4/444, Joseph Bech Building, rue Alphonse Weicker, 5.</P>
+                  <P>L-2721 Luxembourg (Kirchberg)</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ovlašteni predstavnik svakog ponuditelja može nazočiti otvaranju ponuda. Poduzeća koja žele prisustvovati otvaranju ponuda moraju o tome poslati obavijest e-poštom na adresu e-pošte navedenu u odjeljku I.1. najmanje 48 sati unaprijed. Navedenu obavijest mora potpisati ovlašteni službenik ponuditelja i u obavijesti mora navesti ime osobe koja će biti nazočna otvaranju ponuda.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-21</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

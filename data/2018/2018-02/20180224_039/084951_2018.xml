@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="084951-2018"
+            EDITION="2018039">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-087553-001</RECEPTION_ID>
+      <DELETION_DATE>20180603</DELETION_DATE>
+      <FORM_LG_LIST>PL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>39</NO_OJ>
+         <DATE_PUB>20180224</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 039-084951</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:084951-2018:TEXT:PL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>PL</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>www.wcm.opole.pl</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="33111710">Angiography supplies</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL524">Opolski</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL">POLSKA</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL524">Opolski</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="PLN">2429560.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 236-491423</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180223</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="3">Mixed</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Принадлежности за ангиография</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografické doplňky</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Artikler til angiografi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografie-Ausstattung</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Υλικά αγγειογραφίας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiography supplies</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Material para angiografías</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiograafiatarvikud</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografiatarvikkeet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Fournitures pour l'angiographie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiography supplies</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Potrepštine za angiografiju</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiográfiai kellékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Presidi per angiografia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografijos medžiagos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiogrāfijas piederumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornimenti ta' l-anġjografija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Benodigdheden voor angiografie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Wyroby do angiografii</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Material para angiografia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Accesorii pentru angiografie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografický spotrebný materiál</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Potrebščine za angiografijo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Opole</TI_TOWN>
+            <TI_TEXT>
+               <P>Angiografimateriel</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="PL">Uniwersytecki Szpital Kliniczny w Opolu</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Uniwersytecki Szpital Kliniczny w Opolu</OFFICIALNAME>
+               <ADDRESS>al. W. Witosa 26</ADDRESS>
+               <TOWN>Opole</TOWN>
+               <POSTAL_CODE>45-401</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 4520114</PHONE>
+               <E_MAIL>zamowienia@wcm.opole.pl</E_MAIL>
+               <FAX>+48 4520121</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>www.wcm.opole.pl</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zakup i dostawa stentgraftów oraz sprzętu medycznego dla potrzeb Pracowni Endowaskularnej wraz z zabezpieczeniem depozytu dla zadania 1 i 2.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>TLZP/2-23/233/135/2018</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33111710"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Zadanie 1 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej.</P>
+               <P>Zadanie 2 - Stentgraft do tętniaków aorty piersiowej.</P>
+               <P>Zadanie 3 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej z możliwością zabezpieczenia tętnicy biodrowej wewnętrznej przedłużką typu iliac-brunch.</P>
+               <P>Zadanie 4 - Przedłużka aortalna/ biodrowa do zaopatrywania przecieków I stopnla (cuff).</P>
+               <P>Zadanie 5 - Stent-graft podnerkowy do tętniaków aorty brzusznej o krętych tętnicach biodrowych, z możliwością zastosowania w leczeniu pękniętych tętniaków aorty brzusznej.</P>
+               <P>Zadanie 6 - Ekstender aortalny/biodrowy.</P>
+               <P>Zadanie 7 - Stentgraft rozwidlony z fiksacja nadnerkową o budowie złożonej do tętniaków aorty brzusznej zniskoprofilowym systemem wprowadzania.</P>
+               <P>Zadanie 8 - Prowadniki 0,014” do rekanalizacji naczyń podudzia – prowadnik do rekanalizacji przewlekłych okluzji (CTO) tętnic podudzia.</P>
+               <P>Zadanie 9 - Cewnik hydrofilny podpierający służący jako podparcie dla...</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="PLN">2429560.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Zadanie 1 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 1 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnione przez Wykonawcę wymiarowanie i dobór elementów stent-graftu dla pacjenta</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie przez Wykonawcę kompleksowego szkolenia dwóch lekarzy</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnineie przez Wykonawcę komputera z oprogramowaniem do przeglądania i rekonstrukcji 3 D obrazów TK DICOM</AC_CRITERION>
+                  <AC_WEIGHTING>4</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Potwierdzenie w IFU możliwość stosowania stengraftu w tętnicach</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>1</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Zadanie 2 - Stentgraft do tętniaków aorty piersiowej.</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 2 - Stentgraft do tętniaków aorty piersiowej.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie przez dostawcę i dobór elementów stent-graftu dla pacjenta na podstawie dost. badania angio-TK</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>System wprowadzający umożliwiający bezpieczne dostarczenie stent-graftu</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie szkolenia dwóch lekarzy</AC_CRITERION>
+                  <AC_WEIGHTING>9</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>1</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Zadanie 3 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej z możliwością zabezpieczenia tętnicy biodrowej wewnętrznej przedłużką typu iliac-brunch.</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 3 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej z możliwością zabezpieczenia tętnicy biodrowej wewnętrznej przedłużką typu iliac- brunch.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie wymiarowania i dobór elementów stent-graftu</AC_CRITERION>
+                  <AC_WEIGHTING>24</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Szkolenie dwóch lekarzy</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji</AC_CRITERION>
+                  <AC_WEIGHTING>1</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Zadanie 4 - Przedłużka aortalna/biodrowa do zaopatrywania przecieków I stopnla (cuff).</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 4 - Przedłużka aortalna/biodrowa do zaopatrywania przecieków I stopnla (cuff).</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie wymiarowania i dobór elementów stentgraftu</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Zadanie 5 - Stent-graft podnerkowy do tętniaków aorty brzusznej o krętych tętnicach biodrowych, z możliwością zastosowania w leczeniu pękniętych tętniaków aorty brzusznej.</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 5 - Stent-graft podnerkowy do tętniaków aorty brzusznej o krętych tętnicach biodrowych, z możliwością zastosowania w leczeniu pękniętych tętniaków aorty brzusznej.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Wymiarowanie i dobór elementów stentgraftu</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Możliwość repozycji głównego ramienia stent-graftu</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zapewnienie szkolenia dwóch lekarzy</AC_CRITERION>
+                  <AC_WEIGHTING>9</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>1</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Zadanie 6 - Ekstender aortalny/biodrowy</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 6 - Ekstender aortalny/biodrowy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Wymiarowanie i dobór elementów stent-graftu</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Możliwość repozycji głównego ramienia stent-graftu</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Szkolenie dwóch lekarzy</AC_CRITERION>
+                  <AC_WEIGHTING>9</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji</AC_CRITERION>
+                  <AC_WEIGHTING>1</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Zadanie 7 - Stentgraft rozwidlony z fiksacja nadnerkową o budowie złożonej do tętniaków aorty brzusznej zniskoprofilowym systemem wprowadzania.</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 7 - Stentgraft rozwidlony z fiksacja nadnerkową o budowie złożonej do tętniaków aorty brzusznej zniskoprofilowym systemem wprowadzania.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Zadanie 8 - Prowadniki 0,014” do rekanalizacji naczyń podudzia – prowadnik do rekanalizacji przewlekłychokluzji (CTO) tętnic podudzia.</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 8 - Prowadniki 0,014” do rekanalizacji naczyń podudzia – prowadnik do rekanalizacji przewlekłychokluzji (CTO) tętnic podudzia.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Zadanie 9 - Cewnik hydrofilny podpierający służący jako podparcie dla prowadnika w pokonywaniu trudnych, ciasnych oraz zwapniałych zmian.</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 9 - Cewnik hydrofilny podpierający służący jako podparcie dla prowadnika w pokonywaniu trudnych, ciasnych oraz zwapniałych zmian.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Zadanie 10 - Prowadniki do rekanalizacji tętnicy udowej powierzchownej o średnicy 0,018”.</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 10 - Prowadniki do rekanalizacji tętnicy udowej powierzchownej o średnicy 0,018”.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Zadanie 13 - Cewnik diagnostyczno-interwencyjny.</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33111710"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL524"/>
+               <SHORT_DESCR>
+                  <P>Zadanie 13 - Cewnik diagnostyczno-interwencyjny.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin dostawy</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Termin rozpatrzenia reklamacji i usunięcia wady</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 236-491423</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Zadanie 1 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzuszne</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Medtronic Poland Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>00-633</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">1120000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">1139961.60</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <CONTRACT_NO>2</CONTRACT_NO>
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Zadanie 2 - Stentgraft do tętniaków aorty piersiowej.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Medtronic Poland Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>00-633</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">336000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">353808.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="3">
+            <CONTRACT_NO>3</CONTRACT_NO>
+            <LOT_NO>3</LOT_NO>
+            <TITLE>
+               <P>Zadanie 3 - Stentgraft rozwidlony z fiksacją nadnerkową o budowie złożonej do tętniaków aorty brzusznej z możliwością zabezpieczenia tętnicy biodrowej wewnętrznej przedłużką typu iliac-brunch.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>JOTEC Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>02-757</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">165000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">178200.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="4">
+            <CONTRACT_NO>4</CONTRACT_NO>
+            <LOT_NO>4</LOT_NO>
+            <TITLE>
+               <P>Zadanie 4 - Przedłużka aortalna/biodrowa do zaopatrywania przecieków I stopnla (cuff).</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Medtronic Poland Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">60000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">64800.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="5">
+            <CONTRACT_NO>5</CONTRACT_NO>
+            <LOT_NO>5</LOT_NO>
+            <TITLE>
+               <P>Zadanie 5 - Stent-graft podnerkowy do tętniaków aorty brzusznej o krętych tętnicach biodrowych, z możliwościązastosowania w leczeniu pękniętych tętniaków aorty brzusznej.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Arteriae Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Łódź</TOWN>
+                     <POSTAL_CODE>90-261</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">300000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">324000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="6">
+            <CONTRACT_NO>6</CONTRACT_NO>
+            <LOT_NO>6</LOT_NO>
+            <TITLE>
+               <P>Zadanie 6 - Ekstender aortalny/biodrowy.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Arteriae Sp. z o.o. Sp.K</OFFICIALNAME>
+                     <TOWN>Łódź</TOWN>
+                     <POSTAL_CODE>90-261</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">25000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">27000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="7">
+            <CONTRACT_NO>7</CONTRACT_NO>
+            <LOT_NO>7</LOT_NO>
+            <TITLE>
+               <P>Zadanie 7 - Stentgraft rozwidlony z fiksacja nadnerkową o budowie złożonej do tętniaków aorty brzusznej z niskoprofilowym systemem wprowadzania.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Hammermed Medical Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Łódź</TOWN>
+                     <POSTAL_CODE>90-032</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">290000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">313200.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="8">
+            <CONTRACT_NO>8</CONTRACT_NO>
+            <LOT_NO>8</LOT_NO>
+            <TITLE>
+               <P>Zadanie 8 - Prowadniki 0,014” do rekanalizacji naczyń podudzia – prowadnik do rekanalizacji przewlekłych okluzji (CTO) tętnic podudzia.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott Laboratories Poland Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>02-676</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">15600.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">16416.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="9">
+            <CONTRACT_NO>9</CONTRACT_NO>
+            <LOT_NO>9</LOT_NO>
+            <TITLE>
+               <P>Zadanie 9 - Cewnik hydrofilny podpierający służący jako podparcie dla prowadnika w pokonywaniu trudnych, ciasnych oraz zwapniałych zmian.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>EFmed Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Gdańsk</TOWN>
+                     <POSTAL_CODE>80-557</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">5800.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">6264.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="10">
+            <CONTRACT_NO>10</CONTRACT_NO>
+            <LOT_NO>10</LOT_NO>
+            <TITLE>
+               <P>Zadanie 10 - Prowadniki do rekanalizacji tętnicy udowej powierzchownej o średnicy 0,018”.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Boston Scientific Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>00-175</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">19000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">20520.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="11">
+            <CONTRACT_NO>13</CONTRACT_NO>
+            <LOT_NO>13</LOT_NO>
+            <TITLE>
+               <P>Zadanie 13 - Cewnik diagnostyczno-interwencyjny.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-02-13</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>EFmed Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warszawa</TOWN>
+                     <POSTAL_CODE>80-557</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL524"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="PLN">3960.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="PLN">4276.80</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Krajowa Izba Odwoławcza</OFFICIALNAME>
+               <ADDRESS>ul. Postępu 17A</ADDRESS>
+               <TOWN>Warszawa</TOWN>
+               <POSTAL_CODE>02-676</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-23</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

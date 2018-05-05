@@ -1,0 +1,3455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="161072-2018"
+            EDITION="2018073">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-158599-001</RECEPTION_ID>
+      <DELETION_DATE>20180524</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>73</NO_OJ>
+         <DATE_PUB>20180414</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 073-161072</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:161072-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72260000">Software-related services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:PERFORMANCE_NUTS>
+         <n2016:PERFORMANCE_NUTS CODE="LU000">Luxembourg</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:CA_CE_NUTS>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 137-280411</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180409</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180524 15:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>ECC02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Open source-softwarerevisioner gennem »bug bounty«-programmer til EU-institutionerne (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Prüfungen von Open-Source-Software durch Bug-Bounty-Programme für die EU-Institutionen (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Open Source Software audits via Bug Bounties for the EU Institutions (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Auditorías de «software» de fuente abierta mediante programas «Bug Bounties» para las instituciones de la Unión Europea (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Avoimen lähdekoodin ohjelmistojen tarkastukset bug bounty -ohjelmien avulla EU:n toimielimiä varten (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audits de logiciels libres par l'intermédiaire de programmes Bug Bounty pour les institutions de l'UE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Έλεγχοι λογισμικού ανοικτού κώδικα μέσω Bug Bounties για τα θεσμικά όργανα της ΕΕ (OSS - ΒΒ)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audit di software open source tramite Bug Bounty per le istituzioni dell'UE</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Opensourcesoftwareaudits via Bug Bounties voor de EU-instellingen (OSS-BB).</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Auditorias de software de fonte aberta mediante programas «Bug Bounties» para as instituições da UE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Revisioner av öppen programvara genom hittelöner för buggar för EU-institutionerna (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Audity otevřeného zdrojového softwaru prostřednictvím programů „Bug Bounty“ pro instituce EU (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tasu eest programmivigade otsimise („bug bounty“) süsteemil põhinevad avatud lähtekoodiga tarkvara auditid ELi institutsioonide jaoks (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Nyílt forráskódú szoftverek ellenőrzése hibavadász programok keretében uniós intézmények részére (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Atvirojo šaltinio programinės įrangos auditas per „Bug Bounties“ ES institucijoms (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Atklātā pirmkoda programmatūras revīzijas ES iestāžu vajadzībām, izmantojot programmas, kuru ietvaros par kļūdu atklāšanu piešķir atlīdzību (“Bug Bounties”) (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Verifiki ta' softwer b'sors miftuħ permezz ta' Bug Bounties għall-istituzzjonijiet tal-UE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Audyty otwartego oprogramowania za pośrednictwem programów bug bounty na rzecz instytucji UE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Audity otvoreného zdrojového softvéru prostredníctvom programov „Bug Bounty“ pre inštitúcie EÚ (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Revizije odprtokodne programske opreme s pomočjo programa Bug Bounty za institucije EU (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Iniúchtaí Bogearraí d’Fhoinse Oscailte trí mheán Deolchairí Fabhtanna d’Institiúidí an AE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Одити на софтуер с отворен код чрез Bug Bounties за институциите на ЕС (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audituri pentru software-uri cu sursă deschisă prin programe Bug Bounty pentru instituțiile UE (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Revizije softvera otvorenog koda pomoću programa Bug Bounties za institucije EU-a (OSS-BB)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="EN">European Commission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, Directorate-General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Open source-softwarerevisioner gennem »bug bounty«-programmer til EU-institutionerne (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Open source-softwarerevisioner gennem dusører for bugs til EU-institutionerne.</P>
+               <P>Se internetadressen anført i punkt I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>For yderligere oplysninger, se internetadressen anført i punkt I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rammeaftalerne vil have 1 mulig fornyelse på 2 år.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Forberedende aktiviteter »Forvaltning og kvalitet af softwarekode — Revision af gratis og open source software« (budgetpost 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Se internetadressen anført i punkt I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Udvælgelseskriterier som angivet i udbudsmaterialet.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Se internetadressen anført i punkt I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Se internetadressen anført i punkt I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prüfungen von Open-Source-Software durch Bug-Bounty-Programme für die EU-Institutionen (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Prüfungen von Open-Source-Software durch Bug-Bounty-Programme für die EU-Institutionen.</P>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Für weitere Informationen siehe die unter Abschnitt I.3 genannte Internetadresse.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Die Rahmenverträge haben 1 mögliche Verlängerung um 2 Jahre.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Vorbereitende Maßnahme „Leitung und Qualität des Software-Codes - Prüfung von freier und Open-Source-Software“ (Haushaltslinie 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Eignungskriterien gemäß Auftragsunterlagen.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Siehe die in Abschnitt I.3 angegebene Internetadresse.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Open Source Software audits via Bug Bounties for the EU Institutions (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Open source software audits via bug bounties for the EU Institutions.</P>
+               <P>See internet address provided in Section I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>For further information see Internet address provided in Section I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>The framework contracts will have one possible renewal of 2 years.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Preparatory action "Governance and quality of software code - Auditing of free and open-source software" (budget line 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>See internet address provided in Section I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Selection criteria as stated in the procurement documents.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>rue Montoyer 15, 1000 Brussels, Belgium</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>See internet address provided in Section I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>See internet address provided in Section I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Auditorías de «software» de fuente abierta mediante programas «Bug Bounties» para las instituciones de la Unión Europea (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Auditorías de «software» de fuente abierta mediante programas «Bug Bounties» para las instituciones de la Unión Europea.</P>
+               <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Para más información, véase la dirección de Internet que figura en el apartado I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Los contratos marco estarán sujetos a una posible renovación de 2 años.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Acción preparatoria «Gobernanza y calidad del código de software: auditorías de software de código abierto y código libre» (línea presupuestaria 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Criterios de selección indicados en los documentos de contratación.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Bélgica</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Véase la dirección de internet que figura en el apartado I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Avoimen lähdekoodin ohjelmistojen tarkastukset bug bounty -ohjelmien avulla EU:n toimielimiä varten (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Avoimen lähdekoodin ohjelmistojen tarkastukset bug bounty -ohjelmien avulla (eli palkitsemalla käyttäjiä näiden löytämistä ohjelmointivirheistä) EU:n toimielimiä varten.</P>
+               <P>Katso kohdassa I.3 annettu internetosoite.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Katso lisätietoja kohdassa I.3 annetusta internetosoitteesta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Puitesopimukset voidaan uusia kerran 2 vuoden ajaksi.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Valmistelutoimi ”Ohjelmakoodin hallinta ja laatu – vapaan ja avoimen lähdekoodin ohjelmistojen tarkastus” (budjettikohta 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Katso kohdassa I.3 annettu internetosoite.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>valintaperusteet hankintaa koskevissa asiakirjoissa määritetyn mukaisesti.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Katso kohdassa I.3 annettu internetosoite.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Katso kohdassa I.3 annettu internetosoite.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audits de logiciels libres par l'intermédiaire de programmes Bug Bounty pour les institutions de l'UE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audits de logiciels libres par l'intermédiaire de programmes Bug Bounty pour les institutions de l'UE.</P>
+               <P>Voir adresse Internet indiquée à la section I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Pour des informations complémentaires, voir adresse Internet indiquée à la section I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Les contrats-cadre pourront avoir un renouvellement possible de 2 ans.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Action préparatoire «Gouvernance et qualité du code de logiciel - Audit d’un logiciel libre et ouvert» (ligne budgétaire 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Voir adresse Internet indiquée à la section I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Critères de sélection tels qu'énoncés dans le dossier d'appel d'offres.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgique</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Voir adresse Internet indiquée à la section I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Voir adresse Internet indiquée à la section I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Έλεγχοι λογισμικού ανοικτού κώδικα μέσω Bug Bounties για τα θεσμικά όργανα της ΕΕ (OSS - ΒΒ)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Έλεγχοι λογισμικού ανοικτού κώδικα μέσω Bug Bounties για τα θεσμικά όργανα της ΕΕ.</P>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Για περαιτέρω πληροφορίες βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Υπάρχει μόνο μία πιθανή ανανέωση διάρκειας 2 ετών για τις συμβάσεις-πλαίσιο.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Προπαρασκευαστική ενέργεια "Διακυβέρνηση και ποιότητα του κώδικα λογισμικού - Έλεγχος του ελεύθερου λογισμικού και του λογισμικού ανοικτής πηγής" (κονδύλιο προϋπολογισμού 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Κριτήρια επιλογής όπως ορίζονται στα έγγραφα της σύμβασης.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer, 15, 1000 Brussels, Βέλγιο.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Βλέπε διαδικτυακή διεύθυνση που παρέχεται στο τμήμα I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audit di software open source tramite Bug Bounty per le istituzioni dell'UE</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audit di software open source tramite Bug Bounty per le istituzioni dell'UE.</P>
+               <P>Cfr. indirizzo Internet indicato alla sezione I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Per ulteriori informazioni cfr. indirizzo Internet indicato alla sezione I.3).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>I contratti quadro potranno essere rinnovati soltanto una volta per 2 anni.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Azione preparatoria «Governance e qualità del codice software — Controllo del software gratuito e open source» (linea di bilancio 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Cfr. indirizzo Internet indicato alla sezione I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Criteri di selezione stabiliti nel capitolato d'appalto.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgio</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Cfr. indirizzo Internet indicato alla sezione I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Cfr. indirizzo Internet indicato alla sezione I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Opensourcesoftwareaudits via Bug Bounties voor de EU-instellingen (OSS-BB).</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Opensourcesoftwareaudits via Bug Bounties voor de EU-instellingen (OSS-BB).</P>
+               <P>Zie het internetadres vermeld in I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Voor aanvullende inlichtingen, zie het internetadres vermeld in I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>de raamovereenkomsten kunnen eventueel eenmalig worden verlengd voor 2 jaar.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>voorbereidende actie „Governance en kwaliteit van de softwarecode - audit van vrije software en opensourcesoftware” (begrotingslijn 26 03 77 06).</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Zie het internetadres vermeld in I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>De selectiecriteria zijn vermeld in de aanbestedingsstukken.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, België.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>zie het internetadres vermeld in I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Zie het internetadres vermeld in I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Auditorias de software de fonte aberta mediante programas «Bug Bounties» para as instituições da UE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Auditorias de software de fonte aberta mediante programas «bug bounties» para as instituições da UE.</P>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Para mais informações, consultar o endereço Internet disponibilizado no ponto I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Os contratos-quadro terão uma prorrogação possível de 2 anos.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Ação preparatória «Governança e qualidade de software de código - Auditoria de software livre e de fonte aberta» (rubrica orçamental 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Critérios de seleção, conforme indicados na documentação do concurso.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Bélgica</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Ver endereço Internet disponibilizado no ponto I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Revisioner av öppen programvara genom hittelöner för buggar för EU-institutionerna (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Revisioner av öppen programvara genom hittelöner för buggar för EU-institutionerna.</P>
+               <P>Se internetadressen som anges i punkt I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>för ytterligare information, se internetadressen som anges i avsnitt I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Ramavtalet kommer att ha en möjlig förlängning på två år.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Förberedande åtgärd ”förvaltning och kvalitet avseende programvarukod - granskning av gratis och öppen programvara” (budgetrubrik 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Se internetadressen som anges i punkt I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Uttagningskriterier enligt vad som anges i upphandlingsdokumenten.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Se internetadressen som anges i punkt I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Se internetadressen som anges i punkt I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audity otevřeného zdrojového softwaru prostřednictvím programů „Bug Bounty“ pro instituce EU (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audity otevřeného zdrojového softwaru prostřednictvím programů „Bug Bounty“ pro instituce EU.</P>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Bližší informace jsou uvedeny na internetové adrese uvedené v oddíle I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rámcové smlouvy mohou být prodlouženy pouze jednou na dobu 2 let.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Přípravná akce „Správa a kvalita softwarového kódu - audit bezplatného softwaru a otevřeného zdrojového softwaru“ (rozpočtová linie 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Výběrová kritéria dle stanovení v zadávací dokumentaci.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgie</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Viz internetová adresa uvedená v oddíle I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tasu eest programmivigade otsimise („bug bounty“) süsteemil põhinevad avatud lähtekoodiga tarkvara auditid ELi institutsioonide jaoks (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tasu eest programmivigade otsimise („bug bounty“) süsteemil põhinevad avatud lähtekoodiga tarkvara auditid ELi institutsioonide jaoks.</P>
+               <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Vt lisateavet punktis I.3 nimetatud internetiaadressil.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Raamlepinguid on võimalik uuendada üks kord 2 aastaks.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Ettevalmistav meede: „Tarkvara koodi kontrollimine ja kvaliteet – vaba ja avatud lähtekoodiga tarkvara audit“ (eelarverida 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Hankedokumentides sätestatud valikukriteeriumid.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Vt punktis I.3 nimetatud internetiaadressi.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nyílt forráskódú szoftverek ellenőrzése hibavadász programok keretében uniós intézmények részére (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nyílt forráskódú szoftverek ellenőrzése hibavadász programok keretében uniós intézmények részére.</P>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>A további információkat lásd az I.3. szakaszban megadott internetcímen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A keretszerződés egy alkalommal, 2 éves időtartamra meghosszabbítható.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>„A szoftverkódok irányítása és minősége – ingyenes és nyílt forráskódú szoftverek ellenőrzése” előkészítő intézkedés (26 03 77 06. sz. költségvetési tétel)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>A közbeszerzési dokumentumok szerinti kiválasztási kritériumok.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgium</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Lásd az I.3. szakaszban megadott internetcímet.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Atvirojo šaltinio programinės įrangos auditas per „Bug Bounties“ ES institucijoms (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Atvirojo šaltinio programinės įrangos auditas per „Bug Bounties“ ES institucijoms.</P>
+               <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Papildomą informaciją žr. I.3 dalyje nurodytu interneto adresu.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Preliminariąsias sutartis bus galima atnaujinti 1 kartą 2 metamas.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Parengiamieji veiksmai „Programinės įrangos kodo valdymas ir kokybė. Nemokamos ir atvirojo šaltinio programinės įrangos auditas“ (biudžeto eilutė 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Atrankos kriterijai, kaip nurodyta pirkimo dokumentuose.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Žr. interneto adresą, nurodytą I.3 dalyje.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Atklātā pirmkoda programmatūras revīzijas ES iestāžu vajadzībām, izmantojot programmas, kuru ietvaros par kļūdu atklāšanu piešķir atlīdzību (“Bug Bounties”) (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Atklātā pirmkoda programmatūras revīzijas ES iestāžu vajadzībām, izmantojot programmas, kuru ietvaros par kļūdu atklāšanu piešķir atlīdzību (“Bug Bounties”).</P>
+               <P>Skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Papildu informāciju skatīt I.3. iedaļā norādītajā interneta adresē.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Pamatnolīgumus būs iespējams atjaunot 1 reizi uz 2 gadiem.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>sagatavošanās darbība “Programmatūras koda pārvaldība un kvalitāte – brīvās un atklātā pirmkoda programmatūras pārbaude” (budžeta pozīcija 26 03 77 06).</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Iepirkuma dokumentos norādītie atlases kritēriji.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Beļģija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Skatīt interneta adresi, kas minēta I.3. iedaļā.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, Directorate-General for Informatics, Directorate A: Strategy &amp; Resources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verifiki ta' softwer b'sors miftuħ permezz ta' Bug Bounties għall-istituzzjonijiet tal-UE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Verifiki ta' softwer b'sors miftuħ permezz ta' Bug Bounties għall-istituzzjonijiet tal-UE.</P>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Għal aktar tagħrif ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>L-oqfsa ta' kuntratti se jkollhom tiġdid possibbli wieħed ta' sentejn (2).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Azzjoni preparatorja "Governanza u kwalità tal-kodiċi tas-softwer - Verifiki ta' softwer b'xejn u b'sors miftuħ" (linja tal-baġit 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Il-kriterji tal-għażla kif mistqarra fid-dokumenti tal-ksib.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, il-Belġju</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Ara l-indirizz tal-Internet ipprovdut fit-Taqsima I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audyty otwartego oprogramowania za pośrednictwem programów bug bounty na rzecz instytucji UE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audyty otwartego oprogramowania za pośrednictwem programów bug bounty na rzecz instytucji UE.</P>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Dodatkowe informacje udostępniono pod adresem internetowym podanym w pkt I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Umowy ramowe z możliwością 1 przedłużenia na 2 lata.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Działanie przygotowawcze „Zarządzanie kodem oprogramowania i jego jakość - Audyt oprogramowania wolnego i otwartego” (linia budżetowa 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Zob. adres internetowy w pkt I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Kryteria kwalifikacji zgodnie z dokumentami zamówienia.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Zob. adres internetowy w pkt I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Zob. adres internetowy w pkt I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audity otvoreného zdrojového softvéru prostredníctvom programov „Bug Bounty“ pre inštitúcie EÚ (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audity otvoreného zdrojového softvéru prostredníctvom programov „Bug Bounty“ pre inštitúcie EÚ.</P>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Ďalšie informácie nájdete na internetovej adrese uvedenej v oddiele I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rámcové zmluvy bude možné obnoviť 1-krát na 2 roky.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Prípravná akcia „Správa a kvalita softvérového kódu – audity voľne šíriteľného softvéru a softvéru s otvoreným zdrojovým kódom“ (rozpočtová položka 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Kritériá výberu sú uvedené v súťažných podkladoch.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgicko</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Pozri internetovú adresu uvedenú v oddiele I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd Európskej únie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Revizije odprtokodne programske opreme s pomočjo programa Bug Bounty za institucije EU (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Revizije odprtokodne programske opreme s pomočjo programa Bug Bounty za institucije EU.</P>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Za dodatne informacije glejte spletni naslov v oddelku I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Okvirna naročila se bodo lahko podaljšala 1-krat za 2 leti.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Pripravljalni ukrep „Upravljanje in kakovost programske kode – revizija brezplačne in odprtokodne programske opreme“ (proračunska postavka 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Glejte spletni naslov v oddelku I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Merila za izbor, kot je navedeno v razpisni dokumentaciji.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Glejte spletni naslov v oddelku I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Glejte spletni naslov v oddelku I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Iniúchtaí Bogearraí d’Fhoinse Oscailte trí mheán Deolchairí Fabhtanna d’Institiúidí an AE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Iniúchtaí bogearraí d’fhoinse oscailte trí mheán deolchairí fabhtanna d’Institiúidí an AE.</P>
+               <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Le haghaidh faisnéis bhreise féach an seoladh Idirlín atá curtha ar fáil in Alt I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Bainfidh athnuachan féideartha amháin leis na creatchonarthaí de 2 bhliain.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Gníomh ullmhúcháin "Governance and quality of software code - Auditing of free and open-source software" (líne bhuiséadach 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Na critéir roghnúcháin de réir mar atá luaite sna doiciméid soláthair.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, an Bheilg</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Féach an seoladh idirlín atá curtha ar fáil in Alt I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Одити на софтуер с отворен код чрез Bug Bounties за институциите на ЕС (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Одити на софтуер с отворен код чрез Bug Bounties за институциите на ЕС.</P>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>За допълнителна информация, вж. интернет адреса, предоставен в раздел I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Рамковите договори ще имат едно възможно подновяване за период от 2 години.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Подготвително действие „Управление и качество на софтуерен код — Одит на безплатен софтуер и софтуер с отворен код“ (бюджетна линия 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Критерии за подбор, както е изложено в документите за обществена поръчка.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Белгия.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Вж. интернет адреса, посочен в раздел I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audituri pentru software-uri cu sursă deschisă prin programe Bug Bounty pentru instituțiile UE (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Audituri pentru software-uri cu sursă deschisă prin programe Bug Bounty pentru instituțiile UE.</P>
+               <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Pentru informații suplimentare, a se vedea adresa de internet indicată în Secțiunea I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Contractele-cadru vor avea o posibilă reînnoire de 2 ani.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Acțiunea pregătitoare "Guvernanța și calitatea codului software - Auditarea software-ului gratuit și cu sursă deschisă" (linia bugetară 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Criteriile de selecție menționate în dosarul achiziției.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>A se vedea adresa de internet indicată la punctul I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, Directorate-General for Informatics, Directorate A: Strategy &amp; Ressources, Unit A3: ICT Procurement &amp; Contracts</OFFICIALNAME>
+               <ADDRESS>Rue Montoyer 15</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>DIGIT Contracts Info Centre</CONTACT_POINT>
+               <PHONE>+32 229-60762</PHONE>
+               <E_MAIL>digit-contracts-info-centre@ec.europa.eu</E_MAIL>
+               <FAX>+32 229-57702</FAX>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>https://ec.europa.eu/info/departments/informatics_en</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/informatics-tenders-and-contracts_en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3375</URL_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Revizije softvera otvorenog koda pomoću programa Bug Bounties za institucije EU-a (OSS-BB)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>DIGIT/A3/PO/2017/037</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72260000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Revizije softvera otvorenog koda pomoću programa Bug Bounties za institucije EU-a.</P>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE100"/>
+               <n2016:NUTS CODE="LU000"/>
+               <SHORT_DESCR>
+                  <P>Za dodatne informacije vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Okvirni ugovori moći će se obnoviti jednom na dodatne 2 godine.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Pripremna akcija „Upravljanje i kvaliteta softverskog koda - revizije softvera slobodnog i otvorenog i izvora (proračunska linija 26 03 77 06)</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Kriteriji za odabir kako su navedeni u dokumentaciji o nabavi.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 137-280411</NOTICE_NUMBER_OJ>
+            <DATE_RECEIPT_TENDERS>2018-05-24</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="SV"/>
+               <LANGUAGE VALUE="CS"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">9</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-29</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Rue Montoyer 15, 1000 Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

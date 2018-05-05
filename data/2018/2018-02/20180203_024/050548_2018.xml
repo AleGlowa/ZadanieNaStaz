@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="050548-2018"
+            EDITION="2018024">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-052865-001</RECEPTION_ID>
+      <DELETION_DATE>20180309</DELETION_DATE>
+      <FORM_LG_LIST>FR NL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>24</NO_OJ>
+         <DATE_PUB>20180203</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 024-050548</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:050548-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:050548-2018:TEXT:NL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <LG_ORIG>NL</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>https://www.iris-hopitaux.be/nl/Het-irisnet/Onze-structuren/iris-Aankopen</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="33141625">Diagnostic kits</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180201</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180309 11:30</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Sint-Gillis</TI_TOWN>
+            <TI_TEXT>
+               <P>Kits de diagnostic</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Sint-Gillis</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnosesets</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Комплекти за диагностициране</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostické sady</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostiske sæt</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnoseausrüstung</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Εξοπλισμοί διάγνωσης</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostic kits</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Kits para diagnóstico</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostikakomplektid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostiikkasarjat</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostic kits</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Dijagnostička oprema</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnosztikai készletek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Materiale diagnostico</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostikos rinkiniai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostikas komplekti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Settijiet tad-dianjożi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Zestawy diagnostyczne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Kits de diagnóstico</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Truse de diagnosticare</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnostické súpravy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Kompleti za diagnosticiranje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Saint-Gilles</TI_TOWN>
+            <TI_TEXT>
+               <P>Diagnoskits</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="FR">Association iris-achats</AA_NAME>
+         <AA_NAME LG="NL">Vereniging iris-Aankopen</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Association iris-achats</OFFICIALNAME>
+               <ADDRESS>Rue Dejoncker 46, 5ème étage</ADDRESS>
+               <TOWN>Saint-Gilles</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>iris-achats@iris-hopitaux.be</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://www.iris-hopitaux.be/fr/le-reseau-iris/nos-structures/iris-achats-3</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>https://cloud.3p.eu/Downloads/1/653/KC/2018</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>Association iris-achats</OFFICIALNAME>
+               <ADDRESS>Rue Dejoncker 46 5ème étage</ADDRESS>
+               <TOWN>Saint-Gilles</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>iris-achats@iris-hopitaux.be</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://www.iris-hopitaux.be/fr/le-reseau-iris/nos-structures/iris-achats-3</URL_GENERAL>
+            </ADDRESS_FURTHER_INFO>
+            <URL_PARTICIPATION>https://eten.publicprocurement.be</URL_PARTICIPATION>
+            <CA_TYPE_OTHER>Hôpital</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture de tests de diagnostic rapide des infections respiratoires</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AOO/IA/2018/TESTS UNITAIRES VIROLOGIE</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33141625"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Fourniture de tests de diagnostic rapide des infections respiratoires</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tests de diagnostic rapide des infections respiratoires à influenza A et B</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Plusieurs lieux</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir II.2.1.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le présent marché est conclu pour une durée de 2 ans, reconductible 2 fois pour une durée d’1 an, aux mêmes conditions que celles du marché initial.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Tests de diagnostic rapide des infections respiratoires à RSV</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Plusieurs lieux</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir II.2.1</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le présent marché est conclu pour une durée de 2 ans, reconductible 2 fois pour une durée d’1 an, aux mêmes conditions que celles du marché initial.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Tests de diagnostic rapide des infections respiratoires à adénovirus</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Plusieurs lieux</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir II.2.1</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le présent marché est conclu pour une durée de 2 ans, reconductible deux fois pour une durée d’1 an, aux mêmes conditions que celles du marché initial.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>— les motifs d’exclusion repris ci-après sont applicables au soumissionnaire et, individuellement:</P>
+               <P>1<FT TYPE="SUP">o</FT> à tous les participants qui introduisent ensemble une demande de participation et ont l'intention de constituer, en cas de sélection, un groupement d'opérateurs économiques;</P>
+               <P>2<FT TYPE="SUP">o</FT> à tous les participants qui, en tant que groupement d'opérateurs économiques, déposent ensemble une offre; et</P>
+               <P>3<FT TYPE="SUP">o</FT> aux tiers à la capacité desquels il est fait appel.</P>
+               <P>1) motifs d’exclusion obligatoires:</P>
+               <P>Est exclu, à quelque stade de la procédure que ce soit, le soumissionnaire qui a fait l'objet d'une condamnation prononcée par une décision judiciaire ayant force de chose jugée pour l'une des infractions suivantes:</P>
+               <P>1<FT TYPE="SUP">o</FT> participation à une organisation criminelle;</P>
+               <P>2<FT TYPE="SUP">o</FT> corruption;</P>
+               <P>3<FT TYPE="SUP">o</FT> fraude;</P>
+               <P>4<FT TYPE="SUP">o</FT> infractions terroristes, infractions liées aux activités terroristes ou incitation à commettre une telle infraction, complicité ou tentative d'une telle infraction;</P>
+               <P>5<FT TYPE="SUP">o</FT> blanchiment de capitaux ou financement du terrorisme;</P>
+               <P>6<FT TYPE="SUP">o</FT> travail des enfants et autres formes de traite des êtres humains;</P>
+               <P>7<FT TYPE="SUP">o</FT> occupation de ressortissants de pays tiers en séjour illégal.</P>
+               <P>Est également exclu, le soumissionnaire qui a occupé des ressortissants de pays tiers en séjour illégal, même en l'absence d'une condamnation coulée en force de chose jugée et ce, dès l'instant où cette infraction a été constatée par une décision administrative ou judiciaire, en ce compris par une notification écrite en exécution de l'article 49/2 du code pénal social.</P>
+               <P>Le soumissionnaire remplit les champs du DUME afférents aux motifs d’exclusion obligatoires. Par le dépôt du DUME, le soumissionnaire atteste qu’il ne se trouve pas dans une des situations d’exclusion visées ci-avant.</P>
+               <P>Le pouvoir adjudicateur vérifiera l’exactitude du DUME dans le chef du soumissionnaire auquel il a décidé d’attribuer le marché et lui demandera de présenter les documents justificatifs nécessaires, à savoir un extrait du registre pertinent, tel qu'un extrait de casier judiciaire, ou, à défaut, un document équivalent délivré par l'autorité judiciaire ou administrative compétente du pays d'origine ou d'établissement de l'opérateur économique et dont il résulte que ces conditions sont remplies.</P>
+               <P>Le pouvoir adjudicateur vérifiera les éventuelles mesures correctrices mentionnées par le soumissionnaire dans le DUME et prouvées d’initiative par ce dernier.</P>
+               <P>2) motifs d'exclusion relatifs aux dettes fiscales et sociales:</P>
+               <P>a) le soumissionnaire qui ne satisfait pas à ses obligations de paiement de cotisations de sécurité sociale est exclu de la participation à une procédure de passation, conformément à l'article 68 de la loi du 17.6.2016.</P>
+               <P>Peut néanmoins participer à la procédure, le soumissionnaire qui n'a pas une dette en cotisations supérieure à 3.000 EUR ou qui a obtenu pour cette dette des délais de paiement qu'il respecte strictement.</P>
+               <P>1) le pouvoir adjudicateur procède à la vérification de la situation sur le plan des dettes sociales des soumissionnaires, sur la base des attestations qui sont disponibles électroniquement pour le pouvoir adjudicateur via l'application Télémarc dans les vingt jours suivant la date ultime pour l'introduction des offres.</P>
+               <P>Concernant les attestations disponibles sur Télémarc:</P>
+               <P>—— l’attestation relative au 1<FT TYPE="SUP">er</FT> trimestre est valable du 10 mai au 31 août,</P>
+               <P>—— l’attestation relative au 2<FT TYPE="SUP">ème</FT> trimestre est valable du 10 août au 30 novembre,</P>
+               <P>—— l'attestation relative au 3<FT TYPE="SUP">ème</FT> trimestre est valable du 10 novembre au 28 février,</P>
+               <P>—— l’attestation relative au 4<FT TYPE="SUP">ème</FT> trimestre de l’année précédente est valable du 10 février au 31 mai.</P>
+               <P>2) si cette vérification ne permet pas de vérifier de manière certaine que le soumissionnaire satisfait à ses obligations de paiement des cotisations de sécurité sociale, le pouvoir adjudicateur dema… (voir documents du marché)</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>/.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>/.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>— pour chacun des lots, une liste des 3 principales livraisons effectuées au cours des 3 dernières années, indiquant le montant, la date et le destinataire public ou privé.</P>
+               <P>Le soumissionnaire est tenu de compléter les rubriques du DUME relatives à la sélection qualitative (partie IV, section C), afin d’attester qu’il remplit les critères de sélection qualitative et les niveaux minimaux d’exigence fixés dans le présent cahier spécial des charges.</P>
+               <P>Le pouvoir adjudicateur vérifiera l’exactitude du DUME dans le chef du soumissionnaire auquel il a décidé d’attribuer le marché et lui demandera, le cas échéant, de présenter les documents justificatifs nécessaires, à savoir des attestations émises ou contresignées par l'autorité compétente ou, lorsque le destinataire a été un acheteur privé par une attestation de l'acheteur ou à défaut simplement par une déclaration du fournisseur.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Le montant minimal annuel à atteindre pour chacune de ces trois livraisons est de:</P>
+               <P>— 5 000 EUR HTVA pour le lot 1,</P>
+               <P>— 5 000 EUR HTVA pour le lot 2,</P>
+               <P>— 10 000 EUR HTVA pour le lot 3.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-09</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:30</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-11-04</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-09</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Association iris-Achats, rue Dejoncker 46, 5ème étage à 1060 Bruxelles.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Une séance d’ouverture des offres à huis clos est prévue.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Il n'y a pas de séance publique d'ouverture des offres.</P>
+               <P>Le cahier spécial des charges est disponible sur la plateforme jusqu'au 22.2.2018 à 18h.</P>
+               <P>Les offres peuvent uniquement être introduites électroniquement sur le site internet de e-Tendering https://eten.publicprocurement.be/.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Conseil d'État</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Conseil d'État</OFFICIALNAME>
+               <ADDRESS>Rue de la Science 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+            </ADDRESS_MEDIATION_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-01</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Vereniging iris-Aankopen</OFFICIALNAME>
+               <ADDRESS>Dejonckerstraat, 46 5de verdiep</ADDRESS>
+               <TOWN>Sint-Gillis</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>iris-aankopen@iris-ziekenhuizen.be</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://www.iris-hopitaux.be/nl/Het-irisnet/Onze-structuren/iris-Aankopen</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CENTRAL_PURCHASING/>
+            <DOCUMENT_RESTRICTED/>
+            <URL_DOCUMENT>https://cloud.3p.eu/Downloads/1/653/KC/2018</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>Vereniging iris-Aankopen</OFFICIALNAME>
+               <ADDRESS>Dejonckerstraat, 46 5de verdiep</ADDRESS>
+               <TOWN>Sint-Gillis</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>iris-aankopen@iris-ziekenhuizen.be</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://www.iris-hopitaux.be/nl/Het-irisnet/Onze-structuren/iris-Aankopen</URL_GENERAL>
+            </ADDRESS_FURTHER_INFO>
+            <URL_PARTICIPATION>https://eten.publicprocurement.be</URL_PARTICIPATION>
+            <CA_TYPE_OTHER>Ziekenhuis</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van testkits voor snelle diagnose van ademhalingsinfecties</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AOO/IA/2018/TESTS UNITAIRES VIROLOGIE</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33141625"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Levering van testkits voor snelle diagnose van ademhalingsinfecties.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Testkits voor snelle diagnose van ademhalingsinfecties influenza A en B</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Diverse locaties.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie II.2.1.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Deze overheidsopdracht wordt afgesloten voor een periode van twee jaar, en mag tweemaal voor een periode van een jaar worden verlengd, met toepassing van dezelfde voorwaarden als die van de oorspronkelijke overheidsopdracht.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Testkits voor snelle diagnose van ademhalingsinfecties RSV</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Diverse locaties.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie II.2.1.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Deze overheidsopdracht wordt afgesloten voor een periode van twee jaar, en mag tweemaal voor een periode van een jaar worden verlengd, met toepassing van dezelfde voorwaarden als die van de oorspronkelijke overheidsopdracht.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Testkits voor snelle diagnose van ademhalingsinfecties adenovirus</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="33141625"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Diverse locaties.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie II.2.1.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <DURATION TYPE="MONTH">24</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Deze overheidsopdracht wordt afgesloten voor een periode van twee jaar, en mag tweemaal voor een periode van een jaar worden verlengd, met toepassing van dezelfde voorwaarden als die van de oorspronkelijke overheidsopdracht.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>* De hieronder genoteerde uitsluitingsredenen zijn van toepassing op de inschrijver en individueel:</P>
+               <P>1<FT TYPE="SUP">o</FT> op alle deelnemers die gezamenlijk een aanvraag tot deelname indienen en de bedoeling hebben om, in geval van selectie, een groep te vormen van marktdeelnemers;</P>
+               <P>2<FT TYPE="SUP">o</FT> op alle deelnemers die als groep van marktdeelnemers samen een offerte indienen; en</P>
+               <P>3<FT TYPE="SUP">o</FT> op derden waar beroep wordt op gedaan omwille van hun capaciteit.</P>
+               <P>1) Verplichte uitsluitingsgronden</P>
+               <P>Wordt uitgesloten, in welke fase van het proces ook, de inschrijver die voorwerp heeft uitgemaakt van een veroordeling met een uitgesproken rechterlijke beslissing die kracht van gewijsde heeft verkregen voor de volgende strafbare feiten:</P>
+               <P>1<FT TYPE="SUP">o</FT> deelname aan een criminele organisatie;</P>
+               <P>2<FT TYPE="SUP">o</FT> corruptie;</P>
+               <P>3<FT TYPE="SUP">o</FT> fraude;</P>
+               <P>4<FT TYPE="SUP">o</FT> terroristische misdrijven, misdrijven met betrekking tot terroristische activiteiten of aansporen om een dergelijk feit te plegen, medeplichtigheid of poging tot het plegen van een dergelijk misdrijf;</P>
+               <P>5<FT TYPE="SUP">o</FT> witwassen van geld of financiering van terrorisme;</P>
+               <P>6<FT TYPE="SUP">o</FT> kinderarbeid of andere vormen van mensenhandel;</P>
+               <P>7<FT TYPE="SUP">o</FT> illegaal verblijvende onderdanen van derde landen aan het werk zetten.</P>
+               <P>Is tevens uitgesloten de inschrijver die illegaal verblijvende onderdanen van derde landen aan het werk heeft gezet, zelfs indien er geen veroordeling is uitgesproken die kracht van gewijsde zou hebben, van zodra dit misdrijf werd vastgesteld middels een administratieve of rechterlijke beslissing, daaronder begrepen een schriftelijke betekening in uitvoering van artikel 49/2 van het Sociaal Strafwetboek.</P>
+               <P>De inschrijver vult de velden in van het UEA in verband met de verplichte uitsluitingscriteria. Door de indiening van het UEA verklaart de inschrijver dat hij niet in een uitsluitingssituatie verkeert zoals hierboven genoemd.</P>
+               <P>De aanbestedende dienst controleert de juistheid van het UEA in hoofde van de inschrijver aan wie de opdracht werd gegund. De inschrijver wordt gevraagd om alle nodige bewijsstukken voor te leggen met name een uittreksel van het relevante register zoals een uittreksel uit het strafregister of bij gebrek daaraan een equivalent document afgegeven door een bevoegde gerechtelijke of administratieve overheid van het land van herkomst of vestiging van de marktdeelnemer waaruit blijkt dat aan deze voorwaarden werd tegemoetgekomen.</P>
+               <P>De aanbestedende dienst controleert de eventuele corrigerende maatregelen die vermeld worden door de inschrijver in het UEA en waarvan bewezen is dat ze op eigen initiatief werden vermeld.</P>
+               <P>2) Uitsluitingsgronden met betrekking tot fiscale en sociale schulden:</P>
+               <P>a) De inschrijver die niet voldaan heeft aan zijn verplichtingen inzake betaling van zijn sociale zekerheidsbijdragen, wordt door de aanbestedende overheid uitgesloten van de toegang tot een plaatsingsprocedure, overeenkomstig artikel 68 van de wet van 17 juni 2016.</P>
+               <P>De toegang tot de procedure wordt evenwel niet ontzegd aan een inschrijver die geen bijdrageschuld heeft van meer dan 3.000 euro of die voor die schuld uitstel van betaling heeft verkregen en de afbetalingen daarvan strikt in acht neemt.</P>
+               <P>1) De aanbestedende overheid verifieert de toestand op het vlak van de sociale schulden van de inschrijvers op basis van de attesten die elektronisch beschikbaar zijn voor de aanbestedende overheid via de Telemarc-toepassing, binnen de twintig dagen na de uiterste datum voor het indienen van de offertes.</P>
+               <P>Betreffende de attesten beschikbaar op Telemarc:</P>
+               <P>— de attest voor het 1e kwartaal is geldig van 10 mei tot 31 augustus,</P>
+               <P>— de attest voor het 2de trimester is geldig van 10 augustus tot 30 november,</P>
+               <P>— de attest voor het 3e kwartaal is geldig van 10 november tot 28 februari,</P>
+               <P>— de attest met betrekking tot het 4e kwartaal van het vorige jaar is geldig van 10 februari tot 31 mei.</P>
+               <P>2) Zie opdrachtdocumenten.</P>
+            </SUITABILITY>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Voor elk perceel wordt een lijst opgesteld met de drie voornaamste soortgelijke leveringen, uitgevoerd in de loop van de voorbije drie jaar, waarin het bedrag, de datum en de publieke of private bestemmeling staan vermeld.</P>
+               <P>De inschrijver dient de rubrieken van het UEA met betrekking tot de kwalitatieve selectie in te vullen (deel IV, afdelingen C), als bewijs dat hij voldoet aan de kwalitatieve selectiecriteria en de vereiste minimale niveaus die in onderhavig bijzonder bestek werden vastgelegd.</P>
+               <P>De aanbestedende dienst controleert de juistheid van het UEA in hoofde van de inschrijver aan wie de opdracht werd gegund. De inschrijver wordt gevraagd om alle nodige bewijsstukken voor te leggen, met name de attesten uitgaande van of medeondertekend door een bevoegde overheid of, wanneer de bestemmeling een particuliere afnemer is, een attest van de koper of bij gebrek daaraan een verklaring van de leverancier.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Het jaarlijkse minimumbedrag dat moet worden behaald voor elk van deze drie leveringen is:</P>
+               <P>— 5.000 EUR exclusief BTW voor perceel 1,</P>
+               <P>— 5.000 EUR exclusief BTW voor perceel 2,</P>
+               <P>— 10.000 EUR exclusief BTW voor perceel 3.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-09</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:30</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="NL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-11-04</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-09</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:30</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Vereniging iris-Aankopen, Dejonckerstraat 46, 5de verdieping 1060 Brussel.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Er is een gesloten opening van de offertes voorzien.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Er is geen publieke openingszitting van de offertes. Het bestek is berschikbaar op het plateform tot 22 februari 2018 op 18 uur.</P>
+               <P>De offertes kunnen alleen elektronisch ingediend worden via de e-Tendering internetsite https://eten.publicprocurement.be/</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapsstraat 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_MEDIATION_BODY>
+               <OFFICIALNAME>Raad van State</OFFICIALNAME>
+               <ADDRESS>Wetenschapsstraat 33</ADDRESS>
+               <TOWN>Etterbeek</TOWN>
+               <POSTAL_CODE>1040</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+            </ADDRESS_MEDIATION_BODY>
+            <DATE_DISPATCH_NOTICE>2018-02-01</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

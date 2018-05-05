@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="140165-2018"
+            EDITION="2018063">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-143121-001</RECEPTION_ID>
+      <DELETION_DATE>20180509</DELETION_DATE>
+      <FORM_LG_LIST>SL </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>63</NO_OJ>
+         <DATE_PUB>20180330</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 063-140165</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:140165-2018:TEXT:SL:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>SL</LG_ORIG>
+         <ISO_COUNTRY VALUE="SI"/>
+         <IA_URL_GENERAL>http://www.slovenjgradec.si</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://www.slovenjgradec.si/</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="60300000">Pipeline transport services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="60100000">Road transport services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="60130000">Special-purpose road passenger-transport services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="SI">SLOVENIJA</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="SI">SLOVENIJA</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180328</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180509 08:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="3">Regional or local authority</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="2">Submission for one lot only</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01C02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Cлoвeния</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги на тръбопроводния транспорт</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Slovinsko</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Potrubní doprava</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Slovenien</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Transport via rørsystemer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Slowenien</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Transport in Rohrfernleitungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Σλοβενία</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες μεταφορών μέσω αγωγού</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Slovenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Pipeline transport services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Eslovenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios de transporte por tuberías</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Sloveenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Torutransporditeenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Slovenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Putkijohtokuljetukset</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Slovénie</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Services de transport par pipeline</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Slóivéin, an t</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Pipeline transport services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Slovenija</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge cjevovodnog transporta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Szlovénia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Csővezetékes szállítási szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Slovenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di trasporto mediante condutture</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Slovėnija</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Vamzdynų transporto paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Slovānija</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Cauruļvadu transporta pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>is-Slovenja</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi tat-trasport permezz tal-pajpijiet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Slovenië</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Transport via pijpleiding</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Słowenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi przesyłu rurociągami</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Eslovénia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços de transporte por condutas de longa distância</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Slovenia</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de transport prin conducte</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Slovinsko</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Potrubná doprava</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Slovenija</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve cevovodnega transporta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Slovenien</TI_CY>
+            <TI_TOWN>Slovenj Gradec</TI_TOWN>
+            <TI_TEXT>
+               <P>Pipelinetransport</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="SL">Mestna občina Slovenj Gradec</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Mestna občina Slovenj Gradec</OFFICIALNAME>
+               <NATIONALID>5883903000</NATIONALID>
+               <ADDRESS>Šolska ulica 5</ADDRESS>
+               <TOWN>Slovenj Gradec</TOWN>
+               <POSTAL_CODE>2380</POSTAL_CODE>
+               <COUNTRY VALUE="SI"/>
+               <CONTACT_POINT>Mestna občina Slovenj Gradec, Anita Jeseničnik</CONTACT_POINT>
+               <PHONE>+386 28812110</PHONE>
+               <E_MAIL>info@slovenjgradec.si</E_MAIL>
+               <n2016:NUTS CODE="SI"/>
+               <URL_GENERAL>http://www.slovenjgradec.si</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.slovenjgradec.si/</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="REGIONAL_AUTHORITY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prevozi učencev v Mestni občini Slovenj Gradec, šolsko leto 2018/2019</P>
+            </TITLE>
+            <REFERENCE_NUMBER>430-19/2018</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="60300000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Prevozi učencev v Mestni občini Slovenj Gradec, šolsko leto 2018/2019.</P>
+            </SHORT_DESCR>
+            <LOT_DIVISION>
+               <LOT_ONE_ONLY/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Sklop 1: Grilc, Buč, Sele, Slovenj Gradec - vozilo za 8+1 oseb, 4x4</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>Območje Mestne občine Slovenj Gradec.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 1: GRILC, BUČ, SELE, SLOVENJ GRADEC - VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 1.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: GRILC - POŠ SELE.</P>
+                  <P>? 1.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: BUČ – ODCEP OGRIZ – ABRAHAM IN ODCEP SELE 58 – POŠ SELE.</P>
+                  <P>? 1.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: POŠ SELE – KLANEC KAPELCA – ODCEP ŠERCERJEVA PRVA OŠ.</P>
+                  <P>? 1.4. ODVOZ: POŠ SELE – GRILC – BUČ.</P>
+                  <P>? 1.5. ODVOZ: POŠ SELE – ODCEP SELE 58 IN ABRAHAM – ODCEP OGRIZ – BUČ – GRILC.</P>
+                  <P>? 1.6. ODVOZ: ODCEP ŠERCERJEVA PRVA OŠ – KLANEC KAPELCA – POŠ SELE.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>SKLOP 2: VRHE, GOSTENČNIK - VOZILO ZA 8+1 OSEB, 4x4</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 2: VRHE, GOSTENČNIK - VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 2.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: SELOVEC – PREDNIK – POŠ SELE.</P>
+                  <P>? 2.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: GOSTENČNIK – POŠ SELE.</P>
+                  <P>? 2.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: PESKOKOP – BLATNIŠKI ŽAGA – POŠ SELE.</P>
+                  <P>? 2.4. ODVOZ: POŠ SELE – PREDNIK – SELOVEC.</P>
+                  <P>? 2.5. ODVOZ: POŠ SELE – GOSTENČNIK.</P>
+                  <P>? 2.6. ODVOZ: POŠ SELE – PESKOKOP – BLATNIŠKA ŽAGA – PREDNIK.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Razvidne iz razpisne dokumentacije, kart po posamezni relaciji in ostalih prilog razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>SKLOP 3: SELE, SLOVENJ GRADEC – VOZILO ZA 8+1 OSEB</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 3: SELE, SLOVENJ GRADEC – VOZILO ZA 8+1 OSEB, na relacijah:</P>
+                  <P>? 3.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: POŠ SELE – ODCEP ŠERCERJEVA PRVA OŠ.</P>
+                  <P>? 3.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: ODCEP SELE/SG – POŠ SELE.</P>
+                  <P>? 3.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: POŠ SELE – PRVA OŠ.</P>
+                  <P>? 3.4. ODVOZ: ODCEP ŠERCERJEVA PRVA OŠ – POŠ SELE.</P>
+                  <P>? 3.5. ODVOZ: POŠ SELE – ODCEP SELE/SG.</P>
+                  <P>? 3.6. ODVOZ: PRVA OŠ – POŠ SELE.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>SKLOP 4: GRADIŠČE, RAHTEL, SLOVENJ GRADEC - VOZILO ZA 8+1 OSEB, 4x4</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 4: GRADIŠČE, RAHTEL, SLOVENJ GRADEC - VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 4.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: GREŠOVNIK – GRADIŠKI KRIŽ – DRUGA OŠ.</P>
+                  <P>? 4.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: KUN – MAJCEN – DRUGA OŠ.</P>
+                  <P>? 4.3. ODVOZ: DRUGA OŠ – GRADIŠKI KRIŽ – GREŠOVNIK.</P>
+                  <P>? 4.4. ODVOZ: DRUGA OŠ – MAJCEN – KUN.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>SKLOP 5: SV ANA, PAMEČE - VOZILO ZA 8+1 OSEB, 4x4</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 5: SV ANA, PAMEČE - VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 5.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: SV. ANA – POŠ PAMEČE.</P>
+                  <P>? 5.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: FUKS – GMAJNA – POŠ PAMEČE.</P>
+                  <P>? 5.3. PRVI PRIVOZ ZA DRUGO ŠOLSKO URO: FUKS – GMAJNA – POŠ PAMEČE.</P>
+                  <P>? 5.4. ODVOZ: POŠ PAMEČE – SV. ANA.</P>
+                  <P>? 5.5. ODVOZ: POŠ PAMEČE – GMAJNA – FUKS.</P>
+                  <P>? 5.6. ODVOZ: POŠ PAMEČE – GMAJNA – FUKS.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-01</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>SKLOP 6: PAMEČE, SLOVENJ GRADEC - VOZILO ZA MIN. 20 OSEB</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 6: PAMEČE, SLOVENJ GRADEC - VOZILO ZA MIN. 20 OSEB, na relacijah:</P>
+                  <P>? 6.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: POŠ PAMEČE – DRUGA OŠ.</P>
+                  <P>? 6.2. PRVI PRIVOZ ZA DRUGO ŠOLSKO URO: POŠ PAMEČE – DRUGA OŠ.</P>
+                  <P>? 6.3. PRVI ODVOZ: DRUGA OŠ – POŠ PAMEČE.</P>
+                  <P>? 6.4. DRUGI ODVOZ: DRUGA OŠ – POŠ.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>SKLOP 7: SINREIH, SLOVENJ GRADEC – VOZILO za 6+1</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 7: SINREIH, SLOVENJ GRADEC – VOZILO za 6+1 (relacija poteka po zahtevnem terenu, ki je v času zimskih razmer težje prevozen),, na relacijah:</P>
+                  <P>? 7.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: SINREIH – POŠ PAMEČE.</P>
+                  <P>? 7.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: PAMEČE – TRETJA OŠ.</P>
+                  <P>? 7.3. ODVOZ: POŠ PAMEČE – SINREIH.</P>
+                  <P>? 7.4. ODVOZ: TRETJA OŠ – PAMEČE.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>SKLOP 8: GOLAVABUKA, ŠMARTNO - VOZILO ZA 8+1 OSEB, 4x4</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 8: GOLAVABUKA, ŠMARTNO - VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 8.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: LEGEN 174 – POPJAL – OŠ ŠMARTNO.</P>
+                  <P>? 8.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: ČREŠNIK RIDA – OŠ ŠMARTNO.</P>
+                  <P>? 8.3. PRVI PRIVOZ ZA DRUGO ŠOLSKO URO: POPIJAL – OŠ ŠMARTNO.</P>
+                  <P>? 8.4. ODVOZ: OŠ ŠMARTNO – POPJAL – LEGEN 174.</P>
+                  <P>? 8.5.ODVOZ: OŠ ŠMARTNO – ČREŠNIK RIDA.</P>
+                  <P>? 8.6. ODVOZ: OŠ ŠMARTNO – POPJAL.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>SKLOP 9: LIPA, STOPERNIK, PODHOMEC, ŠMARTNO - VOZILO ZA 8+1 OSEB</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 9: LIPA, STOPERNIK, PODHOMEC, ŠMARTNO - VOZILO ZA 8+1 OSEB, na relacijah:</P>
+                  <P>? 9.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: STOPERNIK - LIPA – OŠ ŠMARTNO.</P>
+                  <P>? 9.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: PODHOMEC – ODCEP BIOMEDIKA – OŠ ŠMARTNO.</P>
+                  <P>? 9.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: LIPA – OŠ ŠMARTNO.</P>
+                  <P>? 9.4. PRVI PRIVOZ ZA DRUGO ŠOLSKO URO: STOPERNIK – LIPA – OŠ ŠMARTNO.</P>
+                  <P>? 9.5. ODVOZ: OŠ ŠMARTNO – PODHOMEC – ODCEP BIOMEDIKA.</P>
+                  <P>? 9.6. ODVOZ: OŠ ŠMARTNO – LIPA – STOPERNIK.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>SKLOP 10: METULOV BREG, BRDA, ŠMARTNO – AVTOBUS za 50 oseb</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 10: METULOV BREG, BRDA, ŠMARTNO – AVTOBUS za 50 oseb, na relacijah:</P>
+                  <P>? 10.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: METULOV BREG – ŠMONOVA VAS – ŠERTL – BRDA – TURIŠKA VAS – TOMAŠKA VAS – OŠ ŠMARTNO.</P>
+                  <P>? 10.2. PRVI PRIVOZ ZA DRUGO ŠOLSKO URO: METULOV BREG – ŠMONOVA VAS – ŠERTL – BRDA – TURIŠKA VAS – TOMAŠKA VAS – OŠ ŠMARTNO.</P>
+                  <P>? 10.3. ODVOZ: OŠ ŠMARTNO – TOMAŠKA VAS – TURIŠKA VAS – BRDA – ŠERTEL – ŠMONOVA VAS – METULOV BREG.</P>
+                  <P>? 10.4. ODVOZ: OŠ ŠMARTNO – TOMAŠKA VAS – TURIŠKA VAS – BRDA – ŠERTL – ŠMONOVA VAS – METULOV BREG.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>SKLOP 11: MISLINJSKA DOBRAVA, ŠMIKLAVŽ, HRIBERŠEK, PODGORJE – VOZILO ZA 20 OSEB</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 11: MISLINJSKA DOBRAVA, ŠMIKLAVŽ, HRIBERŠEK, PODGORJE – VOZILO ZA 20 OSEB, na relacijah:</P>
+                  <P>? 11.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: ŠKODNIK – OŠ ŠMIKLAVŽ – OŠ PODGORJE.</P>
+                  <P>? 11.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: ODCEP HRIBERŠEK – OŠ ŠMIKLAVŽ – OŠ PODGORJE.</P>
+                  <P>? 11.3. ODVOZ: OŠ PODGORJE – OŠ ŠMIKLAVŽ – ŠKODNIK.</P>
+                  <P>? 11.4. ODVOZ: OŠ PODGORJE – OŠ ŠMIKLAVŽ – ODCEP HRIBERŠEK.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>SKLOP 12: GRAŠKA GORA, MURN, ŠMIKLAVŽ – VOZILO ZA 8+1, 4x4</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 12: GRAŠKA GORA, MURN, ŠMIKLAVŽ – VOZILO ZA 8+1, 4x4, na relacijah:</P>
+                  <P>? 12.1. PRVI PRIVOZ PRVO ŠOLSKO URO: PLAZL GRAŠKA GORA – STRMČNIK – OŠ ŠMIKLAVŽ.</P>
+                  <P>? 12.2. DRUGI PRIVOZ PRVO ŠOLSKO URO: MURN – POŠ ŠMIKLAVŽ.</P>
+                  <P>? 12.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: ŠMIKLAVŽ – POŠ ŠMIKLAVŽ.</P>
+                  <P>? 12.4. ODVOZ: POŠ ŠMIKLAVŽ – ŠMIKLAVŽ.</P>
+                  <P>? 12.5. ODVOZ: POŠ ŠMIKLAVŽ – STRMČNIK – PLAZL GRAŠKA GORA.</P>
+                  <P>? 12.6. ODVOZ: POŠ ŠMIKLAVŽ – MURN.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>SKLOP 13: ARNEŽNIK, SV. DUH, SUHI DOL, PODGORJE – VOZILO ZA 8+1</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 13: ARNEŽNIK, SV. DUH, SUHI DOL, PODGORJE – VOZILO ZA 8+1, 4x4, na relacijah:</P>
+                  <P>? 13.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: PLEŠIVEC – ARNEŽNIK – POŠ ŠMIKLAVŽ.</P>
+                  <P>? 13.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: SV. DUH – OŠ PODGORJE.</P>
+                  <P>? 13.3.TRETJI PRIVOZ: BALEK – OŠ PODGORJE.</P>
+                  <P>? 13.4. ODVOZ: POŠ ŠMIKLAVŽ – ARNEŽNIK – PLEŠIVEC.</P>
+                  <P>? 13.5. ODVOZ: OŠ PODGORJE – SV. DUH.</P>
+                  <P>? 13.6. ODVOZ: OŠ PODGORJE – BALEK.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>SKLOP 14: SUHI DOL, SV. DUH, PODGORJE – VOZILO ZA 8+1, na relacijah:</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 14: SUHI DOL, SV. DUH, PODGORJE – VOZILO ZA 8+1, na relacijah:</P>
+                  <P>? 14.1. PRVI PRIVOZ ZA PRVO ŠOLSKO URO: AREH RADUŠE – OŠ PODGORJE.</P>
+                  <P>? 14.2. DRUGI PRIVOZ ZA PRVO ŠOLSKO URO: PODGORJE – OŠ PODGORJE.</P>
+                  <P>? 14.3. TRETJI PRIVOZ ZA PRVO ŠOLSKO URO: AREH RADUŠE – OŠ PODGORJE.</P>
+                  <P>? 14.4. ODVOZ: OŠ PODGORJE – AREH RADUŠE.</P>
+                  <P>? 14.5. ODVOZ: OŠ PODGORJE – PODGORJE.</P>
+                  <P>? 14.6. ODVOZ: OŠ PODGORJE- AREH RADUŠE.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="15">
+               <TITLE>
+                  <P>SKLOP 15: RAZBOR – VOZILO ZA 8+1 OSEB, 4x4</P>
+               </TITLE>
+               <LOT_NO>15</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="60130000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="SI"/>
+               <MAIN_SITE>
+                  <P>OBMOČJE MESTNE OBČINE SLOVENJ GRADEC.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>SKLOP 15: RAZBOR – VOZILO ZA 8+1 OSEB, 4x4, na relacijah:</P>
+                  <P>? 15.1. PRVI PRIVOZ: SPODNJI RAZBOR 18 – POŠ RAZBOR.</P>
+                  <P>? 15.2. DRUGI PRIVOZ: SPODNJI RAZBOR 32 – POŠ RAZBOR.</P>
+                  <P>? 15.3. TRETJI PRIVOZ: ZGORNJI RAZBOR – POŠ RAZBOR.</P>
+                  <P>? 15.4. ODVOZ: POŠ RAZBOR – SP. RAZBOR 18.</P>
+                  <P>? 15.5. ODVOZ: POŠ RAZBOR – SP. RAZBOR 32.</P>
+                  <P>? 15.6. ODVOZ: POŠ RAZBOR – ZGORNJI RAZBOR.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <DATE_START>2018-09-03</DATE_START>
+               <DATE_END>2019-06-23</DATE_END>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dodatne informacije so razvidne iz razpisne dokumentacije, izrisov relacij posameznih sklopov in ostalih prilog ter navodil razpisne dokumentacije.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Pogoj za udeležbo je na dan oddaje ponudbe veljavna licenca za opravljanje prevozov potnikov v notranjem cestnem prometu, skladno z določili zakona, ki ureja prevoze v cestnem prometu. Sestavni del te izjave je k temu obrazcu priloženo dokazilo, iz katerega je razvidno, da imamo na dan oddaje ponudbe veljavno Licenco za opravljanje prevozov potnikov v notranjem cestnem prometu, skladno z določili zakona, ki ureja prevoze v cestnem prometu. Ponudnik mora imeti veljavno registracijo za opravljanje dejavnosti v skladu s predpisi države članice, v kateri je registrirana dejavnost o vpisu v register poklicev ali trgovski register in veljavno dovoljenje pristojnega organa za opravljanje dejavnosti, ki je predmet javnega naročila, če je za opravljanje take dejavnosti na podlagi posebnega zakona takšno dovoljenje potrebno, ali morajo biti člani posebne organizacije, da bi lahko v državi, v kateri imajo svoj sedež, opravljali storitev.</P>
+               <P>Ostali pogoji so razvidni iz razpisne dokumentacije.</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Pogoji za izvedbo storitve in zahteve glede vozila so navedeni pri opisu sklopov.Splošni pogoj za udeležbo je na dan oddaje ponudbe veljavna licenca za opravljanje prevozov potnikov v notranjem cestnem prometu, skladno z določili zakona, ki ureja prevoze v cestnem prometu. Sestavni del te izjave je k temu obrazcu priloženo dokazilo, iz katerega je razvidno, da imamo na dan oddaje ponudbe veljavno Licenco za opravljanje prevozov potnikov v notranjem cestnem prometu, skladno z določili zakona, ki ureja prevoze v cestnem prometu.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-09</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>08:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="SL"/>
+            </LANGUAGES>
+            <DATE_TENDER_VALID>2018-10-01</DATE_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-09</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Sejna soba Mestne občine Slovenj Gradec, Šolska ulica 5, 2380 Slovenj Gradec.</P>
+               </PLACE>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>Pogoj: Finančno zavarovanje za resnost ponudbe.</P>
+               <P>Ponudnik mora v ponudbi priložiti:</P>
+               <P>— 5 x original podpisano in v celoti izpolnjeno menično izjavo za resnost ponudbe s pooblastilom za izpolnitev in unovčenje in,</P>
+               <P>— 5 x bianko podpisane menice, z veljavnostjo najmanj do 1. 10. 2018.</P>
+               <P>Zahtevana višina finančnega zavarovanja je vezana na vsak posamezni sklop. V primeru, da se ponudnik prijavlja na več sklopov, lahko predloži eno menično izjavo v skupni vrednosti vseh sklopov.</P>
+               <P>Rok za sprejemanje ponudnikovih vprašanj: 25.04.2018 00:00:00.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Državna revizijska komisija za revizijo postopkov oddaje javnih naročil</OFFICIALNAME>
+               <ADDRESS>Slovenska cesta 54</ADDRESS>
+               <TOWN>Ljubljana</TOWN>
+               <POSTAL_CODE>1000</POSTAL_CODE>
+               <COUNTRY VALUE="SI"/>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Mestna občina Slovenj Gradec</OFFICIALNAME>
+               <ADDRESS>Šolska ulica 5</ADDRESS>
+               <TOWN>Slovenj Gradec</TOWN>
+               <POSTAL_CODE>2380</POSTAL_CODE>
+               <COUNTRY VALUE="SI"/>
+               <E_MAIL>info@slovenjgradec.si</E_MAIL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-28</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

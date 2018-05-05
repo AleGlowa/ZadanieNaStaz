@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="114431-2018"
+            EDITION="2018052">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-113844-001</RECEPTION_ID>
+      <DELETION_DATE>20180427</DELETION_DATE>
+      <FORM_LG_LIST>HU </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>52</NO_OJ>
+         <DATE_PUB>20180315</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 052-114431</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:114431-2018:TEXT:HU:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>HU</LG_ORIG>
+         <ISO_COUNTRY VALUE="HU"/>
+         <IA_URL_GENERAL>http://www.nif.hu</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://www.dropbox.com/sh/kthth8iamfnh8tt/AABmuF3hs7aPdP6-KKvYzsyJa?dl=0</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="45000000">Construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45110000">Building demolition and wrecking work and earthmoving work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45111240">Ground-drainage work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45112420">Basement excavation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45200000">Works for complete or part construction and civil engineering work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45210000">Building construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45213311">Bus station construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45213312">Car park building construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45213321">Railway station construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45213150">Office block construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45215222">Civic centre construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45220000">Engineering works and construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45221200">Construction work for tunnels, shafts and subways</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45221211">Underpass</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45221220">Culverts</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45223320">Park-and-ride facility construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231000">Construction work for pipelines, communication and power lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231220">Construction work for gas pipelines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231221">Gas supply mains construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231300">Construction work for water and sewage pipelines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231400">Construction work for electricity power lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45231600">Construction work for communication lines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45232140">District-heating mains construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233120">Road construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233124">Trunk road construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233126">Grade-separated junction construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233128">Roundabout construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233144">Overpass construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233161">Footpath construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233162">Cycle path construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233262">Pedestrian zone construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233280">Erection of road-barriers</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233290">Installation of road signs</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233292">Installation of safety equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45233294">Installation of road signals</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234115">Railway signalling works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234121">Tramway works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234126">Tramline construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234128">Tramway platforms construction work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45234160">Catenary's construction works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45300000">Building installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45350000">Mechanical installations</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45310000">Electrical installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45313000">Lift and escalator installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45315500">Medium-voltage installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45315600">Low-voltage installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45316000">Installation work of illumination and signalling systems</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45343200">Firefighting equipment installation work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45453100">Refurbishment work</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45317200">Electrical installation work of transformers</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="45317300">Electrical installation work of electrical distribution apparatus</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48813000">Passenger information system</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71421000">Landscape gardening services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="77310000">Planting and maintenance services of green areas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="71322000">Engineering design services for the construction of civil engineering works</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="90523100">Weapons and ammunition disposal services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="HU321">Hajdú-Bihar</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU110">Budapest</n2016:CA_CE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU321">Hajdú-Bihar</n2016:CA_CE_NUTS>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180312</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180427 11:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="1">Works</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>01A02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Унгapия</TI_CY>
+            <TI_TOWN>Будапеща</TI_TOWN>
+            <TI_TEXT>
+               <P>Строителни и монтажни работи</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Stavební práce</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Bygge- og anlægsarbejder</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Bauarbeiten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ουγγαρία</TI_CY>
+            <TI_TOWN>Βουδαπέστη</TI_TOWN>
+            <TI_TEXT>
+               <P>Κατασκευαστικές εργασίες</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Hungary</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Construction work</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Hungría</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Trabajos de construcción</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Ungari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Ehitustööd</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Unkari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Rakennustyöt</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Hongrie</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Travaux de construction</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ungáir, an</TI_CY>
+            <TI_TOWN>Búdaipéist</TI_TOWN>
+            <TI_TEXT>
+               <P>Construction work</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Mađarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Građevinski radovi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Magyarország</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Építési munkák</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Ungheria</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Lavori di costruzione</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vengrija</TI_CY>
+            <TI_TOWN>Budapeštas</TI_TOWN>
+            <TI_TEXT>
+               <P>Statybos darbai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Ungārija</TI_CY>
+            <TI_TOWN>Budapešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Celtniecības darbi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Ungerija</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Xogħol tal-kostruzzjoni</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Hongarije</TI_CY>
+            <TI_TOWN>Boedapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Bouwwerkzaamheden</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Węgry</TI_CY>
+            <TI_TOWN>Budapeszt</TI_TOWN>
+            <TI_TEXT>
+               <P>Roboty budowlane</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Hungria</TI_CY>
+            <TI_TOWN>Budapeste</TI_TOWN>
+            <TI_TEXT>
+               <P>Construção</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Ungaria</TI_CY>
+            <TI_TOWN>Budapesta</TI_TOWN>
+            <TI_TEXT>
+               <P>Lucrări de construcţii</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Stavebné práce</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Madžarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Gradbena dela</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Ungern</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Anläggningsarbete</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="HU">NIF Zrt.</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>NIF Zrt.</OFFICIALNAME>
+               <NATIONALID>AK15388</NATIONALID>
+               <ADDRESS>Váci út 45.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1134</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Hegedűs-Szenteczki Hajnalka</CONTACT_POINT>
+               <PHONE>+36 52502554</PHONE>
+               <E_MAIL>kozbeszerzes@nif.hu</E_MAIL>
+               <FAX>+36 52502557</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://www.nif.hu</URL_GENERAL>
+               <URL_BUYER>http://www.nif.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://www.dropbox.com/sh/kthth8iamfnh8tt/AABmuF3hs7aPdP6-KKvYzsyJa?dl=0</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>DEBKÖZ Közbeszerzés Kft.</OFFICIALNAME>
+               <ADDRESS>Poroszlay út 27.</ADDRESS>
+               <TOWN>Debrecen</TOWN>
+               <POSTAL_CODE>4032</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Hegedűs-Szenteczki Hajnalka</CONTACT_POINT>
+               <PHONE>+36 52502554</PHONE>
+               <E_MAIL>szenteczki.hajnalka@debkoz.hu</E_MAIL>
+               <FAX>+36 52502557</FAX>
+               <n2016:NUTS CODE="HU321"/>
+               <URL_GENERAL>http://www.nif.hu</URL_GENERAL>
+               <URL_BUYER>http://www.nif.hu</URL_BUYER>
+            </ADDRESS_FURTHER_INFO>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>DEBKÖZ Közbeszerzés Kft.</OFFICIALNAME>
+               <ADDRESS>Poroszlay út 27.</ADDRESS>
+               <TOWN>Debrecen</TOWN>
+               <POSTAL_CODE>4032</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Hegedűs-Szenteczki Hajnalka</CONTACT_POINT>
+               <PHONE>+36 52502554</PHONE>
+               <E_MAIL>szenteczki.hajnalka@debkoz.hu</E_MAIL>
+               <FAX>+36 52502557</FAX>
+               <n2016:NUTS CODE="HU321"/>
+               <URL_GENERAL>http://www.nif.hu</URL_GENERAL>
+               <URL_BUYER>http://www.nif.hu</URL_BUYER>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY_OTHER>közlekedési infrastruktúra fejlesztése</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Vállalkozási szerződés a Debreceni intermodális személyszállítási központ és kapcsolódó létesítményeik kiegészítő tervezési és kivitelezési munkáira (PST kód: I000.01)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>(PST kód: I000.01)</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="45000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="WORKS"/>
+            <SHORT_DESCR>
+               <P>A Debreceni intermodális személyszállítási központ és kapcsolódó létesítményeik kiegészítő tervezési és kivitelezési (PST kód: I000.01) munkái.</P>
+               <P>Jelen vállalkozási szerződés keretében Debrecen átépítéséhez és a Petőfi tér fejlesztéséhez szervesen illeszkedő épületegyüttes, közlekedési hálózat és térrendezés valósul meg, továbbá a Debrecen, 33. sz. Füzesabony - Debrecen II. rendű főút 108+923 km szelvényében lévő Nyíl-Hadházi utca csomópont ideiglenes átépítése.</P>
+            </SHORT_DESCR>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45110000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45111240"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45112420"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45200000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45210000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45213311"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45213312"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45213321"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45213150"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45215222"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45220000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45221200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45221211"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45221220"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45223320"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231220"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231221"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45231600"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45232140"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233120"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233124"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233126"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233128"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233144"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233161"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233162"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233262"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233280"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233290"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233292"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45233294"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234115"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234121"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234126"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234128"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45234160"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45300000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45350000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45313000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45315500"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45315600"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45316000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45343200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45453100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45317200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="45317300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48813000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71421000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="77310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="71322000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="90523100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU321"/>
+               <MAIN_SITE>
+                  <P>Magyarország, Debrecen, Petőfi tér (9555/5 hrsz.).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1. Debrecen belterületén 42325m<FT TYPE="SUP">2</FT> hasznos alapterületű, térszín alatt kétszintes pinceszint+fsz.+3 em. szintszámú, térszint fölött 4 épületrészt (többek között 386 férőhelyes parkolóházat is) magába foglaló közhasználatú épületegyüttes átépítése, építése, 6554 m<FT TYPE="SUP">2</FT> épület üvegszerkezet melyből, 3070 m<FT TYPE="SUP">2</FT> acél tartószerkezetű üvegtető építése és az épületegyüttes kialakításához szükséges egybefüggő munkagödör lehatárolása (résfalépítése) és víztelenítése mintegy 25 000 m<FT TYPE="SUP">2</FT>-en, bontási munkák, mintegy 11200m³ mennyiségben, beépített városi környezetben.</P>
+                  <P>2. Az Intermodális Közösségi Közlekedési Központ (IKKK) és kapcsolódó létesítményeinek építéséhez kapcsolódó külső közműkiváltások elvégzése.</P>
+                  <P>3. A 4. számú és 47. számú főutak építési feladatainak ellátásához szükséges gyalogos, kerékpáros és közúti aluljárók, valamint a meglévő Homokkerti felüljáró felhajtóág hídjának bontása.</P>
+                  <P>4. A 4. számú főút átépítése, valamint a 47. számú főút és 4. számú főút csatlakozásának (különszintű közl. csomópontjának) átépítése.</P>
+                  <P>4.1.: A 4. számú főút 884,53m egybefüggő (folyamatos szelvényű) hosszon történő átépítése - különszintű közl. csomópont építésével -, mintegy 430m hosszon térszín alá vezetve, a villamos pálya alatti közúti átvezetést biztosító aluljáró építésével (a közút felszín alatti átvezetését biztosító tartószerkezeti elem részeként 1500m3 résfal építésével), 2 db körforgalom kialakítása.</P>
+                  <P>4.2.: A 47. számú főút és 4. számú főút csatlakozásának átépítése (0+741,78 - 0+975 km. sz. közötti szakaszon), meglévő indirekt ágak elbontásával és átépítésével a 4. számú főúton kiépítésre kerülő rotációs körforgalmakhoz való csatlakozás érdekében.</P>
+                  <P>5. 4 db új jelzőlámpás közl. csomóponti forgalomirányítási rendszer kialakítása, 1 db jelzőlámpás közl. csomópont átépítése és 3 db jelzőlámpás közl. csomópont bontása.</P>
+                  <P>6. Kötöttpályás (villamos és troli) létesítmények és kapcsolódó berendezések bontása, valamint új villamosvágány, fejállomás, áramellátási, felsővezeték, valamint jelző- és biztosítóberendezések építése:</P>
+                  <P>O Vályús-sínes RAFS vágány bontása: 645 vm.</P>
+                  <P>O Vályús sínes RAFS felépítmény építése: 850 vm.</P>
+                  <P>O szükségleszállóhely kialakítása 1 db.</P>
+                  <P>O megállóhely áthelyezése 1 db.</P>
+                  <P>7. Környezetrendezési és parképítési munkák, többek között 40000m2 füvesítés és 14500m2 térkőburkolat építés</P>
+                  <P>8. Debrecen vasútállomás építés alatti vasúti üzemét biztosító, az áramellátási berendezések ideiglenes kiváltására vonatkozó tervezés, engedélyeztetés és kivitelezés.</P>
+                  <P>9. Debrecen, 33. sz. Füzesabony - Debrecen II. rendű főút 108+923 km szelvényében lévő Nyíl-Hadházi utca csomópont ideiglenes átépítése.</P>
+                  <P>10. Az intermodális közl. csomópont építési munkái során az alábbi közlekedési módok építési, felújítási munkái valósulnak meg: személy- és tehergépkocsi, kerékpár, villamos, busz (helyi-, helyközi), trolibusz, gyalogos.</P>
+                  <P>További kiegészítő tervezési feladatok.</P>
+                  <P>— víztelenítés, résfal,</P>
+                  <P>— ideiglenes forgalomtechnika,</P>
+                  <P>— földfelszín alatti helymeghatározás.</P>
+                  <P>Egyéb vállalkozói feladatok.</P>
+                  <P>— ideiglenes forgalomterelés építés, bontás,</P>
+                  <P>— tűzszerészeti vizsgálat és hatástalanítás,</P>
+                  <P>— régészeti és további szakfelügyeletek biztosítása.</P>
+                  <P>Megvalósulási tervek készítése.</P>
+                  <P>Vállalkozó a kivitelezési munkák teljes időtartama alatt köteles munkavédelmi szakembert foglalkoztatni.</P>
+                  <P>A 4-es számú főutat annak teljes lezárásától számított legkésőbb a 18. hónap végéig a Vállalkozó köteles a forgalom részére visszaadni, legalább jogerős ideiglenes forgalomba helyezési engedéllyel. (kötbérterhes részhatáridő)!</P>
+                  <P>Vállalkozó a szerződés teljes időtartama alatt köteles a Hajdú-Bihar Megyei Büntetésvégrehajtási Intézet (4024 Debrecen, Iparkamara u. 1.) Petőfi téren található gépjármű bejáratának korlátozásmentes megközelíthetőségét biztosítani.</P>
+                  <P>A tárgyban meghatározott építési beruházás oszthatatlan szolgáltatásnak minősül.</P>
+                  <P>Jelen közbeszerzés tárgyát képező munkák részletes leírását és a tervezett létesítmények kivitelezési tartalmának részletesebb műszaki összefoglalóját a Közbeszerzési Dokumentumok tartalmazzák.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.1. M.2.1. alk. köv. ig. SZE M.2.1. pontban előírt alk. köv. ig.-hoz figyelembe vett 36 hónapon felüli projektvezetői szakmai tapasztalata (hó) (min 0 hó, maximum 36 hó mutatható be)</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.2. M.2.1. alk. köv. ig. SZE rendelkezik (legalább 21 000 m2 közhaszn.ép., beép. városi környezet, kivit. szerz. során) a Közbesz.dok-ban részletezett projektvezetői szakmai tapasztalattal (igen/nem)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.3. M.2.1. alk. köv. ig. SZE rendelkezik (beép. városi környezet, közl. csomópont, kivit. szerz. során) Közbesz. dok-ban részletezett projektvezetői szakmai tapasztalattal (igen/nem)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.4. M.2.2. alk. köv. ig. SZE M.2.2. alk. köv. ig-hoz figyelembe vett 36 hónapon felüli közlekedési műtárgyépítési kivitelezési szakmai tapasztalata (hó) (min 0 hó, maximum 36 hó mutatható be)</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.5. M.2.2. alk. köv. ig. SZE rendelkezik (beép. városi környezet, közl. csomópont, legalább 4 közlekedési.mód) Közbesz. dok-ban részletezett kivitelezési szakmai tapasztalattal (igen/nem)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.6. M.2.3. alk. köv. ig. SZE M.2.3. alk. köv. ig-hoz figyelembe vett 36 hónapon felüli résfalépítési kivitelezési szakmai tapasztalata. (hó) (min 0 hó, maximum 36 hó mutatható be)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>2.7. M.2.4. alk. köv. ig. SZE rendelkezik (beép. városi környezet, magas és komplex mélyép. kivit. szerződés során) Közbesz. dok-ban részletezett munkavédelmi szakmai tapasztalattal (igen/nem)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>3.1. A szerz. telj-ben részt vevő, az alk. köv. körében bemutatott vagy azon felüli SZE résfalak tervezésében szerzett tervezői szakmai tap. (hó) (min 0 hó, maximum 72 hó mutatható be)</AC_CRITERION>
+                  <AC_WEIGHTING>3</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>3.2. A szerz. telj-ben részt vevő, az alk. köv. körében bemutatott vagy azon felüli SZE víztelenítési munkák tervezésében szerzett tervezői szakmai tap. (hó) (min 0 hó, maximum 72 hó mutatható be)</AC_CRITERION>
+                  <AC_WEIGHTING>2</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>IKOP-3.2.0-15-2016-00004</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>A Kbt. 76. § (2) bek. c) pontja alapján a legjobb ár-érték megjelenítő szempont (pontszám: 0,00-10,00).</P>
+                  <P>Módszer:</P>
+                  <P>1. Ár értékelési rész-szempont: fordított arányosítás,</P>
+                  <P>2.1.;2.4.; 2.6; 3.1., 3.2. értékelési szempont: egyenes arányosítás</P>
+                  <P>2.2.; 2.3; 2.5.; 2.7. értékelési szempont: közvetlen pontkiosztás, melyre vonatkozó részletes leírás a közbeszerzési dokumentum tartalmaz.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Kizáró okok:</P>
+               <P>Az eljárásban nem lehet ajánlattevő - továbbiakban: AT - (közös ajánlattétel esetén egyik AT sem), alváll. és nem vehet részt az alk. ig.-ban olyan gazd. szereplő, aki a Kbt. 62. § (1) és (2) bek. meghatározott kizáró okok valamelyikének a hatálya alatt áll.</P>
+               <P>Igazolási mód:</P>
+               <P>Az AT-nek - közös ajánlattétel esetén a közös AT-k mindegyikének - valamint adott esetben az alk. ig.-ban részt vevő gazd. szereplő(k)nek az ajánlat benyújtása során a 321/2015. (X.30.) Korm. r. (továbbiakban Kr.) 4. § (1) bek.-nek megfelelően, külön-külön, az egységes európai közbeszerzési dokumentum - továbbiakban „EEKD” - benyújtásával kell előzetesen igazolnia, hogy nem tartozik a Kbt. 62. § (1) és (2) bek.-nek hatálya alá.</P>
+               <P>Az EEKD-t a Kr. 4. § (1), (3)-(4) bek.-e szerint szükséges kitölteni.</P>
+               <P>A kizáró okok igazolásával kapcsolatban irányadó továbbá a Kr. 4. §; 6. §; 8. §; 10. § és a 12-16. §-aiban foglaltak.</P>
+               <P>AT-nek az ajánlatban nyilatkoznia kell a Kbt. 67. § (4) bek. alapján, hogy a szerződés teljesítéséhez nem vesz igénybe a Kbt. 62. § (1) és (2) bek.-ben foglalt kizáró okok hatálya alá eső alváll.-t.</P>
+               <P>A Kr. 13. § alapján folyamatban lévő vált. bejegyzési eljárás esetében az ajánlathoz csatolni kell a cégbírósághoz benyújtott vált.bej. kérelmet és az annak érkeztetéséről a cégbíróság által megküldött igazolást. Amennyiben nincs folyamatban vált.bej. eljárás az erről szóló nyilatkozatot kell ajánlatába becsatolni AT-nek.</P>
+               <P>A kizáró okokra vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő - ellenkező bizonyításig - az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.</P>
+               <P>Szakmai tevékenység végzésére vonatkozó alkalmasság előírása [Kbt. 65. § (1) bekezdés c) pont]:</P>
+               <P>SZ.1. Alkalmatlan az AT a szerződés teljesítésére, amennyiben nem szerepel a tervezői szolg. tárgya szerint illetékes országos szakmai kamara névjegyzékében, illetve a nem Mo.-on letelepedett gazd. szereplő nem szerepel a letelepedés szerinti ország nyilvántartásában vagy a letelepedés szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagsággal.</P>
+               <P>SZ.2. Alkalmatlan az AT a szerződés teljesítésére, amennyiben nem szerepel az Étv. szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében, illetve a nem Mo.-on letelepedett gazd. szereplő - amennyiben a szerződés teljesítéséhez szükséges - nem szerepel a letelepedés szerinti ország nyilvántartásában, vagy a letelepedés szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagsággal nem rendelkezik.</P>
+               <P>Szakmai tevékenység végzésére vonatkozó alkalmasság igazolása:</P>
+               <P>Lásd a felhívás III.1.2) Gazdasági és pénzügyi alkalmasság, Az alkalmasság minimumkövetelménye(i): pontjában.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>P.1. A 321/2015. (X.30.) Korm.r. (továbbiakban Kr.) 19. § (1) bek. c) pontja alapján az eljárást megindító felhívás feladása napjától visszafelé számított utolsó 3 (három) mérlegfordulónappal lezárt üzleti évére vonatkozó teljes - általános forgalmi adó nélkül számított - árbevételéről szóló nyilatkozatát attól függően, hogy az ajánlattevő (továbbiakban: AT) mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak.</P>
+               <P>A Kr. 19. § (3) bek. alapján, ha az AT Kr. 19. § (1) bek. c) pontja szerinti irattal azért nem rendelkezik, mert olyan jogi formában működik, amely tekintetében a beszámoló, illetve árbevételről szóló nyilatkozat benyújtása nem lehetséges, úgy a P.1. pontban előírt alkalmassági követelmény és igazolási mód helyett bármely, az AK által megfelelőnek tekintett egyéb nyilatkozattal vagy dokumentummal igazolhatja pénzügyi és gazdasági alkalmasságát. Az érintett AT kiegészítő tájékoztatás kérése során köteles alátámasztani, hogy olyan jogi formában működik, amely tekintetében a beszámoló, illetve az árbevételről szóló nyilatkozat benyújtása nem lehetséges és tájékoztatást kérni a P.1. pontban előírt alkalmassági követelmény és igazolási mód helyett az alkalmasság igazolásának AK által elfogadott módjáról.</P>
+               <P>A Kbt. 65. § (6) bek. alapján a P.1. pont szerinti követelménynek a közös AT-k együttesen is megfelelhetnek.</P>
+               <P>Az előírt alkalmassági követelménynek az AT-k bármely más szervezet vagy személy kapacitására támaszkodva is megfelelhetnek a Kbt. 65. § (7) bek. szerint.</P>
+               <P>Amennyiben AT a P.1. pontban előírt alkalmassági követelménynek más szervezet kapacitására támaszkodva kíván megfelelni, a Kbt. 65. § (8) bek. alapján az a szervezet, amelynek adatait az AT a gazdasági és pénzügyi alkalmasság igazolásához felhasználja, a Ptk. 6:419. §-ában foglaltak szerint kezesként felel az AK-t az AT teljesítésének elmaradásával vagy hibás teljesítésével összefüggésben ért kár megtérítéséért.</P>
+               <P>AT vegye figyelembe a Kbt. 65. § (11) bek.-ben foglaltakat.</P>
+               <P>AK felhívja a P.1. alkalmassági követelmény vonatkozásában a figyelmet a Kbt. 140. § (9) bek.-ben.</P>
+               <P>Az alkalmassági követelmény előzetes igazolására AT-nek EEKD-t kell benyújtania, az előírt igazolások a Kbt. 69. § szerinti AK felhívására nyújtandók be.</P>
+               <P>Az alkalmassági követelmény teljesítésére vonatkozóan a Kr 2. § (5) bek. alapján AK elfogadja az érintett gazdasági szereplő egyszerű nyilatkozatát, az EEKD IV. részében az ajánlata benyújtása során.</P>
+               <P>Közös ajánlattétel esetén az AT-k mindegyike külön EEKD-t nyújt be. Az EEKD kitöltésével kapcsolatos további információkat a Kr. 2-7. §-a tartalmaznak.</P>
+               <P>Ha egy AT az előírt alkalmassági követelményeknek más szervezet vagy személy kapacitásaira támaszkodva kíván megfelelni, az érintett szervezetek vagy személyek mindegyike által kitöltött és aláírt külön EEKD-t is be kell nyújtania. Ilyen esetben a kapacitásaikat rendelkezésre bocsátó szervezetek vagy személyek az alkalmassági feltételek vonatkozásában csak azokról nyilatkoznak, amelyeket az AT igénybe kíván venni alkalmasságának igazolásához. (Kr. 3. § (2) bek.).</P>
+               <P>Az alkalmassági követelmények igazolásához szükséges dokumentumokat csak a Kbt. 69. § (4) és (6) bekezdése szerinti felhívásra szükséges benyújtani.</P>
+               <P>Minősített AT-k tekintetében a Kr. 19. § (7) bek. szerint jár el AK. A Kr. 19. § (6) bek. szerinti esetben az ott leírtak szerint jár el AK.</P>
+               <P>Az alkalmassági követelményre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő - ellenkező bizonyításig - az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>P.1. Alkalmatlan AT a szerződés teljesítésére, ha az eljárást megindító felhívás feladása napjától visszafelé számított utolsó 3 (három) mérlegfordulónappal lezárt üzleti év teljes - általános forgalmi adó nélkül számított - árbevétele nem éri el összesen a nettó 19 000 000 000- HUF-ot.</P>
+               <P>Figyelem! A felhívás III.1.1.) Szakmai tevékenység végzésére vonatkozó alkalmasság igazolása: pontjára vonatkozó előírások.</P>
+               <P>Szakmai tevékenység végzésére vonatkozó alkalmasság igazolása:</P>
+               <P>SZ.1. A 322/2015. (X.30.) Korm. r. 8. § (1) bek. és a Kbt. 65. § (1) bek. c) pontja alapján a tervezői szolg. tárgya szerint illetékes országos szakmai kamara névjegyzékében szereplés tényét ig. nyilvántartás kivonata, a nyilvántartást vezető szerv által kiállított ig.s vagy a nyilvántartásban szereplés tényét ig. dokumentum. A nem Mo-on letelepedett gazd. szereplő esetében a letelepedés szerinti ország nyilvántartásban szereplés tényét ig. nyilvántartás kivonata, vagy a letelepedés szerinti országban előírt engedély, jogosítvány vagy szervezeti, kamarai tagságot ig. dokumentum.</P>
+               <P>A nem Mo-on letelepedett gazd. szereplőnek - vagy az általa az adott tervezési munka elvégzésére foglalkoztatott szakembernek - nyertessége esetén legkésőbb a szerződés megkötésének időpontjában szerepelnie kell a tervezési szolg. tárgya szerinti illetékes országos szakmai kamara névjegyzékében.</P>
+               <P>SZ.2. A 322/2015. (X.30.) Korm. r. 21. § (1) bek. és a Kbt. 65. § (1) bek. c) pontja alapján az Étv. szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében szereplés tényét ig. nyilvántartás kivonata, a nyilvántartást vezető szerv által kiállított ig. vagy a nyilvántartásban szereplés tényét ig. dokumentum, a nem Mo.-on letelepedett gazd. szereplő esetében a letelepedés szerinti ország nyilvántartásban szereplés tényét ig. nyilvántartás kivonata, vagy a letelepedés szerinti országban előírt engedély, jogosítvány vagy szervezeti, kamarai tagságot ig. dokumentum.</P>
+               <P>Az alkalmassági követelmények előzetes igazolására EEKD-t kell benyújtani, az előírt igazolások a Kbt. 69. § szerinti ajánlatkérő - továbbiakban: AK -felhívására nyújtandók be.</P>
+               <P>Az alkalmassági követelmények teljesítésére vonatkozóan a Kr 2.§ (5) bek. alapján AK elfogadja az érintett gazd. szereplő egyszerű nyilatkozatát, az EEKD IV. részében az ajánlata benyújtása során.</P>
+               <P>Továbbá lásd. Közbeszerzési Dokumentációt.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>M.1. A 321/2015. (X.30.) Korm. r. (továbbiakban Kr.) 21. § (2) bek. a) pontja alapján az eljárást megindító felhívás feladásától visszafelé számított 8 (nyolc) évben (96 (kilencvenhat) hónapban) teljesített legjelentősebb építési beruházásait ismertető, a Kr. 22. § (3) bek. foglaltaknak megfelelő - a szerződést kötő másik fél által adott - igazolás.</P>
+               <P>Az igazolásban meg kell adni:</P>
+               <P>— a szerződő fél (vállalkozó) és szerződést kötő másik fél nevét, székhelyét,</P>
+               <P>— a szerződés tárgyát,</P>
+               <P>— az elvégzett munkák nevesítését és szükség esetén mennyiségét,</P>
+               <P>— a szerződés során az igazolást benyújtó gazd. szereplő által megvalósított műszaki tartalom ismertetése olyan részletességgel, melyből az előírt alkalmassági követelménynek való megfelelés egyértelműen megállapítható. Amennyiben az építés beruházás teljesítése oszthatatlan (nem állítható ki az egyes ajánlattevők (továbbiakban: AT) által végzett munkák elkülönítésével) úgy a szerződés gazd. szereplő által elvégzett teljesítés ellenszolgáltatása szerinti műszaki tartalmának ismertetése olyan részletességgel, melyből az előírt alkalmassági követelménynek való megfelelés egyértelműen megállapítható,</P>
+               <P>— a teljesítés idejét (kezdés és a műszaki átadás-átvétel időpontját naptári nap pontossággal),</P>
+               <P>— teljesítés helyét,</P>
+               <P>— vállalkozóként, közös AT-k tagjaként vagy alvállalkozóként, teljesítette a szerződést,</P>
+               <P>— hogy a teljesítés az előírásoknak és a szerződésnek megfelelően történt-e.</P>
+               <P>A bemutatásnak tartalmaznia kell minden olyan adatot, amely alapján az előírt követelményeknek való megfelelés egyértelműen megállapítható.</P>
+               <P>A Kr. 22. § (5) bek. alapján, ha a nyertes közös AT-ként teljesített építési beruházásra vonatkozó referencia igazolás - a teljesítés oszthatatlansága miatt - nem állítható ki az egyes AT-k által végzett munkák elkülönítésével, úgy az AK a referencia igazolást bármelyik, a teljesítésben részt vett AT részéről az ismertetett építési beruházás tekintetében olyan arányban köteles elfogadni, amilyen arányban az igazolást benyújtó AT az általa elvégzett teljesítés alapján az ellenszolgáltatásból részesült.</P>
+               <P>Ebben az esetben a referencia igazolásból a fenti kritériumoknak is (úgy, mint a teljesítés oszthatatlan-e, tehát a teljesített építési beruházásra vonatkozó referencia igazolás kiállítható-e az egyes AT-k által végzett munkák elkülönítésével, továbbá annak, hogy az ig.-t benyújtó AT, az általa elvégzett teljesítés alapján milyen arányban részesült az ellenszolgáltatásból (teljesítés aránya)) egyértelműen ki kell derülniük!</P>
+               <P>A Kbt. 140. § (9) bek. és a Kr. 21. § (2a) bek.b) pontja és a Kr. 21/A. § alkalmazandó.</P>
+               <P>M.2. A Kr. 21. § (2) bek. b) pontja alapján azoknak a szakembereknek (továbbiakban: SZE) a megnevezése, végzettségének vagy képzettségének, szakmai tapasztalatának ismertetése, akiket be kíván vonni a teljesítésbe.</P>
+               <P>AK a M.2.1. pontban előírt alkalmassági követelmény vonatkozásában alkalmazza a Kbt. 65. § (10) bek.-ben foglaltakat és előírja, hogy az alábbi feladatokat kizárólag maga az AT - közös ajánlattétel esetén a közös AT-k egyike - végezze el:</P>
+               <P>— projektvezetői munka.</P>
+               <P>A fentiek alapján az M.2.1. pontban foglalt alkalmassági köv. ig.-hoz a Kbt. 65. § (7) bek.-től eltérően nem támaszkodhat az AT más szervezet kapacitására, és a teljesítés során e feladatokat nem végezheti alváll.</P>
+               <P>Az alkalmassági követelmények előzetes igazolására EEKD-t kell benyújtani, az előírt igazolások a Kbt. 69. § szerinti AK felhívására nyújtandók be.</P>
+               <P>Az alkalmassági követelmények teljesítésére vonatkozóan a Kr 2. § (5) bek. alapján AK elfogadja az érintett gazd. szereplő egyszerű nyilatkozatát, az EEKD IV. részében az ajánlata benyújtása során.</P>
+               <P>Minősített AT-k tekintetében a Kr. 24. § (1) bek. szerint jár el AK. A Kr. 24. § (2) bek. szerinti esetben az ott leírtak szerint jár el AK.</P>
+               <P>Továbbá lásd. Közbeszerzési Dokumentációt.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Alkalmatlan az AT,</P>
+               <P>M.1. ha az eljárást megindító felhívás feladásától visszafelé számított 8 (nyolc) évben (96 (kilencvenhat) hónapban) az előírásoknak és a szerződésnek megfelelően átadás-átvétellel lezárva nem teljesített</P>
+               <P>M.1.1. legfeljebb 4 db szerződés keretén belül, az alábbi kivitelezési munkákat tartalmazó szerződést:</P>
+               <P>a) legalább 1 db olyan beépített városi környezetben végzett közlekedési csomópont építését és/vagy felújítását, mely során legalább 4 közlekedési mód építési és/vagy felújítási munkái valósultak meg;</P>
+               <P>b) legalább 1 db egybefüggő (folyamatos szelvényű) 660m hosszúságú főút építését és/vagy felújítását, és külön szintű közlekedési csomópont építést;</P>
+               <P>c) legalább 1 db jelzőlámpás közlekedési csomópont építést;</P>
+               <P>d) legalább 1 db közúti átvezetést biztosító közlekedési műtárgy építését;</P>
+               <P>e) legalább 1 db, minimum 630 vm hosszban villamos pálya építését tartalmazó komplex villamospálya építési munkát,</P>
+               <P>f) legalább 1 db, résfal tervezésére és építésére vonatkozó munkát, amely esetében a résfal szerkezet:</P>
+               <P>Fa) közút felszín alatti átvezetését biztosító közlekedési műtárgy, vagy.</P>
+               <P>Fb) tartószerkezeti elem.</P>
+               <P>Részeként valósult meg, és amely munka keretében a tervezett és a kivitelezett résfal mennyisége elérte a 1000 m<FT TYPE="SUP">3</FT>-t.</P>
+               <P>Az előírt alkalmassági köv. igazolására alpontonként - a)-f) alpontokként - maximum 1 db szerződés mutatható be. Egy szerződéssel több alkalmassági alpontnak is meg lehet felelni.</P>
+               <P>M.1.2. legfeljebb 3 db szerződés keretén belül, az alábbi kivitelezési munkákat tartalmazó szerződést:</P>
+               <P>a) legalább 140 férőhelyes parkolóház építést;</P>
+               <P>b) legalább nettó 21 000 m<FT TYPE="SUP">2</FT> hasznos alapterületű közhasználatú épület vagy épületegyüttes építést és/vagy átalakítást és/vagy bővítést,</P>
+               <P>c) legalább 4 900 m<FT TYPE="SUP">2</FT> üveg épületszerkezet építését, amelyből legalább 1 200 m<FT TYPE="SUP">2</FT> üvegtető építése.</P>
+               <P>Az előírt alkalmassági köv. igazolására alpontonként - a)-c) alpontokként-maximum 1 db szerződés mutatható be. Egy szerződéssel több alkalmassági alpontnak is meg lehet felelni.</P>
+               <P>M.1.3. legfeljebb 2 db szerződés keretén belül komplex mélyépítési kivitelezési munkákat tartalmazó szerződést, mely során megvalósult legalább 10 000 m2 térkőburkolat építés és 6 000 m<FT TYPE="SUP">2</FT> füvesítés</P>
+               <P>M.2. nem rendelkezik legalább az alábbi teljesítésbe bevonni kívánt SZE-kel:</P>
+               <P>M.2.1. 1 fő projektvezető, aki rendelkezik:</P>
+               <P>a) a 266/2013. (VII. 11.) Korm.rend. - továbbiakban: 266. Kr. - szerinti MV-É felelős műszaki vezetői - továbbiakban: FMV - jogosultság megszerzéséhez szükséges a 266. Kr. szerinti végzettséggel,</P>
+               <P>Továbbá,</P>
+               <P>b) legalább 36 hónap projektvezetői szakmai tapasztalattal - továbbiakban SZT-tal.</P>
+               <P>M.2.2. 1 fő, aki rendelkezik:</P>
+               <P>a) a 266. Kr. szerinti MV-KÉ FMV jogosultság megszerzéséhez szükséges a 266. Kr. szerinti végzettséggel,</P>
+               <P>Továbbá,</P>
+               <P>b) legalább 36 hónap közlekedési műtárgyépítési kivitelezési SZT-tal.</P>
+               <P>M.2.3. 1 fő, aki rendelkezik:</P>
+               <P>a) a 266. Kr. szerinti MV-M FMV jogosultság megszerzéséhez szükséges a 266. Kr. szerinti végzettséggel,</P>
+               <P>Továbbá,</P>
+               <P>b) legalább 36 hónap résfalépítési kivitelezési SZT-tal.</P>
+               <P>M.2.4. 1 fő, aki rendelkezik</P>
+               <P>a) munkavédelmi szakmérnöki, vagy azzal egyenértékű végzettséggel,</P>
+               <P>Továbbá,</P>
+               <P>b) legalább 36 hónap, magas és/vagy mélyépítési munkák kivitelezése során szerzett munkavédelmi SZT-tal.</P>
+               <P>Egy SZE csak egy pozícióra jelölhető. Egy pozícióra kizárólag egy SZE jelölhető.</P>
+               <P>Az M.1. és M.2. alkalmassági követelménnyel kapcsolatos fogalom és egyenértékűség meghatározásokat az eljárást megindító felhívás VI.4.3) Jogorvoslati kérelmek benyújtása 2)-4) pontja tartalmazza.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>Teljesítési-, jótállási- és előleg-visszafizetési biztosíték; Késedelmi-, Hibás teljesítési-, Meghiúsulási kötbér.</P>
+               <P>A Kbt. 134. § (5) bek. alapján az előírt bizt. hat.időre történő rend. bocsátásáról az AT-nek nyilatkoznia kell.</P>
+               <P>Pénzügyi fed. forrása: IKOP-3.2.0-15-2016-00004 (tám.int. 100,000000 %, fin.mód: kedvezményzetti) (részben IKOP ERFA, részben IKOP hazai forrás, részben egyéb forrás) és/vagy hazai forrás.</P>
+               <P>A tart.ker. a szerz. szerinti teljes ellenszolg. (egyössz. ajánlati ár) max. 10 %-a, de legfeljebb nettó 975 000 000 HUF.</P>
+               <P>AK a 272/2014. (XI. 5.) Korm. rend. 1. sz. mell. 134/B.1. b) pontja alapján a szerz.s - tart.keret nélküli - elszám. összege 50 %-ának megfelelő mértékű előleget biztosít azzal, hogy 10 % feletti előlegig. esetén biztosítékot kell nyújtani az igényelt előleg 10 %-ot meghaladó részére, azzal, hogy az előleg mértékére a szerz.kötéskor hat. jogszab. rendelkezés az irányadó.</P>
+               <P>Továbbá inf. a felhívás VI.4.3) Jogorvoslati kérelmek benyújtása 1) pontjában.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-04-27</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>11:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="HU"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">2</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-04-27</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>DEBKÖZ Közbeszerzés Kft., 4032 Debrecen, Poroszlay út 27. földszinti tárgyaló.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A Kbt. 68.§ (1), (3)-(4), (6) bekezdésében meghatározottak szerint.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>1) Az ajánlatot írásban 1 (egy) eredeti papír alapú példányban, zárt csomagolásban, valamint 1 (egy), az eredeti papír alapú példányról készített elektronikus adathordozón (pl. CD vagy DVD) példányban jelszó nélkül olvasható, de nem módosítható .pdf vagy azzal egyenértékű formátumban kell benyújtani felhívásban megadott címre közvetlenül vagy postai úton.</P>
+               <P>Az ajánlatok átvétele munkanapokon H-CS: 8:00-16:00 óra között, P 8:00-14:00 óra között az ajánlatok felbontásának napján 8:00 órától az ajánlattételi határidőig.</P>
+               <P>Csomagolásán feltüntetendő: „IKKK kivitelezés (PST kód: I000.01)”- AJÁNLAT - „Az ajánlattételi határidő lejárta előtt nem bontható fel!”.</P>
+               <P>Irányadó továbbá a Kbt. 47. § (2) bek. A részletes információkat a KD tartalmazza.</P>
+               <P>2) Részajánlattétel nem biztosított. A műszaki tartalom, illetve a beszerzés jellege nem teszi lehetővé a részekre történő ajánlattétel lehetőségét. A részekre történő ajánlattétel nem egyeztethető össze a gazdasági ésszerűséggel, a beruházás részekre bontva a megfelelő színvonalon történő feladatellátást veszélyeztetné. Organizációs, üzemeltetési, garanciális kérdések következtében egységes szerkezetet alkot a projekt, így a részajánlattétel a projekt teljes megvalósítását veszélyeztetné.</P>
+               <P>3) Az ajánlattétel ajánlati biztosíték nyújtásához kötött, mértéke: 50 000 000,- HUF. A biztosítékot a Kbt. 54. § (2) bek.-ben megadott formában lehet teljesíteni. Befizetés esetén a befizetés az AK 10300002-20609931-49020322 (IBAN: HU58 10300002-20609931-49020322, SWIFT: MKKBHUHB) számú számlájára az ajánlattételi határidő lejáratáig „PST kód: I000.01.-KIVITELEZÉS-ajánlati biztosíték” megjelöléssel teljesíthető.</P>
+               <P>A befizetés esetén a biztosíték teljesítésének igazolásaként a befizetést igazoló pénzintézeti bizonylatot kell az ajánlatban csatolni. Részletes szabályokat a KD tartalmazza.</P>
+               <P>4) A felhívás IV.2.6. pontjában megadott (2 hónap) időtartam alatt a Kbt. 81. § (11) bekezdése alapján 60 napot kell érteni.</P>
+               <P>5) A minősített ajánlattevők jegyzékében meghatározott minősítési szempontokhoz képest szigorúbb feltételek: III.1.1) SZ.1.-SZ.2., III.1.2.) P.1. III.1.3.) M.1.-M.2. pontok.</P>
+               <P>6) AK a Kbt. 35. § (9) bek. figyelemmel nem teszi lehetővé és nem követeli meg gazd. szerv. (projekttársaság) létrehozását.</P>
+               <P>7) FAKSZ: Dr. Kerekes Ferenc (00140).</P>
+               <P>8) Jelen közbeszerzési eljárás feltételesen kerül megindításra (Kbt. 53.§ (6) bek.). A részletes információkat a KD tartalmazza.</P>
+               <P>9) AT-nek nyilatkoznia kell a Kbt. 66. § (2),(4) és (5) bek.-ben foglaltak szerint.</P>
+               <P>10) A Kbt. 57. § (2) bek. alapján AK előírja, hogy a dokumentációt ajánlatonként legalább egy AT-nek, vagy az ajánlatban megnevezett alváll.-nak elektronikus úton el kell érnie az ajánlattételi határidő lejártáig. A részletes információkat a KD tartalmazza.</P>
+               <P>11) Tervezői felelősségbizt.: legalább 50 millió HUF/év és 25 millió HUF/káresemény.</P>
+               <P>Építési-szerelési felelősségbizt.: legalább 1 200 millió HUF/év és 600 millió HUF/kár. A részletes információkat a KD tartalmazza.</P>
+               <P>12) AK fenntartja a jogot, hogy a közbeszerzési eljárás nyertesével a Kbt. 98. § (3)szerinti eljárást folytasson le.</P>
+               <P>A projektben megvalósuló épületek üzemeltetői még nem kerültek meghatározásra, ezért az üzemeltetéshez kapcsolódó igényeik sem kerültek rögzítésre a műszaki dokumentációban. Az új építési beruházás keretében a magasépítési építmények műszaki átadás átvételi eljárása során felmerülő üzemeltetői kérések, műszaki többletigények alapján meghatározott tervezési és kivitelezési feladatokat kell elvégezni.</P>
+               <P>13) AK szakmai ajánlaton a Kbt. 3. § 37. pontban megadottaknak megfelelő dokumentumokat érti. A 322/2015. Kormányrendelet 24. § (1) bekezdése szerinti szakmai ajánlatnak minősülnek az értékelési szempontok vonatkozásában csatolt dokumentumok.</P>
+               <P>14) AK a közbesz. eljárásban alkalmazza a Kbt. 75. § (2) e) és f) pontját.</P>
+               <P>15) Csatolni kell indikatív erőforrás-tervet és műszaki ütemtervet - nem minősülnek szakmai ajánlatnak - a KD-ban részletezettek szerint.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828592</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A közbeszerzésekről szóló 2015. évi CXLIII. törvény 148. § szerint.</P>
+               <P>1) A kifiz.-re von. szab.: a 322/2015. (X. 30.) Korm.r. 30-32/B. §, a Kbt. 135. § (1)-(8) bek., a Ptk. 6:130. § (1)-(2) bek., a 272/2014. (XI. 5.) Korm. r., 2007. évi CXXVII. törv. (ÁFA tv.) 142.§ (1) bek. b) pontja. Váll. havonta jogosult számlát kiállítani és benyújtani a Megrend. Telj.ig. alapján.</P>
+               <P>A részletes felt. a közbesz. dok. részét képező szerz.terv. tartalmazza.</P>
+               <P>Az a.tétel, a szerz. és a kifiz. pénzneme magyar forint (HUF).</P>
+               <P>2) Fogalmak:</P>
+               <P>— „épületegyüttes” épületek szoros fizikai kapcsolata,</P>
+               <P>— „közhasználatú” az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 9. bekezdése szerint,</P>
+               <P>— „főút” 19/1994. (V. 31.) KHVM rend. 1. sz. mell. I. 4. és 5. pontja szerint,</P>
+               <P>— fogalmat érti,</P>
+               <P>— „országos főút” a 19/1994. (V. 31.) KHVM rend. 1. sz. mell. I. 4. és 5. pontja szerint,</P>
+               <P>— „gyorsforgalmi út” alatt a 19/1994. (V. 31.) KHVM rend. 1. sz. mell. I. 1. és 2. pontja szerint,</P>
+               <P>— „átalakítás” 253/1997. (XII. 20.) Korm. rendelet - továbbiakban: OTÉK - 1. sz. mell. 8. pontja szerint,</P>
+               <P>— „bővítés” z OTÉK 1. sz. mell. 17. pontja szerint,</P>
+               <P>— „hasznos alapterület” alatt az OTÉK 1. sz. mell. 46. pontja szerint,</P>
+               <P>— „Egybefüggő” megszakítás nélküli, folytonos útszakasz,</P>
+               <P>— „Munkagödör” a térszín alatti munkához szükséges nyílt felszínű munkatér,</P>
+               <P>— „Különszintű csomópont”: olyan közúti csomópontot, ahol a keresztező főirányok külön szintben keresztezik egymást. (Csomópont: két vagy több út találkozási helye, ahol a különböző irányú forgalmi áramlatok mindegyike -vagy egy része - között kapcsolat van.),</P>
+               <P>— „Közlekedési műtárgy” híd, pontonhíd, hajóhíd, felüljáró, alagút, aluljáró, támfal, bélésfal,</P>
+               <P>— „Résfal”: a rés (függőleges árok) kitöltésével létrehozott függőleges folytonos vagy szakaszos szerkezet, olyan építmény, amely teherviselési, vízzárási, munkagödör-határolási célt szolgál,</P>
+               <P>— „Projektvezető” olyan szakember, aki az adott kivitelezési projektet szakmailag irányítja, koordinálja a Vállalkozó, a szakági építésvezetők vagy műszaki vezetők munkáját, a kapcsolatot tartja a Megrendelővel vagy konzorciumi teljesítés esetén a konzorciumvezetővel vagy a Megrendelővel,</P>
+               <P>— „Komplex villamospálya építési munka”: AK komplex villamospálya építési munka alatt minden olyan villamospálya építési munkát tartalmazó kivitelezési szerződést elfogad, amely a villamospálya építés mellett egyaránt tartalmazta az alábbi munkarészek mindegyikét:</P>
+               <P>— felsővezeték építési és/vagy átépítési, és vagy áramellátás építési és/vagy átépítési,</P>
+               <P>— jelzőberendezés építési és/vagy átépítési, és/vagy biztosítóberendezés építési és/vagy átépítési,</P>
+               <P>— üzemi hírközlő hálózat építési és/vagy átépítési,</P>
+               <P>— megállóhely építési és/vagy átépítési, és/vagy állomás építési és/vagy átépítési, és/vagy végállomás építési és/vagy átépítési,</P>
+               <P>— „Komplex mélyépítési munka”: AK komplex mélyépítési munka alatt minden olyan mélyépítési munkát tartalmazó kivitelezési szerződést elfogad, amely egyaránt tartalmazza az alábbi munkarészek mindegyikét:</P>
+               <P>— útépítési és/vagy felújítási,</P>
+               <P>— forgalomtechnikai,</P>
+               <P>— környezetrendezési,</P>
+               <P>— közműépítési.</P>
+               <P>3) AK hasznos alapterületként átalakítás esetén az átalakítással érintett hasznos alapterületet, bővítés esetén a bővítmény hasznos alapterületét fogadja el.</P>
+               <P>4) AK 322/2015. (X.30.) Kr. 23. § (1) bekezdésében foglaltak szerint a közbeszerzés tárgyával műszakilag egyenértékűnek tekinti:</P>
+               <P>— a villamos pályával a vasút, városi (nem kötélvontatású) vasút, helyi érdekeltségű vasút (HÉV) pályát,</P>
+               <P>— főút építéssel és/vagy felújítással, a gyorsforgalmi út építést és/vagy felújítást, gyorsforgalmi út és/vagy főút 2x2 sávra való kapacitás bővítését,</P>
+               <P>— parkolóház építéssel a gépjárművek tömeges elhelyezésére szolgáló parkoló létesítmény (pl.: mélygarázs, teremgarázs, sorgarázs, épület alá süllyesztett fedett parkoló) építését, de ide nem értve a felszíni fedetlen parkoló építést,</P>
+               <P>— résfallal a réspillért,</P>
+               <P>— üzemi hírközlő hálózattal az üzemi távközlési hálózatot.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828592</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-03-12</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

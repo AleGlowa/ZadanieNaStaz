@@ -1,0 +1,2424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="034040-2018"
+            EDITION="2018017">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-028729-001</RECEPTION_ID>
+      <DELETION_DATE>20180428</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>17</NO_OJ>
+         <DATE_PUB>20180125</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 017-034040</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:034040-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>FR</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="33100000">Medical equipments</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC4">Lombardia</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITI43">Roma</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">625000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 159-328157</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180118</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB03</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Leje af et integreret system til kemisk og immunologisk analyse, levering af reagenser og forbrugsvarer, som kræves til drift heraf, og vedligeholdelse af apparatet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Vermietung eines integrierten Systems für chemische und immunologische Analysen, die Lieferung der dafür benötigten Reagenzien und Verbrauchsmaterialen sowie die Wartung des Geräts</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Hire of an integrated chemical and immunological analysis system, supply of reagents and consumables required for its operation, and maintenance of the apparatus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Alquiler de un sistema integrado de análisis químicos e inmunológicos, suministro de reactivos y de consumibles necesarios para su funcionamiento y mantenimiento del aparato</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Integroidun kemiallisten ja immunologisten analyysien järjestelmän vuokraus, sen toiminnan kannalta tarpeellisten reagenssien ja kulutustarvikkeiden hankinta sekä laitteen ylläpito</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Location d'un système intégré d'analyses chimiques et immunologiques, la fourniture de réactifs et de consommables nécessaires à son fonctionnement et la maintenance de l'appareil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Μίσθωση ολοκληρωμένου συστήματος χημικών και ανοσολογικών αναλύσεων, προμήθεια αντιδραστηρίων και απαραίτητων για τη λειτουργία και συντήρηση της διάταξης αναλωσίμων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Noleggio di un sistema integrato di analisi chimiche e immunologiche, fornitura dei reagenti e dei prodotti di consumo necessari per il suo funzionamento e manutenzione dell'apparecchio</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Huur van een geïntegreerd systeem voor chemische en immunologische analyse, levering van de reagentia en verbruiksartikelen die nodig zijn voor de werking ervan, evenals onderhoud van het apparaat.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Aluguer de um sistema integrado de análises químicas e imunológicas, fornecimento dos reativos e dos consumíveis necessários ao seu funcionamento e manutenção do aparelho</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Hyra av ett integrerat system för kemisk och immunologisk analys, tillhandahållande av reagenser och förbrukningsvaror som krävs för dess drift samt underhåll av apparaturen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Pronájem integrovaného systému pro chemické a imunologické analýzy, dodávka činidel a spotřebních materiálů požadovaných pro provoz a údržbu zařízení</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Integreeritud keemilise ja immunoloogilise analüüsi süsteemi rentimine, selle talitluseks vajalike reaktiivide ja tarvikute hankimine ning seadmete hooldus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Integrált vegyi és immunológiai elemzőrendszer bérlése, a rendszer működtetéséhez szükséges reagensek és fogyóeszközök beszerzése, valamint a készülék karbantartása</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Integruotos cheminės ir imunologinės analizės sistemos nuoma, reagentų ir eksploatacinių medžiagų, būtinų sistemos veikimui ir priežiūrai, tiekimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Integrētas ķīmiskās un imunoloģiskās analīzes sistēmas noma, šai operācijai nepieciešamo reaģentu un izlietojamo materiālu piegāde un aparatūras uzturēšana</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Kiri ta' sistema ta' analiżi integrata kimika u immunoloġika, provvista ta' reaġenti u oġġetti li jintużaw meħtieġa għat-tħaddim u l-manutenzjoni tal-apparat tagħha</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Wynajem zintegrowanego systemu do analiz chemicznych i immunologicznych, dostawa odczynników i materiałów eksploatacyjnych potrzebnych do działania systemu oraz konserwacja urządzenia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Prenájom integrovaného systému na chemickú a imunologickú analýzu, dodávka reagencií a spotrebného tovaru, ktoré sa požadujú na jeho prevádzku, a údržba prístroja</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Najem integriranega sistema za kemijsko in imunološko analizo, dobava reagentov in potrošnega materiala, potrebnih za njegovo delovanje, ter vzdrževanje naprave</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Córas anailísithe ceimiceán agus imdhíoneolaíoch comhtháite a fhruiliú, soláthar imoibreoirí agus tomhaltáin a theastaíonn chun é a oibriú, agus an gléasra a chothabháil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Наемане на интегрирана система за химичен и имунологичен анализ, доставка на реактиви и консумативи, необходими за нейното функциониране, както и поддръжка на апаратурата</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Închirierea unui sistem integrat de analize chimice și imunologice, furnizare de reactivi și de consumabile necesare pentru funcționarea și întreținerea aparatului</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Najam integriranog sustava za kemijsku i imunološku analizu, nabava reagensa i potrošnog materijala potrebnih za njegov rad, te održavanje uređaja</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</AA_NAME>
+         <AA_NAME LG="EN">European Commission, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 ”Finances, marchés publics et contrôle interne”</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</AA_NAME>
+         <AA_NAME LG="IT">Commissione europea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne”</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 “Finances, marchés publics et contrôle interne”</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Leje af et integreret system til kemisk og immunologisk analyse, levering af reagenser og forbrugsvarer, som kræves til drift heraf, og vedligeholdelse af apparatet</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kontrakten omfatter leje af et system til integrering af kemiske og immunologiske analyser på en enkelt platform, vedligeholdelse af systemet og levering af de produkter, som kræves til driften.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italien).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se internetadressen anført i punkt I.3 i udbudsbekendtgørelsen.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU’s administrative kreditter</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Leje af et integreret system til kemisk og immunologisk analyse, levering af reagenser og forbrugsvarer, som kræves til drift heraf, og vedligeholdelse af apparatet</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen anført i punkt I.3 i udbudsbekendtgørelsen (opfordring til afgivelse af bud, punkt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Vermietung eines integrierten Systems für chemische und immunologische Analysen, die Lieferung der dafür benötigten Reagenzien und Verbrauchsmaterialen sowie die Wartung des Geräts</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Der vorliegende Auftrag umfasst die Vermietung und Wartung eines Systems, mit dem sowohl chemische als auch immunologische Analysen durchgeführt werden können, sowie die Lieferung der für dieses System benötigten Materialien.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italien).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Siehe die unter Ziffer I.3 der Auftragsbekanntmachung genannte Internetadresse.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Verwaltungsmittel der EU</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Vermietung eines integrierten Systems für chemische und immunologische Analysen, die Lieferung der dafür benötigten Reagenzien und Verbrauchsmaterialen sowie die Wartung des Geräts</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Siehe die unter Ziffer I.3 der Auftragsbekanntmachung angegebene Internetadresse (die Aufforderung zur Angebotsabgabe, Punkt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Hire of an integrated chemical and immunological analysis system, supply of reagents and consumables required for its operation, and maintenance of the apparatus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>This contract covers the hire of a chemical and immunological analysis system integrated on a single platform, maintenance and supply of the products required for its operation.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italy).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>See the internet address provided in Section I.3 of contract notice.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU administrative appropriations</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Hire of an integrated chemical and immunological analysis system, supply of reagents and consumables required for its operation, and maintenance of the apparatus</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>See Internet address specified in Section I.3 of the contract notice (invitation to tender, point 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Alquiler de un sistema integrado de análisis químicos e inmunológicos, suministro de reactivos y de consumibles necesarios para su funcionamiento y mantenimiento del aparato</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>El presente contrato cubre el alquiler de un sistema capaz de integrar análisis químicos e inmunológicos en una sola plataforma, el mantenimiento y el suministro de los productos necesarios para su funcionamiento.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italie).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Véase la dirección de internet indicada en el apartado I.3 del anuncio de contrato.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Créditos administrativos de la Unión Europea</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Alquiler de un sistema integrado de análisis químicos e inmunológicos, suministro de reactivos y de consumibles necesarios para su funcionamiento y mantenimiento del aparato</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Véase la dirección de internet que figura en el apartado I.3 del anuncio de contrato (invitación a licitar, apartado 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 ”Finances, marchés publics et contrôle interne”</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Integroidun kemiallisten ja immunologisten analyysien järjestelmän vuokraus, sen toiminnan kannalta tarpeellisten reagenssien ja kulutustarvikkeiden hankinta sekä laitteen ylläpito</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tämän hankintamenettelyn kohteena on sellaisen järjestelmän vuokraaminen, jonka avulla voidaan integroida kemialliset ja immunologiset analyysit yhdelle alustalle, järjestelmän ylläpitämiseksi sekä sen toiminnan kannalta tarpeellisten tuotteiden toimittamiseksi.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italia).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>katso hankintailmoituksen kohdassa I.3 ilmoitettu verkko-osoite.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU:n hallinnolliset määrärahat</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Integroidun kemiallisten ja immunologisten analyysien järjestelmän vuokraus, sen toiminnan kannalta tarpeellisten reagenssien ja kulutustarvikkeiden hankinta sekä laitteen ylläpito</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>katso hankintailmoituksen kohdassa I.3 annettu internetosoite (tarjouspyynnön kohta 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Location d'un système intégré d'analyses chimiques et immunologiques, la fourniture de réactifs et de consommables nécessaires à son fonctionnement et la maintenance de l'appareil</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Le présent marché couvre la location d'un système capable d'intégrer des analyses chimiques et immunologiques sur une seule plateforme, la maintenance et la fourniture des produits nécessaires à son fonctionnement.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italie).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Voir adresse internet indiquée au point I.3) de l'avis de marché.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>crédits administratifs de l'UE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Location d'un système intégré d'analyses chimiques et immunologiques, la fourniture de réactifs et de consommables nécessaires à son fonctionnement et la maintenance de l'appareil</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Voir adresse internet indiquée au point I.3) de l'avis de marché (l'invitation à soumissionner, point 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Μίσθωση ολοκληρωμένου συστήματος χημικών και ανοσολογικών αναλύσεων, προμήθεια αντιδραστηρίων και απαραίτητων για τη λειτουργία και συντήρηση της διάταξης αναλωσίμων</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Η εν λόγω σύμβαση καλύπτει τη μίσθωση ενός συστήματος για την ενσωμάτωση χημικών και ανοσολογικών αναλύσεων σε μία ενιαία πλατφόρμα, καθώς και τη συντήρηση και προμήθεια των απαραίτητων προϊόντων για τη λειτουργία του.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ίσπρα (Ιταλία).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Βλέπε διαδικτυακή διεύθυνση που διατίθεται στο σημείο I.3) της προκήρυξης σύμβασης.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>διοικητικές πιστώσεις της ΕΕ</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Μίσθωση ολοκληρωμένου συστήματος χημικών και ανοσολογικών αναλύσεων, προμήθεια αντιδραστηρίων και απαραίτητων για τη λειτουργία και συντήρηση της διάταξης αναλωσίμων</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Βλέπε την ηλεκτρονική διεύθυνση που αναφέρεται στο τμήμα I.3 της προκήρυξης σύμβασης (πρόσκληση υποβολής προσφορών, σημείο 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commissione europea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Noleggio di un sistema integrato di analisi chimiche e immunologiche, fornitura dei reagenti e dei prodotti di consumo necessari per il suo funzionamento e manutenzione dell'apparecchio</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Il presente appalto prevede la stipula di un contratto quadro per il noleggio di un sistema in grado di integrare analisi chimiche e immunologiche su un'unica piattaforma, nonché la manutenzione e la fornitura dei prodotti necessari per il suo funzionamento.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italia).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>cfr. indirizzo Internet indicato alla sezione I.3) del bando di gara.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Stanziamenti amministrativi dell'UE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Noleggio di un sistema integrato di analisi chimiche e immunologiche, fornitura dei reagenti e dei prodotti di consumo necessari per il suo funzionamento e manutenzione dell'apparecchio</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>cfr. indirizzo Internet di cui alla sezione I.3) dell'avviso di gara (bando di gara, punto 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne”</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Huur van een geïntegreerd systeem voor chemische en immunologische analyse, levering van de reagentia en verbruiksartikelen die nodig zijn voor de werking ervan, evenals onderhoud van het apparaat.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Onderhavige opdracht omvat de huur van een systeem dat in staat is chemische en immunologische analyses te integreren in een enkel platform, evenals het onderhoud en de levering van de producten die nodig zijn voor de werking ervan.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italië).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie het internetadres vermeld in I.3 van de aankondiging van opdracht.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>administratieve kredieten van de EU.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Huur van een geïntegreerd systeem voor chemische en immunologische analyse, levering van de reagentia en verbruiksartikelen die nodig zijn voor de werking ervan, evenals onderhoud van het apparaat</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>zie het internetadres vermeld in I.3 van de aankondiging van opdracht (uitnodiging tot inschrijving, punt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Aluguer de um sistema integrado de análises químicas e imunológicas, fornecimento dos reativos e dos consumíveis necessários ao seu funcionamento e manutenção do aparelho</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>O presente contrato visa o aluguer de um sistema capaz de integrar as análises químicas e imunológicas numa plataforma única, a manutenção e o fornecimento dos produtos necessários ao seu funcionamento.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Itália).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ver o endereço Internet indicado no ponto I.3 do anúncio de concurso.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>dotações administrativas da UE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Aluguer de um sistema integrado de análises químicas e imunológicas, fornecimento dos reativos e dos consumíveis necessários ao seu funcionamento e manutenção do aparelho</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ver endereço Internet indicado no ponto I.3 do anúncio de concurso (convite à apresentação de propostas, ponto 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Hyra av ett integrerat system för kemisk och immunologisk analys, tillhandahållande av reagenser och förbrukningsvaror som krävs för dess drift samt underhåll av apparaturen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Syftet med detta kontrakt är att hyra ett system som kan integrera kemiska och immunologiska analyser i en plattform, underhålla systemet och tillhandahålla de produkter som krävs för dess drift.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italien).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se webbadressen som anges i punkt I.3 i upphandlingsmeddelandet.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>EU:s administrativa anslag</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Hyra av ett integrerat system för kemisk och immunologisk analys, tillhandahållande av reagenser och förbrukningsvaror som krävs för dess drift samt underhåll av apparaturen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Se internetadressen som anges i punkt I.3 i meddelandet om upphandling (anbudsinfordran, punkt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pronájem integrovaného systému pro chemické a imunologické analýzy, dodávka činidel a spotřebních materiálů požadovaných pro provoz a údržbu zařízení</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Cílem této zakázky je pronájem systému, který umožňuje integraci chemických a imunologických analýz do jedné platformy, údržbu systému a dodávku výrobků požadovaných pro jeho provoz.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Itálie).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Viz internetová adresa uvedená v bodě I.3 oznámení o zakázce.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>správní úvěry EU</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Pronájem integrovaného systému pro chemické a imunologické analýzy, dodávka činidel a spotřebních materiálů požadovaných pro provoz a údržbu zařízení</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Viz internetová adresa uvedená v oddílu I.3 oznámení o zakázce (výzva k účasti v nabídkovém řízení, bod 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Integreeritud keemilise ja immunoloogilise analüüsi süsteemi rentimine, selle talitluseks vajalike reaktiivide ja tarvikute hankimine ning seadmete hooldus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Lepingu eesmärk on sõlmida raamleping sellise süsteemi rentimiseks, mis oleks võimeline integreerima keemilisi ja immunoloogilisi analüüse ühele platvormile, süsteemi hooldama ning tarnima talitluseks vajalikke tooteid.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Itaalia).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vt hanketeate punktis I.3 nimetatud internetiaadressi.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ELi halduskulud.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Integreeritud keemilise ja immunoloogilise analüüsi süsteemi rentimine, selle talitluseks vajalike reaktiivide ja tarvikute hankimine ning seadmete hooldus</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vt hanketeate punktis I.3 nimetatud internetiaadressi (pakkumiskutse, punkt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Integrált vegyi és immunológiai elemzőrendszer bérlése, a rendszer működtetéséhez szükséges reagensek és fogyóeszközök beszerzése, valamint a készülék karbantartása</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A szerződés magában foglalja egy vegyi és immunológiai elemzések egyetlen platformba történő integrálására alkalmas rendszer bérlését, a rendszer karbantartását és a rendszer működtetéséhez szükséges termékek beszerzését.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Olaszország).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lásd az ajánlati felhívás I.3. pontjában megadott internetcímet.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>az Európai Unió igazgatási előirányzatai</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Integrált vegyi és immunológiai elemzőrendszer bérlése, a rendszer működtetéséhez szükséges reagensek és fogyóeszközök beszerzése, valamint a készülék karbantartása</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Lásd az ajánlati felhívás I.3. pontjában megadott internetcímet (ajánlattételi felhívás, 17. pontot).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Integruotos cheminės ir imunologinės analizės sistemos nuoma, reagentų ir eksploatacinių medžiagų, būtinų sistemos veikimui ir priežiūrai, tiekimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Ši sutartis apima sistemos, kuria galima integruoti cheminę ir imunologinę analizę į vieną platformą, nuomą, techninę priežiūrą ir eksploatacijai reikalingų produktų tiekimą.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italija).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Žiūrėti skelbimo apie pirkimą I.3 punkte nurodytą interneto adresą.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ES administraciniai asignavimai</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Integruotos cheminės ir imunologinės analizės sistemos nuoma, reagentų ir eksploatacinių medžiagų, būtinų sistemos veikimui ir priežiūrai, tiekimas</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Žiūrėti skelbimo apie pirkimą I.3 punkte nurodytą interneto adresą (kvietimo pateikti pasiūlymus 17 punktas).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 “Finances, marchés publics et contrôle interne”</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Integrētas ķīmiskās un imunoloģiskās analīzes sistēmas noma, šai operācijai nepieciešamo reaģentu un izlietojamo materiālu piegāde un aparatūras uzturēšana</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Šis līgums ir par tādas sistēmas nomu, ar kuru iespējams integrēt ķīmiskās un imunoloģiskās analīzes 1 platformā, uzturēt sistēmu un piegādāt šai operācijai nepieciešamos produktus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Itālija).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lūdzam skatīt paziņojuma par līgumu I.3. iedaļā norādīto tīmekļa adresi.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>ES administratīvie kredīti</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Integrētas ķīmiskās un imunoloģiskās analīzes sistēmas noma, šai operācijai nepieciešamo reaģentu un izlietojamo materiālu piegāde un aparatūras uzturēšana</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>skatīt interneta adresi, kas minēta paziņojuma par līgumu I.3. iedaļā (uzaicinājuma uz konkursu 17. punkts).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Kiri ta' sistema ta' analiżi integrata kimika u immunoloġika, provvista ta' reaġenti u oġġetti li jintużaw meħtieġa għat-tħaddim u l-manutenzjoni tal-apparat tagħha</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dan il-kuntratt ikopri l-kiri ta' sistema kapaċi tintegra l-analiżi kimika u immunoloġika fi pjattaforma waħda, tmantni s-sistema u tipprovdi l-prodotti meħtieġa għat-tħaddim tagħha.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (l-Italja).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Jekk jogħġbok irreferi għall-indirizz tal-Internet speċifikat fil-punt I.3) tal-avviz ta' kuntratt.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>il-krediti amministrattivi tal-UE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Kiri ta' sistema ta' analiżi integrata kimika u immunoloġika, provvista ta' reaġenti u oġġetti li jintużaw meħtieġa għat-tħaddim u l-manutenzjoni tal-apparat tagħha</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ara l-indirizz tal-Internet indikat fil-punt I.3) tal-avviż ta' kuntratt (l-istedina għall-offerti, il-punt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Wynajem zintegrowanego systemu do analiz chemicznych i immunologicznych, dostawa odczynników i materiałów eksploatacyjnych potrzebnych do działania systemu oraz konserwacja urządzenia</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Celem niniejszego zamówienia jest wynajem systemu do zintegrowanych analiz chemicznych i immunologicznych na jednej platformie, konserwację i dostawę odczynników i produktów potrzebnych do działania systemu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Włochy).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zob. adres internetowy podany w pkt I.3 ogłoszenia o zamówieniu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>środki administracyjne UE.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Wynajem zintegrowanego systemu do analiz chemicznych i immunologicznych, dostawa odczynników i materiałów eksploatacyjnych potrzebnych do działania systemu oraz konserwacja urządzenia</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>zob. adres internetowy w pkt I.3 ogłoszeniu o zamówieniu (zaproszenie do składania ofert, pkt 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 «Finances, marchés publics et contrôle interne»</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Prenájom integrovaného systému na chemickú a imunologickú analýzu, dodávka reagencií a spotrebného tovaru, ktoré sa požadujú na jeho prevádzku, a údržba prístroja</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Toto obstarávanie sa týka prenájmu systému schopného integrovať chemické a imunologické analýzy do jednej platformy, údržby systému a dodávky výrobkov požadovaných na jeho prevádzku.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Taliansko).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pozri webovú adresu uvedenú v bode I.3 oznámenia o vyhlásení verejného obstarávania.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>administratívne úvery EÚ</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Prenájom integrovaného systému na chemickú a imunologickú analýzu, dodávka reagencií a spotrebného tovaru, ktoré sa požadujú na jeho prevádzku, a údržba prístroja</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Pozri internetovú adresu uvedenú v bode I.3 oznámenia o vyhlásení verejného obstarávania (výzva na súťaž, bod 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Najem integriranega sistema za kemijsko in imunološko analizo, dobava reagentov in potrošnega materiala, potrebnih za njegovo delovanje, ter vzdrževanje naprave</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>To naročilo obsega najem sistema, ki lahko združi kemijske in imunološke analize v okviru ene platforme, vzdrževanje sistema in dobavo proizvodov, potrebnih za njegovo delovanje.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italija).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Glejte spletni naslov iz točke I.3) obvestila o naročilu.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>sredstva EU za upravo</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Najem integriranega sistema za kemijsko in imunološko analizo, dobava reagentov in potrošnega materiala, potrebnih za njegovo delovanje, ter vzdrževanje naprave</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Glejte spletni naslov iz točke I.3) obvestila o naročilu (povabilo k oddaji ponudb, točka 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Córas anailísithe ceimiceán agus imdhíoneolaíoch comhtháite a fhruiliú, soláthar imoibreoirí agus tomhaltáin a theastaíonn chun é a oibriú, agus an gléasra a chothabháil</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Clúdaítear leis an gconradh seo fruiliú córais anailísithe ceimiceán agus imdhíoneolaíoch comhtháite ar ardán aonair, cothabháil agus soláthar na dtáirgí úd a theastaíonn dá oibriú.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (an Iodáil).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Féach an seoladh Idirlín atá curtha ar fáil in Alt I.3 den fhógra conartha.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Leithreasuithe riaracháin an AE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Córas anailísithe ceimiceán agus imdhíoneolaíoch comhtháite a fhruiliú, soláthar imoibreoirí agus tomhaltáin a theastaíonn chun é a oibriú, agus an gléasra a chothabháil</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Féach an seoladh Idirlín atá curtha ar fáil in Alt I.3 den fhógra conartha (cuireadh chun tairisceana, pointe 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 „Finances, marchés publics et contrôle interne“</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Наемане на интегрирана система за химичен и имунологичен анализ, доставка на реактиви и консумативи, необходими за нейното функциониране, както и поддръжка на апаратурата</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Целта на тази поръчка e наемането на система, която може да интегрира химични и имунологични анализи в една платформа, поддръжка на системата и доставка на продуктите, необходими за нейното функциониране.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Испра (Италия).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Моля, вижте интернет адреса, указан в точка I.3) на обявлението за поръчка.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>административни кредити на ЕС</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Наемане на интегрирана система за химичен и имунологичен анализ, доставка на реактиви и консумативи, необходими за нейното функциониране, както и поддръжка на апаратурата</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Вж. интернет адреса, посочен в раздел I.3) на обявлението за поръчка (покана за участие в търг, точка 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Închirierea unui sistem integrat de analize chimice și imunologice, furnizare de reactivi și de consumabile necesare pentru funcționarea și întreținerea aparatului</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Acest contract are ca obiect închirierea unu sistem capabil să integreze analize chimice și imunologice pe o singură platformă, întreținerea sistemului și furnizarea produselor necesare pentru funcționarea sa.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italia).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A se vedea adresa de internet specificată la punctul I.3 din anunțul de participare.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>credite administrative ale UE</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Închirierea unui sistem integrat de analize chimice și imunologice, furnizare de reactivi și de consumabile necesare pentru funcționarea și întreținerea aparatului</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A se vedea adresa indicată în secțiunea I.3 din anunțul de participare (invitația la licitație, punctul 17).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, direction générale des ressources humaines et de la sécurité, unité DDG.HR.R.1 "Finances, marchés publics et contrôle interne"</OFFICIALNAME>
+               <ADDRESS>Bureau SC 11 06/28</ADDRESS>
+               <TOWN>Bruxelles</TOWN>
+               <POSTAL_CODE>1049</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>hr-contrats-marches@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>https://ec.europa.eu/info/funding-tenders/tender-opportunities-department/tender-opportunities-human-resources-and-security_fr</URL_GENERAL>
+               <URL_BUYER>https://ec.europa.eu/info/departments/human-resources-and-security_fr</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Najam integriranog sustava za kemijsku i imunološku analizu, nabava reagensa i potrošnog materijala potrebnih za njegov rad, te održavanje uređaja</P>
+            </TITLE>
+            <REFERENCE_NUMBER>HR/R1/PO/2017/017</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="33100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Ovim je ugovorom obuhvaćen najam sustava koji može integrirati kemijske i imunološke analize u jednu platformu, održavanje sustava i nabava proizvoda potrebnih za njegov rad.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="ITC4"/>
+               <MAIN_SITE>
+                  <P>Ispra (Italija).</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vidjeti mrežnu adresu navedenu u točki I.3. obavijesti o nadmetanju.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Administrativna sredstva EU-a</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 159-328157</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>HR/R1/PO/2017/017</CONTRACT_NO>
+            <TITLE>
+               <P>Najam integriranog sustava za kemijsku i imunološku analizu, nabava reagensa i potrošnog materijala potrebnih za njegov rad, te održavanje uređaja</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-19</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Abbott SRL</OFFICIALNAME>
+                     <ADDRESS>Viale Giorgio Ribotta, 9</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00144</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">625000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Vidjeti internetsku adresu navedenu u odjeljku I.3. obavijesti o nadmetanju (poziv na nadmetanje, točka 17.).</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-18</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

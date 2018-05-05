@@ -1,0 +1,3767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="000001-2018"
+            EDITION="2018001">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>17-739572-001</RECEPTION_ID>
+      <DELETION_DATE>20180205</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>1</NO_OJ>
+         <DATE_PUB>20180103</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 001-000001</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:000001-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://www.imi.europa.eu/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://www.imi.europa.eu/work-for-us/procurement</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="79200000">Accounting, auditing and fiscal services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="79210000">Accounting and auditing services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE100">Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">1.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20171222</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180205 23:59</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC02</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Finansiel revision, erklæringsopgaver og beslægtede tjenesteydelser</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Finanzaudits, weitere Wirtschaftsprüfungen und verbundene Dienstleistungen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Financial audits, other assurance engagements and related services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Auditorías financieras, otros encargos de fiabilidad y servicios relacionados</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tilintarkastukset, muut varmennustoimeksiannot ja oheispalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audits financiers, autres engagements en matière d'assurance et services connexes</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Οικονομικοί έλεγχοι, λοιπές δεσμεύσεις αξιοπιστίας και συναφείς υπηρεσίες</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audit finanziari, altri incarichi di verifica e servizi connessi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Financiële audits, andere controleopdrachten en aanverwante diensten.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Auditorias financeiras, outros contratos de garantia e serviços conexos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Finansiella revisioner, andra försäkringsåtaganden och tillhörande tjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Finanční audity, další zabezpečovací výkony a související služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Finantsauditid, muud kindlustandvad töövõtud ja seonduvad teenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Pénzügyi auditok, egyéb bizonyosságot nyújtó megbízások és kapcsolódó szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Finansiniai auditai, kitos patikinimo užduotys ir susijusios paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Finanšu auditi, cita veida atestācijas pakalpojumi un saistītie pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Verifiki finanzjarji, impenji oħra ta' assigurazzjoni u servizzi relatati</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Audyty finansowe, inne weryfikacje danych finansowych i powiązane usługi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Finančné audity, iné záväzky v oblasti zabezpečenia a súvisiace služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Finančne revizije, drugi posli dajanja zagotovil in povezane storitve</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Iniúchtaí airgeadais, dearbhuithe iontaofachta eile agus seirbhísí gaolmhara</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Финансови одити, други ангажименти в застраховането и свързани с това услуги</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Audituri financiare, alte angajamente în materie de asigurare și servicii conexe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Financijske revizije, druga izražavanja uvjerenja i povezane usluge</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Fællesforetagendet for initiativet om innovative lægemidler 2</AA_NAME>
+         <AA_NAME LG="DE">Gemeinsames Unternehmen IMI 2</AA_NAME>
+         <AA_NAME LG="EN">Innovative Medicines Initiative 2 Joint Undertaking</AA_NAME>
+         <AA_NAME LG="ES">Empresa Común IMI 2</AA_NAME>
+         <AA_NAME LG="FI">IMI 2 -yhteisyritys</AA_NAME>
+         <AA_NAME LG="FR">Entreprise commune IMI 2</AA_NAME>
+         <AA_NAME LG="EL">Κοινή επιχείρηση ΠΚΦ 2</AA_NAME>
+         <AA_NAME LG="IT">Impresa comune IMI 2</AA_NAME>
+         <AA_NAME LG="NL">Gemeenschappelijke Onderneming IMI 2</AA_NAME>
+         <AA_NAME LG="PT">Empresa Comum Iniciativa sobre Medicamentos Inovadores 2</AA_NAME>
+         <AA_NAME LG="SV">Gemensamma företaget för initiativet för innovativa läkemedel 2</AA_NAME>
+         <AA_NAME LG="CS">Společný podnik IIL 2</AA_NAME>
+         <AA_NAME LG="ET">Innovatiivsete ravimite algatuse 2. ühisettevõte (IMI 2 JU)</AA_NAME>
+         <AA_NAME LG="HU">Innovative Medicines Initiative 2 Joint Undertaking</AA_NAME>
+         <AA_NAME LG="LT">Bendroji įmonė NVI 2</AA_NAME>
+         <AA_NAME LG="LV">Kopuzņēmums IMI 2</AA_NAME>
+         <AA_NAME LG="MT">L-Impriża Konġunta għall-IMI 2</AA_NAME>
+         <AA_NAME LG="PL">Wspólne Przedsięwzięcie IMI 2</AA_NAME>
+         <AA_NAME LG="SK">Spoločný podnik pre iniciatívu pre inovačné lieky 2</AA_NAME>
+         <AA_NAME LG="SL">Skupno podjetje IMI 2</AA_NAME>
+         <AA_NAME LG="GA">Comhghnóthas IMI 2</AA_NAME>
+         <AA_NAME LG="BG">Съвместно предприятие на ИИЛ 2</AA_NAME>
+         <AA_NAME LG="RO">Întreprinderea comună IMI 2</AA_NAME>
+         <AA_NAME LG="HR">Zajedničko poduzeće IMI 2</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fællesforetagendet for initiativet om innovative lægemidler 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Fællesforetagendet for initiativet om innovative lægemidler 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Fællesforetagendet for initiativet om innovative lægemidler 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finansiel revision, erklæringsopgaver og beslægtede tjenesteydelser</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Fællesforetagendet Clean Sky 2, fællesforetagendet for Innovative Medicines Initiative 2 (initiativet for innovative lægemidler) og fællesforetagendet for Fuel Cells and Hydrogen (brint og brændselsceller) skal indgå aftaler om adskillige rammekontrakter med højest 3 økonomiske operatører til implementeringen af 30-50 finansielle revisioner og beslægtede tjenesteydelser hvert år.</P>
+               <P>Leverandøren påtager sig disse tjenesteydelser på vegne af fællesforetagender med hensyn til de forskellige deltagere i fællesforetagendernes aktiviteter.</P>
+               <P>Målet med en revision er at verificere, hvorvidt de indgivet omkostninger til tilbagebetaling er støtteberettiget i henhold til definitionen givet i den specifikke bevilligelsesaftale for fællesforetagenderne IMI2, Clean Sky 2 og FCH, underlagt revision, og, hvorvidt disse omkostninger er blevet opkrævet i overensstemmelse med de finansielle provisioner i bevillingsaftalerne.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Arbejdet vil bestå af revisioner i de valgte deltageres, de der har indgået aftale om forskningsbevilling med de 28 EU-medlemsstater, lokaler og inden for lande forbundet med Horizon 2020-programmet.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fællesforetagendet for IMI2, som ledende ordregivende myndighed, har til hensigt at vælge højest 3 kontrahenter efter kaskadeprincippet.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kontrakten kan fornyes én gang for en periode på 12 måneder.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>De 3 ordregivende myndigheder implementerer Horizon 2020-midler.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Højst én juridisk repræsentant pr. deltagende tilbudsgiver må overvære åbningen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemeinsames Unternehmen IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemeinsames Unternehmen IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemeinsames Unternehmen IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finanzaudits, weitere Wirtschaftsprüfungen und verbundene Dienstleistungen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Das Gemeinsame Unternehmen Clean Sky 2, das Gemeinsames Unternehmen IMI 2 und das Gemeinsames Unternehmen FCH 2 planen den Abschluss von Mehrfachrahmenverträgen mit maximal drei Wirtschaftsteilnehmern für die Umsetzung von 30-50 Finanzaudits pro Jahr und den damit verbundenen Dienstleistungen.</P>
+               <P>Der Auftragnehmer führt die Dienstleistungen für Rechnung der Gemeinsamen Unternehmen aus. Hierbei berücksichtigt er die verschiedenen Teilnehmer an den Forschungsaktivitäten der Gemeinsamen Unternehmen.</P>
+               <P>Ein Audit dient der Überprüfung, ob die für die Erstattung angegebenen Kosten gemäß der entsprechenden Definition in den Finanzierungshilfevereinbarungen der den Gegenstand des Audits bildenden Gemeinsamen Unternehmen IMI2, Clean Sky 2 und FCH zulässig sind und ob sie entsprechend den finanziellen Anforderungen, wie sie in den spezifischen Finanzierungshilfevereinbarungen für die Audits festgelegt sind, geltend gemacht wurden.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Der Arbeitsumfang umfasst Audits, die in den Geschäftsräumen ausgewählter Teilnehmer an Finanzierungshilfevereinbarungen für Forschungsarbeiten innerhalb der 28 EU-Mitgliedstaaten oder in mit dem Programm Horizont 2020 verbundenen Ländern stattfinden.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Das Gemeinsame Unternehmen IMI2 beabsichtigt als federführender öffentlicher Auftraggeber die Auswahl von maximal 3 Auftragnehmern in einem Kaskadenverfahren.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Der Rahmenvertrag kann 1-mal um einen Zeitraum von 12 Monaten verlängert werden.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Die drei öffentlichen Auftraggeber setzen aus dem Programm Horizont 2020 stammende Fonds um.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Maximal ein rechtlicher Vertreter je teilnehmendem Bieter darf bei der Öffnung anwesend sein.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Innovative Medicines Initiative 2 Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Innovative Medicines Initiative 2 Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Innovative Medicines Initiative 2 Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Financial audits, other assurance engagements and related services</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The Clean Sky 2 Joint Undertaking, the Innovative Medicines Initiative 2 Joint Undertaking, and the Fuel Cells and Hydrogen Joint Undertaking intend to conclude multiple service framework contracts with a maximum of three economic operators, for the implementation of 30-50 financial audits and related services, per year.</P>
+               <P>The Contractor shall undertake services on behalf of the JUs in respect of different participants in the JUs' research activities.</P>
+               <P>The objective of an audit is to verify whether the costs submitted for reimbursement are eligible costs according to the definition contained in the specific Grant Agreements of IMI2, Clean Sky 2 and FCH Joint Undertakings subject to audit and whether they have been claimed in compliance with the financial provisions as defined in those Grant Agreements.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>The work will consist of audits on the premises of selected participants in research grant agreements within the 28 EU Member States or within countries associated to the Horizon 2020 Programme.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The IMI2 JU, acting as lead Contracting Authority intends to select a maximum of 3 contractors in a cascade.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>The frameworks contracts may be renewed once for a period of 12 months.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>The three Contracting Authorities implement Horizon 2020 funds.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgium.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Maximum one legal representative per participating tenderer may attend the opening session.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Común IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Empresa Común IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Empresa Común IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Auditorías financieras, otros encargos de fiabilidad y servicios relacionados</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>La Empresa Común Clean Sky 2, la Empresa Común para la Iniciativa sobre Medicamentos Innovadores 2 y la Empresa Común Pilas de Combustible e Hidrógeno pretenden concluir múltiples contratos marco de servicios con un máximo de tres operadores económicos para la realización de 30-50 auditorías financieras y servicios relacionados, por año.</P>
+               <P>El contratista prestará servicios en nombre de las empresas comunes con respecto a los diferentes participantes en las actividades de investigación de las empresas comunes.</P>
+               <P>El objetivo de una auditoría es verificar si los costes presentados para el reembolso son costes subvencionables de acuerdo con la definición contenida en los acuerdos de subvención específicos de IMI2, Clean Sky 2 y las empresas comunes FCH sujetas a auditoría y si se han reclamado de conformidad con las disposiciones financieras tal como se definen en dichos acuerdos de subvención.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>El trabajo consistirá en la realización de auditorías en las instalaciones de participantes seleccionados en acuerdos de subvención de investigación dentro de los 28 Estados miembros de la UE o dentro de los países asociados al Programa Horizonte 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>La Empresa Común IMI2, que actúa como Autoridad Principal de Contratación, seleccionará un máximo de 3 contratistas en cascada.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Los contratos marco pueden renovarse 1 vez por un período de 12 meses.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Las tres Autoridades Contratantes implementan los fondos de Horizonte 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Bélgica.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Podrá asistir a la sesión de apertura 1 representante legal por licitador participante como máximo.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>IMI 2 -yhteisyritys</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>IMI 2 -yhteisyritys</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>IMI 2 -yhteisyritys</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tilintarkastukset, muut varmennustoimeksiannot ja oheispalvelut</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Clean Sky 2 -yhteisyritys, IMI 2 -yhteisyritys ja polttokenno- ja vety-yhteisyritys aikovat solmia rinnakkaiset puitepalvelusopimukset korkeintaan kolmen talouden toimija kanssa 30–50 tilintarkastuksen ja näihin liittyvien palveluiden toteuttamiseksi vuosittain.</P>
+               <P>Sopimusosapuolen on toteutettava palvelut yhteisyritysten puolesta yhteisyritysten tutkimustoiminnassa mukana olevien eri tahojen osalta.</P>
+               <P>Tarkastuksen tavoitteena on tarkistaa, ovatko korvattavaksi esitetyt kustannukset kussakin tarkastuksen kohteena olevassa erillisessä Clean Sky 2 -yhteisyrityksen, IMI 2 -yhteisyrityksen ja polttokenno- ja vety-yhteisyrityksen avustussopimuksessa määriteltyjen ehtojen mukaisesti korvattavia ja onko ne vaadittu korvattaviksi kyseisissä avustussopimuksissa määriteltyjen rahallisten ehtojen mukaisesti.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Työ koostuu tarkastuksista valittujen tutkimusavustussopimuksiin osallistuvien tahojen toimitiloissa 28 EU-jäsenmaassa tai Horisontti 2020 -ohjelmassa mukana olevissa maissa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Päähankintaviranomaisena toimiva IMI2 -yhteisyritys aikoo valita korkeintaan 3 sopimusosapuolta peräkkäisjärjestelmän mukaista sopimuksentekoa varten.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Puitesopimukset voidaan uusia kerran 12 kuukauden ajaksi.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Kaikki kolme hankintaviranomaista toteuttavat Horisontti 2020 -ohjelman mukaista rahoitusta.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60, 1060 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Enintään 1 laillinen edustaja jokaiselta menettelyyn osallistuvalta tarjoajalta voi osallistua avaustilaisuuteen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Entreprise commune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Entreprise commune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Entreprise commune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audits financiers, autres engagements en matière d'assurance et services connexes</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L’entreprise commune Clean Sky 2, l’entreprise commune Innovative Medicines Initiative 2, et l’entreprise commune Piles à combustible et hydrogène ont l’intention de conclure plusieurs contrats cadres de service avec un maximum de trois opérateurs, pour la mise en œuvre de 30-50 audits financiers et des services connexes par an.</P>
+               <P>Le contractant doit entreprendre des services au nom des entreprises communes par rapport aux différents participants dans les activités de recherche des entreprises communes.</P>
+               <P>L’objectif de l’audit est de vérifier si les coûts fixés ou remboursés sont des coûts éligibles selon la définition indiquée dans les conventions de subvention spécifiques des entreprises communes IMI2, Clean Sky 2 et FCH sujets à un audit et si elles ont été demandés conformément aux dispositions financières telles que définies dans ses conventions de subvention.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Le travail portera sur des audits dans les locaux des participants sélectionnés dans les conventions de subvention de recherche avec les 28 états membres de l’UE ou dans des pays associés au programme Horizon 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L’entreprise commune IMI2, en qualité d’autorité contractante chef de file pour sélectionner un maximum de 3 contractants en cascade.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>les contrats cadres pourront être reconduits une fois pour une période de 12 mois.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Les trois autorités contractantes mettent en œuvre les fonds de Horizon 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d'Or 56-60, 1060 Brussels, Belgique.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Au maximum 1 représentant légal par soumissionnaire participant pourra assister à l'ouverture des offres.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal de l'Union européenne</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Κοινή επιχείρηση ΠΚΦ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Κοινή επιχείρηση ΠΚΦ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Κοινή επιχείρηση ΠΚΦ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Οικονομικοί έλεγχοι, λοιπές δεσμεύσεις αξιοπιστίας και συναφείς υπηρεσίες</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Η κοινή επιχείρηση Clean Sky 2, η κοινή επιχείρηση ΠΚΦ 2 και η κοινή επιχείρηση «Κυψέλες καυσίμου και υδρογόνο» προτίθενται να συνάψουν πολλαπλές συμβάσεις-πλαίσιο με τρεις οικονομικούς φορείς κατ 'ανώτατο όριο για την εκτέλεση 30-50 δημοσιονομικών ελέγχων και συναφών υπηρεσιών, ανά έτος.</P>
+               <P>Ο ανάδοχος πρέπει να αναλάβει υπηρεσίες εξ ονόματος των ΚΕ όσον αφορά τους διαφορετικούς συμμετέχοντες στις ερευνητικές δραστηριότητες των ΚΕ.</P>
+               <P>Στόχος ενός ελέγχου είναι να εξακριβωθεί κατά πόσον οι δαπάνες που υποβάλλονται για επιστροφή είναι επιλέξιμες δαπάνες σύμφωνα με τον ορισμό που περιέχεται στις ειδικές συμφωνίες επιχορήγησης των κοινών επιχειρήσεων IMI2, Clean Sky 2 και FCH που υπόκεινται σε έλεγχο και εάν έχουν ζητηθεί σύμφωνα με την χρηματοοικονομικές διατάξεις όπως ορίζονται στις εν λόγω συμφωνίες επιχορήγησης.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Το έργο θα περιλαμβάνει ελέγχους στις εγκαταστάσεις επιλεγμένων συμμετεχόντων σε συμφωνίες επιχορήγησης στον τομέα της έρευνας στα 28 κράτη μέλη της ΕΕ ή στις χώρες που είναι συνδεδεμένες με το πρόγραμμα «Ορίζοντας 2020».</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Η ΚΕ IMI2 , η οποία ενεργεί ως επικεφαλής αναθέτουσας αρχής, προτίθεται να επιλέξει ένα μέγιστο αριθμό 3 αναδόχων με διαδοχική σειρά.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Οι συμβάσεις-πλαίσιο μπορούν να ανανεωθούν μία φορά για περίοδο 12 μηνών.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Οι τρεις αναθέτουσες αρχές εφαρμόζουν τα κονδύλια του προγράμματος «Ορίζοντας 2020».</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Βελγιο.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Στην αποσφράγιση των προσφορών επιτρέπεται να παραστεί μόνον ένας νομικός εκπρόσωπος το μέγιστο ανά υποψήφιο.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Impresa comune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Impresa comune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Impresa comune IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audit finanziari, altri incarichi di verifica e servizi connessi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'impresa comune Clean Sky 2, l'impresa comune IMI 2 e l'impresa comune Fuel Cells and Hydrogen intendono stipulare contratti quadro multipli di servizi con un massimo di tre operatori economici, per la realizzazione di 30-50 audit finanziari e servizi connessi, l’anno.</P>
+               <P>Il contraente svolgerà i servizi per conto delle imprese comuni in relazione ai diversi partecipanti alle attività di ricerca delle imprese comuni.</P>
+               <P>L'obiettivo di un audit è verificare se i costi presentati per il rimborso sono costi ammissibili secondo la definizione contenuta negli accordi di sovvenzione specifiche delle imprese comuni IMI2, Clean Sky 2 e FCH soggette a revisione contabile e se sono state richiesti in conformità alle disposizioni finanziarie come definite nei suddetti accordi di sovvenzione.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Il lavoro riguarderà le revisioni contabili nei locali di partecipanti selezionati in accordi di sovvenzione per la ricerca all'interno dei 28 Stati membri dell'UE o all'interno dei paesi associati al programma Orizzonte 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L’impresa comune IMI2, in qualità di autorità aggiudicatrice capofila, intende selezionare un massimo di 3 appaltatori a cascata.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>il contratto potrà essere rinnovato una volta per un periodo di 12 mesi.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Le tre amministrazioni aggiudicatrici attuano i fondi di Orizzonte 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgio.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Potrà assistere all'apertura delle offerte al massimo un rappresentante legale per ogni offerente.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemeenschappelijke Onderneming IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemeenschappelijke Onderneming IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemeenschappelijke Onderneming IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Financiële audits, andere controleopdrachten en aanverwante diensten.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Gemeenschappelijke Onderneming Clean Sky 2, Gemeenschappelijke Onderneming voor het initiatief innovatieve geneesmiddelen 2 en Gemeenschappelijke Onderneming brandstofcellen en waterstof willen meerdere raamovereenkomsten voor diensten sluiten met maximaal 3 ondernemers voor de uitvoering van 30-50 financiële audits en aanverwante diensten per jaar.</P>
+               <P>De contractant moet diensten verlenen voor de gemeenschappelijke ondernemingen met betrekking tot de verschillende deelnemers aan onderzoeksactiviteiten van de gemeenschappelijke ondernemingen.</P>
+               <P>De doelstelling van een audit is nagaan of de voor terugbetaling ingediende kosten in aanmerking komen volgens de definitie die is opgenomen in de specifieke subsidieovereenkomsten van de gemeenschappelijke ondernemingen IMI2, Clean Sky 2 en FCH die onderhevig zijn aan audits en of zij worden opgeëist in overeenstemming met de financiële bepalingen die zijn vastgelegd in deze subsidieovereenkomsten.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>de werkzaamheden bestaan uit audits in de kantoren van de geselecteerde deelnemers van onderzoekssubsidieovereenkomsten in de 28 EU-lidstaten of in landen die geassocieerd zijn met het Horizon 2020-programma.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>De Gemeenschappelijke Onderneming IMI2, die optreedt als leidende aanbestedende dienst, wil maximaal 3 contractanten selecteren volgens het cascadesysteem.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De raamovereenkomsten kunnen eenmaal worden verlengd voor een periode van 12 maanden.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>De 3 aanbestedende diensten implementeren Horizon 2020-fondsen.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Gulden Vlieslaan 56-60, 1060 Brussel, België.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>maximaal 1 wettelijk vertegenwoordiger per deelnemende inschrijver mag de opening bijwonen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht van de Europese Unie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Comum Iniciativa sobre Medicamentos Inovadores 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Empresa Comum Iniciativa sobre Medicamentos Inovadores 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Empresa Comum Iniciativa sobre Medicamentos Inovadores 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Auditorias financeiras, outros contratos de garantia e serviços conexos</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A Empresa Comum Clean Sky 2, A Empresa Comum Iniciativa sobre Medicamentos Inovadores 2, e a Empresa Comum Pilhas de Combustível e Hidrogénio pretendem celebrar vários contratos-quadro de serviço com um máximo de três operadores económicos, para a implementação de 30-50 auditorias financeiras e serviços conexos, por ano.</P>
+               <P>O Contratante deverá realizar serviços em nome das Empresas Comuns em conformidade com os vários participantes nas atividades de investigação das Empresas Comuns.</P>
+               <P>O objetivo de uma auditoria consiste em verificar se os custos enviados para reembolso são custos elegíveis de acordo com a definição contida nas convenções de subvenção específicas das Empresas Comuns do IMI2, Clean Sky 2 e FCH sujeitos a auditoria e se estes foram reclamados em conformidade com as provisões financeiras consoante definido nessas convenções de subvenção.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>O trabalho irá consistir em auditorias nas instalações de participantes selecionados em convenções de subvenção de investigação no âmbito dos 28 Estados-Membros da UE ou nos países associados com o Programa Horizonte 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A Empresa Comum IMI2, agindo como entidade adjudicante principal, pretende selecionar um máximo de 3 contratantes em cascata.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>O contrato-quadro pode ser prorrogado uma vez por um período de 12 meses.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>As três entidades adjudicantes implementam fundos do Horizonte 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Bélgica.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Poderá assistir à sessão de abertura no máximo um representante legal por proponente.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemensamma företaget för initiativet för innovativa läkemedel 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemensamma företaget för initiativet för innovativa läkemedel 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gemensamma företaget för initiativet för innovativa läkemedel 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finansiella revisioner, andra försäkringsåtaganden och tillhörande tjänster</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>gemensamma företaget Clean Sky 2, gemensamma företaget för initiativet för innovativa läkemedel 2, samt gemensamma företaget för bränsleceller och vätgas, avser sluta multipla ramavtal för tjänster med högst 3 ekonomiska aktörer, för genomförandet av 30-50 finansiella revisioner och tillhörande tjänster, om året.</P>
+               <P>Uppdragstagaren ska åta sig tjänster för de gemensamma företagens räkning med avseende på olika deltagare i de gemensamma företagens forskningsverksamheter.</P>
+               <P>Målet med en revision är att kontrollera huruvida de kostnader som lämnas in för återbetalning är antagbara enligt den definition som anges i de särskilda forskningsanslag för gemensamma företagen för initiativet för innovativa läkemedel 2, Clean Sky 2 och för bränsleceller och vätgas som är föremål för revision, och huruvida anspråken har gjorts i enlighet med de finansiella bestämmelser som fastställs i de bidragsavtalen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Arbetet kommer att bestå av revisioner vid lokaler tillhörande utvalda mottagare av forskningsanslag inom EU:s 28 medlemsstater eller inom länder knutna till programmet Horisont 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Gemensamma företaget för initiativet för innovativa läkemedel 2, i egenskap av ledande upphandlande myndighet, avser välja ut högst 3 uppdragstagare i kaskadsystem.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Ramavtalen kan förlängas en gång för en period på 12 månader.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>De tre upphandlande myndigheterna använder medel från Horisont 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Högst 1 juridiskt ombud per deltagande anbudsgivare får närvara vid anbudsöppningen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Společný podnik IIL 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Společný podnik IIL 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Společný podnik IIL 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finanční audity, další zabezpečovací výkony a související služby</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Společný podnik Clean Sky 2, společný podnik IIL 2 a společný podnik pro palivové články a vodík mají v úmyslu uzavřít několik rámcových smluv o poskytování služeb s nejvýše třemi hospodářskými subjekty na provádění 30-50 finančních auditů a souvisejících služeb ročně.</P>
+               <P>Poskytovatel služeb poskytne služby jménem společných podniků vzhledem k různým účastníkům výzkumných činností společných podniků.</P>
+               <P>Cílem auditu je ověřit, zda jsou náklady předložené k proplacení způsobilými náklady podle definice obsažené ve zvláštních grantových dohodách společných podniků IIL 2, Clean Sky 2 a PČV podléhajícími auditu a zda byly nárokovány v souladu s finančními ustanovení stanovenými v těchto grantových dohodách.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Práce bude sestávat z auditů v prostorách vybraných účastníků grantových dohod na výzkum v rámci 28 členských států EU nebo v rámci zemí přidružených k programu Horizont 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Společný podnik IIL 2, který vystupuje jako vedoucí veřejný zadavatel, má v úmyslu vybrat nejvýše 3 poskytovatele služeb v kaskádě.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rámcové smlouvy bude možné obnovit jednou na dobu trvání v délce 12 měsíců.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Tři veřejní zadavatelé využívají finanční prostředky programu Horizont 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgie.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otevírání nabídek se může účastnit nanejvýš 1 právní zástupce každého účastnícího se uchazeče.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Innovatiivsete ravimite algatuse 2. ühisettevõte (IMI 2 JU)</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Innovatiivsete ravimite algatuse 2. ühisettevõte (IMI 2 JU)</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Innovatiivsete ravimite algatuse 2. ühisettevõte (IMI 2 JU)</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finantsauditid, muud kindlustandvad töövõtud ja seonduvad teenused</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Clean Sky 2. ühisettevõte, innovatiivsete ravimite algatuse 2. ühisettevõte ning kütuseelementide ja vesiniku valdkonna ühisettevõte kavatsevad sõlmida mitu teenuste raamlepingut maksimaalselt kolme ettevõtjaga aastas 30–50 finantsauditi läbiviimiseks ja seotud teenuste osutamiseks.</P>
+               <P>Töövõtja osutab ühisettevõtete nimel teenuseid seoses ühisettevõtete teadustegevuses osalejatega.</P>
+               <P>Auditi eesmärk on teha kindlaks, kas hüvitamiseks esitatud kulud on kõlblikud kulud IMI2, Clean Sky 2 ja FCH ühisettevõtete konkreetsete auditeerimisele kuuluvate toetuslepingute tähenduses ja kas need kulud on sisse nõutud vastavalt nimetatud toetuslepingutes määratletud finantstingimustele.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Töö seisneb auditite läbiviimises valitud teadusuuringute toetuslepingutes osalejate ruumides 28 ELi liikmesriigis või programmiga Horisont 2020 seotud riikides.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>IMI2 ühisettevõte kui juhtiv avaliku sektori hankija kavatseb valida paremusjärjestuses maksimaalselt 3 töövõtjat.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Raamlepinguid võidakse uuendada üks kord 12 kuuks.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Kolm avaliku sektori hankijat kasutavad programmi Horisont 2020 vahendeid.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building,</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>avamisel võib osaleda maksimaalselt üks juriidiline esindaja iga osaleva pakkuja kohta.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Innovative Medicines Initiative 2 Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>IMI 2 Közös Vállalkozás</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>IIMI 2 Közös Vállalkozás</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pénzügyi auditok, egyéb bizonyosságot nyújtó megbízások és kapcsolódó szolgáltatások</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A Tiszta Égbolt 2 közös vállalkozás, az innovatív gyógyszerek kutatására irányuló kezdeményezést megvalósító második közös vállalkozás és az Üzemanyagcella- és Hidrogéntechnológiai Közös Vállalkozás több féllel kötött keretszerződéseket kíván kötni legfeljebb három gazdasági szereplővel évi 30-50 pénzügyi audit és kapcsolódó szolgáltatások megvalósítására.</P>
+               <P>A nyertes ajánlattevőnek a közös vállalkozások nevében, a közös vállalkozások kutatási tevékenységeinek különféle résztvevőivel kapcsolatban kell szolgáltatásokat nyújtania.</P>
+               <P>Az auditok célja annak ellenőrzése, hogy a visszatérítésre megjelölt költségek jogosak-e az IMI 2, a Tiszta égbolt 2, valamint az Üzemanyagcella- és Hidrogéntechnológiai közös vállalkozás – az audit tárgyát képező – egyedi támogatási megállapodásaiban szereplő meghatározás értelmében, és hogy az említett költségeket a támogatási megállapodásokban meghatározott pénzügyi rendelkezéseknek megfelelően igénylik-e vissza.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>A munka a kutatási támogatási megállapodásokban kiválasztott résztvevők helyszínein lebonyolítandó auditokból áll majd, az Európai Unió 28 tagállamán vagy a Horizont 2020 programhoz csatlakozott országokon belül.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Az IMI 2 közös vállalkozás, mint vezető ajánlatkérő legfeljebb 3 nyertes ajánlattevőt kíván lépcsőzetes rendszerben kiválasztani.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A keretszerződések egy alkalommal hosszabbíthatók meg, 12 hónapos időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>A három ajánlatkérő a Horizont 2020 alapjait hajtja végre.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgium.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A tenderbontáson minden ajánlattevőtől maximum 1-1 jogi képviselő lehet jelen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bendroji įmonė NVI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Bendroji įmonė NVI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Bendroji įmonė NVI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finansiniai auditai, kitos patikinimo užduotys ir susijusios paslaugos</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Bendroji įmonė „Švarus dangus 2“, Bendroji įmonė NVI 2 ir Kuro elementų ir vandenilio bendroji įmonė ketina sudaryti preliminariąsias paslaugų sutartis su ne daugiau nei trimis veiklos vykdytojais, skirtas įgyvendinti 30–50 finansinių auditų per metus ir su jais susijusias paslaugas.</P>
+               <P>Paslaugų teikėjas atlieka paslaugas bendrųjų įmonių vardu įvairių bendrųjų įmonių mokslinių tyrimų dalyvių atžvilgiu.</P>
+               <P>Audito tikslas – patikrinti ar kompensacijoms gauti pateiktos išlaidos gali būti kompensuojamos pagal apibrėžimą, pateiktą specialiose dotacijų sutartyse, sudarytose tarp NVI 2, „Švarus dangus 2“ ir kuro elementų ir vandenilio bendrųjų įmonių, ir ar paraiškos kompensuoti šias išlaidas buvo pateiktos laikantis finansinių reikalavimų, apibrėžtų minėtose dotacijų sutartyse.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Darbą sudarys auditai atrinktų dalyvių, dalyvaujančių mokslinių tyrimų dotacijų sutartyse, patalpose, 28 ES valstybėse narėse ar šalyse, kurios yra susijusios su programa „Horizontas 2020“.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>NVI 2 bendrojį įmonė, veikianti kaip perkančioji organizacija, ketina atrinkti ne daugiau nei 3 rangovus pakopine tvarka:</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Preliminariąsias sutartis galima pratęsti vieną kartą 12 mėnesių laikotarpiui.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Trys perkančiosios organizacijos realizuoja „Horizontas 2020“ lėšas.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vokų su pasiūlymais atplėšimo procedūroje gali dalyvauti daugiausia vienas kiekvieno konkurso dalyvio teisinis atstovas.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Europos Sąjunga</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Kopuzņēmums IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Kopuzņēmums IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Kopuzņēmums IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finanšu auditi, cita veida atestācijas pakalpojumi un saistītie pakalpojumi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kopuzņēmums Clean Sky 2, kopuzņēmums IMI 2 un kopuzņēmums “Kurināmā elementi un ūdeņradis 2” plāno noslēgt vairākkārtējus pakalpojumu pamatnolīgumus ar ne vairāk kā 3 uzņēmējiem par 30-50 finanšu auditu veikšanu un saistītajiem pakalpojumiem gadā.</P>
+               <P>Līgumslēdzējam jāuzņemas pakalpojumu sniegšana kopuzņēmumu (joint undertakings - JUs) vārdā, ņemot vērā dažādos JUs pētniecības darbību dalībniekus.</P>
+               <P>Audita mērķis ir pārbaudīt, vai izmaksas, kas iesniegtas atmaksai, ir attiecināmās izmaksas saskaņā ar definīciju atsevišķos kopuzņēmuma IMI 2, Kopuzņēmums Clean Sky 2 un kopuzņēmuma “Kurināmā elementi un ūdeņradis 2” dotāciju līgumos, kas tiek auditēti, un vai tās tikušas pieprasītas atbilstoši šajos dotāciju līgumos noteiktajiem finanšu noteikumiem.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Darbs ietvers auditu veikšanu izvēlētu pētniecības dotāciju līgumu dalībnieku telpās 28 ES dalībvalstīs vai valstīs, kas saistītas ar programmu "Apvārsnis 2020".</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kopuzņēmums IMI 2, kas darbojas kā galvenā līgumslēdzēja iestāde, plāno izvēlēties ne vairāk kā 3 līgumslēdzējus kaskādes sistēmā.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Pamatnolīgumus varēs atjaunot 1 reizi uz 12 mēnešu periodu.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Visas 3 līgumslēdzējas iestādes izmanto “Apvārsnis 2020” līdzekļus.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Beļģija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Avēršanas sanāksmē var piedalīties ne vairāk kā 1 katra pretendenta, kas piedalās, juridiskais pārstāvis.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Impriża Konġunta għall-IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>L-Impriża Konġunta għall-IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>L-Impriża Konġunta għall-IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verifiki finanzjarji, impenji oħra ta' assigurazzjoni u servizzi relatati</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-Impriża Konġunta Clean Sky 2, l-Impriża Konġunta għall-IMI 2, u l-Impriża Konġunta taċ-Ċelloli tal-Fjuwil u l-Idroġenu għandhom il-ħsieb li jikkonkludu oqfsa ta' kuntratti multipli ta' servizz ma' mhux iżjed minn tliet operaturi ekonomiċi, għall-implimentazzjoni ta' 30 sa 50 verifika finanzjarja u servizzi relatati, fis-sena.</P>
+               <P>Dak li jirbaħ il-kuntratt se jwettaq servizzi f'isem l-Impriżi Konġunti (JUs) fir-rigward tal-parteċipanti differenti fl-attivitajiet ta' riċerka tal-JUs.</P>
+               <P>L-għan ta' verifika hu li jiġi vverifikat jekk l-ispejjeż li kienu ppreżentati biex jintraddu lura jikkwalifikawx jew le skont id-definizzjoni li tinsab fil-ftehimiet dwar l-għotjiet speċifiċi tal-Impriżi Konġunti għall-IMI2, Clean Sky 2 u FCH li huma suġġetti għal verifika u jekk dawn intalbux skont id-dispożizzjonijiet finanzjarji mfissra f'dawk il-ftehimiet dwar l-għotjiet.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Ix-xogħol se jikkonsisti minn verifiki fil-bini tal-parteċipanti magħżula fi ftehimiet dwar l-għotjiet għar-riċerka fit-28 Stat Membru tal-UE jew fil-pajjiżi assoċjati mal-Programm Orizzont 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L-Impriża Konġunta għall-IMI 2, li taġixxi bħala l-awtorità ewlenija li qiegħda toħroġ il-kuntratt għandha l-ħsieb li tagħżel mhux iżjed minn 3 kuntratturi skont l-ordni ta' prijorità.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>L-oqfsa ta' kuntratti jistgħu jiġġeddu darba għal perijodu ta' 12-il xahar.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>It-tlett awtoritajiet li qegħdin joħorġu l-kuntratt jimplimentaw il-fondi tal-Orizzont 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, il-Belġju.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Mhux iżjed minn rappreżentant legali wieħed għal kull parteċipant li jitfa' offerta jista' jattendi għas-seduta tal-ftuħ.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Wspólne Przedsięwzięcie IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Wspólne Przedsięwzięcie IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Wspólne Przedsięwzięcie IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audyty finansowe, inne weryfikacje danych finansowych i powiązane usługi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Wspólne Przedsięwzięcie „Czyste Niebo 2”, Wspólne Przedsięwzięcie IMI 2 oraz Wspólne Przedsięwzięcie na rzecz technologii ogniw paliwowych i technologii wodorowych pragną podpisać wielokrotne umowy ramowe o usługi z nie więcej niż 3 podmiotami gospodarczymi, w celu realizacji około 30-50 audytów finansowych i usług powiązanych rocznie.</P>
+               <P>Wykonawca świadczył będzie usługi w imieniu Wspólnych Przedsięwzięć względem różnych podmiotów biorących udział w działalności badawczej w ramach Wspólnych Przedsięwzięć.</P>
+               <P>Celem audytu będzie sprawdzenie czy koszty, o zwrot których się wnioskuje, są kosztami kwalifikującymi się, zgodnie z definicją zawartą w szczegółowych umowach o udzielenie dotacji obowiązujących Wspólne Przedsięwzięcie „Czyste Niebo 2”, Wspólne Przedsięwzięcie IMI 2 oraz Wspólne Przedsięwzięcie na rzecz technologii ogniw paliwowych i technologii wodorowych, oraz czy wniosek o zwrot kosztów został złożony zgodnie z przepisami finansowymi zawartymi w szczegółowych umowach o udzielenie dotacji.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Do zadań będzie należało prowadzenie audytów w siedzibach wybranych beneficjentów grantów na badania w 28 państwach członkowskich UE lub w państwach stowarzyszonych w ramach programu „Horyzont 2020”.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Wspólne Przedsięwzięcie IMI 2, jako główna instytucja zamawiająca, pragnie wybrać nie więcej niż 3 wykonawców na zasadzie kaskady.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>umowy ramowe mogą zostać jednokrotnie wznowione na okres 12 miesięcy.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Wszystkie trzy instytucje zamawiające wdrażają fundusze w ramach inicjatywy „Horyzont 2020”.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>podczas otwarcia ofert może być obecny maksymalnie 1 przedstawiciel prawny każdego oferenta.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Spoločný podnik pre iniciatívu pre inovačné lieky 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Spoločný podnik pre iniciatívu pre inovačné lieky 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Spoločný podnik pre iniciatívu pre inovačné lieky 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finančné audity, iné záväzky v oblasti zabezpečenia a súvisiace služby</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Spoločný podnik Čisté nebo 2, spoločný podnik Iniciatíva pre inovačné lieky (IIL) 2 a spoločný podnik pre palivové články a vodík (FCH) plánujú uzavrieť viacnásobné rámcové zmluvy na poskytovanie služieb s maximálne 3 ekonomickými subjektmi ohľadom 30 – 50 finančných auditov a súvisiacich služieb ročne.</P>
+               <P>Poskytovateľ by mal vykonávať služby v mene spoločných podnikov s ohľadom na rôznych účastníkov výskumných činností spoločných podnikov.</P>
+               <P>Cieľom auditov je overiť, či náklady postúpené na náhradu sú spôsobilé podľa definície zahrnutej v konkrétnych grantových dohodách spoločných podnikov IIL2, Čisté nebo 2 a FCH, ktoré sú predmetom auditu, a či boli požadované v súlade s finančnými ustanoveniami stanovenými v týchto grantových dohodách.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Práca bude pozostávať z auditov v priestoroch vybraných účastníkov grantových dohôd v oblasti výskumu v rámci 28 členských štátov EÚ alebo krajín zapojených do programu Horizont 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Spoločný podnik IIL2, ktorý vystupuje v úlohe hlavného verejného obstarávateľa, plánuje v kaskádovom systéme vybrať maximálne 3 dodávateľov.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Rámcové zmluvy môžu byť obnovené raz na obdobie 12 mesiacov.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>3 verejní obstarávatelia uplatňujú finančné prostriedky programu Horizont 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgicko.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otvárania ponúk sa môže zúčastniť maximálne 1 právny zástupca za každého uchádzača.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Skupno podjetje IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Skupno podjetje IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Skupno podjetje IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Finančne revizije, drugi posli dajanja zagotovil in povezane storitve</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Skupno podjetje „Čisto nebo 2“, Skupno podjetje IMI 2 in Skupno podjetje za gorivne celice in vodik želijo skleniti več okvirnih pogodb za storitve z največ 3 gospodarskimi subjekti za izvedbo 30–50 finančnih revizij in povezanih storitev na leto.</P>
+               <P>Izvajalec bo izvedel storitve v imenu skupnih podjetij v zvezi z različnimi udeleženci njihovih raziskovalnih dejavnosti.</P>
+               <P>Cilj revizije je preveriti, ali so stroški, predloženi za povračilo, upravičeni stroški v skladu z opredelitvijo iz posebnih sporazumov o dodelitvi nepovratnih sredstev Skupnega podjetja IMI 2, Skupnega podjetja „Čisto nebo 2“ in Skupnega podjetja za gorivne celice in vodik, ki so predmet revizije, in ali so bili zahtevani v skladu s finančnimi določbami, določenimi v teh sporazumih o dodelitvi nepovratnih sredstev.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Delo bo zajemalo revizije v prostorih izbranih udeležencev sporazumov o dodelitvi nepovratnih sredstev za raziskave v 28 državah članicah EU ali v pridruženih državah programa Horizon 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Skupno podjetje IMI 2, v vlogi glavnega naročnika, namerava izbrati največ 3 izvajalce v kaskadi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Okvirne pogodbe se lahko podaljšajo enkrat za obdobje 12 mesecev.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Trije naročniki izvršujejo sredstva programa Horizon 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pri odpiranju ponudb je lahko navzoč največ 1 pravni zastopnik vsakega sodelujočega ponudnika.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comhghnóthas IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Comhghnóthas IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Comhghnóthas IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Iniúchtaí airgeadais, dearbhuithe iontaofachta eile agus seirbhísí gaolmhara</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is mian le Comhghnóthas Spéir Ghlan 2, an Comhghnóthas um Míochaine Nuálaíoch 2, an Comhghnóthas um Chealla Breosla agus um Hidrigin conarthaí ilchreatlaí seirbhíse a dhéanamh le triúr oibreoirí eacnamaíocha ar a uasmhéad, i leith fhorfheidhmiú na n-iniúchtaí airgeadais 30-50 agus seirbhísí gaolmhara, in aghaidh na bliana.</P>
+               <P>Is ar son na gComhghnóthas a dhéanfaidh an Conraitheoir na seirbhísí i ndáil le rannpháirtithe éagsúla i ngníomhaíochtaí taighde na gComhghnóthas féin.</P>
+               <P>Is é cuspóir an iniúchta chun a fhíorú ar costais incháilithe iad na costais a taisceadh d’aisíoc de réir an tsainmhínithe a fhaightear sna Comhaontuithe Deontais sonracha leis na Comhghnóthais IMI2, Spéir Ghlan 2 agus FCH arb iad ábhair na hiniúchóireachta iad, agus ar éilíodh iad i gcomhlíonadh leis na forálacha airgeadais mar a sainmhíníodh sna Comhaontuithe Deontais úd.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Cuimseoidh an saothar iniúchtaí ar áitribh na rannpháirtithe roghnaithe mar chuid de chomhaontuithe deontais taighde laistigh de na 28 Ballstát nó laistigh de na tíortha a bhaineann le Clár Fís 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is é Comhghnóthas IMI2, ag feidhmiú mar Cheannúdarás Conarthach, atá ag ceapadh chun uaslíon 3 conraitheoirí a roghnú in ord tosaíochta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Is féidir na creatchonarthaí a athnuachan uair amháin ar feadh tréimhse 12 mhí.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Is iad na trí Údarás Chonarthacha a chuireann cistí Fís 2020 chun feidhme.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d'Or 56-60 1060 Brusselsl, an Bheilg.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Is féidir le huaslíon d’ionadaí dlíthiúil amháin in aghaidh an tairgeora rannpháirtigh freastal ar an seisiún oscailte.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Съвместно предприятие на ИИЛ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Съвместно предприятие на ИИЛ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Съвместно предприятие на ИИЛ 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Финансови одити, други ангажименти в застраховането и свързани с това услуги</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Съвместно предприятие „Чисто небе 2“, Съвместно предприятие на ИИЛ 2 и Съвместно предприятие „Горивни клетки и водород“ възнамеряват да сключат няколко рамкови договора с максимум трима икономически оператора за изпълнение на 30—50 финансови одита и свързани услуги годишно.</P>
+               <P>Изпълнителят ще извършва услуги от името на съвместните предприятия по отношение на различните участници в изследователските им дейности.</P>
+               <P>Целта на даден одит е да провери дали разходите, подадени за възстановяване, са допустими разходи съгласно дефиницията, съдържаща се в конкретните споразумения за субсидии със съвместните предприятия ИИЛ2, „Чисто небе 2“ и „Горивни клетки и водород“, подлежащи на одит, и дали са поискани съгласно финансовите клаузи, дефинирани в тези споразумения за субсидии.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Работата ще се състои от одити в помещенията на избраните участници в споразуменията за субсидии за проучвания в 28-те държави членки или в държави, свързани с програмата „Хоризонт 2020“.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>СП ИИЛ 2, действащо като водещ възлагащ орган, възнамерява да избере максимум 3 изпълнителя в каскаден ред.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Рамковите договори може да бъдат подновени веднъж за период от 12 месеца.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Трите възлагащи органа използват средства от „Хоризонт 2020“.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Белгия.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>На заседанието по отваряне може да присъства не повече от 1 законен представител на всеки участващ оферент.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Întreprinderea comună IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Întreprinderea comună IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Întreprinderea comună IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Audituri financiare, alte angajamente în materie de asigurare și servicii conexe</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Întreprinderea comună Clean Sky 2, Întreprinderea comună IMI 2 și Întreprinderea comună Pile de combustie și hidrogen intenționează să încheie contracte cadru multiple pentru prestarea de servicii cu un număr maxim de trei operatori economici, pentru implementarea a 30-50 de audituri financiare și servicii asociate pe an.</P>
+               <P>Contractantul va presta servicii în numele întreprinderilor comune cu privire la diferiții participanți la activitățile de cercetare ale întreprinderilor comune.</P>
+               <P>Obiectivul unui audit este acela de a verifica dacă respectivele costuri prezentate pentru rambursare sunt eligibile conform definiției din acordurile de grant specifice ale Întreprinderilor comune IMI2, Clean Sky 2 și FCH care fac obiectul auditului și dacă acesta au fost solicitate în conformitate cu dispozițiile financiare definite în acordurile de grant respective.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Lucrările vor consta în audituri la sediul participanților selectați la acordurile de grant de cercetare din cele 28 de state membre UE sau din țările asociate cu Programul Orizont 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Întreprinderea comună IMI2, în calitate de autoritate contractantă principală, intenționează să selecteze maximum 3 contractanți în cascadă.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Contractele-cadru pot fi reînnoite o singură dată pentru o perioadă de 12 luni.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Cele trei autorități contractante implementează fonduri Orizont 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building.</P>
+                  <P>Avenue de la Toison d'Or 56-60, 1060 Brussels, Belgia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>La ședința de deschidere a ofertelor poate participa maximum 1 reprezentant legal din partea fiecărui ofertant care depune ofertă.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Zajedničko poduzeće IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zajedničko poduzeće IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Zajedničko poduzeće IMI 2</OFFICIALNAME>
+               <ADDRESS>IMI2 JU — TO 56 1049 Brussels, Belgium</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement Team</CONTACT_POINT>
+               <E_MAIL>procurement@imi.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE100"/>
+               <URL_GENERAL>http://www.imi.europa.eu/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.imi.europa.eu/work-for-us/procurement</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Financijske revizije, druga izražavanja uvjerenja i povezane usluge</P>
+            </TITLE>
+            <REFERENCE_NUMBER>IMI.2017.OP.215</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="79200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zajedničko poduzeće Clean Sky 2, Zajedničko poduzeće IMI 2, Zajedničko poduzeće za gorivne ćelije i vodik namjeravaju sklopiti višestruke ugovore o uslugama s najviše tri gospodarska subjekta, za provedbu 30-50 financijskih revizija i povezanih usluga godišnje.</P>
+               <P>Izvoditelj će obavljati usluge u ime zajedničkih poduzeća (ZP-ova) u pogledu različitih sudionika u istraživačkim aktivnostima ZP-ova.</P>
+               <P>Cilj je revizije provjera prihvatljivosti troškova podnesenih radi naknade prema definiciji sadržanoj u konkretnim sporazumima o dodjeli bespovratnih sredstava Zajedničkih poduzeća IMI2, Clean Sky 2 i FCH koji se revidiraju i sukladnost zahtjeva za naknadom s financijskim odredbama definiranim u tim sporazumima o dodjeli bespovratnih sredstava.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="79210000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="BE10"/>
+               <MAIN_SITE>
+                  <P>Rad će se sastojati iz revizija u prostorima odabranih subjekata uključenih u sporazume o bespovratnim sredstvima za istraživanje unutar 28 država članica ili unutar zemalja povezanih s Programom Obzor 2020.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>ZP IMI2, koje djeluje kao vodeći javni naručitelj namjerava odabrati najviše 3 pružatelja usluga u kaskadi.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">1400000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">36</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Okvirni ugovori mogu se obnoviti jednom na razdoblje od 12 mjeseci.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>Tri javna naručitelja provode sredstva programa Obzor 2020.</EU_PROGR_RELATED>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SEVERAL_OPERATORS/>
+               <NB_PARTICIPANTS>3</NB_PARTICIPANTS>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-02-05</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>23:59</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-02-12</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>White Atrium Building</P>
+                  <P>Avenue de la Toison d’Or 56-60 1060 Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Na otvaranju ponuda može biti nazočan najviše 1 pravni zastupnik po ponuditelju.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-22</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

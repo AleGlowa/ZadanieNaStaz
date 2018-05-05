@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="040699-2018"
+            EDITION="2018020">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-040614-001</RECEPTION_ID>
+      <DELETION_DATE>20180214</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>20</NO_OJ>
+         <DATE_PUB>20180130</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 020-040699</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:040699-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://shift2rail.org/</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="34940000">Railway equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="34632000">Railways traffic-control equipment</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72212140">Railway traffic control software development services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE10">Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</n2016:CA_CE_NUTS>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 242-501920</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180125</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180213</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="2">Additional information</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC14</HEADING>
+         <INITIATOR>AG</INITIATOR>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Støtte til ERTMS' handlingsplan for udbygning som grundlag for Shift2Rail's (IP2 - Innovation Programme 2) innovative løsninger</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Unterstützung bei der Umsetzung des ERTMS-Aktionsplans als Basis für innovative Lösungen des Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Support to the ERTMS Deployment action plan as baseline for Shift2Rail (IP2) innovative solutions</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Soporte al plan de acción de implementación ERTMS como línea de base para soluciones innovadoras Shift2Rail (IP2)
+</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Tuki ERTMS:n käyttöönoton toimintasuunnitelmalle pohjustamaan Shift2Rail-yhteisyrityksen toisen innovaatio-ohjelman (IP2) uutta luovia ratkaisuja</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Assistance au plan d'action de déploiement de l'ERTMS (Système européen de gestion du trafic ferroviaire) servant de base de référence à des solutions innovantes de Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Υποστήριξη του σχεδίου δράσης για την ανάπτυξη του ERTMS ως βάση αναφοράς για τις καινοτόμες λύσεις της κοινής επιχείρησης Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Supporto al piano d'azione di sviluppo dell’ERTMS come base per le soluzioni innovative Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Ondersteuning van het actieplan voor het uitrollen van het ERTMS als basis voor de innovatieve oplossingen van Shift2Rail (IP2).</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Suporte ao plano de ação de implementação do sistema europeu de gestão do tráfego ferroviário (ERTMS - European Rail Traffic Management System) como linha de base para soluções inovadoras Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Stöd för ETRMS åtgärdsplan för implementering som utgångspunkt för Shift2Rails (IP2) innovativa lösningar.</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Podpora akčního plánu na zavádění Evropského systému řízení železničního provozu (ERTMS) jako východiska pro inovativní řešení Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>ERTMSi kasutuselevõtu tegevuskava kui Shift2Rail (IP2) innovatiivsete lahenduste arendusaluse toetamine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Az ERTMS kiépítésére irányuló akcióterv támogatása a Shift2Rail (második innovációs program [IP2]) innovatív megoldásainak kiindulópontjaként</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Parama Europos geležinkelių eismo valdymo sistemos (European Railway Traffic Management System, ERTMS), sudarančios pagrindą „Shift2Rail“ (IP2) novatoriškiems sprendimams, diegimo veiksmų planui</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Atbalsts, īstenojot ERTMS izvēršanas rīcības plānu kā kopuzņēmuma Shift2Rail (IP2) inovatīvo risinājumu pamatscenāriju</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Appoġġ għall-Pjan ta' azzjoni għat-tħaddim tal-ERTMS bħala linja bażi għas-soluzzjonijiet innovattivi Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Wsparcie dla planu wdrożenia europejskiego systemu zarządzania ruchem kolejowym jako wzorca dla innowacyjnych rozwiązań Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Podpora pre akčný plán zavádzania európskeho systému riadenia železničnej dopravy (ERTMS) ako základu pre inovatívne riešenia spoločného podniku Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Podpora akcijskemu načrtu za uvedbo ERTMS kot izhodišču za inovacijske rešitve Shift2Rail (IP2).</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Tacaíocht do phlean gníomhaíochta d’úsáid ERTMS mar bhonnlíne do réitigh nuálacha Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Подкрепа за плана за действие за разгръщането на Европейската система за управление на железопътното движение (ERTMS) като основа за иновативните решения на Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Sprijin pentru planul de acțiune al implementării ERTMS ca bază pentru soluțiile inovatoare Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Podrška akcijskom planu provedbe ERTMS-a kao osnovi za inovativna rješenja Shift2Rail (IP2)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Fællesforetagendet Shift2Rail</AA_NAME>
+         <AA_NAME LG="DE">Gemeinsames Unternehmen Shift2Rail</AA_NAME>
+         <AA_NAME LG="EN">Shift2Rail Joint Undertaking</AA_NAME>
+         <AA_NAME LG="ES">Empresa Común Shift2Rail</AA_NAME>
+         <AA_NAME LG="FI">Shift2Rail-yhteisyritys</AA_NAME>
+         <AA_NAME LG="FR">Entreprise commune Shift2Rail</AA_NAME>
+         <AA_NAME LG="EL">Kοινή επιχείρηση Shift2Rail</AA_NAME>
+         <AA_NAME LG="IT">Impresa comune Shift2Rail</AA_NAME>
+         <AA_NAME LG="NL">Gemeenschappelijke Onderneming Shift2Rail</AA_NAME>
+         <AA_NAME LG="PT">Empresa Comum Shift2Rail</AA_NAME>
+         <AA_NAME LG="SV">Shift2Rail Joint Undertaking</AA_NAME>
+         <AA_NAME LG="CS">Společný podnik Shift2Rail</AA_NAME>
+         <AA_NAME LG="ET">Ühisettevõte Shift2Rail</AA_NAME>
+         <AA_NAME LG="HU">Shift2Rail közös vállalkozás</AA_NAME>
+         <AA_NAME LG="LT">Bendroji įmonė „Shift2Rail“</AA_NAME>
+         <AA_NAME LG="LV">Kopuzņēmums Shift2Rail</AA_NAME>
+         <AA_NAME LG="MT">L-Impriża Konġunta Shift2Rail</AA_NAME>
+         <AA_NAME LG="PL">Wspólne Przedsięwzięcie Shift2Rail</AA_NAME>
+         <AA_NAME LG="SK">Shift2Rail Joint Undertaking</AA_NAME>
+         <AA_NAME LG="SL">Skupno podjetje Shift2Rail</AA_NAME>
+         <AA_NAME LG="GA">Comhghnóthas Shift2Rail</AA_NAME>
+         <AA_NAME LG="BG">Съвместно предприятие Shift2Rail</AA_NAME>
+         <AA_NAME LG="RO">Întreprinderea comună Shift2Rail</AA_NAME>
+         <AA_NAME LG="HR">Zajedničko poduzeće Shift2Rail</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fællesforetagendet Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Støtte til ERTMS' handlingsplan for udbygning som grundlag for Shift2Rail's (IP2 - Innovation Programme 2) innovative løsninger</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Denne aktivitet sigter mod at støtte handlingsplanen for udbygning af ERTMS som grundlag for fællesforetagendet S2R's (IP2) innovative løsninger.</P>
+               <P>Kontrahenten skal udføre opgaver såsom:</P>
+               <P>— støtte til Den Europæiske Unions Jernbaneagentur (ERA — European Union Agency for Railways);— styring af ændringskontrolprocessen og relateret opdatering af specifikationsdokumentationen (herunder testspecifikationerne);</P>
+               <P>— identifikation af de eksisterende sæt tekniske standarder for overgangen fra ét system til et andet,</P>
+               <P>— bidrag til den tekniske gennemgang af udbygningen af fast ERTMS-udstyr på grænseoverskridende strækninger,</P>
+               <P>— bidrag til udarbejdelse/opdatering af tekniske specifikationer, der udspringer af forsknings- og innovationsaktiviteter.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemeinsames Unternehmen Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Unterstützung bei der Umsetzung des ERTMS-Aktionsplans als Basis für innovative Lösungen des Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Diese Tätigkeit zielt darauf ab, die Umsetzung des Aktionsplans des European Rail Traffic Management System (ERTMS) als Basis für innovative Lösungen des S2R GU (IP2) zu unterstützen.</P>
+               <P>Der Auftragnehmer muss u.a. folgende Aufgaben ausführen:</P>
+               <P>— Unterstützung der Eisenbahnagentur der Europäischen Union (European Agency for Railways — ERA) unterstützen,— Änderung der Kontrollmanagementprozesse und damit verbundenen Aktualisierungen von besonderen Unterlagen (einschließlich Testspezifikationen),</P>
+               <P>— Identifizierung von bestehenden Regeln der Technik in Bezug auf Systemübergänge,</P>
+               <P>— Beitrag zur technischen Überprüfung der streckenseitigen Umsetzung von ERTMS an Grenzübergangsabschnitten,</P>
+               <P>— Beitrag zur Ausarbeitung/Aktualisierung von technischen Spezifikationen, die auf Forschungs- und Innovationstätigkeiten zurückzuführen sind.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="ORIGINAL" FORM="F14" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Shift2Rail Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Support to the ERTMS Deployment action plan as baseline for Shift2Rail (IP2) innovative solutions</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>This activity aims at supporting the European Rail Traffic Management System (ERTMS) Deployment Action Plan as the baseline for S2R JU (IP2) innovative solutions.</P>
+               <P>The contractor will perform tasks such as:</P>
+               <P>— support the European Union Agency for Railways (ERA) Change Control Management process’ and related update of specification documentation (including test specifications);</P>
+               <P>— identification of the existing sets of engineering rules regarding transitions between systems,</P>
+               <P>— contribution to the technical review of track-side deployment of ERTMS in cross-border sections,</P>
+               <P>— contribution to the drafting/updating of technical specifications stemming from Research and Innovation activities.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Común Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soporte al plan de acción de implementación ERTMS como línea de base para soluciones innovadoras Shift2Rail (IP2)
+</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Esta actividad tiene como objetivo apoyar el Plan de Acción de Implementación del Sistema Europeo de Gestión del Tráfico Ferroviario (ERTMS) como referencia para las soluciones innovadoras S2R JU (IP2).
+</P>
+               <P>El contratista realizará tareas como:
+</P>
+               <P>— apoyar a la Agencia de Ferrocarriles de la Unión Europea (ERA),
+— trabajar en el proceso de gestión de control de cambios y la correspondiente actualización de la documentación de especificación (incluidas las especificaciones de prueba),
+</P>
+               <P>— identificar los actuales conjuntos de reglas de ingeniería con respecto a las transiciones entre sistemas,
+</P>
+               <P>— contribuir al examen técnico del despliegue del ERTMS en la vía en secciones transfronterizas,
+</P>
+               <P>— contribuir a la redacción/actualización de especificaciones técnicas derivadas de actividades de investigación e innovación.
+</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Shift2Rail-yhteisyritys</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tuki ERTMS:n käyttöönoton toimintasuunnitelmalle pohjustamaan Shift2Rail-yhteisyrityksen toisen innovaatio-ohjelman (IP2) uutta luovia ratkaisuja</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Hankinnan tavoitteena on antaa tukea Euroopan rautatieliikenteen hallintajärjestelmän (European Rail Traffic Management System – ERTMS) käyttöönoton toimintasuunnitelmalle pohjustamaan Shift2Rail-yhteisyrityksen toisen innovaatio-ohjelman (Innovation Programme 2 – IP2) uutta luovia ratkaisuja.</P>
+               <P>Sopimusosapuolen tehtävänä on mm.:</P>
+               <P>— tukea Euroopan unionin rautatievirastoa (European Union Agency for Railways – ERA),— muuttaa valvonnanhallinnan prosessi- ja siihen liittyvien teknisten määrittelyjen päivityksen dokumentaatiota (mukaan lukien testausmäärittelyt),</P>
+               <P>— olemassa olevien teknisten sääntöjärjestelmien identifiointi ajatellen siirtymiä järjestelmästä toiseen,</P>
+               <P>— avustaminen ERTMS:n teknisissä käyttöönottokatsastuksissa maiden rajoilla olevilla rataosuuksilla,</P>
+               <P>— olla mukana tieteellisestä tutkimuksesta ja innovaatiotoiminnasta kumpuavien teknisten määrittelyjen luomisessa/päivittämisessä.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Entreprise commune Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Assistance au plan d'action de déploiement de l'ERTMS (Système européen de gestion du trafic ferroviaire) servant de base de référence à des solutions innovantes de Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cette activité vise à apporter une assistance dans le cadre du plan d'action de déploiement du système européen de gestion du trafic ferroviaire (ERTMS) servant de base de référence à des solutions innovantes de l'EC S2R (IP2).</P>
+               <P>Le contractant effectuera notamment le type de tâches suivantes :</P>
+               <P>- Assistance auprès de l’Agence de l'Union européenne pour les chemins de fer (ERA),- Modification de la procédure de gestion des modifications et mises à jour connexes des documents relatifs aux spécifications (y compris les spécifications d’essais),</P>
+               <P>- Identification des règles existantes en matière d'ingénierie relatives aux transitions entre différents systèmes,</P>
+               <P>- Contribution à l’examen technique du déploiement des bordures de voies de l'ERTMS sur des tronçons transfrontaliers,</P>
+               <P>- Contribution à l'élaboration/à l'actualisation des spécifications techniques découlant de la recherches et des activités innovantes.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Kοινή επιχείρηση Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Υποστήριξη του σχεδίου δράσης για την ανάπτυξη του ERTMS ως βάση αναφοράς για τις καινοτόμες λύσεις της κοινής επιχείρησης Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Η δραστηριότητα αυτή στοχεύει στην υποστήριξη του σχεδίου δράσης για την ανάπτυξη του ευρωπαϊκού συστήματος διαχείρισης της σιδηροδρομικής κυκλοφορίας (ERTMS) ως βάση αναφοράς για τις καινοτόμες λύσεις της κοινής επιχείρησης S2R JU (IP2).</P>
+               <P>Ο ανάδοχος θα εκτελέσει καθήκοντα όπως:</P>
+               <P>— υποστήριξη του Οργανισμού Σιδηροδρόμων της Ευρωπαϊκής Ένωσης (ERA),— αλλαγή των διαδικασιών διαχείρισης ελέγχου και σχετική ενημέρωση των εγγράφων προδιαγραφών (συμπεριλαμβανομένων των προδιαγραφών δοκιμών),</P>
+               <P>— ταυτοποίηση του ήδη υπάρχοντος συνόλου μηχανολογικών κανόνων όσον αφορά τις μεταβάσεις μεταξύ συστημάτων,</P>
+               <P>— συμβολή στην τεχνική αναθεώρηση της ανάπτυξης του ERTMS κατά μήκος της γραμμής σε διασυνοριακά τμήματα,</P>
+               <P>— συμβολή στην κατάρτιση/ενημέρωση των τεχνικών προδιαγραφών που προκύπτουν από δραστηριότητες έρευνας και καινοτομίας.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Impresa comune Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supporto al piano d'azione di sviluppo dell’ERTMS come base per le soluzioni innovative Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L’attività mira a sostenere il piano d'azione per lo sviluppo del Sistema di gestione del traffico ferroviario europeo (ERTMS) come base per le soluzioni innovative S2R JU (IP2).</P>
+               <P>Il contraente svolgerà incarichi quali:</P>
+               <P>— supporto all’Agenzia dell’Unione europea per le ferrovie (ERA),— modifica del processo di gestione dei controlli e relativo aggiornamento della documentazione delle specifiche (comprese le specifiche delle prove),</P>
+               <P>— identificazione delle serie esistenti di regole ingegneristiche relative alle transizioni tra sistemi,</P>
+               <P>— contributo alla revisione tecnica dello sviluppo dell'ERTMS, lato rotaie, nelle sezioni transfrontaliere,</P>
+               <P>— contributo alla stesura/aggiornamento delle specifiche tecniche derivanti dalle attività di ricerca e innovazione.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gemeenschappelijke Onderneming Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ondersteuning van het actieplan voor het uitrollen van het ERTMS als basis voor de innovatieve oplossingen van Shift2Rail (IP2).</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Deze activiteit is gericht op de ondersteuning van het actieplan voor het uitrollen van het Europees beheersysteem voor het spoorverkeer (ERTMS - European Rail Traffic Management System) als basis voor de innovatieve oplossingen van de Gemeenschappelijke Onderneming S2R (IP2).</P>
+               <P>De contractant moet taken uitvoeren zoals:</P>
+               <P>— de ondersteuning van het Spoorwegbureau van de Europese Unie (ERA),— de verandering van het proces voor het besturingsbeheer en de bijbehorende actualisering van de documentatie met de specificaties (met inbegrip van de testspecificaties),</P>
+               <P>— de identificatie van de bestaande reeksen constructievoorschriften met betrekking tot de overgang tussen systemen,</P>
+               <P>— bijdragen aan de technische beoordeling van de toepassing van ERTMS op de spoorbanen in grensoverschrijdende secties,</P>
+               <P>— bijdragen aan het ontwerp/de actualisering van technische specificaties die voortvloeien uit onderzoeks– en innovatieactiviteiten.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Empresa Comum Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suporte ao plano de ação de implementação do sistema europeu de gestão do tráfego ferroviário (ERTMS - European Rail Traffic Management System) como linha de base para soluções inovadoras Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Esta atividade visa apoiar o plano de ação de implementação do sistema europeu de gestão do tráfego ferroviário (ERTMS) como base para soluções inovadoras da S2R JU (IP2).</P>
+               <P>O contratante executará tarefas tais como:</P>
+               <P>— apoiar a Agência Ferroviária da União Europeia (ERA),— processo de gestão de controlo de mudanças e respetiva atualização da documentação em matéria de especificações, (incluindo especificações de teste),</P>
+               <P>— identificação dos conjuntos existentes de regras de engenharia em relação a transições entre sistemas,</P>
+               <P>— contribuição para a revisão técnica da implementação do sistema europeu de gestão do tráfego ferroviário em troços transfronteiriços,</P>
+               <P>— contribuição para a elaboração/atualização de especificações técnicas decorrentes de atividades de pesquisa e inovação.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Shift2Rail Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Stöd för ETRMS åtgärdsplan för implementering som utgångspunkt för Shift2Rails (IP2) innovativa lösningar.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet är att stötta det europeiska trafikstyrningssystemet för tåg (ERTMS – European Rail Traffic Management System) och deras åtgärdsplan för implementering som utgångspunkt för det gemensamma företaget S2R:s (IP2) innovativa lösningar.</P>
+               <P>Uppdragstagaren kommer att utföra följande uppgifter:</P>
+               <P>– stötta Europeiska unionens järnvägsbyrå (ERA – European Union Agency för Railways),– ändra styrningsprocesser och uppdatera tillhörande specifikationsdokument (inklusive testspecifikationer),</P>
+               <P>– identifiera befintliga tekniska regler för övergång mellan system,</P>
+               <P>– bidra till den tekniska översynen av ERTMS markbaserade implementering vid gränsöverskridande sträckor,</P>
+               <P>– bidra till avfattning/uppdatering av tekniska specifikationer som kommer från forsknings- och innovationsaktiviteter.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Společný podnik Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podpora akčního plánu na zavádění Evropského systému řízení železničního provozu (ERTMS) jako východiska pro inovativní řešení Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cílem této iniciativy je podpořit akční plán na zavádění Evropského systému řízení železničního provozu (ERTMS) jako východiska pro inovativní řešení Společného podniku Shift2Rail (S2R JU) (IP2).</P>
+               <P>Dodavatel bude provádět úkoly jako:</P>
+               <P>– podpora Agentury Evropské unie pro železnice (ERA),– proces správy řízení změn a související aktualizace dokumentace specifikací (včetně specifikací zkoušek),</P>
+               <P>– identifikace stávajících souborů technických předpisů týkajících se přechodů mezi systémy,</P>
+               <P>– podpora technického přezkoumání traťového zavedení ERTMS v přeshraničních úsecích,</P>
+               <P>– podpora vypracování/aktualizaci technických specifikací vycházejících z výzkumných a inovačních činností.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ühisettevõte Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>ERTMSi kasutuselevõtu tegevuskava kui Shift2Rail (IP2) innovatiivsete lahenduste arendusaluse toetamine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kõnealuse tegevuse eesmärk toetada Euroopa raudteeliikluse juhtimissüsteemi (ERTMS) kasutuselevõtu tegevuskava kui S2R JU (IP2) innovatiivsete lahenduste arendusalust.</P>
+               <P>Töövõtja täidab ülesandeid, nagu:</P>
+               <P>– Euroopa Liidu Raudteeameti (ERA) abistamine;– „muudatuste juhtimise (CCM) protsess” ja seonduv spetsifikatsiooni dokumentatsiooni ajakohastamine (kaasa arvatud katsetamise tehnilised nõuded ja tingimused);</P>
+               <P>– süsteemivaheliste üleminekute suhtes kehtivate tehniliste eeskirjade kogumi kindlaksmääramine;</P>
+               <P>– panustamine piiriülestes teelõikudes ERTMSi raudteeäärse{b&gt; &lt;b}kasutuselevõtu tehnilisse analüüsi;</P>
+               <P>– panustamine teadus- ja innovatsioonitegevusest tulenevate tehniliste tingimuste kavandamisse/ ajakohastamisse.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Shift2Rail közös vállalkozás</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Az ERTMS kiépítésére irányuló akcióterv támogatása a Shift2Rail (második innovációs program [IP2]) innovatív megoldásainak kiindulópontjaként</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A tevékenység célja az európai vasúti forgalomirányítási rendszer (ERTMS) kiépítésére irányuló akcióterv támogatása a Shift2Rail (IP2) innovatív megoldásainak kiindulópontjaként.</P>
+               <P>A nyertes ajánlattevőnek többek között az alábbi feladatokat kell teljesítenie:</P>
+               <P>— az Európai Unió Vasúti Ügynökségének (ERA) támogatása;— a változásellenőrzés-kezelési folyamat és a kapcsolódó előírások (többek között a vizsgálati előírások) aktualizálásának dokumentálása;</P>
+               <P>— a meglévő műszaki szabályrendszerek azonosítása a rendszerek közötti átjárás tekintetében;</P>
+               <P>— hozzájárulás az ERTMS pálya menti megvalósításának műszaki felülvizsgálatához a határokon átnyúló szakaszokon;</P>
+               <P>— hozzájárulás a műszaki előírások megfogalmazásához/aktualizálásához a kutatási és innovációs tevékenységek alapján.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bendroji įmonė „Shift2Rail“</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Parama Europos geležinkelių eismo valdymo sistemos (European Railway Traffic Management System, ERTMS), sudarančios pagrindą „Shift2Rail“ (IP2) novatoriškiems sprendimams, diegimo veiksmų planui</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šia veikla siekiama remti Europos geležinkelių eismo valdymo sistemos (ERTMS), sudarančios pagrindą bendrosios įmonės „Shift2Rail“ (IP2) novatoriškiems sprendimams, diegimo veiksmų planui.</P>
+               <P>Rangovas atliks tokias užduotis:</P>
+               <P>— parama Europos Sąjungos geležinkelių agentūrai (ERA),— kontrolės valdymo proceso keitimas ir atitinkamas specifikacijų dokumentacijos atnaujinimas (įskaitant bandymų specifikacijas);</P>
+               <P>— esamų inžinerinių taisyklių, susijusių su perėjimais tarp sistemų, nustatymas,</P>
+               <P>— pagalba atliekant ERTMS diegimo tarpvalstybinių atkarpų bėgių keliuose techninę apžvalgą,</P>
+               <P>— pagalba rengiant ir (arba) atnaujinant technines specifikacijas remiantis mokslinių tyrimų ir inovacijų veikla.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Kopuzņēmums Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Atbalsts, īstenojot ERTMS izvēršanas rīcības plānu kā kopuzņēmuma Shift2Rail (IP2) inovatīvo risinājumu pamatscenāriju</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Darbības mērķis ir atbalstīt Eiropas Dzelzceļa satiksmes vadības sistēmas (ERTMS - European Rail Traffic Management System) izvēršanas rīcības plāna īstenošanu kā kopuzņēmuma Shift2Rail (IP2) inovatīvo risinājumu pamatscenāriju.</P>
+               <P>Darbuzņēmējs veiks, piemēram, šādus uzdevumus:</P>
+               <P>— atbalstīs Eiropas Savienības Dzelzceļu aģentūru (ERA),— mainīs kontroles vadības procesus un atjauninās ar tiem saistītos specifikāciju dokumentus (tostarp pārbaužu specifikācijas),</P>
+               <P>— apzinās esošos inženiertehniskos noteikumus attiecībā uz pārejām starp dažādām sistēmām,</P>
+               <P>— piedalīsies lauka ERTMS izvēršanas tehniskajā pārskatīšanā attiecībā uz pārrobežu posmiem,</P>
+               <P>— piedalīsies tehnisko specifikāciju sastādīšanā/atjaunināšanā, kas izriet no pētniecības un inovāciju darbībām.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2.</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7.</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Impriża Konġunta Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Appoġġ għall-Pjan ta' azzjoni għat-tħaddim tal-ERTMS bħala linja bażi għas-soluzzjonijiet innovattivi Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Din l-attività għandha l-għan li tappoġġja l-Pjan ta' Azzjoni għat-Tħaddim tas-Sistema Ewropea tal-Ġestjoni tat-Traffiku Ferrovjarju (ERTMS) bħala linja bażi għas-soluzzjonijiet innovattivi tal-Impriża Konġunta Shift2Rail (S2R JU) (IP2).</P>
+               <P>Il-kuntrattur se jwettaq xogħlijiet bħal:</P>
+               <P>— jappoġġja lill-Aġenzija tal-Unjoni Ewropea għall-Ferroviji (ERA),— ibiddel il-proċess ta' mmaniġġjar tal-kontroll u l-aġġornament relatat tad-dokumentazzjoni tal-ispeċifikazzjoni (inklużi l-ispeċifikazzjonijiet tat-test),</P>
+               <P>— l-identifikazzjoni tas-settijiet eżistenti ta' regoli tal-inġinerija rigward it-tranżizzjonijiet bejn is-sistemi,</P>
+               <P>— il-kontribuzzjoni għar-reviżjoni teknika tat-tħaddim tal-ġnub tal-binarji tal-ERTMS fis-sezzjonijiet transfruntiera,</P>
+               <P>— il-kontribuzzjoni għall-abbozz/aġġornament tal-ispeċifikazzjonijiet tekniċi li jirriżultaw mill-attivitajiet ta' riċerka u innovazzjoni.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Wspólne Przedsięwzięcie Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Wsparcie dla planu wdrożenia europejskiego systemu zarządzania ruchem kolejowym jako wzorca dla innowacyjnych rozwiązań Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Celem działania jest wspieranie planu wdrożenia europejskiego systemu zarządzania ruchem kolejowym (ERTMS) jako wzorca dla innowacyjnych rozwiązań Wspólnego Przedsięwzięcia S2R (IP2).</P>
+               <P>Wykonawca będzie realizował zadania takie jak:</P>
+               <P>— wspieranie Agencji Kolejowej Unii Europejskiej,— realizacja procesu zarządzania kontrolą zmiany oraz związaną z nim aktualizacją dokumentacji i specyfikacji (w tym specyfikacji testowych),</P>
+               <P>— identyfikacja istniejących zasad techniki dotyczących przejść między systemami,</P>
+               <P>— pomoc w przeglądzie technicznym rozmieszczenia wzdłuż linii kolejowej europejskiego systemu zarządzania ruchem kolejowym w odcinkach transgranicznych,</P>
+               <P>— pomoc w tworzeniu szkiców/aktualizacji specyfikacji technicznych pochodzących z badań i działań innowacyjnych.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Shift2Rail Joint Undertaking</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podpora pre akčný plán zavádzania európskeho systému riadenia železničnej dopravy (ERTMS) ako základu pre inovatívne riešenia spoločného podniku Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cieľom tejto činnosti je podporiť akčný plán zavádzania európskeho systému riadenia železničnej dopravy (ERTMS) ako základu pre inovatívne riešenia spoločného podniku S2R (IP2).</P>
+               <P>Dodávateľ bude vykonávať úlohy ako napr.:</P>
+               <P>— poskytovať podporu Železničnej agentúre Európskej únie (ERA),— upraviť postupy v oblasti riadenia zmien a vypracovať súvisiacu aktualizáciu špecifikačnej dokumentácie (vrátane špecifikácií skúšok);</P>
+               <P>— identifikovať existujúce súbory konštrukčných pravidiel týkajúce sa prechodov medzi systémami,</P>
+               <P>— prispieť k technickému preskúmaniu traťového zavedenia ERTMS na cezhraničných úsekoch,</P>
+               <P>— prispieť k vypracovaniu/aktualizácii technických špecifikácií vyplývajúcich z výskumných a inovačných činností.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Skupno podjetje Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podpora akcijskemu načrtu za uvedbo ERTMS kot izhodišču za inovacijske rešitve Shift2Rail (IP2).</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Namen dejavnosti je podpreti akcijski načrt za uvedbo evropskega sistema za upravljanje železniškega prometa (ERTMS) kot izhodišče za inovacijske rešitve Skupnega podjetja S2R (inovacijski program 2 (IP2 – Innovation Programme 2)).</P>
+               <P>Izvajalec bo izvedel naloge, kot so:</P>
+               <P>— podpora za Agencijo Evropske unije za železnice,— sprememba procesov upravljanja nadzora in povezana posodobitev specifikacij (vključno specifikacij testiranj),</P>
+               <P>— identifikacija obstoječih nizov inženirskih pravil glede prehodov med sistemi,</P>
+               <P>— prispevek k tehničnemu pregledu uvedbe ERTMS na progi na čezmejnih odsekih,</P>
+               <P>— prispevek k pripravi/posodabljanju tehničnih specifikacij, ki izhajajo iz raziskovalnih in inovacijskih dejavnosti.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comhghnóthas Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tacaíocht do phlean gníomhaíochta d’úsáid ERTMS mar bhonnlíne do réitigh nuálacha Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is í aidhm na gníomhaíochta seo chun tacú le Plean Gníomhaíochta d’Úsáid an Chórais Eorpaigh um Bainistiú Tráchta Iarnróid (ERTMS - European Rail Traffic Management System) mar bhonnlíne do réitigh nuálacha Shift2Rail (IP2).</P>
+               <P>Feidhmeoidh an conraitheoir tascanna amhail:</P>
+               <P>— tacaíocht do Ghníomhaireacht Iarnróid an Aontais Eorpaigh (ERA),— próiseas bainistíochta rialaithe a athrú agus nuashonrú gaolmhara an doiciméadúcháin sonraíochta (lena n-áirítear sonraíochtaí tástála),</P>
+               <P>— sainaithint na dtacar rialacha innealtóireachta reatha maidir le hidirthréimhsí idir córais,</P>
+               <P>— rannchur leis an athbhreithniú teicniúil ar imscaradh ar thaobh an iarnróid den ERTMS sna codanna trasteorann,</P>
+               <P>— rannchur le dréachtú/nuashonrú na sonraíochtaí teicniúla ag éirí as gníomhaíochtaí taighde agus nuálaíochta.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Съвместно предприятие Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Подкрепа за плана за действие за разгръщането на Европейската система за управление на железопътното движение (ERTMS) като основа за иновативните решения на Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Целта на тази дейност е да се подкрепи планът за действие за разгръщането на Европейската система за управление на железопътното движение (ERTMS) като основа за иновативните решения на S2R JU (IP2).</P>
+               <P>Изпълнителят ще изпълни задачи, като:</P>
+               <P>— подпомагане на Агенция за железопътен транспорт на Европейския съюз (ERA);— разработване на процедурата за управление на промените и свързаната с това актуализация на документацията със спецификации (включително спецификациите на изпитванията);</P>
+               <P>— определяне на съществуващите инженерни правила относно преходите между системите,</P>
+               <P>— принос за техническия преглед на разгръщането на ERTMS от страната на трасето при трансгранични участъци,</P>
+               <P>— принос за изготвянето/актуализацията на техническите спецификации в резултат на дейностите за научни изследвания и иновации.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Întreprinderea comună Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sprijin pentru planul de acțiune al implementării ERTMS ca bază pentru soluțiile inovatoare Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Scopul acestei activități este de a sprijinii Planul de acțiune al Sistemului de management al traficului feroviar european (ERTMS) ca bază pentru soluțiile inovatoare S2R JU (IP2).</P>
+               <P>Contractantul va îndeplini sarcinile :</P>
+               <P>— să sprijine Agenția Uniunii Europene pentru Căile Ferate (ERA);</P>
+               <P>— să identifice seturilor existente de reguli de inginerie privind tranzițiile între sisteme,</P>
+               <P>— să contribuie la revizuirea tehnică a implementării căii ERTMS în secțiunile transfrontaliere,</P>
+               <P>— să contribuie la elaborarea/actualizarea specificațiilor tehnice care rezultă din activitățile de cercetare și inovare.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+      <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Zajedničko poduzeće Shift2Rail</OFFICIALNAME>
+               <ADDRESS>Avenue de la Toison d'Or 56–60</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1060</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <E_MAIL>procurement@s2r.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="BE10"/>
+               <URL_GENERAL>http://shift2rail.org/</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Podrška akcijskom planu provedbe ERTMS-a kao osnovi za inovativna rješenja Shift2Rail (IP2)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>S2R.17.OP.04</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="34632000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cilj je ove aktivnosti podrška Akcijskom planu provedbe Sustava upravljanja europskim željezničkim prometom (ERTMS - European Rail Traffic Management System) kao osnovi za inovativna rješenja Shift2Rail (IP2).</P>
+               <P>Izvoditelj će izvršavati sljedeće zadatke:</P>
+               <P>— pružanje podrške Agenciji Europske unije za željeznice (ERA),— promjena procesa upravljanja kontrolom i pripadajuće ažuriranje dokumentacije sa specifikacijama (uključujući specifikacije ispitivanja),</P>
+               <P>— identifikacija postojećih skupina inženjerskih pravila u pogledu prijelaza između sustava,</P>
+               <P>— doprinos tehničkom pregledu implementacije ERTMS-a na graničnim prijelazima u prekograničnim dijelovima,</P>
+               <P>— doprinos izradi nacrta/ažuriranju tehničkih specifikacija koje proizlaze iz istraživačkih i inovativnih aktivnosti.</P>
+            </SHORT_DESCR>
+         </OBJECT_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-25</DATE_DISPATCH_NOTICE>
+            <NOTICE_NUMBER_OJ>2017/S 242-501920</NOTICE_NUMBER_OJ>
+         </COMPLEMENTARY_INFO>
+         <CHANGES>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.2</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-02</DATE>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-13</DATE>
+               </NEW_VALUE>
+            </CHANGE>
+            <CHANGE PUBLICATION="YES">
+               <WHERE>
+                  <SECTION>IV.2.7</SECTION>
+               </WHERE>
+               <OLD_VALUE>
+                  <DATE>2018-02-09</DATE>
+                  <TIME>10:00</TIME>
+               </OLD_VALUE>
+               <NEW_VALUE>
+                  <DATE>2018-02-20</DATE>
+                  <TIME>10:00</TIME>
+               </NEW_VALUE>
+            </CHANGE>
+         </CHANGES>
+      </F14_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

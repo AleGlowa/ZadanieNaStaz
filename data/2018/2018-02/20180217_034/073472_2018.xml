@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="073472-2018"
+            EDITION="2018034">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-074099-001</RECEPTION_ID>
+      <DELETION_DATE>20180326</DELETION_DATE>
+      <FORM_LG_LIST>HU </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>34</NO_OJ>
+         <DATE_PUB>20180217</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 034-073472</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:073472-2018:TEXT:HU:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>HU</LG_ORIG>
+         <ISO_COUNTRY VALUE="HU"/>
+         <IA_URL_GENERAL>http://www.koranyi.hu</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://www.koranyi.hu/index.php/koezbeszerzes</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="15000000">Food, beverages, tobacco and related products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15100000">Animal products, meat and meat products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15241800">Coated fish preparations</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15220000">Frozen fish, fish fillets and other fish meat</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331400">Preserved and/or canned vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331427">Concentrated tomato purée</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331464">Canned whole beans</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331462">Canned peas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332400">Preserved fruits</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332200">Jams and marmalades; fruit jellies; fruit or nut purée and pastes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15321000">Fruit juices</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15321300">Lemon juice</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15331470">Sweet corn</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15332261">Peanut butter</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15411100">Vegetable oils</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15412100">Animal fats</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15431100">Margarine</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15511100">Pasteurised milk</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15550000">Assorted dairy products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15551000">Yoghurt and other fermented milk products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15551320">Flavoured yoghurt</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15530000">Butter</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15551310">Unflavoured yoghurt</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15542100">Cottage cheese</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15545000">Cheese spreads</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15544000">Hard cheese</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15542200">Soft cheese</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15512000">Cream</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15613300">Cereal products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15625000">Semolina</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15612130">Plain flour</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15614100">Long-grain rice</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15612150">Pastry flour</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15610000">Grain mill products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811100">Bread</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15812000">Pastry goods and cakes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811000">Bread products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811200">Rolls</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15811300">Croissants</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15821200">Sweet biscuits</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15821150">Rusks</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15831000">Sugar</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15831600">Honey</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15841300">Unsweetened cocoa powder</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15842300">Confectionery</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15851100">Uncooked pasta</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15862000">Coffee substitutes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15863000">Tea</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15861100">Roasted coffee</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871110">Vinegar or equivalent</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871270">Mixed condiments</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15872200">Spices</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15872400">Salt</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15872100">Pepper</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15872300">Herbs</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871250">Mustard</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871273">Mayonnaise</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871230">Tomato ketchup</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15871200">Sauces, mixed condiments and mixed seasonings</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15891410">Soup mixes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15893300">Gravy mixes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15898000">Yeast</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15881000">Homogenised food preparations</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15896000">Deep-frozen products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15882000">Dietetic products</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15981200">Sparkling mineral water</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="15981100">Still mineral water</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03212100">Potatoes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221111">Beetroot</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221113">Onions</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221120">Tuber vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221400">Cabbage vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221240">Tomatoes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221112">Carrots</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221270">Cucumbers</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221250">Courgettes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221230">Peppers</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221260">Mushrooms</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03221100">Root and tuber vegetables</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222321">Apples</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222322">Pears</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222220">Oranges</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222240">Tangerines</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222111">Bananas</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222334">Plums</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222341">Table grapes</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="03222118">Kiwi fruit</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="HU110">Budapest</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU110">Budapest</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="HUF">1</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180215</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180326 15:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="H">Health</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Унгapия</TI_CY>
+            <TI_TOWN>Будапеща</TI_TOWN>
+            <TI_TEXT>
+               <P>Хранителни продукти, напитки, тютюн и свързани с него продукти</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Potraviny, nápoje, tabák a související produkty</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Fødevarer, drikkevarer, tobak og beslægtede produkter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Nahrungsmittel, Getränke, Tabak und zugehörige Erzeugnisse</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ουγγαρία</TI_CY>
+            <TI_TOWN>Βουδαπέστη</TI_TOWN>
+            <TI_TEXT>
+               <P>Τρόφιμα, ποτά, καπνός και συναφή προϊόντα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Hungary</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Food, beverages, tobacco and related products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Hungría</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Alimentos, bebidas, tabaco y productos afines</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Ungari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Toiduained, joogid ja tubakas ja seonduvad tooted</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Unkari</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Elintarvikkeet, juomat, tupakka ja vastaavat tuotteet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Hongrie</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Produits alimentaires, boissons, tabac et produits connexes</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ungáir, an</TI_CY>
+            <TI_TOWN>Búdaipéist</TI_TOWN>
+            <TI_TEXT>
+               <P>Food, beverages, tobacco and related products</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Mađarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Hrana, piće, duhan i srodni proizvodi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Magyarország</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Élelmiszerek, italok, dohány és kapcsolódó termékek</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Ungheria</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Prodotti alimentari, bevande, tabacco e prodotti affini</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vengrija</TI_CY>
+            <TI_TOWN>Budapeštas</TI_TOWN>
+            <TI_TEXT>
+               <P>Maistas, gėrimai, tabakas ir susiję produktai</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Ungārija</TI_CY>
+            <TI_TOWN>Budapešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Pārtikas produkti, dzērieni, tabaka un saistītā produkcija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Ungerija</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Ikel, xorb, tabakk u prodotti relatati</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Hongarije</TI_CY>
+            <TI_TOWN>Boedapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Voeding, dranken, tabak en aanverwante producten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Węgry</TI_CY>
+            <TI_TOWN>Budapeszt</TI_TOWN>
+            <TI_TEXT>
+               <P>Żywność, napoje, tytoń i produkty pokrewne</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Hungria</TI_CY>
+            <TI_TOWN>Budapeste</TI_TOWN>
+            <TI_TEXT>
+               <P>Produtos alimentares, bebidas, tabaco e produtos afins</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Ungaria</TI_CY>
+            <TI_TOWN>Budapesta</TI_TOWN>
+            <TI_TEXT>
+               <P>Alimente, băuturi, tutun şi produse conexe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Budapešť</TI_TOWN>
+            <TI_TEXT>
+               <P>Potraviny, nápoje, tabak a príbuzné produkty</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Madžarska</TI_CY>
+            <TI_TOWN>Budimpešta</TI_TOWN>
+            <TI_TEXT>
+               <P>Živila, pijače, tobačni izdelki in z njimi povezani izdelki</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Ungern</TI_CY>
+            <TI_TOWN>Budapest</TI_TOWN>
+            <TI_TEXT>
+               <P>Livsmedel, drycker, tobak o d</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="HU">Országos Korányi Pulmonológiai Intézet</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Országos Korányi Pulmonológiai Intézet</OFFICIALNAME>
+               <NATIONALID>AK05962</NATIONALID>
+               <ADDRESS>Pihenő út 1.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1121</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Szepesi Andrea</CONTACT_POINT>
+               <PHONE>+36 13913314</PHONE>
+               <E_MAIL>szepesi@koranyi.hu</E_MAIL>
+               <FAX>+36 13943521</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://www.koranyi.hu</URL_GENERAL>
+               <URL_BUYER>http://www.koranyi.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://www.koranyi.hu/index.php/koezbeszerzes</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Országos Korányi Pulmonológiai Intézet Iktató</OFFICIALNAME>
+               <ADDRESS>Pihenő út 1.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1121</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Szepesi Andrea</CONTACT_POINT>
+               <PHONE>+36 13913314</PHONE>
+               <E_MAIL>szepesi@koranyi.hu</E_MAIL>
+               <FAX>+36 13943521</FAX>
+               <n2016:NUTS CODE="HU110"/>
+               <URL_GENERAL>http://www.koranyi.hu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE_OTHER>kórház</CA_TYPE_OTHER>
+            <CA_ACTIVITY VALUE="HEALTH"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Élelmiszer alapanyag beszerzés</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="15000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>I. rész: 15100000-9 Állati termékek hús és húskészítmények</P>
+               <P>II. rész: 15200000-0 Halkészítmények és tartósított halak</P>
+               <P>III. rész: 15331400-1 Tartósított és/vagy konzervált zöldség</P>
+               <P>IV. rész: 15400000-2 Állati vagy növényi olajok és zsírok</P>
+               <P>V. rész: 15500000-3 Tejtermék</P>
+               <P>VI. rész: 15600000-4 Malomipari termékek, keményítők és keményítőtermékek</P>
+               <P>VII. rész: 15810000-9 Kenyér friss péksütemények és cukrászsütemények</P>
+               <P>VIII. 15820000-2 Kétszersültek, kekszek, tartósított cukrászsütemények és torták</P>
+               <P>IX. rész 15830000-5 Cukor és cukortermékek</P>
+               <P>X. rész: 15840000-8 Kakaó, csokoládé, cukoráruk</P>
+               <P>XI. rész: 15850000-1 Tésztafélék</P>
+               <P>XII. rész: 15860000-4 Kávé, tea, és kapcsolódó termékek</P>
+               <P>XIII. rész: 15870000-7 Ételízesítők és fűszerek</P>
+               <P>XIV. rész: 15890000-3 Máshová nem sorolt különféle élelmiszerek és szárazáruk</P>
+               <P>XV. rész: 15896000-5 Mélyfagyasztott termékek</P>
+               <P>XVI. rész: 15880000-0 Különleges élelmiszerek</P>
+               <P>XVII. rész: 15900000-7 Italok</P>
+               <P>XVIII. rész: 03220000-9 Zöldségek, gyümölcsök és tojás</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="HUF">1</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Állati termékek hús és húskészítmények</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>42 tétel, 27 580 kg és 13 150 doboz (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Halkészítmények és tartósított halak</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15241800"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15220000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>2 tétel, 230 kg (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Tartósított és/vagy konzervált zöldség</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331427"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331464"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331462"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15321000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15321300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15331470"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15332261"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>42 tétel, 2 717 kg, 3 940 liter és 24 480 doboz (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Állati vagy növényi olajok és zsírok</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15411100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15412100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15431100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>4 tétel, 365 kg, 4200 liter és 140 000 db (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Tejtermék</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15511100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15550000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15551000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15551320"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15530000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15551310"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15542100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15545000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15544000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15542200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15512000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>28 tétel, 1 610 kg, 37 310 liter, 99 760 doboz és 34 140</P>
+                  <P>Db (+30 % opcionális mennyiség lehetséges).</P>
+                  <P>Ajánlatkérő növényi eredetű anyagokat tartalmazó termékeket nem fogad el.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>Malomipari termékek, keményítők és keményítőtermékek</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15613300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15625000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15612130"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15614100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15612150"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15610000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>8 tétel, 8 239 kg (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Kenyér, friss péksütemények és cukrászsütemények</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15812000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15811300"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>21 tétel, 33 700 kg, 163 640 db (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Kétszersültek, kekszek, tartósított cukrászsütemények és torták</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15821200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15821150"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>7 tétel, 340 kg, 6 150 csomag (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Cukor és cukortermékek</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15831000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15831600"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>5 tétel, 9 192 kg, 15 500 db (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Kakaó, csokoládé, cukoráruk</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15841300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15842300"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>5 tétel, 180 kg, 11 100 db (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Tésztafélék</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15851100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>3 tétel, 4 450 kg (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Kávé, tea, és kapcsolódó termékek</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15862000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15863000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15861100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>4 tétel, 365 kg és 15 doboz (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>Ételízesítők és fűszerek</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871110"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871270"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15872200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15872400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15872100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15872300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871250"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871273"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871230"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15871200"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>35 tétel, 2363 kg, 300 liter és 6715 db (+30 % opcionális mennyiség lehetséges)</P>
+                  <P>Ajánlatkérő az egyenértékű terméket is elfogadja a 321/2015. (X. 30.) Korm. rendelet 46. § (3) bekezdése alapján.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>Máshová nem sorolt különféle élelmiszerek és szárazáruk</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15891410"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15893300"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15898000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15881000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>22 tétel, 451 kg és 570 csomag (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="15">
+               <TITLE>
+                  <P>Mélyfagyasztott termékek</P>
+               </TITLE>
+               <LOT_NO>15</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15896000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>23 tétel, 14 970 kg (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="16">
+               <TITLE>
+                  <P>Különleges élelmiszerek</P>
+               </TITLE>
+               <LOT_NO>16</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15882000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>7 tétel, 142 kg, 510 liter és 6290 doboz (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="17">
+               <TITLE>
+                  <P>Italok</P>
+               </TITLE>
+               <LOT_NO>17</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15981200"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="15981100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>2 tétel, 1700 liter (+30 % opcionális mennyiség lehetséges)</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="18">
+               <TITLE>
+                  <P>Zöldségek, gyümölcsök és tojás</P>
+               </TITLE>
+               <LOT_NO>18</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03212100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221111"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221113"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221120"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221400"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221240"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221112"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221270"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221250"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221230"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221260"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03221100"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222321"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222322"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222220"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222240"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222111"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222334"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222341"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="03222118"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU110"/>
+               <MAIN_SITE>
+                  <P>Ajánlatkérő I.1) pont szerinti címe.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>44 tétel, 62 590 kg, 25 000 csomag és 38 900 db (+30 % opcionális mennyiség lehetséges)</P>
+                  <P>A beszállítás időkorlátozása a közbeszerzési dokumentum műszaki leírás mellékletében található.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Az új időszakra vonatkozó közbeszerzési eljárás eredményes lezárásáig, de maximum négy hónap időtartamra.</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <OPTIONS/>
+               <OPTIONS_DESCR>
+                  <P>A részre megadott mennyiséghez képest a szerződés teljes időtartama alatt +30 % opcionális mennyiség lehetséges.</P>
+               </OPTIONS_DESCR>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>A részletes specifikációt, termékenkénti mennyiséget, kiszerelést a közbeszerzési dokumentum .xls formátumú tételes rendelési lista melléklete tartalmazza, mivel a beszerzendő termékek többfélesége és nagy száma miatt a részletes specifikációt ajánlatkérő nem tudja a felhívás részeként közzétenni. A II.1.5. és II.2.6. pontok kizárólag a hirdetmény feladhatósága érdekében kerültek kitöltésre.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Az eljárás valamennyi része vonatkozásában nem lehet ajánlattevő, alvállalkozó, és nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki a Kbt. 62. § (1) és (2) bekezdéseiben foglalt kizáró okok hatálya alatt áll.</P>
+               <P>Igazolási mód: Ajánlattevő a Kbt. 81. § (3) bekezdése és a 321/2015. (X. 30.) Kormányrendelet 3. és 4. §-ban foglaltak szerint, köteles az Egységes Európai Közbeszerzési Dokumentum benyújtásával nyilatkoznia kizáró okok fenn nem állása vonatkozásában. Ajánlatkérő felhívja a figyelmet arra, hogy az egységes európai közbeszerzési dokumentumban foglalt információk valóságtartalmáért az ajánlattevő felel. Ajánlatkérő elfogadja, ha az ajánlattevő a korábbi közbeszerzési eljárásában felhasznált egységes európai közbeszerzési dokumentumot nyújt be, feltéve, hogy az abban foglalt információk megfelelnek a valóságnak, és tartalmazzák az Ajánlatkérő által a kizáró okok tekintetében megkövetelt információkat.</P>
+               <P>Ajánlattevő ajánlatában a Kbt. 67. § (4) bekezdés szerint nyilatkozni köteles arról, hogy nem vesz igénybe a szerződés teljesítéséhez a Kbt. 62. § szerinti kizáró okok hatálya alá eső alvállalkozót.</P>
+               <P>A Kbt. 69. § (4), illetve (6) bekezdésében foglalt esetben az Ajánlattevőnek a 321/2015. (X. 30.)Kormányrendelet 8-16. §-ában foglaltak szerint kell az igazolásokat benyújtania. A 321/2015. (X. 30.) Korm. rendelet 13. §-a alapján ajánlattevőnek nyilatkoznia kell, hogy van-e folyamatban változásbejegyzési eljárása a cégbíróság előtt. Amennyiben igen, úgy 321/2015. (X. 30.) Korm. rendelet 13. §-a alapján az ajánlathoz csatolni kell a cégbírósághoz benyújtott változásbejegyzési kérelmet és az annak érkezéséről a cégbíróság által megküldött igazolást. Ajánlattevő köteles a 321/2015. (X.30.) Korm. rendelet 13. §-a szerinti nyilatkozatot nemleges tartalom esetén is csatolni.</P>
+               <P>Az igazolások benyújtására egyebekben a Kbt. 69. § (11) bekezdése irányadó.</P>
+               <P>A kizáró okokra vonatkozó nyilatkozatoknak a jelen felhívás feladása napjánál nem régebbi keltezésűeknek kell lenniük.</P>
+               <P>Ajánlatkérő felhívja gazdasági szereplők a figyelmét a Kbt. 64. §-ára az öntisztázás, a Kbt. 67. § (3)bekezdésére a kapacitásait rendelkezésre bocsátó szervezet, valamint a Kbt. 74. § (1) bekezdés b) pontjára a kizáró ok eljárás során bekövetkezése vonatkozásában.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>P.1. A 321/2015. (X.30.) Korm. Rendelet 19. § (1) bek. a) pontja alapján valamennyi - az ajánlati felhívásfeladását megelőző 12 hónapban vezetett pénzforgalmi számláról - pénzforgalmi számlát vezető pénzügyi intézményétől származó nyilatkozatot (eredeti vagy másolati példányban) arra nézve, mióta vezeti a pénzforgalmi számlát, és a felhívás feladását megelőző 12 hónapban 30 napot meghaladó sorba állítás a pénzforgalmi számlán volt-e, attól függően, hogy az ajánlattevő mikor jött létre, illetve mikor kezdte meg tevékenységét, ha ezek az adatok rendelkezésre állnak. (A „sorba állítás” kitétel alatt Ajánlatkérő a 2009.évi LXXXV. Törvény 2. § 25. pontjában meghatározott fogalmat érti.) A pénzügyi intézményétől származónyilatkozatnak a már megszűnt pénzforgalmi számlákat is tartalmaznia kell.</P>
+               <P>P.2. A 321/2015. (X.30.) Korm. Rendelet 19. § (1) bek. b) pontja alapján csatolnia kell saját vagy jogelődje, az ajánlati felhívás feladásának napját megelőző mérlegfordulónappal lezárt 3 üzleti évre számviteli jogszabályok szerinti beszámolóját, ha a letelepedése szerinti ország joga előírja közzétételét.</P>
+               <P>Amennyiben a letelepedése szerinti ország joga nem írja elő a beszámoló közzétételét, ajánlatkérő elfogadja az ajánlattevő vagy a könyvelő (könyvvizsgáló) által kiadott nyilatkozatot az ajánlati felhívás feladásának napját megelőző 3 lezárt üzleti év tekintetében a mérleg szerinti eredményről évenkénti bontásban.</P>
+               <P>Ha a beszámoló részét képező eredménykimutatás a céginformációs szolgálat honlapján megismerhető, annak csatolása nem szükséges,</P>
+               <P>Erre vonatkozóan ajánlattevőnek nyilatkoznia kell.</P>
+               <P>Ha az ajánlattevő a P.2. szerinti irattal azért nem rendelkezik az előírt teljes időszakban, mert az időszakkezdete után kezdte meg működését, az alkalmasságát a közbeszerzés tárgyából(megpályázni kívánt részeknek megfelelően) származó árbevételről szóló nyilatkozattal jogosult igazolni.</P>
+               <P>Ajánlattevőnek az egységes európai közbeszerzési dokumentum - ajánlatban történő -egyszerű nyilatkozatának benyújtásával kell előzetesen igazolni, hogy megfelel az alkalmassági követelményeknek.</P>
+               <P>Az alkalmassági követelmények minden rész vonatkozásában irányadóak.</P>
+               <P>Ajánlattevő (közös ajánlattevők) az előírt alkalmassági követelményeknek a Kbt. 65. § (6) bekezdésében foglaltaknak megfelelően felehetnek meg, illetve bármely más szervezet (vagy személy) kapacitására támaszkodva is megfelelhetnek a Kbt. 65. § (7) bekezdésében foglaltaknak megfelelően. Ajánlatkérő felhívja a figyelmet a Kbt. 65. § (11) bekezdésére.</P>
+               <P>Amennyiben ajánlattevő az alkalmassági követelményeknek bármely más szervezet (vagy személy) kapacitására támaszkodva kíván megfelelni, úgy ajánlattevő alkalmasságát a Kbt. 65. § (7) bekezdése szerint köteles igazolni. A kezességvállalásról szóló dokumentumot eredeti vagy hiteles másolati példányban kérjük csatolni.</P>
+               <P>A Kbt. 65. § (6) bekezdésében foglaltaknak megfelelően az előírt alkalmassági követelményeknek a közös ajánlattevők közül elegendő, ha az egyik felel meg.</P>
+               <P>Ajánlatkérő felhívja a figyelmet, hogy az alkalmassági követelmények igazolására kizárólag az ajánlattételi felhívás megküldésének napját követő keltezésű nyilatkozatokat fogad el.</P>
+               <P>Az ajánlattevőnek az ajánlatban csak az egységes európai közbeszerzési dokumentumba foglalt nyilatkozatát kell benyújtania az alkalmassági követelményeknek való megfelelés vonatkozásában, az igazolásokat az ajánlatban nem, csak a Kbt. 69. § (4) bekezdés szerinti felhívásra kell majd benyújtani. A gazdasági szereplő szorítkozhat a IV. rész alpha szakaszának kitöltésére anélkül, hogy a IV. rész bármely további szakaszát ki kellene töltenie.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Ajánlattevő alkalmatlan:</P>
+               <P>P.1. amennyiben a pénzügyi intézménytől származó nyilatkozat alapján megállapítható, hogy bármely az ajánlati felhívás feladását megelőző 12 hónapban vezetett (megszűnt) pénzforgalmi jelzőszámán a felhívásfeladását megelőző 12 hónapban 30 napot meghaladó sorba állítás volt.</P>
+               <P>P.2. amennyiben adózott eredménye 2014, 2015 és 2016 évek közül több mint egy évben negatív volt.</P>
+               <P>Amennyiben Ajánlattevő a megjelölt időszak kezdete után kezdte meg tevékenységét, akkor a 321/2015. Korm. rendelet 19. § (2) bekezdése szerint alkalmatlan, ha a közbeszerzés tárgya (az ajánlattétellel érintett résztárgya) szerinti árbevételének mértéke nem érte el.</P>
+               <P>— 1. részre tett ajánlat esetén: nettó 15 000 000 HUF,</P>
+               <P>— 2. részre tett ajánlat esetén: nettó 90 000 HUF,,</P>
+               <P>— 3. részre tett ajánlat esetén: nettó 1 800 000 HUF,</P>
+               <P>— 4. részre tett ajánlat esetén: nettó 1 700 000 HUF,</P>
+               <P>— 5. részre tett ajánlat esetén: nettó 9 500 000 HUF,</P>
+               <P>— 6. részre tett ajánlat esetén: nettó 750 000 HUF,</P>
+               <P>— 7. részre tett ajánlat esetén: nettó 5 900 000 HUF,</P>
+               <P>— 8. részre tett ajánlat esetén: nettó 300 000 HUF,</P>
+               <P>— 9. részre tett ajánlat esetén: nettó 1 200 000 HUF,</P>
+               <P>— 10. részre tett ajánlat esetén: nettó 100 000 HUF,</P>
+               <P>— 11. részre tett ajánlat esetén: nettó 750 000 HUF,</P>
+               <P>— 12. részre tett ajánlat esetén: nettó 220 000 HUF,</P>
+               <P>— 13. részre tett ajánlat esetén: nettó 440 000 HUF,</P>
+               <P>— 14. részre tett ajánlat esetén: nettó 9 00 000 HUF,</P>
+               <P>— 15. részre tett ajánlat esetén: nettó 2 400 000 HUF,</P>
+               <P>— 16. részre tett ajánlat esetén: nettó 270 000 HUF,</P>
+               <P>— 17. részre tett ajánlat esetén: nettó 20 000 HUF,</P>
+               <P>— 18. részre tett ajánlat esetén: nettó 6 300 000 HUF összeget.</P>
+               <P>Több részre tett ajánlat esetében az érintett részek előírásainak összegét kell teljesíteni.</P>
+               <P>Azokban az esetekben, amelyekben a 321/2015. (X. 30.) Korm. rendelet 28. §-ban és a 36. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke - figyelemmel a 30. §-ban és a 39. §-ban foglaltakra is - bizonyítja, hogy a gazdasági szereplő megfelel az adott alkalmassági követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve az Európai Unió egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is elfogadja az ajánlatkérő a 321/2015. (X. 30.) Korm. rendelet 21. § (1)-(3) bekezdésében foglalt egyéb igazolási módok helyett.</P>
+               <P>A Kbt. 65. § (6) bekezdése alapján az előírt alkalmassági követelményeknek a közös ajánlattevők együttesen is megfelelhetnek.</P>
+               <P>Az előírt alkalmassági követelményeknek az ajánlattevők bármely más szervezet vagy személy kapacitására támaszkodva is megfelelhetnek, a közöttük fennálló kapcsolat jogi jellegétől függetlenül. Ebben az esetben meg kell jelölni az ajánlatban ezt a szervezetet és az eljárást megindító felhívás vonatkozó pontjának megjelölésével azon alkalmassági követelményt vagy követelményeket, amelynek igazolása érdekében az ajánlattevő ezen szervezet erőforrására vagy arra is támaszkodik.</P>
+               <P>Csatolni kell az ajánlatban a kapacitásait rendelkezésre bocsátó szervezet olyan szerződéses vagy előszerződésben vállalt kötelezettségvállalását tartalmazó okiratot, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások rendelkezésre állnak majd a szerződés teljesítésének időtartama alatt. [Kbt. 65. § (7) bekezdés.].</P>
+               <P>Ajánlatkérő felhívja a figyelmet a Kbt. 65. § (11) bekezdésére.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Ajánlattevőnek ajánlatában a 321/2015. (X. 30.) Korm. rendelet II. Fejezetnek megfelelően, az Egységes Európai Közbeszerzési Dokumentum (EEKD) benyújtásával kell előzetesen igazolnia, hogy megfelel a Kbt. 65. § alapján az ajánlatkérő által meghatározott alkalmassági követelményeknek. A gazdasági szereplő szorítkozhat a IV. rész alpha szakaszának kitöltésére anélkül, hogy a IV. rész bármely további szakaszát ki kellene töltenie. Az alkalmassági követelményekre vonatkozó igazolásokat az ajánlatkérő felhívására szükséges benyújtani, a Kbt. 69. §. (4)-(6) bekezdésében foglaltak alapján.</P>
+               <P>M/1. A 321/2015. (X.30.) Korm. rendelet 21. § (1) bekezdés a) pont szerint ajánlattevő ismertesse az ajánlati felhívás feladásának napjától (lásd jelen hirdetmény VI.5) pontjában) visszaszámított 3 év legjelentősebb referenciáit a 321/2015. (X. 30.) Korm. rendelet 22. § szerint igazolva, az igazolás, illetve nyilatkozat tartalmazza legalább a következő adatokat:</P>
+               <P>— a szerződést kötő másik fél megnevezését (a referenciát igazoló nevét és elérhetőségét),</P>
+               <P>— a teljesítés (közös ajánlattevőként történt teljesítés esetén a saját teljesítés) nettó ellenértéke (ÁFA nélküli ellenérték),</P>
+               <P>— a teljesítés idejét (kezdő és befejező időpont év/hó/nap),</P>
+               <P>— a referencia tárgyát (a szállítás tartalmának rövid ismertetését, nettó ellenértékét, oly módon, hogy abból az alkalmassági minimum-követelményeknek való megfelelés megállapítható legyen),</P>
+               <P>— a teljesítés előírásoknak és a szerződésnek való megfelelőségéről szóló nyilatkozatot.</P>
+               <P>A referenciaigazolást egyszerű másolatban, a referencianyilatkozatot cégszerűen aláírva kell benyújtani;</P>
+               <P>Ajánlatkérő a vizsgált időszak alatt befejezett, de legfeljebb hat éven belül megkezdett szállításokat veszi figyelembe, ennek megfelelően a referenciaigazoláson vagy -nyilatkozaton ezt egyértelműen fel kell tüntetni(321/2015. (X. 30.) Korm. rendelet 21. § (1a) bekezdés).</P>
+               <P>Amennyiben referenciaigazolással vagy -nyilatkozattal ajánlattevő több rész vonatkozásában is igazolni kívánja alkalmasságát, a referenciaigazoláson vagy -nyilatkozaton fel kell tüntetni, hogy mennyi volt az egyes megajánlott részek vonatkozásában előírt tárgyú szállítás ÁFA nélkül számított (nettó) ellenértéke.</P>
+               <P>Amennyiben a referenciaigazolás szerinti szerződés tárgya bővebb, mint a közbeszerzés tárgya, akkor a referenciaigazolásban meg kell adni az alkalmassági követelményekre vonatkozó részösszeget és mennyiségi adatot, illetve műszaki tartalmat.</P>
+               <P>Közös ajánlattevőként, alvállalkozóként történt teljesítés esetén a saját teljesítés %-os aránya megadandó. Ajánlatkérő a 321/2015. (X. 30.) Korm. rendelet 21/A. § rendelkezése értelmében teljesítés igazolásaként elfogadja annak igazolását is, ha a referencia követelményben foglalt eredmény vagy tevékenység a szerződés részteljesítéseként valósult meg.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Alkalmatlan az Ajánlattevő, ha nem rendelkezik az ajánlati felhívás feladásától visszafelé számított 3 évben(36 hónapban) a teljesítésre vonatkozó előírásoknak és a szerződésnek megfelelően teljesített, alábbi referenciákkal:</P>
+               <P>— 1. részre tett ajánlat esetén: nettó 15 000 000 HUF,</P>
+               <P>— 2. részre tett ajánlat esetén: nettó 90 000 HUF,</P>
+               <P>— 3. részre tett ajánlat esetén: nettó 1 800 000 HUF,</P>
+               <P>— 4. részre tett ajánlat esetén: nettó 1 700 000 HUF,</P>
+               <P>— 5. részre tett ajánlat esetén: nettó 9 500 000 HUF,</P>
+               <P>— 6. részre tett ajánlat esetén: nettó 750 000 HUF,</P>
+               <P>— 7. részre tett ajánlat esetén: nettó 5 900 000 HUF,</P>
+               <P>— 8. részre tett ajánlat esetén: nettó 300 000 HUF,</P>
+               <P>— 9. részre tett ajánlat esetén: nettó 1 200 000 HUF,</P>
+               <P>— 10. részre tett ajánlat esetén: nettó 100 000 HUF,</P>
+               <P>— 11. részre tett ajánlat esetén: nettó 750 000 HUF,</P>
+               <P>— 12. részre tett ajánlat esetén: nettó 220 000 HUF,</P>
+               <P>— 13. részre tett ajánlat esetén: nettó 440 000 HUF,</P>
+               <P>— 14. részre tett ajánlat esetén: nettó 9 00 000 HUF,</P>
+               <P>— 15. részre tett ajánlat esetén: nettó 2 400 000 HUF,</P>
+               <P>— 16. részre tett ajánlat esetén: nettó 270 000 HUF,</P>
+               <P>— 17. részre tett ajánlat esetén: nettó 20 000 HUF,</P>
+               <P>— 18. részre tett ajánlat esetén: nettó 6 300 000 HUF.</P>
+               <P>Egy referenciaigazolás/-nyilatkozat több részre vonatkozóan is igazolhat referenciát. Az előírt alkalmassági minimumkövetelménynél előírt, meghatározott időszakon belül teljesített összeget több szerződésből/referenciából is lehet teljesíteni.</P>
+               <P>Azokban az esetekben, amelyekben a 321/2015. (X.30.) Korm. rendelet 28. §-ban és a 36. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke - figyelemmel a 30. §-ban és a 39. §-ban foglaltakra is -bizonyítja, hogy a gazdasági szereplő megfelel az adott alkalmassági követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve az Európai Unió egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is elfogadja az ajánlatkérő a 321/2015. (X.30.) Korm. rendelet 21. § (1)-(3) bekezdésében foglalt egyéb igazolási módok helyett.</P>
+               <P>A Kbt. 65. § (6) bekezdése alapján az előírt alkalmassági követelményeknek a közös ajánlattevők együttesen is megfelelhetnek.</P>
+               <P>Az előírt alkalmassági követelményeknek az ajánlattevők bármely más szervezet vagy személy kapacitására támaszkodva is megfelelhetnek, a közöttük fennálló kapcsolat jogi jellegétől függetlenül. Ebben az esetben meg kell jelölni az ajánlatban ezt a szervezetet és az eljárást megindító felhívás vonatkozó pontjának megjelölésével azon alkalmassági követelményt vagy követelményeket, amelynek igazolása érdekében az ajánlattevő ezen szervezet erőforrására vagy arra is támaszkodik.</P>
+               <P>Csatolni kell az ajánlatban a kapacitásait rendelkezésre bocsátó szervezet olyan szerződéses vagy előszerződésben vállalt kötelezettségvállalását tartalmazó okiratot, amely alátámasztja, hogy a szerződésteljesítéséhez szükséges erőforrások rendelkezésre állnak majd a szerződés teljesítésének időtartama alatt(Kbt. 65. § (7) bekezdés).</P>
+               <P>Nem használhatja fel a gazdasági szereplő alkalmassága igazolására azokat az adatokat, amelyek felhasználására jogutódlás eredményeként - a jogelőd erőforrás szervezetkénti bevonása nélkül - maga lenne jogosult, ha a jogelőd gazdasági szereplő tekintetében az eljárásban alkalmazandó valamely kizáró ok fennáll, vagy - ha a jogelőd megszűnt - megszűnése hiányában fennállna. A gazdasági szereplő ebben az esetben is élhet a Kbt. 64. § szerinti lehetőséggel és felhasználhatja a jogelődnek az alkalmasság igazolására szolgáló adatait, ha a korábban felmerült kizáró okkal összefüggésben igazolja megbízhatóságát. (Kbt. 65. § (11)bekezdés).</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>A vételár megfizetése a Kbt. 135. § (1), (5) és (6), a Ptk. 6:130. § (1)-(3) bekezdésének megfelelően, számla ellenében, banki átutalással forintban történik, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet alkalmazásával. Ajánlatkérő a pénztartozás teljesítésére 60 napos fizetési határidőt köt ki.</P>
+               <P>A részletes fizetési feltételeket a közbeszerzési dokumentumok részét képező szerződéstervezet tartalmazza.</P>
+               <P>Késedelmi kötbér: a késedelemmel érintett leszállítandó áru nettó értékének 5 százaléka a késedelem minden megkezdett napjára, max. 20 %, a kötbérmaximum elérésének következménye: felmondás, és meghiúsulási kötbér: még nem teljesített szerződés szerinti szállítások nettó összértékének 20 %-a a közbeszerzési dokumentum XXX. pontban ismertetettek szerint.</P>
+               <P>A rendelkezések és a finanszírozási feltételek valamennyi rész esetén irányadóak. Szerződésmódosítás: Kbt. 141. § szerint.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-03-26</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>15:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="HU"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">2</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-03-26</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>15:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Országos Korányi Pulmonológiai Intézet (1121 Budapest, Pihenő út 1.) Gazdasági Igazgatóság tárgyaló.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A Kbt. 68. § (3) bekezdés szerint.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EORDERING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>1) Ajánlatkérő felhívja ajánlattevők figyelmét, hogy tekintettel az Európai Unió Hivatalos Lapjának (TED)jelen pontra is érvényes karakterkorlátozására, ajánlatkérő a VI.3) pontban nem tudja a közbeszerzési eljáráshoz szükséges további információk teljes tartalmát meghatározni, ezért azok részletesen a közbeszerzési dokumentumokban kerülnek kifejtésre!</P>
+               <P>2) Ajánlatkérő a Kbt. 75. § (2) bekezdés e) pontját egyik rész vonatkozásában sem alkalmazza.</P>
+               <P>3) Ajánlatkérő a pénzügyi és szakmai alkalmassági követelmények szerinti feltételeket és ezek előírt igazolási módját a minősített Ajánlattevők hivatalos jegyzékébe történő felvétel feltételét képező minősítési szempontokhoz képest szigorúbban állapította meg.</P>
+               <P>4) Az ajánlat benyújtásának tartalmi és formai követelményei, benyújtandó nyilatkozatok, dokumentumok: a közbeszerzési dokumentumokban meghatározottak szerint.</P>
+               <P>5) Ajánlatkérő a Kbt. 35. § (9) bek. alapján projekttársaság létrehozását kizárja.</P>
+               <P>6) A Kbt. 76. § (2) bekezdés a) pontja alapján az ajánlatok értékelési szempontja a legalacsonyabb ár.</P>
+               <P>7) A teljes ajánlattételi felhívásban valamint az eljárás során valamennyi órában megadott határidő közép-európai helyi idő szerint értendő (CET).</P>
+               <P>8) A Kbt. 57. § (2) bekezdése alapján a közbeszerzési dokumentumokat ajánlatonként legalább egy ajánlattevőnek vagy az ajánlatban megnevezett alvállalkozónak elektronikus úton át kell vennie.</P>
+               <P>9) Ajánlatkérő a Kbt. 131. § (4) bekezdése szerint eljárva az eljárás nyertesével köt szerződést, vagy - a nyertes visszalépése esetén - az ajánlatok értékelése során a következő legkedvezőbb ajánlatot tevőnek minősített szervezettel (személlyel), ha őt az ajánlatok elbírálásáról szóló írásbeli összegezésben megjelölte.</P>
+               <P>10) Ajánlattevőnek (közös ajánlattevőknek) az ajánlatában nyilatkoznia kell a Kbt. 66. § (2) és (4) bek., a Kbt. 66. § (6) bek. a) és b) pontja vonatkozásában. A Kbt. 66. § (2) bek. szerinti nyilatkozatot eredeti példányban kell benyújtani az ajánlatban. A nyilatkozatokat nemleges tartalom esetén is csatolni kell.</P>
+               <P>11) Csatolni kell a cégbírósághoz benyújtott változásbejegyzési kérelmet és az annak érkezéséről a cégbíróság által megküldött igazolást a 321/2015.(X.30.) Korm. rendelet 13. § szerint (nemleges nyilatkozat is csatolandó).</P>
+               <P>12) Az ajánlathoz csatolni kell az ajánlattevő, az alvállalkozó, az alkalmasság igazolásába bevont (kapacitást nyújtó) gazdasági szereplő cégjegyzésre jogosult, nyilatkozatot, dokumentumot aláíró képviselő aláírási címpéldányát vagy aláírás mintáját a 2006.évi V. tv. 9. § (1) bek.-ben meghatározottak szerint.</P>
+               <P>13) Ajánlatkérő felhívja a figyelmet a Kbt. 36. § (1) bekezdésében foglaltakra.</P>
+               <P>14) Az eljárást megindító felhívásban és a dokumentációban nem szabályozott kérdésekben a dokumentáció rendelkezései, valamint a közbeszerzésekről szóló 2015. évi CXLIII. törvény és végrehajtási rendeletei az irányadók. Ajánlatkérő felhívja a figyelmet a 16/2012. (II. 16.) Korm. rendeletre.</P>
+               <P>15) Felelős akkreditált közbeszerzési szaktanácsadó: Petri Ákos Csaba, lajstromszám: 00333, 1043 Budapest,Munkásotthon u. 58. 4/44., petri.akos@chello.hu</P>
+               <P>16) Ajánlatkérő tájékoztatja Ajánlattevőket, hogy az eljárást folyamatba épített ellenőrzés mellett folytatja le, az ajánlati kötöttség 60 nap.</P>
+               <P>18)Ajánlattevő az ajánlatában köteles a kizáró okok fenn nem állása, valamint az alkalmassági követelményeknek megfelelés tekintetében EEKD-ban nyilatkozni. Ajánlatkérő felhívja az Ajánlattevők figyelmét arra, hogy az Egységes Európai Közbeszerzési Dokumentumot olyan módon kell benyújtani, hogy annak a mintájában tilos törölni, javítani.</P>
+               <P>19) Az ajánlatkérő az eljárásban való részvételt jelen eljárás során nem köti ajánlati biztosíték adásához.</P>
+               <P>20) A hirdetmény a közbeszerzésekről szóló 2014/24/EU irányelv alapján kerül közzétételre.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Közbeszerzési Hatóság, Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó u. 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A Kbt. 148. § szerint.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Közbeszerzési Hatóság, Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó u. 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-02-15</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

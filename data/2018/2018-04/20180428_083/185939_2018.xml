@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="185939-2018"
+            EDITION="2018083">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-185546-001</RECEPTION_ID>
+      <DELETION_DATE>20180612</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>83</NO_OJ>
+         <DATE_PUB>20180428</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 083-185939</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:185939-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="BE"/>
+         <IA_URL_GENERAL>http://www.eda.europa.eu</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72600000">Computer support and consultancy services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="BE1">RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">150000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180424</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180612 17:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC02</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt vedrørende levering af cloud sikkerhedstjenester</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag über die Erbringung von Cloud-Data-Sicherheitsgarantien</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brussels</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract for the provision of Cloud Data Security Assurance</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruselas</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco para la prestación de garantía de seguridad de datos en la nube</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Pilvipalveluiden tietosuojan varmistamisen toimittamista koskeva puitesopimus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Belgique</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre relatif à la prestation de services de garantie de sécurité de données infonuagiques</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Βέλγιο</TI_CY>
+            <TI_TOWN>Βρυξέλλες</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών διασφάλισης της ασφαλείας των δεδομένων υπολογιστικού νέφους</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Belgio</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro per la prestazione di servizi di sicurezza dei dati del cloud</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>België</TI_CY>
+            <TI_TOWN>Brussel</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor de verlening van de garantie voor de bescherming van cloudgegevens</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Bélgica</TI_CY>
+            <TI_TOWN>Bruxelas</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro de prestação de Garantia de Segurança de Dados na Nuvem</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Belgien</TI_CY>
+            <TI_TOWN>Bryssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för tillhandahållande av säkerhetstjänster för molndata</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Belgie</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva na zajištění bezpečnosti cloudových dat</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Brüssel</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamleping pilvandmete turvakinnituse osutamise kohta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Belgium</TI_CY>
+            <TI_TOWN>Brüsszel</TI_TOWN>
+            <TI_TEXT>
+               <P>Felhőadatok biztonságára vonatkozó garancia biztosítására irányuló keretszerződés</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Briuselis</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis debesijos duomenų apsaugos užtikrinimo paslaugoms teikti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Beļģija</TI_CY>
+            <TI_TOWN>Brisele</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums par mākoņa datu drošības garantijas nodrošināšanu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Belġju</TI_CY>
+            <TI_TOWN>Brussell</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt għall-provvista ta' Garanzija ta' Sigurtà tal-Cloud Data</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruksela</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o świadczenie usługi zapewnienia bezpieczeństwa danych w chmurze</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Belgicko</TI_CY>
+            <TI_TOWN>Brusel</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na poskytovanie zaistenia bezpečnosti cloudových údajov</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruselj</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo za zagotavljanje storitev varovanja podatkov v oblaku</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Bheilg, an</TI_CY>
+            <TI_TOWN>An Bhruiséil</TI_TOWN>
+            <TI_TEXT>
+               <P>Creatchonradh le haghaidh Dearbhú Slándála Sonraí Néalríomhaireachta a sholáthar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Бeлгия</TI_CY>
+            <TI_TOWN>Брюксел</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за предоставяне на застраховка за сигурност на данните в облака</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Belgia</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru pentru prestarea de servicii de asigurare a securității datelor de tip cloud</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Belgija</TI_CY>
+            <TI_TOWN>Bruxelles</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni sporazum za pružanje osiguranja zaštite podataka u oblaku</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Forsvarsagentur</AA_NAME>
+         <AA_NAME LG="DE">Europäische Verteidigungsagentur</AA_NAME>
+         <AA_NAME LG="EN">European Defence Agency</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de Defensa</AA_NAME>
+         <AA_NAME LG="FI">Euroopan puolustusvirasto (EDA)</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de défense</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός Άμυνας</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea per la difesa</AA_NAME>
+         <AA_NAME LG="NL">Europees Defensieagentschap</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia de Defesa</AA_NAME>
+         <AA_NAME LG="SV">Europeiska försvarsbyrån</AA_NAME>
+         <AA_NAME LG="CS">Evropská obranná agentura</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Kaitseagentuur</AA_NAME>
+         <AA_NAME LG="HU">Európai Védelmi Ügynökség</AA_NAME>
+         <AA_NAME LG="LT">Europos gynybos agentūra</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Aizsardzības aģentūra</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għad-Difiża</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Obrony</AA_NAME>
+         <AA_NAME LG="SK">Európska obranná agentúra</AA_NAME>
+         <AA_NAME LG="SL">Evropska obrambna agencija</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um Chosaint</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция по отбрана</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană de Apărare</AA_NAME>
+         <AA_NAME LG="HR">Europska obrambena agencija</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Forsvarsagentur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af cloud sikkerhedstjenester</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålet med tildelingen af denne rammekontrakt er at indkøbe konsulenttjenester inden for området for beskyttelse af computerdata, der er lagret og behandlet af kommercielle cloud leverandører og af leverandører af PaaS- og SaaS-løsninger (platform eller software som en tjeneste) med det formål at sikre, at EDA overholder af gældende lovgivning og kontrolstandarder for EU-institutioner.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Udførelsesstedet er i kontrahentens og EDA's lokaler eller ethvert andet sted angivet i udbudsspecifikationerne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Der henvises til udbudsmaterialet, der er tilgængeligt på e-udbuds adressen angivet i del I.3) »Kommunikation«.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Tilbudsgiverne er ikke involveret i den reelle gennemførelse af EDA's projekt om overgang til cloud og vil agere som uafhængig tredjepart.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Der henvises til udbudsmaterialet, der er tilgængeligt på e-udbuds adressen angivet i del I.3) »Kommunikation«.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EDA Premises, Rue des Drapiers 17-23, Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>En bemyndiget repræsentant for hver tilbudsgiver kan deltage i åbningen af bud. Virksomheder der ønsker at</P>
+                  <P>deltage, bedes meddele dette ved fremsendelse af en e-mail til procurement@eda.europa.eu senest 48 timer i forvejen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Der henvises til udbudsmaterialet, der er tilgængeligt på e-udbuds adressen angivet i del I.3) »Kommunikation«.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Verteidigungsagentur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag über die Erbringung von Cloud-Data-Sicherheitsgarantien</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zweck des zu vergebenden Rahmenvertrags ist die Beschaffung von Beratungsleistungen im Bereich des Schutzes von Computerdaten, die von kommerziellen Cloud-Anbietern und von Anbietern von PaaS- und SaaS-Lösungen („Platform oder Software as a Service“) gespeichert und verarbeitet werden, mit dem Ziel, der EVA die Einhaltung der geltenden Gesetzes- und Kontrollstandards der EU-Institutionen zu gewährleisten.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Der Ausführungsort sind die Räumlichkeiten des Auftragnehmers und die Räumlichkeiten der EVA oder jeder andere Ort, der in den Ausschreibungsunterlagen genannt wird.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Siehe Ausschreibungsunterlagen, die unter der in Abschnitt I.3 „Kommunikation“ angegebenen e-Tendering-Adresse verfügbar sind.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Die Bieter werden nicht an der tatsächlichen Umsetzung des EVA-Cloud-Übergangsprojekts beteiligt sein und treten als unabhängige Dritte auf.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Siehe Ausschreibungsunterlagen, die unter der in Abschnitt I.3 „Kommunikation“ angegebenen e-Tendering-Adresse verfügbar sind.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Räumlichkeiten der EVA, Rue des Drapiers 17-23, Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>1 bevollmächtigter Vertreter je Bieter darf bei der Öffnung der Angebote anwesend sein. Unternehmen, die bei der Öffnung</P>
+                  <P>der Angebote anwesend sein möchten, werden gebeten, ihre Teilnahmeabsicht mindestens 48 Stunden im Voraus per E-Mail an die Adresse procurement@eda.europa.eu mitzuteilen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Siehe Ausschreibungsunterlagen, die unter der in Abschnitt I.3 „Kommunikation“ angegebenen e-Tendering-Adresse verfügbar sind.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Defence Agency</OFFICIALNAME>
+               <ADDRESS>rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>B-1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract for the provision of Cloud Data Security Assurance</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The purpose of the framework contract to be awarded is to procure consultancy services in the area of protection of computer data stored and processed by commercial cloud providers and by providers of PaaS and SaaS (Platform or Software-as-a-Service) solutions with the objective to provide EDA with the assurance of compliance with the applicable law and control standards of the EU institutions.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Place of performance shall be the contractor's premises and EDA's premises or any other place indicated in the tender specifications.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Please refer to the tender documents, available at the e-tendering address provided in Section I.3) “Communication”.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>The tenderers shall not be involved in the actual implementation of EDA cloud transition project and shall act as an independent 3rd party.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Please refer to the tender documents, available at the e-tendering address provided in Section I.3) “Communication”.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EDA Premises, rue des Drapiers 17-23, Brussels, Belgium</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>An authorised representative of each tenderer may attend the opening of the tenders. Companies wishing to.</P>
+                  <P>Attend are requested to notify their intention by sending an e-mail to procurement@eda.europa.eu at least 48 hours in advance.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Please refer to the tender documents, available at the e-tendering address provided in Section I.3) “Communication”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de Defensa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco para la prestación de garantía de seguridad de datos en la nube</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objetivo de este contrato marco que se adjudicará es obtener servicios de asesoría en el ámbito de la protección de datos informáticos almacenados y procesados por proveedores comerciales de servicios en la nube y proveedores de soluciones PaaS y SaaS (Plataforma o Software como servicio, por sus siglas en inglés), con el objetivo de proporcionar a la AED garantía de cumplimiento con las leyes y normas de control de las instituciones de la UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>El lugar de ejecución de las tareas serán las instalaciones del contratista y las instalaciones de la AED, o cualquier otro sitio indicado en el pliego de condiciones.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Véase la documentación del concurso, disponible en la dirección de «e-tendering» indicada en el apartado I.3 «Comunicación».</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Los licitadores no estarán implicados en la ejecución del proyecto de transición a la nube de la AED y deberán actuar como tercero independiente.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Véase la documentación del concurso, disponible en la dirección de «e-tendering» indicada en el apartado I.3 «Comunicación».</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Instalaciones de la AED, rue des Drapiers 17-23, Brussels, Bélgica</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Podrá asistir a la apertura de las ofertas 1 representante autorizado por cada licitador. Las empresas que deseen</P>
+                  <P>asistir deberán notificarlo mediante el envío de un correo electrónico a procurement@eda.europa.eu con al menos 48 horas de antelación.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Véase la documentación del concurso, disponible en la dirección de «e-tendering» indicada en el apartado I.3 «Comunicación».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan puolustusvirasto (EDA)</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pilvipalveluiden tietosuojan varmistamisen toimittamista koskeva puitesopimus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tehtävän puitesopimuksen tarkoituksena on hankkia virastolle konsultointipalveluja kaupallisten pilvipalveluiden sekä pilvipalvelualusta- ja pilviohjelmistopalveluratkaisujen (PaaS/SaaS – Platform/Software-as-a-Service) tarjoajien tallentaman ja käsittelemän atk-muotoisen datan suojauksen alalta. Tavoitteena on tarjota EDAlle varmuus siitä, että ratkaisut ovat sovellettavan lain ja EU-instituutioiden valvontastandardien mukaisia.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>tehtävät suoritetaan sopimusosapuolen toimitiloissa ja Euroopan puolustusviraston (EDA) toimitiloissa tai missä tahansa muussa tarjouseritelmissä ilmoitetussa paikassa.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Katso tarjousasiakirjat, jotka ovat saatavissa kohdassa I.3 (viestintä) annetusta verkkotarjousjärjestelmän osoitteesta.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Tarjoajat eivät saa osallistua varsinaiseen EDAn hankkeeseen pilvipalveluihin siirtymiseksi, heidän tulee toimia itsenäisenä kolmantena osapuolena.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Katso tarjousasiakirjat, jotka ovat saatavissa kohdassa I.3 (viestintä) annetusta verkkotarjousjärjestelmän osoitteesta.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Euroopan puolustusviraston (EDA) toimitilat, Rue des Drapiers 17-23, Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Tarjousten avaustilaisuuteen voi osallistua yksi valtuutettu edustaja kultakin tarjoajalta. Yrityksiä, jotka haluavat osallistua avaustilaisuuteen, pyydetään ilmoittamaan aikomuksestaan sähköpostitse osoitteeseen procurement@eda.europa.eu vähintään 48 tuntia etukäteen.</P>
+                  <P/>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Katso tarjousasiakirjat, jotka ovat saatavissa kohdassa I.3 (viestintä) annetusta verkkotarjousjärjestelmän osoitteesta.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de défense</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre relatif à la prestation de services de garantie de sécurité de données infonuagiques</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L’objectif du contrat-cadre est la prestation de services de conseil dans le domaine de la protection de données informatiques stockées et traitées par des fournisseurs commerciaux d’informatique en nuage et des fournisseurs des solutions PaaS et SaaS (plateforme ou logiciel comme service) avec l’objectif de fournir à l’AED une garantie de conformité avec la loi en vigueur et les normes de contrôles des institutions de l’UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Les tâches seront exécutées dans les locaux du contractant ou de l'AED, ou dans tout autre lieu indiqué dans le cahier des charges.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Veuillez vous référer au dossier d'appel d'offres, disponible à l’adresse de soumission en ligne indiquée à la section I.3 « Communication ».</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Les soumissionnaires ne doivent pas être impliqués dans l’exécution actuelle du projet de transition en nuage de l’AED et doivent agir comme tiers.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Veuillez vous référer au dossier d'appel d'offres, disponible à l’adresse de soumission en ligne indiquée à la section I.3 « Communication ».</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Locaux de l’AED, Rue des Drapiers 17-23, Brussels, Belgique</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Un représentant dûment mandaté par soumissionnaire pourra assister à l'ouverture des offres. Les sociétés souhaitant</P>
+                  <P>y assister devront faire part de leur intention par courrier électronique (procurement@eda.europa.eu), au moins 48 heures à l'avance.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Veuillez vous référer au dossier d'appel d'offres, disponible à l’adresse de soumission en ligne indiquée à la section I.3 « Communication ».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκός Οργανισμός Άμυνας</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών διασφάλισης της ασφαλείας των δεδομένων υπολογιστικού νέφους</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Σκοπός της σύμβασης-πλαισίου που πρόκειται να ανατεθεί είναι η παροχή συμβουλευτικών υπηρεσιών στον τομέα της προστασίας των δεδομένων ηλεκτρονικών υπολογιστών που αποθηκεύονται και υποβάλλονται σε επεξεργασία από εμπορικούς παρόχους υπηρεσιών υπολογιστικού νέφους και από παρόχους υπηρεσιών PaaS και SaaS (πλατφόρμα ή λογισμικό ως υπηρεσία) με στόχο να παρασχεθεί στον ΕΟΑ η διασφάλιση της συμμόρφωσης με το εφαρμοστέο δίκαιο και τα πρότυπα ελέγχου των θεσμικών οργάνων της ΕΕ.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Τόπος εκτέλεσης θα είναι οι εγκαταστάσεις του αναδόχου και του ΕΟΑ ή οποιοσδήποτε άλλος τόπος αναφέρεται στη συγγραφή υποχρεώσεων.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Παρακαλείσθε να ανατρέξετε στα έγγραφα του διαγωνισμού, τα οποία διατίθενται στη διεύθυνση ηλεκτρονικής υποβολής προσφορών που παρέχεται στο τμήμα I.3) «Επικοινωνία».</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Οι υποψήφιοι δεν θα συμμετέχουν στην πραγματική υλοποίηση του έργου του EDA για μετάβαση στο υπολογιστικό νέφος και θα ενεργούν ως ανεξάρτητοι τρίτοι.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Παρακαλείσθε να ανατρέξετε στα έγγραφα του διαγωνισμού, τα οποία διατίθενται στη διεύθυνση ηλεκτρονικής υποβολής προσφορών που παρέχεται στο τμήμα I.3) «Επικοινωνία».</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Στις εγκαταστάσεις του ΕΟΑ, Rue des Drapiers 17-23, Brussels, Βέλγιο</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Ένας εξουσιοδοτημένος εκπρόσωπος από κάθε υποψήφιο δύναται να παραστεί στην αποσφράγιση των προσφορών. Οι εταιρείες που επιθυμούν να</P>
+                  <P>συμμετάσχουν καλούνται να κοινοποιήσουν την πρόθεσή τους στέλνοντας ένα e-mail στη διεύθυνση procurement@eda.europa.eu τουλάχιστον 48 ώρες νωρίτερα.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Παρακαλείσθε να ανατρέξετε στα έγγραφα του διαγωνισμού, τα οποία διατίθενται στη διεύθυνση ηλεκτρονικής υποβολής προσφορών που παρέχεται στο τμήμα I.3) «Επικοινωνία».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea per la difesa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro per la prestazione di servizi di sicurezza dei dati del cloud</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Lo scopo del contratto quadro da aggiudicare riguarda l’appalto di servizi di consulenza nel settore della protezione dei dati informatici memorizzati e trattati da fornitori di cloud commerciali e dai fornitori di soluzioni PaaS e SaaS (Platform o Software-as-a-Service) con l’obiettivo di fornire all’AED la certezza del rispetto della normativa applicabile e degli standard di controllo delle istituzioni dell'UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Gli incarichi saranno svolti presso le strutture del contraente e dell'AED o in qualsiasi altro luogo indicato nel capitolato d'oneri.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Cfr. documenti di gara disponibili all'indirizzo e-tendering indicato alla sezione I.3) "Comunicazione".</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Gli offerenti non saranno coinvolti nell'attuazione effettiva del progetto di transizione al cloud dell’AED e agiranno in qualità di soggetti terzi indipendenti.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Cfr. documenti di gara disponibili all'indirizzo e-tendering indicato alla sezione I.3) "Comunicazione".</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Locali dell'AED, Rue des Drapiers 17-23, Brussels, Belgio</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Potrà assistere all'apertura delle offerte un rappresentante autorizzato di ciascun offerente. Le società che desiderano partecipare dovranno comunicare la propria intenzione con un anticipo di almeno 48 ore, inviando un’e-mail all'indirizzo: procurement@eda.europa.eu.</P>
+                  <P/>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Cfr. documenti di gara disponibili all'indirizzo e-tendering indicato alla sezione I.3) "Comunicazione".</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Defensieagentschap</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor de verlening van de garantie voor de bescherming van cloudgegevens</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De doelstelling van de te gunnen raamovereenkomst is het verkrijgen van adviesdiensten op het gebied van de bescherming van computergegevens die worden opgeslagen en verwerkt door commerciële cloudaanbieders en door aanbieders van PaaS-oplossingen (platform as a service, platform als een dienst) en SaaS-oplossingen (software as a service, software als een dienst) met als doelstelling het Europees Defensieagentschap te garanderen dat aan de toepasselijke wetgeving en de controlenormen van de EU-instellingen wordt voldaan.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>de plaats van uitvoering is in de kantoren van de contractant en de kantoren van het EDA of op een andere plaats vermeld in de aanbestedingsstukken.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zie de aanbestedingsstukken, beschikbaar op het in I.3 („Communicatie”) vermelde adres voor elektronische inschrijving.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>De inschrijvers zijn niet betrokken bij de eigenlijke tenuitvoerlegging van het cloudovergangsproject van het Europees Defensieagentschap en treden op als onafhankelijke derde partij.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Zie de aanbestedingsstukken, beschikbaar op het in I.3 („Communicatie”) vermelde adres voor elektronische inschrijving.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Kantoren van het EDA, Rue des Drapiers 17-23, Brussels, België</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Van elke inschrijver mag een gevolmachtigde vertegenwoordiger de opening van de inschrijvingen bijwonen. Bedrijven die</P>
+                  <P>de opening willen bijwonen, moeten dit minstens 48 uur van tevoren meedelen door een e-mail te verzenden naar: procurement@eda.europa.eu.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Zie de aanbestedingsstukken, beschikbaar op het in I.3 („Communicatie”) vermelde adres voor elektronische inschrijving.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia de Defesa</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro de prestação de Garantia de Segurança de Dados na Nuvem</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objetivo do contrato-quadro a ser adjudicado é obter de serviços de consultoria no domínio de proteção de dados informáticos armazenados e processados por fornecedores de nuvem comerciais e fornecedores de soluções PaaS e SaaS (Plataforma ou Software-como-Serviço) com o objetivo de fornecer à AED a garantia de conformidade com a legislação aplicável e normas de controlo das instituições da UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>O local de execução será as instalações do contratante e as instalações da AED ou qualquer outro local indicado no caderno de encargos.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Deve consultar a documentação do concurso que se encontra disponível no endereço de «e-tendering» especificado no ponto I.3 «Comunicação».</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Os proponentes não estarão envolvidos na implementação do projeto de transição para a nuvem da AED e atuarão como uma parte terceira independente.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Deve consultar a documentação do concurso que se encontra disponível no endereço de «e-tendering» especificado no ponto I.3 «Comunicação».</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Instalações EDA, Rue des Drapiers 17-23, Brussels, Bélgica</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Poderá assistir à abertura das propostas um representante autorizado de cada proponente. As empresas que desejam</P>
+                  <P>participar deverão indicá-lo enviando uma mensagem de correio eletrónico para procurement@eda.europa.eu com, pelo menos, 48 horas de antecedência.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Deve consultar a documentação do concurso que se encontra disponível no endereço de «e-tendering» especificado no ponto I.3 «Comunicação».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska försvarsbyrån</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av säkerhetstjänster för molndata</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med ramavtalet är att skaffa konsulttjänster inom området för skydd av datainnehåll som lagras och bearbetas av kommersiella molnleverantörer och av leverantörer av lösningar för PaaS och SaaS (Platform eller Software-as-a-Service) med målet att tillhandahålla EDA med överstämmelse med EU:s tillämpliga lagar och kontrollstandarder.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Platsen för utförandet kommer att vara uppdragstagarens lokaler och Europeiska försvarsbyråns (European Defence Agency – EDA) lokaler eller annan plats, som har angivits i förfrågningsunderlaget.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Se upphandlingsdokumenten, som finns tillgängliga på adressen för e-upphandling, som anges i avsnitt I.3) “Kommunikation”.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>En anbudsgivare ska inte vara inblandad i det faktiska genomförandet av EDA-molnövergångsprojekt och ska agera som en oberoende tredje part</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Se upphandlingsdokumenten, som finns tillgängliga på adressen för e-upphandling, som anges i avsnitt I.3) “Kommunikation”.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Europeiska försvarsbyrån, rue des Drapiers 17-23, Brussels, Belgien</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>En befullmäktigat ombud för varje anbudsgivare får närvara vid anbudsöppningen. Företag som vill</P>
+                  <P>närvara ombeds att anmäla detta via e-post till procurement@eda.europa.eu minst 48 timmar i förväg.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Se upphandlingsdokumenten, som finns tillgängliga på adressen för e-upphandling, som anges i avsnitt I.3) “Kommunikation”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská obranná agentura</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva na zajištění bezpečnosti cloudových dat</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cílem této rámcové smlouvy, která má být zadána, je zajistit poradenské služby v oblasti ochrany počítačových dat ukládaných a zpracovávaných komerčními poskytovateli cloudových služeb a poskytovateli řešení PaaS a SaaS (platforma a software jako služba) s cílem zajistit pro EDA dodržování platných zákonů a norem kontroly orgánů EU.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Místem plnění úkolů budou prostory poskytovatele služeb a prostory EDA nebo jakékoliv jiné místo uvedené ve specifikacích nabídkového řízení.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nahlédněte prosím do zadávací dokumentace, která je k dispozici na internetové adrese elektronického podávání nabídek (e-tendering) uvedené v oddílu I.3) „Komunikace“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Uchazeči se nebudou účastnit skutečného provádění projektu spočívajícího v přechodu cloudu EDA a budou jednat jako nezávislá třetí strana.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Nahlédněte prosím do zadávací dokumentace, která je k dispozici na internetové adrese elektronického podávání nabídek (e-tendering) uvedené v oddílu I.3) „Komunikace“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Prostory Evropské obranné agentury (EDA), Rue des Drapiers 17-23, Brussels, Belgie</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otevírání nabídek se může účastnit oprávněný zástupce každého uchazeče. Společnosti, které se chtějí</P>
+                  <P>zúčastnit, žádáme, aby oznámily svůj záměr zasláním e-mailu na adresu procurement@eda.europa.eu alespoň 48 hodin předem.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Nahlédněte prosím do zadávací dokumentace, která je k dispozici na internetové adrese elektronického podávání nabídek (e-tendering) uvedené v oddílu I.3) „Komunikace“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Kaitseagentuur</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamleping pilvandmete turvakinnituse osutamise kohta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sõlmitava raamlepingu eesmärk on nõustamisteenuste hankimine kommertslike pilvteenusetarnijate ning platvormi teenuse (PaaS) või tarkvara teenuse (SaaS) lahenduse tarnijate poolt salvestatud ja töödeldud digitaalandmete kaitse valdkonnas eesmärgiga anda Euroopa Kaitseagentuurile (EDA) kinnitus vastavuse kohta ELi institutsioonidele kohaldatavate õigusnormide ja juhtimisstandarditega.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Teenuste osutamise koht on töövõtja ruumid ja EDA ruumid või mis tahes muu pakkumise tehnilises kirjelduses määratletud koht.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Vt pakkumisdokumente, mis on avaldatud eespool jaotises I.3 „Teabevahetus“ nimetatud elektroonilise pakkumuse esitamise aadressil.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Pakkujad ei osale EDA pilvesiirde projekti tegelikus teostamises ja tegutsevad iseseisva kolmanda osapoolena.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Vt pakkumisdokumente, mis on avaldatud eespool jaotises I.3 „Teabevahetus“ nimetatud elektroonilise pakkumuse esitamise aadressil.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Euroopa Kaitseagentuuri ruumid, rue des Drapiers 17-23, Brüssel, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pakkumuste avamisel võib osaleda iga pakkuja üks volitatud esindaja. Osaleda soovivad ettevõtted</P>
+                  <P> peavad oma kavatsusest teada andma e-posti teel (aadressil procurement@eda.europa.eu) hiljemalt 48 tundi enne avamist.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Vt pakkumisdokumente, mis on avaldatud eespool jaotises I.3 „Teabevahetus“ nimetatud elektroonilise pakkumuse esitamise aadressil.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Védelmi Ügynökség</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Felhőadatok biztonságára vonatkozó garancia biztosítására irányuló keretszerződés</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Az odaítélendő keretszerződés célja tanácsadási szolgáltatások beszerzése a kereskedelmi felhőalapú szolgáltatást nyújtó szolgáltatók és a PaaS és SaaS (szolgáltatásként kínált szoftver [SaaS] vagy szolgáltatásként kínált platform [PaaS]) megoldások szolgáltatói által tárolt és feldolgozott számítógépes adatok védelme területén, az EDA a vonatkozó jogszabályoknak és az uniós intézetek ellenőrzési előírásainak történő megfelelésének biztosítása céljából.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>A teljesítés helye a nyertes ajánlattevő telephelye és az EDA helyiségei, vagy a pályázati dokumentációban feltüntetett bármely egyéb helyszín.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lásd a pályázati dokumentációt, amely az I.3. pontban („Kommunikáció”) megadott e-tendering címen érhető el.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Az ajánlattevők nem vehetnek részt az EDA felhőalapú megoldásokra történő átállási projektjének tényleges megvalósításában, és független harmadik félként kell eljárniuk.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Lásd a pályázati dokumentációt, amely az I.3. pontban („Kommunikáció”) megadott e-tendering címen érhető el.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Európai Védelmi Ügynökség (EDA), rue des Drapiers 17-23, Brussels, Belgium</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>A tenderbontáson minden ajánlattevő egy felhatalmazott képviselője lehet jelen. A tenderbontáson részt venni kívánó vállalatok szándékukról legalább 48 órával korábban küldjenek értesítést a procurement@eda.europa.eu e-mail-címre.</P>
+                  <P/>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Lásd a pályázati dokumentációt, amely az I.3. pontban („Kommunikáció”) megadott e-tendering címen érhető el.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos gynybos agentūra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis debesijos duomenų apsaugos užtikrinimo paslaugoms teikti</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Preliminariosios sutarties, kuri bus paskirta, tikslas – įsigyti konsultacines paslaugas, susijusias su kompiuterinių duomenų, kuriuos išsaugo ir apdoroja komercinės debesijos paslaugų tiekėjai, ir PaaS (platforma kaip paslauga) bei SaaS (programinė įranga kaip paslauga) sprendimų tiekėjai, apsauga siekiant užtikrinti, kad EGA laikysis taikomų įstatymų ir ES institucijų taikomų kontrolės standartų.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Vykdymo vieta bus rangovo patalpos ir EGA patalpos arba bet kuri kita pirkimo specifikacijose nurodyta vieta.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Prašome žr. pirkimo dokumentus, esančius elektroninio viešojo pirkimo adresu, nurodytu I.3 dalyje „Komunikacija“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Konkurso dalyviai nedalyvaus realiai įgyvendinant EGA debesijos pereinamąjį projektą, bet veiks kaip nepriklausoma trečioji šalis.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Prašome žr. pirkimo dokumentus, esančius elektroninio viešojo pirkimo adresu, nurodytu I.3 dalyje „Komunikacija“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EGA patalpos, Rue des Drapiers 17-23, Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Vokų su pasiūlymais atplėšimo procedūroje gali dalyvauti įgaliotas kiekvieno konkurso dalyvio atstovas. Įmonės, pageidaujančios</P>
+                  <P>dalyvauti, turi pranešti apie savo ketinimą el. paštu procurement@eda.europa.eu bent prieš 48 valandas.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Prašome žr. pirkimo dokumentus, esančius elektroninio viešojo pirkimo adresu, nurodytu I.3 dalyje „Komunikacija“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Aizsardzības aģentūra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums par mākoņa datu drošības garantijas nodrošināšanu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Piešķiramā pamatnolīguma mērķis ir nodrošināt konsultāciju pakalpojumus par tādu datorizēto datu aizsardzību, kurus uzglabā un apstrādā komerciāli mākoņpakalpojumu sniedzēji, kā arī platformas kā pakalpojuma (PaaS — Platform-as-a-Service) un programmatūras kā pakalpojuma (SaaS — Software-as-a-Service) risinājumu sniedzēji, lai nodrošinātu Eiropas Aizsardzības aģentūru (EAA) ar atbilstības garantiju ES iestāžu piemērojamiem tiesību aktiem un kontroles standartiem.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>izpildes vieta – darbuzņēmēja telpas un EAA telpas vai jebkura cita konkursa specifikācijās norādīta vieta.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lūdzam skatīt konkursa dokumentus, kas pieejami I.3. iedaļā “Saziņa” norādītajā “eTendering” adresē.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Pretendenti nedrīkst būt iesaistīti EAA pārejas uz mākoņa datiem projekta īstenošanā – to loma ir neatkarīga trešā puse.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Lūdzam skatīt konkursa dokumentus, kas pieejami I.3. iedaļā “Saziņa” norādītajā “eTendering” adresē.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EAA telpas, Rue des Drapiers 17-23, Brussels, Beļģija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>piedāvājumu atvēršanā var piedalīties 1 katra pretendenta pilnvarots pārstāvis. Uzņēmumiem, kas vēlas</P>
+                  <P>piedalīties, par to jāpaziņo vismaz 48 stundas iepriekš, nosūtot e-pasta ziņojumu uz procurement@eda.europa.eu</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Lūdzam skatīt konkursa dokumentus, kas pieejami I.3. iedaļā “Saziņa” norādītajā “eTendering” adresē.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għad-Difiża</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' Garanzija ta' Sigurtà tal-Cloud Data</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-iskop tal-qafas ta' kuntratt li għandu jingħata huwa li jinkisbu servizzi ta' konsulenza fil-qasam tal-protezzjoni tad-dejta tal-kompjuter maħżuna u pproċessata minn fornituri ta' cloud kummerċjali u minn fornituri tas-soluzzjonijiet PaaS u SaaS (Pjattaforma jew Softwer bħala servizz) bl-għan li l-AED tiġi pprovduta bl-assigurazzjoni tal-konformità mal-liġi applikabbli u l-istandards ta' kontroll tal-istituzzjonijiet tal-UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Il-post tat-twettiq għandu jkun il-bini tal-kuntrattur u l-bini tal-AED jew kwalunkwe post ieħor indikat fl-ispeċifkazzjonijiet tas-sejħa għall-offerti.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Jekk jogħġbok irreferi għad-dokumenti tas-sejħa għall-offerti, disponibbli fl-indirizz għat-tfigħ tal-offerti b'mod elettroniku pprovdut fit-Taqsima I.3) "Komunikazzjoni".</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Dawk li jitfgħu l-offerti m'għandhomx ikunu involuti fl-implimentazzjoni attwali tal-proġett tat-tranżizzjoni tal-cloud tal-AED u għandhom jaġixxu bħala parti terza indipendenti.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Jekk jogħġbok irreferi għad-dokumenti tas-sejħa għall-offerti, disponibbli fl-indirizz għat-tfigħ tal-offerti b'mod elettroniku pprovdut fit-Taqsima I.3) "Komunikazzjoni".</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Il-Bini tal-AED, Rue des Drapiers 17-23, Brussels, il-Belġju</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Rappreżentant awtorizzat għal kull min jitfa' offerta jista' jattendi għall-ftuħ tal-offerti. Il-kumpaniji li jixtiequ</P>
+                  <P>jattendu huma mitluba jinnotifikaw l-intenzjoni tagħhom billi jibagħtu email fuq l-indirizz procurement@eda.europa.eu mill-inqas 48 siegħa minn qabel.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Jekk jogħġbok irreferi għad-dokumenti tas-sejħa għall-offerti, disponibbli fl-indirizz għat-tfigħ tal-offerti b'mod elettroniku pprovdut fit-Taqsima I.3) "Komunikazzjoni".</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Obrony</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o świadczenie usługi zapewnienia bezpieczeństwa danych w chmurze</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Celem umowy ramowej jest zamówienie usług doradczych w dziedzinie ochrony danych komputerowych przechowywanych i przetwarzanych przez dostawców komercyjnych usług w chmurze oraz dostawców rozwiązań PaaS i SaaS (Platforma lub Oprogramowanie jako usługa) w celu zapewnienia EAO zgodności z obowiązującym prawem i standardami kontroli instytucji UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>miejscem realizacji zadań będzie siedziba wykonawcy, siedziba EAO lub inne miejsce wskazane w specyfikacji istotnych warunków zamówienia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zob. dokumentacja zamówienia dostępna pod adresem platformy elektronicznych zamówień publicznych (eTendering) podanym w sekcji I.3) „Komunikacja”.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Oferenci nie będą zaangażowani w faktyczną realizację projektu zmian chmury obliczeniowej EAO i będą działać jako niezależna strona trzecia.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Zob. dokumentacja zamówienia dostępna pod adresem platformy elektronicznych zamówień publicznych (eTendering) podanym w sekcji I.3) „Komunikacja”.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EDA Premises, rue des Drapiers 17-23, Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>W sesji otwarcia ofert może uczestniczyć 1 upoważniony przedstawiciel każdego oferenta. Przedsiębiorstwa wyrażające chęć</P>
+                  <P>uczestnictwa są proszone o zgłoszenie tego zamiaru pocztą elektroniczną z przynajmniej 48-godzinnym wyprzedzeniem, na adres procurement@eda.europa.eu.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Zob. dokumentacja zamówienia dostępna pod adresem platformy elektronicznych zamówień publicznych (eTendering) podanym w sekcji I.3) „Komunikacja”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska obranná agentúra</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na poskytovanie zaistenia bezpečnosti cloudových údajov</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cieľom tejto pridelenej rámcovej zmluvy je obstarať poradenské služby v oblasti ochrany počítačových údajov, uložených a spracovaných komerčnými cloudovými poskytovateľmi a poskytovateľmi riešení typu platforma ako služba (platform as a service – PaaS) a typu softvér ako služba (software as a service – SaaS) s cieľom poskytnúť Európskej obrannej agentúre (EDA) zaistenie súladu s platným zákonom a normami vnútornej kontroly inštitúcií EÚ.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Miestom vykonania budú priestory dodávateľa a priestory EDA alebo akékoľvek iné miesto, ktoré je uvedené v špecifikáciách obstarávania.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Pozri súťažné podklady dostupné na adrese pre elektronické predkladanie ponúk uvedenej v oddiele I.3) „Komunikácia“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Uchádzači nebudú priamo zapojení do samotnej realizácie projektu transformácie cloudu a budú konať ako nezávislá tretia strana.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Pozri súťažné podklady dostupné na adrese pre elektronické predkladanie ponúk uvedenej v oddiele I.3) „Komunikácia“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EDA Premises, rue des Drapiers 17-23, Brussels, Belgicko</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otvárania ponúk sa môže zúčastniť 1 oprávnený zástupca za každého uchádzača. Spoločnosti, ktoré sa chcú</P>
+                  <P>zúčastniť, musia svoj záujem oznámiť aspoň 48 hodín vopred zaslaním e-mailu na adresu procurement@eda.europa.eu.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Pozri súťažné podklady dostupné na adrese pre elektronické predkladanie ponúk uvedenej v oddiele I.3) „Komunikácia“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska obrambna agencija</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo za zagotavljanje storitev varovanja podatkov v oblaku</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Namen okvirnega naročila, ki bo oddano, je pridobitev storitev svetovanja na področju varstva računalniških podatkov, ki jih shranijo in obdelujejo ponudniki poslovnih računalniških oblakov ter ponudniki rešitev PaaS in SaaS (platforma ali programska oprema kot storitev), s ciljem zagotavljati EDA zagotovilo o skladnosti z veljavno zakonodajo in nadzornimi standardi institucij EU.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Naloge se bodo izvajale v prostorih izvajalca in prostorih EDA ali na katerem koli drugem kraju, navedenem v razpisnih specifikacijah.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Glejte razpisno dokumentacijo, ki je na voljo na naslovu spletnega mesta za e-razpise, navedenem v oddelku I.3) „Sporočanje“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ponudniki ne bodo sodelovali v dejanskem izvajanju projekta prenosa v oblak EDA in bodo delovali kot neodvisna 3. stran.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Glejte razpisno dokumentacijo, ki je na voljo na naslovu spletnega mesta za e-razpise, navedenem v oddelku I.3) „Sporočanje“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Prostori EDA, rue des Drapiers 17-23, Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Pri odpiranju ponudb je lahko navzoč 1 pooblaščeni zastopnik vsakega ponudnika. Podjetja, ki se želijo</P>
+                  <P>udeležiti odpiranja ponudb, morajo poslati obvestilo o svoji nameri vsaj 48 ur vnaprej po e-pošti na naslov procurement@eda.europa.eu</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Glejte razpisno dokumentacijo, ki je na voljo na naslovu spletnega mesta za e-razpise, navedenem v oddelku I.3) „Sporočanje“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um Chosaint</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Creatchonradh le haghaidh Dearbhú Slándála Sonraí Néalríomhaireachta a sholáthar</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é cuspóir an chreatchonartha seo atá le dámhachtain seirbhísí comhairleachta a sholáthar sa réimse cosanta sonraí ríomhaireachta arna stóráil agus arna bpróiseáil ag soláthraithe néalríomhaireachta tráchtála agus ag soláthraithe réiteach PaaS agus Saas (Ardán nó Bogearraí mar Sheirbhís) chun dearbhú comhlíonta leis an dlí is infheidhme agus caighdeáin rialaithe institiúidí AE a sholáthar don GEC.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Déanfar an obair ar áitreabh an chonraitheora agus ar áitreabh EDA nó ag áit ar bith eile atá léirithe sna sonraíochtaí tairisceana.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Féach ar dhoiciméid na tairisceana, atá ar fáil ag an seoladh ríomhsholáthair atá curtha ar fáil in Alt I.3) “Cumarsáid”.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ní bheidh baint ag na tairgeoirí le forfheidhmiú iarbhír an tionscadail trasdula néalríomhaireachta GEC, agus feidhmeoidh siad mar 3ú páirtí neamhspleách.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Féach ar dhoiciméid na tairisceana, atá ar fáil ag an seoladh ríomhsholáthair atá curtha ar fáil in Alt I.3) “Cumarsáid”.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Áitreabh GEC, rue des Drapiers 17-23, an Bhruiséil, an Bheilg</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Is féidir le hionadaí údaraithe le gach tairgeoir freastal ar oscailt na dtairiscintí. Na cuideachtaí ar mian leo freastal.</P>
+                  <P>iarrtar orthu é sin a chur in iúl trí ríomhphost a sheoladh chuig procurement@eda.europa.eu 48 uair an chloig roimh ré ar a dhéanaí.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Féach ar dhoiciméid na tairisceana, atá ar fáil ag an seoladh ríomhsholáthair atá curtha ar fáil in Alt I.3) “Cumarsáid”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция по отбрана</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за предоставяне на застраховка за сигурност на данните в облака</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Целта на рамковия договор, който ще бъде сключен, е осигуряване на консултантски услуги в областта на защитата на компютърни данни, съхранявани и обработвани от доставчици на комерсиални облаци и доставчици на PaaS и SaaS (Platform or Software-as-a-Service (Платформа или Софтуер като услуга) решения, с цел предоставяне на EDA на застраховка за съответствие с приложимите закони и стандарти за контрол на институциите в ЕС.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Мястото на изпълнение ще бъдат помещенията на изпълнителя и помещенията на EDA или всяко друго място, посочено в тръжните спецификации.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Моля, вижте тръжните документи, достъпни на адреса на e-tendering, посочен в раздел I.3) „Комуникация“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Оферентите няма да се ангажират в реалното изпълнение на проекта за преход към облака на EDA и ще действат като независима 3-та страна.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Моля, вижте тръжните документи, достъпни на адреса на e-tendering, посочен в раздел I.3) „Комуникация“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Помещенията на EDA, Rue des Drapiers 17-23, Brussels, Белгия</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Един упълномощен представител на всеки оферент може да присъства на отварянето на офертите. Дружествата, желаещи да </P>
+                  <P>присъстват, трябва да уведомят за своето намерение, като изпратят електронно писмо на procurement@eda.europa.eu поне 48 часа предварително.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Моля, вижте тръжните документи, достъпни на адреса на e-tendering, посочен в раздел I.3) „Комуникация“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană de Apărare</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru pentru prestarea de servicii de asigurare a securității datelor de tip cloud</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectivul contractului-cadru care urmează să fie atribuit este de a procura servicii de consultanță în domeniul protecției datelor informatice stocate și prelucrate de furnizorii comerciali de cloud și de furnizorii de soluții PaaS și SaaS (platformă sau software-ca-serviciu), cu obiectivul de a furniza AEA asigurarea conformității cu legislația aplicabilă și standardele de control ale instituțiilor UE.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Locul de executare a sarcinilor va fi sediul contractantului și sediul AEA sau orice alt loc indicat în caietul de sarcini al licitației.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A se consulta dosarul licitației, disponibil la adresa e-tendering specificată la punctul I.3) „Comunicare”.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ofertantul nu va fi implicat în implementarea efectivă a proiectului de tranziție cloud al AEA și va acționa ca o parte terță independentă.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>A se consulta dosarul licitației, disponibil la adresa e-tendering specificată la punctul I.3) „Comunicare”.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>EDA Premises, rue des Drapiers 17-23, Brussels, Belgia</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>La deschiderea ofertelor poate participa un reprezentant autorizat din partea fiecărui ofertant. Companiile care doresc să participe</P>
+                  <P>sunt rugate să își comunice intenția prin trimiterea unui e-mail la adresa procurement@eda.europa.eu cu cel puțin 48 de ore în prealabil.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>A se consulta dosarul licitației, disponibil la adresa e-tendering specificată la punctul I.3) „Comunicare”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska obrambena agencija</OFFICIALNAME>
+               <ADDRESS>Rue des Drapiers 17-23</ADDRESS>
+               <TOWN>Brussels</TOWN>
+               <POSTAL_CODE>1050</POSTAL_CODE>
+               <COUNTRY VALUE="BE"/>
+               <CONTACT_POINT>Procurement &amp; Contract Unit</CONTACT_POINT>
+               <E_MAIL>procurement@eda.europa.eu</E_MAIL>
+               <FAX>+32 25042975</FAX>
+               <n2016:NUTS CODE="BE1"/>
+               <URL_GENERAL>http://www.eda.europa.eu</URL_GENERAL>
+               <URL_BUYER>http://www.eda.europa.eu/procurement-gateway/opportunites/eda-procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3423</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="DEFENCE"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni sporazum za pružanje osiguranja zaštite podataka u oblaku</P>
+            </TITLE>
+            <REFERENCE_NUMBER>18.CSD-IT.OP.131</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72600000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Svrha je okvirnog ugovora koji će se sklopiti nabava savjetodavnih usluga u području zaštite računalnih podataka pohranjenih i obrađenih od strane komercijalnih pružatelja usluge u oblaku i pružatelja rješenja PaaS i SaaS (Platform or Software-as-a-Service), kako bi se EDA-i osigurala sukladnost s važećim zakonima i normama kontrole institucija EU-a.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="BE1"/>
+               <MAIN_SITE>
+                  <P>Mjesto provedbe bit će prostori ugovaratelja i EDA-e te bilo koje drugo mjesto navedeno u uputama za nadmetanje.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Molimo pogledajte dokumentaciju za nadmetanje dostupnu na adresi e-nadmetanja navedenoj u odjeljku I.3.) „Komunikacija“.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">150000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>Ponuditelji neće biti uključeni u konkretnu provedbu projekta tranzicije EDA clouda i djelovat će kao neovisna treća strana.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>Molimo pogledajte dokumentaciju za nadmetanje dostupnu na adresi e-nadmetanja navedenoj u odjeljku I.3.) „Komunikacija“.</P>
+            </PERFORMANCE_CONDITIONS>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-12</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>17:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-06-14</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Prostorije EDA-e, Rue des Drapiers 17-23, Brussels, Belgija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Otvaranju ponuda može nazočiti ovlašteni predstavnik svakog ponuditelja. Poduzeća koja žele prisustvovati</P>
+                  <P>otvaranju ponuda moraju o tome poslati obavijest e-poštom na procurement@eda.europa.eu najmanje 48 sati unaprijed.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Molimo pogledajte dokumentaciju za nadmetanje dostupnu na adresi e-nadmetanja navedenoj u odjeljku I.3.) „Komunikacija“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-24</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

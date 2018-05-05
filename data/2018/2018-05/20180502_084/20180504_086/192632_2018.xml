@@ -1,0 +1,3311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="192632-2018"
+            EDITION="2018086">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-191214-001</RECEPTION_ID>
+      <DELETION_DATE>20180613</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>86</NO_OJ>
+         <DATE_PUB>20180504</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 086-192632</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:192632-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LU"/>
+         <IA_URL_GENERAL>http://publications.europa.eu/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72400000">Internet services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LU000">Luxembourg</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">9000000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180427</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180613</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="C">Competitive dialogue</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>OPC02</HEADING>
+         <INITIATOR>OP</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "Forvaltede tjenester til OP Portal"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "Managed Services des OP-Portals"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "OP Portal Managed Services"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 «Servicios gestionados del portal de la OP»</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 ”Julkaisutoimiston portaaliin liittyvät hallinnoidut palvelut”</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 « Services gérés de l’OP Portal »</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λουξεμβούργο</TI_CY>
+            <TI_TOWN>Λουξεμβούργο</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 «Διαχειριζόμενες υπηρεσίες πύλης της Υπηρεσίας Εκδόσεων»</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lussemburgo</TI_CY>
+            <TI_TOWN>Lussemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 «Servizi gestiti per il Portale OP»</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "Beheerde diensten voor het portaal van het Bureau voor publicaties"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 «Serviços geridos para o Portal do Serviço das Publicações»</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 ”Förvaltade tjänster för OP-portalen”</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lucembursko</TI_CY>
+            <TI_TOWN>Lucemburk</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Řízené služby týkající se portálu Úřadu pro publikace“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Hallatud teenused väljaannete talituse portaalile“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 – Az Európai Unió Kiadóhivatalának portáljára vonatkozó irányított szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Liuksemburgas</TI_CY>
+            <TI_TOWN>Liuksemburgas</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „OP portalo valdomos paslaugos“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Luksemburga</TI_CY>
+            <TI_TOWN>Luksemburga</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 “Pārvaldītie pakalpojumi PB portālam”</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Lussemburgu</TI_CY>
+            <TI_TOWN>Lussemburgu</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "Servizzi Mmaniġjati tal-Portal OP"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luksemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 – „Usługi zarządzania portalem OP”</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Luxembursko</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Riadené služby súvisiace s portálom OP“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Upravljane storitve za portal OP“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Lucsamburg</TI_CY>
+            <TI_TOWN>Lucsamburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 "Seirbhísí bainistithe do Thairseach na hOifige Foilseachán"</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Люксембург</TI_CY>
+            <TI_TOWN>Люксембург</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Управлявани услуги в Портала OP“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Servicii gestionate Portal OP“</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>AO 10666 „Upravljane usluge za OP Portal”</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Den Europæiske Unions Publikationskontor</AA_NAME>
+         <AA_NAME LG="DE">Amt für Veröffentlichungen der Europäischen Union</AA_NAME>
+         <AA_NAME LG="EN">Publications Office of the European Union</AA_NAME>
+         <AA_NAME LG="ES">Oficina de Publicaciones de la Unión Europea</AA_NAME>
+         <AA_NAME LG="FI">Euroopan unionin julkaisutoimisto</AA_NAME>
+         <AA_NAME LG="FR">Office des publications de l'Union européenne</AA_NAME>
+         <AA_NAME LG="EL">Υπηρεσία Εκδόσεων της Ευρωπαϊκής Ένωσης</AA_NAME>
+         <AA_NAME LG="IT">Ufficio delle pubblicazioni dell'Unione europea</AA_NAME>
+         <AA_NAME LG="NL">Bureau voor publicaties van de Europese Unie</AA_NAME>
+         <AA_NAME LG="PT">Serviço das Publicações da União Europeia</AA_NAME>
+         <AA_NAME LG="SV">Europeiska unionens publikationsbyrå</AA_NAME>
+         <AA_NAME LG="CS">Úřad pro publikace Evropské unie</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Liidu Väljaannete Talitus</AA_NAME>
+         <AA_NAME LG="HU">Az Európai Unió Kiadóhivatala (OP)</AA_NAME>
+         <AA_NAME LG="LT">Europos Sąjungos leidinių biuras</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Savienības Publikāciju birojs</AA_NAME>
+         <AA_NAME LG="MT">L-Uffiċċju tal-Pubblikazzjonijiet tal-Unjoni Ewropea</AA_NAME>
+         <AA_NAME LG="PL">Urząd Publikacji Unii Europejskiej</AA_NAME>
+         <AA_NAME LG="SK">Úrad pre vydávanie publikácií Európskej únie</AA_NAME>
+         <AA_NAME LG="SL">Urad za publikacije Evropske unije</AA_NAME>
+         <AA_NAME LG="GA">Oifig Foilseachán an Aontais Eorpaigh</AA_NAME>
+         <AA_NAME LG="BG">Служба за публикации на Европейския съюз</AA_NAME>
+         <AA_NAME LG="RO">Oficiul pentru Publicații al Uniunii Europene</AA_NAME>
+         <AA_NAME LG="HR">Ured za publikacije Europske unije</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Den Europæiske Unions Publikationskontor</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "Forvaltede tjenester til OP Portal"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Genstanden for denne kontrakt er levering af forvaltede tjenester i forbindelse med Publikationskontorets portal (OP Portal).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Genstanden for denne kontrakt er levering af forvaltede tjenester i forbindelse med Publikationskontorets portal (OP Portal). Kontrahenten skal kunne levere samtlige forvaltede tjenester, dvs.:</P>
+                  <P>— generelle servicekrav</P>
+                  <P>— udvikling og videreudvikling (project services)</P>
+                  <P>— vedligeholdelse og support</P>
+                  <P>— hosting</P>
+                  <P>— overtagelse</P>
+                  <P>— overdragelse.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kontrakten kan forlænges to (2) gange a et (1) år.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Udbudsmaterialet og yderligere dokumenter kan downloades fra følgende »e-tendering«-websted: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</P>
+               <P>Anmodninger om yderligere oplysninger kan udelukkende rettes via e-tendering.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Amt für Veröffentlichungen der Europäischen Union</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "Managed Services des OP-Portals"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Gegenstand dieses Auftrags ist die Bereitstellung von Managed Services mit Bezug auf das Portal des Amtes für Veröffentlichungen („OP-Portal“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Gegenstand dieses Auftrags ist die Bereitstellung von Managed Services mit Bezug auf das Portal des Amtes für Veröffentlichungen („OP-Portal“). Der Auftragnehmer sollte in der Lage sein, die Gesamtheit der Managed Services bereitzustellen, und zwar:</P>
+                  <P>— allgemeine Leistungsanforderungen,</P>
+                  <P>— Weiterentwicklung und Entwicklung (Projektdienstleistungen),</P>
+                  <P>— Wartung und Support in Bezug auf Anwendungen,</P>
+                  <P>— Hosting,</P>
+                  <P>— Übernahme,</P>
+                  <P>— Übergabe.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Der Vertrag kann 2-mal um jeweils 1 Jahr verlängert werden.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Die Ausschreibungsunterlagen und zusätzliche Unterlagen können von der folgenden e-tendering-Website heruntergeladen werden: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Anfragen zum Erhalt zusätzlicher Informationen sind ausschließlich über e-tendering einzureichen.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Publications Office of the European Union</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "OP Portal Managed Services"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The subject of this contract is provision of managed services related to the Portal of the Publications Office (“OP Portal”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>The subject of this contract is provision of managed services related to the Portal of the Publications Office (“OP Portal”). The Contractor should be able provide the entire set of managed services, namely:</P>
+                  <P>— overall Service Requirements,</P>
+                  <P>— evolution and Development (Project Services),</P>
+                  <P>— application Maintenance and Support,</P>
+                  <P>— hosting,</P>
+                  <P>— takeover,</P>
+                  <P>— handover.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>The contract can be renewed two (2) times for one (1) year.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Tender specifications and additional documents can be downloaded from the following e-tendering website: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Requests for additional information shall be submitted exclusively via e-tendering.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oficina de Publicaciones de la Unión Europea</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 «Servicios gestionados del portal de la OP»</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objeto del presente contrato es la prestación de servicios gestionados vinculados con el Portal de la Oficina de Publicaciones («Portal de la OP»).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>El objeto del presente contrato es la prestación de servicios gestionados vinculados con el Portal de la Oficina de Publicaciones («Portal de la OP»). El Contratista deberá prestar todos los servicios gestionados, a saber:</P>
+                  <P>— requisitos de servicio generales,</P>
+                  <P>— evolución y desarrollo (servicios de proyecto),</P>
+                  <P>— mantenimiento y soporte de aplicaciones,</P>
+                  <P>— hosting,</P>
+                  <P>— adquisición,</P>
+                  <P>— entrega.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>El contrato puede renovarse hasta 2 veces por 1 año.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>El pliego de condiciones y la documentación complementaria pueden descargarse en el sitio web de licitaciones electrónicas siguiente: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Cualquier petición de información adicional deberá ser formulada exclusivamente vía «e-Tendering».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan unionin julkaisutoimisto</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 ”Julkaisutoimiston portaaliin liittyvät hallinnoidut palvelut”</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen kohteena on julkaisutoimiston portaaliin (Portal of the Publications Office – OP Portal) liittyvien hallinnoitujen palvelujen toimittaminen.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Sopimuksen kohteena on julkaisutoimiston portaaliin liittyvien hallinnoitujen palvelujen toimittaminen. Sopimusosapuolen on pystyttävä toimittamaan kokonainen hallittujen palvelujen kokonaisuus, johon kuuluu seuraavat osat:</P>
+                  <P>— yleiset palveluvaatimukset,</P>
+                  <P>— muutokset ja kehitys (hankkeeseen liittyvät palvelut),</P>
+                  <P>— sovellusten ylläpito ja tuki,</P>
+                  <P>— ylläpitopalvelut,</P>
+                  <P>— haltuunotto,</P>
+                  <P>— luovutus.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>sopimus voidaan uusia kaksi (2) kertaa yhdeksi (1) vuodeksi kerrallaan.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Tarjouseritelmät ja täydentävät asiakirjat ovat ladattavissa seuraavalta sähköistä tarjoamista koskevalta ”e-Tendering”-internetsivustolta: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</P>
+               <P>Lisätietopyynnöt on toimitettava ainoastaan e-Tendering-verkkosivuston kautta.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Office des publications de l'Union européenne</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 « Services gérés de l’OP Portal »</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L’objet du présent contrat de marché est la fourniture de services liés au portail de l’Office des publications (« OP Portal »).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>L’objet du présent contrat de marché est la fourniture de services liés au portail de l’Office des publications (« OP Portal »). Le contractant doit être en mesure de fournir l’ensemble complet de services gérés, à savoir :</P>
+                  <P>— l’ensemble des exigences générales de service,</P>
+                  <P>— l’évolution et le développement (services d’appui aux projets),</P>
+                  <P>— la maintenance et l’assistance relative à l’application,</P>
+                  <P>— l’hébergement,</P>
+                  <P>— la prise en charge,</P>
+                  <P>— la remise.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Le contrat-cadre pourra faire l'objet de deux (2) reconductions d’1 an chacune.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Le cahier des charges et les documents complémentaires peuvent être téléchargés à partir du site Internet de « e-Tendering » : https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Les demandes de renseignements complémentaires devront être transmises exclusivement via le portail « eTendering ».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Υπηρεσία Εκδόσεων της Ευρωπαϊκής Ένωσης</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 «Διαχειριζόμενες υπηρεσίες πύλης της Υπηρεσίας Εκδόσεων»</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Το αντικείμενο της εν λόγω σύμβασης είναι παροχή διαχειριζόμενων υπηρεσιών σχετικές με την πύλη της Υπηρεσίας Εκδόσεων («Πύλη Υπηρεσίας εκδόσεων»).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Το αντικείμενο της εν λόγω σύμβασης είναι παροχή διαχειριζόμενων υπηρεσιών σχετικές με την πύλη της Υπηρεσίας Εκδόσεων («Πύλη Υπηρεσίας εκδόσεων»). Ο ανάδοχος θα πρέπει να δύναται να παράσχει ολόκληρο το σύνολο των διαχειριζόμενων υπηρεσιών, ήτοι:</P>
+                  <P>— συνολικές απαιτήσεις της υπηρεσίας,</P>
+                  <P>— εξέλιξη και ανάπτυξη (υπηρεσίες σχεδίου),</P>
+                  <P>— συντήρηση και υποστήριξη της εφαρμογής,</P>
+                  <P>— φιλοξενία,</P>
+                  <P>— ανάληψη,</P>
+                  <P>— παράδοση.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Η σύμβαση μπορεί να ανανεωθεί δύο (2) φορές για ένα (1) έτος.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Η συγγραφή υποχρεώσεων και πρόσθετα έγγραφα μπορούν να καταφορτωθούν από τον ακόλουθο δικτυακό τόπο ηλεκτρονικής υποβολής προσφορών («e-tendering»): https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Αιτήσεις για συμπληρωματικές πληροφορίες θα πρέπει να υποβληθούν αποκλειστικά μέσω του «e-tendering» (ηλεκτρονική υποβολή προσφορών).</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ufficio delle pubblicazioni dell'Unione europea</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 «Servizi gestiti per il Portale OP»</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'oggetto del presente contratto consiste nella prestazione di servizi gestiti relativi al Portale dell'Ufficio delle pubblicazioni («Portale OP»).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>L'oggetto del presente contratto consiste nella prestazione di servizi gestiti relativi al Portale dell'Ufficio delle pubblicazioni («Portale OP»). Il contraente dovrà essere in grado di fornire l'intera serie di servizi gestiti, vale a dire:</P>
+                  <P>— requisiti complessivi del servizio,</P>
+                  <P>— evoluzione e sviluppo (servizi per progetti),</P>
+                  <P>— supporto e manutenzione di applicazioni,</P>
+                  <P>— hosting,</P>
+                  <P>— presa in consegna,</P>
+                  <P>— trasferimento.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Il contratto potrà essere rinnovato fino a due (2) volte, ciascuna per un periodo di un (1) anno.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Il capitolato d'oneri e i documenti complementari possono essere scaricati dal seguente sito web di «e-tendering»: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Qualsiasi richiesta di ulteriori informazioni dovrà essere inoltrata attraverso «e-Tendering».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bureau voor publicaties van de Europese Unie</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "Beheerde diensten voor het portaal van het Bureau voor publicaties"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Het voorwerp van de opdracht is het leveren van beheerde diensten met betrekking tot het portaal van het Bureau voor publicaties („OP Portal“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Het voorwerp van de opdracht is het leveren van beheerde diensten met betrekking tot het portaal van het Bureau voor publicaties („OP Portal“). De contractant moet de volledige reeks beheerde diensten leveren, namelijk:</P>
+                  <P>— algemene vereisten inzake dienstverlening,</P>
+                  <P>— evolutie en ontwikkeling (projectdiensten),</P>
+                  <P>— onderhoud van applicaties en ondersteuning,</P>
+                  <P>— hosting,</P>
+                  <P>–– overname,</P>
+                  <P>–– overdracht.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De opdracht kan maximaal tweemaal worden verlengd voor 1 jaar.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>De aanbestedingsstukken en aanvullende documenten kunnen worden gedownload van de website voor e-tendering: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</P>
+               <P>Verzoeken om nadere inlichtingen moeten uitsluitend worden ingediend via e-tendering.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Serviço das Publicações da União Europeia</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 «Serviços geridos para o Portal do Serviço das Publicações»</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objeto do presente contrato é a prestação de serviços geridos relacionados com o Portal do Serviço de Publicações («Portal OP»).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>O objeto do presente contrato é a prestação de serviços geridos relacionados com o Portal do Serviço de Publicações («Portal OP»). O contratante deve poder fornecer todo o conjunto de serviços geridos, nomeadamente:</P>
+                  <P>— requisitos gerais de serviço,</P>
+                  <P>— evolução e desenvolvimento (serviços de projeto),</P>
+                  <P>— apoio e manutenção de aplicação,</P>
+                  <P>— alojamento,</P>
+                  <P>— aquisição,</P>
+                  <P>— transferência.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>O contrato pode ser renovado no máximo até duas (2) vezes por um período de um (1) ano.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>O caderno de encargos e os documentos complementares podem ser descarregados a partir do seguinte sítio Web «e-tendering»: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Os pedidos de informações adicionais devem ser efetuados exclusivamente através de «e-tendering».</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska unionens publikationsbyrå</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 ”Förvaltade tjänster för OP-portalen”</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Föremål för detta kontrakt är tillhandahållande av förvaltade tjänster med anknytning till portalen tillhörande publikationsbyrån (”OP-portalen”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Föremål för detta kontrakt är tillhandahållande av förvaltade tjänster med anknytning till portalen tillhörande publikationsbyrån (”OP-portalen”). Uppdragstagaren ska ha förmåga att tillhandahålla samtliga förvaltade tjänster, nämligen:</P>
+                  <P>— allmänna tjänstekrav,</P>
+                  <P>— utveckling och utarbetande (projekttjänster),</P>
+                  <P>— underhåll och stöd avseende programvara,</P>
+                  <P>— värdtjänster,</P>
+                  <P>— övertagande,</P>
+                  <P>— överlämnande.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kontraktet kan förlängas 2 gånger för vardera en period på 1 år.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Förfrågningsunderlaget och kompletterande handlingar kan laddas ned från följande webbplats för e-upphandling: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Begäran om ytterligare information ska enbart lämnas in via e-upphandling.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úřad pro publikace Evropské unie</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Řízené služby týkající se portálu Úřadu pro publikace“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Předmětem této zakázky je poskytnutí řízených služeb týkajících se portálu Úřadu pro publikace.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Předmětem této zakázky je poskytnutí řízených služeb týkajících se portálu Úřadu pro publikace. Poskytovatel služeb by měl být schopen poskytnout kompletní soubor řízených služeb, konkrétně:</P>
+                  <P>— komplexní požadavky na služby,</P>
+                  <P>— vývoj a rozvoj (služby týkající se projektu),</P>
+                  <P>— údržbu a podporu týkající se aplikace,</P>
+                  <P>— hosting,</P>
+                  <P>— převzetí,</P>
+                  <P>— předání.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Smlouva může být prodloužena dvakrát (2), pokaždé o jeden (1) rok.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Specifikace nabídkového řízení a další dokumenty lze stáhnout z následující internetové stránky pro elektronické podávání nabídek: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Žádosti o další informace musí být podány výlučně prostřednictvím elektronického systému pro podávání nabídek.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Liidu Väljaannete Talitus</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Hallatud teenused väljaannete talituse portaalile“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Selle lepingu sisu on väljaannete talituse portaaliga seotud hallatud teenuste osutamine.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Selle lepingu sisu on väljaannete talituse portaaliga seotud hallatud teenuste osutamine. Töövõtja peab suutma tagada tervikliku kogu hallatud teenuseid, mis on:</P>
+                  <P>— üldised nõudmised teenusele;</P>
+                  <P>— loomine ja arendamine (projekti teenused);</P>
+                  <P>— tarkvara hooldus ja tugi;</P>
+                  <P>— hostimine;</P>
+                  <P>— ülevõtmine;</P>
+                  <P>— üleandmine.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Lepingut võidakse uuendada kuni 2 korda, iga kord 1 kuu kaupa.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Pakkumise iseloomustust ja lisadokumente saab alla laadida järgmiselt elektroonilise pakkumise veebisaidilt: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Lisateabe päringud tuleb esitada üksnes platvormi e-Tendering kaudu.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Az Európai Unió Kiadóhivatala (OP)</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 – Az Európai Unió Kiadóhivatalának portáljára vonatkozó irányított szolgáltatások</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A szerződés tárgya a Kiadóhivatal portáljával („OP-portál“) kapcsolatos irányított szolgáltatások nyújtása.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>A szerződés tárgya a Kiadóhivatal portáljával („OP-portál“) kapcsolatos irányított szolgáltatások nyújtása. A nyertes ajánlattevőnek az alábbi irányított szolgáltatások mindegyikét teljesítenie kell:</P>
+                  <P>— általános szolgáltatási követelmények,</P>
+                  <P>— növekedés és fejlesztés (projektszolgáltatások),</P>
+                  <P>— alkalmazások karbantartása és -támogatása,</P>
+                  <P>— tárhelyszolgáltatás,</P>
+                  <P>— átvétel,</P>
+                  <P>— átadás.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A szerződés legfeljebb két (2) alkalommal, alkalmanként egy (1) évre meghosszabbítható.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>A pályázati dokumentáció és a további dokumentumok az alábbi e-pályázati („e-tendering”) weboldalról tölthetők le: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>A további tájékoztatás iránti kérelmeket kizárólag az „e-tendering” oldalon keresztül lehet benyújtani.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Sąjungos leidinių biuras</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „OP portalo valdomos paslaugos“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šios sutarties objektas yra su Leidinių biuro portalu („OP portalas“) susijusių valdomų paslaugų teikimas.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Šios sutarties objektas yra su Leidinių biuro portalu („OP portalas“) susijusių valdomų paslaugų teikimas. Rangovas turi gebėti teikti visas valdomas paslaugas, t. y.:</P>
+                  <P>– bendrieji paslaugų reikalavimai,</P>
+                  <P>– raida ir plėtojimas (projekto paslaugos),</P>
+                  <P>– programų priežiūra ir palaikymas,</P>
+                  <P>– priegloba,</P>
+                  <P>– perėmimas,</P>
+                  <P>– perdavimas.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Sutartis gali būti atnaujinta 2 kartus 1 metams.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Konkurso specifikacijas ir papildomus dokumentus galima atsisiųsti iš e. viešojo pirkimo tinklavietės: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Papildomos informacijos prašymai pateikiami tik naudojantis e. viešojo pirkimo platforma.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Savienības Publikāciju birojs</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 “Pārvaldītie pakalpojumi PB portālam”</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā līguma priekšmets ir pārvaldītu pakalpojumu sniegšana saistībā ar Publikāciju biroja portālu (“PB portāls”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Šā līguma priekšmets ir pārvaldītu pakalpojumu sniegšana saistībā ar Publikāciju biroja portālu (“PB portāls”). Darbuzņēmējam jāspēj sniegt viss pārvaldīto pakalpojumu klāsts, proti:</P>
+                  <P>— vispārējās pakalpojumu prasības,</P>
+                  <P>— attīstība un izstrāde (projekta pakalpojumi),</P>
+                  <P>— lietojumprogrammas uzturēšana un atbalsts,</P>
+                  <P>— mitināšana,</P>
+                  <P>— pārņemšana,</P>
+                  <P>— nodošana.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Līgumu var atjaunināt 2 reizes uz 1 gadu.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Konkursa specifikācijas un papildu dokumentus var lejupielādēt no šādas “e-Tendering” tīmekļa vietnes: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</P>
+               <P>Papildu informācijas pieprasījumi jāiesniedz tikai un vienīgi “e-Tendering” vietnē.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Uffiċċju tal-Pubblikazzjonijiet tal-Unjoni Ewropea</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "Servizzi Mmaniġjati tal-Portal OP"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is-suġġett ta' dan il-kuntratt huwa l-provvista ta' servizzi mmaniġjati relatati mal-Portal tal-Uffiċċju tal-Pubblikazzjonijiet ("Portal OP").</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Is-suġġett ta' dan il-kuntratt huwa l-provvista ta' servizzi mmaniġjati relatati mal-Portal tal-Uffiċċju tal-Pubblikazzjonijiet ("Portal OP"). Il-Kuntrattur għandu jkun jista' jipprovdi s-sett kollu ta' servizzi mmaniġjati, fost l-oħrajn:</P>
+                  <P>— Il-ħtiġijiet tas-servizz ġenerali,</P>
+                  <P>— Evoluzzjoni u żvilupp (Servizzi għall-proġett),</P>
+                  <P>— Manutenzjoni u appoġġ għall-applikazzjonijiet,</P>
+                  <P>— iħħostjar,</P>
+                  <P>— it-teħid,</P>
+                  <P>— it-trasferiment tax-xogħol.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Il-kuntratt jista' jiġġedded sa darbtejn (2) għal sena waħda (1).</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>L-speċifikazzjonijiet tas-sejħa għall-offerti u dokumenti addizzjonali jistgħu jitniżżlu mis-sit tal-Internet għat-tfigħ tal-offerti b'mod elettroniku li ġej: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Talbiet għal informazzjoni addizzjonali għandhom jiġu sottomessi esklussivament permezz tat-tfigħ tal-offerti b'mod elettroniku.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urząd Publikacji Unii Europejskiej</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 – „Usługi zarządzania portalem OP”</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Przedmiotem niniejszego zamówienia jest świadczenie usług zarządzania dotyczących portalu Urzędu Publikacji („Portal OP”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Przedmiotem niniejszego zamówienia jest świadczenie usług zarządzania dotyczących portalu Urzędu Publikacji („Portal OP”). Wykonawca musi mieć zdolność świadczenia wszystkich następujących usług:</P>
+                  <P>— ogólne wymogi dotyczące usług,</P>
+                  <P>— ewolucja i rozwój (usługi w ramach projektu),</P>
+                  <P>— utrzymanie aplikacji i wsparcie,</P>
+                  <P>— hosting,</P>
+                  <P>— przejęcie zadań związanych z prowadzeniem serwisu,</P>
+                  <P>— przekazanie zadań związanych z prowadzeniem serwisu.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Umowa może być wznawiana maksymalnie 2 razy, każdorazowo na 1 rok.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Specyfikację zamówienia i dokumenty dodatkowe można pobrać z witryny internetowej eTendering pod adresem: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Wnioski o dodatkowe informacje należy składać wyłącznie za pośrednictwem platformy eTendering.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úrad pre vydávanie publikácií Európskej únie</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Riadené služby súvisiace s portálom OP“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predmetom tohto obstarávania je poskytovanie riadených služieb súvisiacich s portálom Úradu pre vydávanie publikácií („portál OP“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Predmetom tohto obstarávania je poskytovanie riadených služieb súvisiacich s portálom Úradu pre vydávanie publikácií („portál OP“). Dodávateľ by mal byť schopný poskytnúť celý súbor riadených služieb, a to:</P>
+                  <P>— celkové požiadavky týkajúce sa služieb,</P>
+                  <P>— vývoj a rozvoj (projektové služby),</P>
+                  <P>— údržbu a podporu aplikácií,</P>
+                  <P>— hosting,</P>
+                  <P>— prevzatie,</P>
+                  <P>— odovzdanie.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Zmluva môže byť obnovená 2-krát na 1 rok.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Súťažné podklady a doplňujúce dokumenty si môžete stiahnuť z tejto webovej stránky pre elektronické obstarávanie (e-tendering): https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Žiadosti o dodatočné informácie musia byť predložené výlučne prostredníctvom elektronického predkladania ponúk.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urad za publikacije Evropske unije</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Upravljane storitve za portal OP“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predmet tega naročila je zagotavljanje upravljanih storitev, povezanih s portalom Urada za publikacije („Portal OP“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Predmet tega naročila je zagotavljanje upravljanih storitev, povezanih s portalom Urada za publikacije („Portal OP“). Izvajalec mora biti sposoben zagotoviti celoten sklop upravljanih storitev, in sicer:</P>
+                  <P>— splošne zahteve za storitve,</P>
+                  <P>— razvoj in nadgradnjo (projektne storitve),</P>
+                  <P>— vzdrževanje in podporo programske opreme,</P>
+                  <P>— gostovanje,</P>
+                  <P>— prevzem,</P>
+                  <P>— predajo.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Naročilo se lahko podaljša 2‑krat po 1 leto.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Razpisne specifikacije in dopolnilno dokumentacijo je mogoče prenesti z naslednjega spletnega mesta za e‑razpise: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Zahtevke za dodatne informacije je treba oddati izključno prek spletnega mesta za e‑razpise „e‑tendering“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oifig Foilseachán an Aontais Eorpaigh</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 "Seirbhísí bainistithe do Thairseach na hOifige Foilseachán"</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Baineann ábhar an chonartha seo le soláthar seirbhísí bainistithe a bhaineann le Tairseach na hOifige Foilseachán (“Tairseach OP”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Baineann ábhar an chonartha seo le soláthar seirbhísí bainistithe a bhaineann le Tairseach na hOifige Foilseachán (“Tairseach OP”). Ní mór go mbeadh an Conraitheoir in ann na seirbhísí go léir a leanas a sholáthar, eadhon:</P>
+                  <P>— Riachtanais na seirbhíse ina hiomláine,</P>
+                  <P>— éabhlóid agus forbairt (Seirbhísí Tionscadail),</P>
+                  <P>— cothabháil agus tacaíocht d’fheidhmchláir,</P>
+                  <P>— óstáil,</P>
+                  <P>— táthcheangal,</P>
+                  <P>— aistriú.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Féadfar an conradh a athnuachan suas le 2 uair le haghaidh 1 bhliain amháin.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Is féidir na sonraíochtaí tairisceana agus doiciméid bhreise a íoslódáil ón láithreán Gréasáin ríomhsholáthair seo a leanas: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Cuirfear iarratais ar fhaisnéis bhreise isteach go heisiach trí chóras ríomhsholáthair.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Служба за публикации на Европейския съюз</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Управлявани услуги в Портала OP“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Предметът на настоящата поръчка е предоставянето на управлявани услуги, свързани с Портала на Службата за публикации („Портала OP“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Предметът на настоящата поръчка е предоставянето на управлявани услуги, свързани с Портала на Службата за публикации („Портала OP“). Изпълнителят трябва да може да предостави цялата група от управлявани услуги, а именно:</P>
+                  <P>— общи изисквания за услуги,</P>
+                  <P>— развитие и разработване (услуги за проекти),</P>
+                  <P>— профилактика и поддръжка на приложението,</P>
+                  <P>— хостинг,</P>
+                  <P>— поемане на контрол,</P>
+                  <P>— предаване.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Договорът може да бъде подновен два (2) пъти за по една (1) година.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Тръжните спецификации и допълнителните документи могат да бъдат изтеглени от следната интернет страница за „e-tendering“: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Заявления за допълнителна информация ще се подават единствено чрез „e-Tendering“.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oficiul pentru Publicații al Uniunii Europene</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Servicii gestionate Portal OP“</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectul prezentului contract este furnizarea de servicii gestionate legate de Portalul Oficiului pentru Publicații („Portalul OP“).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Obiectul prezentului contract este furnizarea de servicii gestionate legate de Portalul Oficiului pentru Publicații („Portalul OP“). Contractantul ar trebui să fie în măsură să furnizeze întregul set de servicii gestionate, și anume:</P>
+                  <P>— cerințele generale privind serviciile,</P>
+                  <P>— evoluție și dezvoltare (Servicii de proiect),</P>
+                  <P>— întreținerea și suportul aplicațiilor,</P>
+                  <P>— găzduire,</P>
+                  <P>— preluare,</P>
+                  <P>— predare.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Contractul poate fi reînnoit de două (2) ori, de fiecare dată pe o perioadă de un (1) an.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Caietul de sarcini al licitației și documentele suplimentare pot fi descărcate de pe site-ul e-tendering indicat mai jos: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Cererile de informații suplimentare trebuie depuse exclusiv prin intermediul „e-tendering”.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ured za publikacije Europske unije</OFFICIALNAME>
+               <ADDRESS>2, rue Mercier</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2985</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Ms Valeria Sciarrino</CONTACT_POINT>
+               <PHONE>+352 292944153</PHONE>
+               <E_MAIL>op-appels-offres@publications.europa.eu</E_MAIL>
+               <FAX>+352 292942672</FAX>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>http://publications.europa.eu/</URL_GENERAL>
+               <URL_BUYER>http://publications.europa.eu/en/web/about-us/procurement</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>AO 10666 „Upravljane usluge za OP Portal”</P>
+            </TITLE>
+            <REFERENCE_NUMBER>AO 10666</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72000000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Predmet je ovog ugovora pružanje upravljanih usluga povezanih s portalom Ureda za publikacije („OP Portal”).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72400000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="00"/>
+               <SHORT_DESCR>
+                  <P>Predmet je ovog ugovora pružanje upravljanih usluga povezanih s portalom Ureda za publikacije („OP Portal”). Izvoditelj bi trebao moći pružiti cijeli skup upravljanih usluga, preciznije:</P>
+                  <P>— ukupne zahtjeve za usluge,</P>
+                  <P>— evolucije i razvoj (projektne usluge),</P>
+                  <P>— održavanje i podršku za aplikacije,</P>
+                  <P>— hosting,</P>
+                  <P>— preuzimanje,</P>
+                  <P>— predaju.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">9000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">48</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Ugovor se može obnoviti dva (2) puta na jednu (1) godinu.</P>
+               </RENEWAL_DESCR>
+               <NB_ENVISAGED_CANDIDATE>3</NB_ENVISAGED_CANDIDATE>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PARTICULAR_PROFESSION CTYPE="SERVICES"/>
+            <PERFORMANCE_STAFF_QUALIFICATION/>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_COMPETITIVE_DIALOGUE/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-06-13</DATE_RECEIPT_TENDERS>
+            <DATE_DISPATCH_INVITATIONS>2018-07-18</DATE_DISPATCH_INVITATIONS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <INFO_ADD>
+               <P>Specifikacije poziva na nadmetanje i dodatne dokumente možete preuzeti sa sljedeće mrežne stranice za elektroničko nadmetanje: https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3263.</P>
+               <P>Zahtjevi za dodatnim informacijama podnose se isključivo putem sustava elektroničkog nadmetanja.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>GeneralCourt.Registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-04-27</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

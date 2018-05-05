@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="001520-2018"
+            EDITION="2018002">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-000925-001</RECEPTION_ID>
+      <DELETION_DATE>20180412</DELETION_DATE>
+      <FORM_LG_LIST>HU </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>2</NO_OJ>
+         <DATE_PUB>20180104</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 002-001520</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:001520-2018:TEXT:HU:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>HU</LG_ORIG>
+         <ISO_COUNTRY VALUE="HU"/>
+         <IA_URL_GENERAL>http://www.gyor.hu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="09310000">Electricity</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="HU221">Győr-Moson-Sopron</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU221">Győr-Moson-Sopron</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="HU333">Csongrád</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="HUF">172000000</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 146-301449</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180102</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="R">Regional or local Agency/Office</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="4">European Union</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>01B03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Унгapия</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Електрическа енергия</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrická energie</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektricitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrizität</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ουγγαρία</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Ηλεκτρισμός</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Hungary</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricity</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Hungría</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricidad</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Ungari</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elekter</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Unkari</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Sähkö</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Hongrie</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Électricité</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ungáir, an</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricity</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Mađarska</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Električna energija</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Magyarország</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Villamos energia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Ungheria</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elettricità</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vengrija</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Ungārija</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrība</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Ungerija</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elettriku</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Hongarije</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektriciteit</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Węgry</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektryczność</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Hungria</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricidade</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Ungaria</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Electricitate</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrická energia</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Madžarska</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrika</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Ungern</TI_CY>
+            <TI_TOWN>Győr</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektricitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="HU">Győr Megyei Jogú Város Önkormányzata</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Győr Megyei Jogú Város Önkormányzata</OFFICIALNAME>
+               <NATIONALID>AK15511</NATIONALID>
+               <ADDRESS>Városház tér 1.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Németh Márta Ágnes</CONTACT_POINT>
+               <PHONE>+36 96500237</PHONE>
+               <E_MAIL>nemeth.marta@gyor-ph.hu</E_MAIL>
+               <FAX>+36 96500189</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyor.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyor.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győr Megyei Jogú Város Polgármesteri Hivatala</OFFICIALNAME>
+               <NATIONALID>AK15512</NATIONALID>
+               <ADDRESS>Városház tér 1.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Varga Endre</CONTACT_POINT>
+               <PHONE>+36 96500152</PHONE>
+               <E_MAIL>varga.endre@gyor-ph.hu</E_MAIL>
+               <FAX>+36 96500152</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyor.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyor.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győri Nemzeti Színház</OFFICIALNAME>
+               <NATIONALID>AK02810</NATIONALID>
+               <ADDRESS>Czuczor Gergely u. 7.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9022</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Markó Angéla</CONTACT_POINT>
+               <PHONE>+36 520600</PHONE>
+               <E_MAIL>markoangela@gyoriszinhaz.hu</E_MAIL>
+               <FAX>+36 96520600</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyoriszinhaz.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyoriszinhaz.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Egyesített Bölcsődei Intézményhálózat</OFFICIALNAME>
+               <NATIONALID>AK16468</NATIONALID>
+               <ADDRESS>Kodály Z. u. 18.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9023</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Bartalné dr. Tóth Györgyi</CONTACT_POINT>
+               <PHONE>+36 96412500</PHONE>
+               <E_MAIL>gyermeklanc@gyoribolcsodek.hu</E_MAIL>
+               <FAX>+36 96412501</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyoribolcsodek.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyoribolcsodek.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Rómer Flóris Művészeti és Történeti Múzeum</OFFICIALNAME>
+               <NATIONALID>AK18011</NATIONALID>
+               <ADDRESS>Király u. 17.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9022</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Grászli Bernadett</CONTACT_POINT>
+               <PHONE>+36 96322965</PHONE>
+               <E_MAIL>grasl.bernadett@romer.hu</E_MAIL>
+               <FAX>+36 96311245</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.romer.hu</URL_GENERAL>
+               <URL_BUYER>http://www.romer.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>I. sz. Gazdasági Működtető Központ</OFFICIALNAME>
+               <NATIONALID>AK18518</NATIONALID>
+               <ADDRESS>Szigethy A. u. 109.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9023</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Alasztics Ildikó</CONTACT_POINT>
+               <PHONE>+36 96510680</PHONE>
+               <E_MAIL>titkar@gek.hu</E_MAIL>
+               <FAX>+36 96423476</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gek.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gek.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Dr. Kovács Pál Könyvtár és Közösségi Tér</OFFICIALNAME>
+               <NATIONALID>AK18720</NATIONALID>
+               <ADDRESS>Hermann Ottó u. 22.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9023</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Dr. Horváth Sándor Domonkos</CONTACT_POINT>
+               <PHONE>+36 96516671</PHONE>
+               <E_MAIL>hsd@gyorikonyvtar.hu</E_MAIL>
+               <FAX>+36 96418942</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyorikonyvtar.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyorikonyvtar.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Erzsébet Ligeti Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22202</NATIONALID>
+               <ADDRESS>Magyar utca 4.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9023</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Kántor Istvánné</CONTACT_POINT>
+               <PHONE>+36 96427260</PHONE>
+               <E_MAIL>erzsebetovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96527172</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/erzsebet-ligeti-ovoda</URL_GENERAL>
+               <URL_BUYER>http://gyor.imami.hu/ovodak/erzsebet-ligeti-ovoda</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Gyárvárosi Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22204</NATIONALID>
+               <ADDRESS>Tinódi u. 3-5.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9027</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Vadász Ilona Zsuzsanna</CONTACT_POINT>
+               <PHONE>+36 96323438</PHONE>
+               <E_MAIL>gyarvarosiovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96323438</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/gyarvarosi-ovoda</URL_GENERAL>
+               <URL_BUYER>http://gyor.imami.hu/ovodak/gyarvarosi-ovoda</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Tárogató Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22205</NATIONALID>
+               <ADDRESS>Tárogató u. 19.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9028</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Bognár Sándorné</CONTACT_POINT>
+               <PHONE>+36 96419891</PHONE>
+               <E_MAIL>tarogatoovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96419891</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.tarogatoovoda.hu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Ménfőcsanaki Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22206</NATIONALID>
+               <ADDRESS>Horgas u. 21.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9012</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Nemes Lajosné</CONTACT_POINT>
+               <PHONE>+36 96449297</PHONE>
+               <E_MAIL>menfocsanakiovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96449297</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.menfocsanakiovoda.hu</URL_GENERAL>
+               <URL_BUYER>http://www.menfocsanakiovoda.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Szentiváni Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22208</NATIONALID>
+               <ADDRESS>Kör tér 23.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9011</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fortuna Lászlóné</CONTACT_POINT>
+               <PHONE>+36 96517054</PHONE>
+               <E_MAIL>szentivaniovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96517055</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/szentivani-ovoda</URL_GENERAL>
+               <URL_BUYER>http://gyor.imami.hu/ovodak/szentivani-ovoda</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Kovács Margit Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22213</NATIONALID>
+               <ADDRESS>Répce u. 8/a.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9024</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Litkei Erika</CONTACT_POINT>
+               <PHONE>+36 96413000</PHONE>
+               <E_MAIL>kovacsmargitovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96413000</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.kovacsm.ovoda.org</URL_GENERAL>
+               <URL_BUYER>http://www.kovacsm.ovoda.org</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Sün Balázs Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22214</NATIONALID>
+               <ADDRESS>Örkény I. u. 4.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9024</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Holle Zsuzsanna</CONTACT_POINT>
+               <PHONE>+36 96431695</PHONE>
+               <E_MAIL>sunbalazsovi@ogmk.hu</E_MAIL>
+               <FAX>+36 96431695</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/sun-balazs-ovoda</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győr Mosolyvár Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22216</NATIONALID>
+               <ADDRESS>Lehel u. 7.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9023</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Kutseráné Czigány Judit</CONTACT_POINT>
+               <PHONE>+36 96422076</PHONE>
+               <E_MAIL>mosolyvarovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96422076</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/gyori-mosolyvar-ovoda-magyar-utcai-tagovodaja</URL_GENERAL>
+               <URL_BUYER>http://gyor.imami.hu/ovodak/gyori-mosolyvar-ovoda-magyar-utcai-tagovodaja</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Bartók Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22218</NATIONALID>
+               <ADDRESS>Bartók B. u. 35/c</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9024</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Dr. Gondárné Oláh Márta</CONTACT_POINT>
+               <PHONE>+36 96420033</PHONE>
+               <E_MAIL>bartokovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96420033</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://gyor.imami.hu/ovodak/bartok-ovoda</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Hajléktalanokat Segítő Szolgálat</OFFICIALNAME>
+               <NATIONALID>AK22217</NATIONALID>
+               <ADDRESS>Avar u. 3.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9027</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Sütő Csaba</CONTACT_POINT>
+               <PHONE>+36 96512301</PHONE>
+               <E_MAIL>hajlek@kabelnet.hu</E_MAIL>
+               <FAX>+36 96512302</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.hssz.hu</URL_GENERAL>
+               <URL_BUYER>http://www.hssz.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Generációk Háza</OFFICIALNAME>
+               <NATIONALID>AK22219</NATIONALID>
+               <ADDRESS>Aradi Vértanúk útja 23.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Kokas Éva</CONTACT_POINT>
+               <PHONE>+36 96312120</PHONE>
+               <E_MAIL>kokasevi@generaciokhaza.hu</E_MAIL>
+               <FAX>+36 96518032</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.generaciokhaza.hu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Nagybácsai Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22220</NATIONALID>
+               <ADDRESS>Úttörő u. 1/c.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9030</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Némethné Pavek Márta</CONTACT_POINT>
+               <PHONE>+36 96332833</PHONE>
+               <E_MAIL>nagybacsaiovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96332833</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.nagybacsaiovi.hu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Ménfőcsanak-Gyirmót Művelődési Központ</OFFICIALNAME>
+               <NATIONALID>AK22221</NATIONALID>
+               <ADDRESS>Győri u. 90.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9012</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Zilahi Tímea</CONTACT_POINT>
+               <PHONE>+36 96449137</PHONE>
+               <E_MAIL>zilahi.timea@bezeredj-kastely.hu</E_MAIL>
+               <FAX>+36 96523527</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.bezeredjkastely.hu</URL_GENERAL>
+               <URL_BUYER>http://www.bezeredjkastely.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Bisinger Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22222</NATIONALID>
+               <ADDRESS>Tarcsay V. u. 18-20.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9022</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Pallós Erzsébet</CONTACT_POINT>
+               <PHONE>+36 96327750</PHONE>
+               <E_MAIL>bisingerovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96327750</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyor.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyor.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Márvány Óvoda</OFFICIALNAME>
+               <NATIONALID>AK22224</NATIONALID>
+               <ADDRESS>Márvány u. 4.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9025</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Varga Miklósné</CONTACT_POINT>
+               <PHONE>+36 96317977</PHONE>
+               <E_MAIL>marvanyovi@4gmk.hu</E_MAIL>
+               <FAX>+36 96317977</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.marvanyovi.hu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győri Művészeti és Fesztiválközpont</OFFICIALNAME>
+               <NATIONALID>AK22223</NATIONALID>
+               <ADDRESS>Liszt Ferenc u. 20.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9022</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Tóthné dr. Kardos Krisztina</CONTACT_POINT>
+               <PHONE>+36 96320289</PHONE>
+               <E_MAIL>kardos.krisztina@mufegyor.hu</E_MAIL>
+               <FAX>+36 96320289</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.mufegyor.hu</URL_GENERAL>
+               <URL_BUYER>http://www.mufegyor.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győr Megyei Jogú Város Levéltára</OFFICIALNAME>
+               <NATIONALID>AK22225</NATIONALID>
+               <ADDRESS>Rákóczi F. u. 1.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9022</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Bana József</CONTACT_POINT>
+               <PHONE>+36 96312288</PHONE>
+               <E_MAIL>banaj@enternet.hu</E_MAIL>
+               <FAX>+36 96518742</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.vleveltar.gyor.hu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Vaskakas Bábszínház</OFFICIALNAME>
+               <NATIONALID>AK22226</NATIONALID>
+               <ADDRESS>Czuczor G. u. 17.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Kocsis Rozi</CONTACT_POINT>
+               <PHONE>+36 96512696</PHONE>
+               <E_MAIL>vaskakas@vaskakas.hu</E_MAIL>
+               <FAX>+36 96512693</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.vaskakas.hu</URL_GENERAL>
+               <URL_BUYER>http://www.vaskakas.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győr Megyei Jogú Város Gyermektábora</OFFICIALNAME>
+               <NATIONALID>AK22227</NATIONALID>
+               <ADDRESS>Arany J. u. 145.</ADDRESS>
+               <TOWN>Győrújbarát</TOWN>
+               <POSTAL_CODE>9081</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fehérné Bocska Erzsébet</CONTACT_POINT>
+               <PHONE>+36 96543410</PHONE>
+               <E_MAIL>igazgato@gyorigyermektabor.hu</E_MAIL>
+               <FAX>+36 96543410</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyermektabor.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyermektabor.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Család- és Gyermekjóléti Központ</OFFICIALNAME>
+               <NATIONALID>AK22229</NATIONALID>
+               <ADDRESS>Lajta u. 21.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9024</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fülöpné Papp Ildikó</CONTACT_POINT>
+               <PHONE>+36 96517737</PHONE>
+               <E_MAIL>gyorcsssz@gmail.com</E_MAIL>
+               <FAX>+36 96517737</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyoricsaladsegito.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyoricsaladsegito.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Győri Filharmónikus Zenekar</OFFICIALNAME>
+               <NATIONALID>AK22235</NATIONALID>
+               <ADDRESS>Aradi Vértanúk útja 16.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Fűke Géza</CONTACT_POINT>
+               <PHONE>+36 96312452</PHONE>
+               <E_MAIL>geza.fuke@gyfz.hu</E_MAIL>
+               <FAX>+36 96319232</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.gyfz.hu</URL_GENERAL>
+               <URL_BUYER>http://www.gyfz.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Egyesített Egészségügyi és Szociális Intézmény Győr</OFFICIALNAME>
+               <NATIONALID>AK22236</NATIONALID>
+               <ADDRESS>Kálóczy tér 9-11.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Panker Mihály</CONTACT_POINT>
+               <PHONE>+36 96315786</PHONE>
+               <E_MAIL>titkarsag@eeszi.hu</E_MAIL>
+               <FAX>+36 96315786</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.eeszi.hu</URL_GENERAL>
+               <URL_BUYER>http://www.eeszi.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Molnár Vid Bertalan Művelődési Központ</OFFICIALNAME>
+               <NATIONALID>AK22283</NATIONALID>
+               <ADDRESS>Váci M. u. 3.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9011</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Varga Zoltán</CONTACT_POINT>
+               <PHONE>+36 96518225</PHONE>
+               <E_MAIL>vzoltan@mvbmk.gyor.hu</E_MAIL>
+               <FAX>+36 96518226</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.mvbmk.hu</URL_GENERAL>
+               <URL_BUYER>http://www.mvbmk.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>Újvárosi Művelődési Ház</OFFICIALNAME>
+               <NATIONALID>AK23678</NATIONALID>
+               <ADDRESS>Liget u. 55.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9025</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Radicsné Csőre Andrea</CONTACT_POINT>
+               <PHONE>+36 96315317</PHONE>
+               <E_MAIL>ujmuvhaz@gmail.com</E_MAIL>
+               <FAX>+36 96315317</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.ujvarosiportal.hu</URL_GENERAL>
+               <URL_BUYER>http://www.ujvarosiportal.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+               <OFFICIALNAME>IV. sz. Gazdasági Működtető Központ</OFFICIALNAME>
+               <NATIONALID>AK24708</NATIONALID>
+               <ADDRESS>Virágpiac tér 3.</ADDRESS>
+               <TOWN>Győr</TOWN>
+               <POSTAL_CODE>9021</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Matisné Kertész Judit</CONTACT_POINT>
+               <PHONE>+36 96524914</PHONE>
+               <E_MAIL>titkarsag@4gmk.hu</E_MAIL>
+               <FAX>+36 96524914</FAX>
+               <n2016:NUTS CODE="HU221"/>
+               <URL_GENERAL>http://www.4gmk.hu</URL_GENERAL>
+               <URL_BUYER>http://www.4gmk.hu</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY_ADDITIONAL>
+            <JOINT_PROCUREMENT_INVOLVED/>
+            <CA_TYPE VALUE="REGIONAL_AGENCY"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Győr Megyei Jogú Város egyes intézményei, továbbá a Győr Megyei Jogú Város Önkormányzata és Polgármesteri Hivatala részére villamos energia beszerzése határozott időtartamra szóló adásvételi szerződés</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Győr Megyei Jogú Város egyes intézményei, továbbá a Győr Megyei Jogú Város Önkormányzata és Polgármesteri Hivatala részére villamos energia beszerzése határozott időtartamra szóló adásvételi szerződés.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="HUF">172000000</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU221"/>
+               <MAIN_SITE>
+                  <P>Győr Megyei Jogú Város egyes intézményei, Győr Megyei Jogú Város Önkormányzata egyes helyiségei, továbbá a Győr Megyei Jogú Város Polgármesteri Hivatala.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>4 105 530 kWh összmennyiségű villamos energia beszerzése adásvételi szerződés keretében a dokumentációban megadott, mindösszesen 196 mérési azonosítóval rendelkező fogyasztási helyen.</P>
+                  <P>Ajánlatkérő az összmennyiség vonatkozásában +30 %-os toleranciatartományt határoz meg. A toleranciatartomány megadásával ajánlatkérő nem mennyiségi eltérést kíván rögzíteni, hanem azt, hogy ha a tényleges fogyasztás a sávhatáron belül marad, az elszámolás a szerződéses áron történik, és a nyertes ajánlattevőként szerződő fél nem érvényesíthet szankciókat (pótdíj, büntetés, kiegyenlítő energia) az ajánlatkérőként szerződő fél felé.</P>
+                  <P>Ajánlatkérő tájékoztatja Ajánlattevőket, hogy a jelen felhívás VI.3) pont 11. alpontjában feltüntetett intézmények tekintetében a Dokumentáció részét képező szerződéstervezet megkötésére intézményenként külön-külön kerül sor azzal, hogy az egyes szerződések tárgyát képező villamos energia mennyiségek rögzítésére a szerződések megkötésekor kerül sor.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 146-301449</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>1</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Adásvételi szerződés</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-30</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NB_TENDERS_RECEIVED_SME>0</NB_TENDERS_RECEIVED_SME>
+               <NB_TENDERS_RECEIVED_OTHER_EU>0</NB_TENDERS_RECEIVED_OTHER_EU>
+               <NB_TENDERS_RECEIVED_NON_EU>0</NB_TENDERS_RECEIVED_NON_EU>
+               <NB_TENDERS_RECEIVED_EMEANS>0</NB_TENDERS_RECEIVED_EMEANS>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>NKM Áramszolgáltató Zrt.</OFFICIALNAME>
+                     <ADDRESS>Klauzál tér 9.</ADDRESS>
+                     <TOWN>Szeged</TOWN>
+                     <POSTAL_CODE>6720</POSTAL_CODE>
+                     <COUNTRY VALUE="HU"/>
+                     <PHONE>+36 62565565</PHONE>
+                     <E_MAIL>kiemeltuzleti@demeasz.hu</E_MAIL>
+                     <FAX>+36 62568005</FAX>
+                     <n2016:NUTS CODE="HU333"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="HUF">172000000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="HUF">172000000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Nyertes Ajánlattevő:</P>
+               <P>NKM Áramszolgáltató Zrt. (6720 Szeged, Klauzál tér 9.).</P>
+               <P>Adószám: 10734441-2-06.</P>
+               <P>Összes Ajánlattevő:</P>
+               <P>JAS Budapest Zrt. (1141 Budapest, Mogyoródi út 168.).</P>
+               <P>Adószám: 12936773-2-44.</P>
+               <P>NKM Áramszolgáltató Zrt. (6720 Szeged, Klauzál tér 9.).</P>
+               <P>Adószám: 10734441-2-06.</P>
+               <P>E2 Hungary Zrt. (1117 Budapest, Infopark sétány 1.).</P>
+               <P>Adószám: 25343502-2-43.</P>
+               <P>E.ON Energiakereskedelmi Korlátolt Felelősségű Társaság (1134 Budapest, Váci út 17.)</P>
+               <P>Adószám: 24765648-2-44.</P>
+               <P>ELMŰ-ÉMÁSZ Energiakereskedő Korlátolt Felelősségű Társaság (1132 Budapest, Váci út 72-77.).</P>
+               <P>Adószám: 12928130-2-44.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Kbt. 148. § szerint.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828594</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-02</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

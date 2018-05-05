@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="012087-2018"
+            EDITION="2018007">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-010107-001</RECEPTION_ID>
+      <DELETION_DATE>20180419</DELETION_DATE>
+      <FORM_LG_LIST>IT </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>7</NO_OJ>
+         <DATE_PUB>20180111</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 007-012087</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:012087-2018:TEXT:IT:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>IT</LG_ORIG>
+         <ISO_COUNTRY VALUE="IT"/>
+         <IA_URL_GENERAL>www.unibs.it</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72320000">Database services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC47">Brescia</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ITC47">Brescia</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITC4C">Milano</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITI43">Roma</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITI14">Firenze</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITC33">Genova</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="ITC11">Torino</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="FR10">Ile-de-France</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="00">Not specified / Other</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="UKI3">Inner London – West</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">248364.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180109</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="6">Body governed by public law</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="L">Education</MA_MAIN_ACTIVITIES>
+         <HEADING>01C03</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Итaлия</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Услуги, свързани с бази данни</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Itálie</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Databázové služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Databasevirksomhed</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Datenbankdienste</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ιταλία</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Υπηρεσίες βάσεων δεδομένων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Italy</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Database services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicios relacionados con bases de datos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Itaalia</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Andmebaasiteenused</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Tietokantapalvelut</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Italie</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Services de bases de données</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Iodáil, an</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Database services</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Usluge podatkovne baze</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Olaszország</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Adatbázis-szolgáltatások</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizi di banche dati</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Duomenų bazės paslaugos</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Itāija</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Datu bāzu pakalpojumi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Italja</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Servizzi ta' database</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Italië</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Databasediensten</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Włochy</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Usługi bazy danych</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Itália</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Serviços relacionados com bases de dados</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Servicii de baze de date</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Taliansko</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Databázové služby</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Storitve podatkovnih baz</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Brescia</TI_TOWN>
+            <TI_TEXT>
+               <P>Databastjänster</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="IT">Università degli Studi di Brescia</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Università degli Studi di Brescia</OFFICIALNAME>
+               <ADDRESS>Piazza del Mercato 15</ADDRESS>
+               <TOWN>Brescia</TOWN>
+               <POSTAL_CODE>25121</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <CONTACT_POINT>Dott. Luca Guerra</CONTACT_POINT>
+               <PHONE>+39 0302989466</PHONE>
+               <E_MAIL>luca.guerra@unibs.it</E_MAIL>
+               <n2016:NUTS CODE="ITC47"/>
+               <URL_GENERAL>www.unibs.it</URL_GENERAL>
+               <URL_BUYER>http://www.unibs.it</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="BODY_PUBLIC"/>
+            <CA_ACTIVITY VALUE="EDUCATION"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Servizio per l'accesso alle risorse elettroniche ed alle banche dati per l'Università degli Studi di Brescia per l'anno 2018</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72320000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'appalto ha per oggetto l'acquisizione dell'accesso alle risorse elettroniche ed alle banche dati per l'Università degli Studi di Brescia per l'anno 2018, in attuazione della Delibera Repertorio n. 317 Prot. n. 180184 del 22.12.2017 del Consiglio di Amministrazione del 20 dicembre 2017.</P>
+               <P>L'affidamento è suddiviso in n. 17 lotti.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">248364.00</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Bureau Van Dijk</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati AIDA Full + Imprese fallite e ORBIS. CIG 732460466E.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Astrid</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Astrid. CIG 73246425CA.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>CEI</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Electra Omnia Web — Norme CEI. CIG 73246582FF.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>Casalini</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Franco Angeli corrente e storico. CIG 7324667A6A.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>Cenfor</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Ebook Central. CIG 7324673F5C.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>EBSCO</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Cinhal plus w/full text; EDS Discovery; Hein Online; Psychinfo. CIG 7324688BBE.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="7">
+               <TITLE>
+                  <P>Giappichelli</P>
+               </TITLE>
+               <LOT_NO>7</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Il foro italiano BD. CIG 7324690D64.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="8">
+               <TITLE>
+                  <P>Giuffrè</P>
+               </TITLE>
+               <LOT_NO>8</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati De jure Iusexplorer, Il fallimentarista, Il societario, Giustizia civile, Biblioteca riviste, Enciclopedia del diritto. CIG 7324707B6C.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="9">
+               <TITLE>
+                  <P>Infocamere</P>
+               </TITLE>
+               <LOT_NO>9</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Telemaco. CIG 7324714136.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="10">
+               <TITLE>
+                  <P>Meta</P>
+               </TITLE>
+               <LOT_NO>10</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Dizionari Zanichelli online. CIG 7324718482.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="11">
+               <TITLE>
+                  <P>Morningstar</P>
+               </TITLE>
+               <LOT_NO>11</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Direct/Encorr. CIG 73247341B7.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="12">
+               <TITLE>
+                  <P>Thomson Reuters (Markets)</P>
+               </TITLE>
+               <LOT_NO>12</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Datastream. CIG 7324753165.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="13">
+               <TITLE>
+                  <P>Thomson Reuters France</P>
+               </TITLE>
+               <LOT_NO>13</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Doctrinal Plus. CIG 7324758584.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="14">
+               <TITLE>
+                  <P>Truven Health Analytics</P>
+               </TITLE>
+               <LOT_NO>14</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Micromedex (DRUGDEX). CIG 7324768DC2.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="15">
+               <TITLE>
+                  <P>Wolters Kluwer</P>
+               </TITLE>
+               <LOT_NO>15</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati De Agostini Sistema Leggi d'Italia; Digesto, WKI Mia Biblioteca. CIG 7324777532.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="16">
+               <TITLE>
+                  <P>Henry Stewart Talks</P>
+               </TITLE>
+               <LOT_NO>16</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati The Biomedical &amp; Life Sciences Collection. CIG 7324782951.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="17">
+               <TITLE>
+                  <P>MYJOVE</P>
+               </TITLE>
+               <LOT_NO>17</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC47"/>
+               <SHORT_DESCR>
+                  <P>Acquisizione dell'accesso alle risorse elettroniche e alle banche dati Jove. CIG 7324786C9D.</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_AWARD_CONTRACT_WITHOUT_CALL>
+               <D_ACCORDANCE_ARTICLE>
+                  <D_PROTECT_RIGHTS/>
+               </D_ACCORDANCE_ARTICLE>
+               <D_JUSTIFICATION>
+                  <P>I servizi possono essere forniti unicamente da un determinato operatore economico per le seguenti ragioni:</P>
+                  <P>— la concorrenza è assente per motivi tecnici,</P>
+                  <P>— la tutela di diritti esclusivi, inclusi i diritti di proprietà intellettuale.</P>
+               </D_JUSTIFICATION>
+            </PT_AWARD_CONTRACT_WITHOUT_CALL>
+            <CONTRACT_COVERED_GPA/>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Bureau Van Dijk</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bureau Van Dijk Edizioni Elettroniche SpA</OFFICIALNAME>
+                     <ADDRESS>Via B. Zenale 15</ADDRESS>
+                     <TOWN>Milano</TOWN>
+                     <POSTAL_CODE>20123</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">85860.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">85860.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="2">
+            <LOT_NO>2</LOT_NO>
+            <TITLE>
+               <P>Astrid</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Astrid</OFFICIALNAME>
+                     <ADDRESS>Corso Vittorio Emanuele II 142</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00186</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="3">
+            <LOT_NO>3</LOT_NO>
+            <TITLE>
+               <P>CEI</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>CEI — Comitato Elettrotecnico Italiano</OFFICIALNAME>
+                     <ADDRESS>Via Saccardo 9</ADDRESS>
+                     <TOWN>Milano</TOWN>
+                     <POSTAL_CODE>20134</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3100.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">3100.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="4">
+            <LOT_NO>4</LOT_NO>
+            <TITLE>
+               <P>Casalini</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Casalini Libri S.p.A.</OFFICIALNAME>
+                     <ADDRESS>Via Benedetto da Maiano 3</ADDRESS>
+                     <TOWN>Fiesole</TOWN>
+                     <POSTAL_CODE>50014</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI14"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">11857.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">11857.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="5">
+            <LOT_NO>5</LOT_NO>
+            <TITLE>
+               <P>Cenfor</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Cenfor International Srl società unipersonale</OFFICIALNAME>
+                     <ADDRESS>Viale G. Palazzi 3/1/A</ADDRESS>
+                     <TOWN>Genova</TOWN>
+                     <POSTAL_CODE>16145</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC33"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">14370.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">14370.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="6">
+            <LOT_NO>6</LOT_NO>
+            <TITLE>
+               <P>EBSCO</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>EBSCO Information Services S.r.l. con socio unico</OFFICIALNAME>
+                     <ADDRESS>Via Gressoney 29/B</ADDRESS>
+                     <TOWN>Torino</TOWN>
+                     <POSTAL_CODE>10155</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">36587.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">36587.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="7">
+            <LOT_NO>7</LOT_NO>
+            <TITLE>
+               <P>Giappichelli</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>G. Giappichelli Editore Srl</OFFICIALNAME>
+                     <ADDRESS>Via Po 21 ang. Via Vasco 2 – 10124 Torino</ADDRESS>
+                     <TOWN>Torino</TOWN>
+                     <POSTAL_CODE>10124</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC11"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1560.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1560.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="8">
+            <LOT_NO>8</LOT_NO>
+            <TITLE>
+               <P>Giuffrè</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Dott. A. Giuffrè Editore S.p.A.</OFFICIALNAME>
+                     <ADDRESS>Via Busto Arsizio 40</ADDRESS>
+                     <TOWN>Milano</TOWN>
+                     <POSTAL_CODE>20151</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">9070.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">9070.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="9">
+            <LOT_NO>9</LOT_NO>
+            <TITLE>
+               <P>Infocamere</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>InfoCamere ScpA</OFFICIALNAME>
+                     <ADDRESS>Via G. B. Morgagni 13</ADDRESS>
+                     <TOWN>Roma</TOWN>
+                     <POSTAL_CODE>00161</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI43"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2582.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2582.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="10">
+            <LOT_NO>10</LOT_NO>
+            <TITLE>
+               <P>Meta</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Meta Srl</OFFICIALNAME>
+                     <ADDRESS>Parco Urbano dell'Innovazione "Le Murate" Piazza della Madonna della Neve, 5</ADDRESS>
+                     <TOWN>Firenze</TOWN>
+                     <POSTAL_CODE>50122</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITI14"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">5000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">5000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="11">
+            <LOT_NO>11</LOT_NO>
+            <TITLE>
+               <P>Morningstar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Morningstar Italy Srl</OFFICIALNAME>
+                     <ADDRESS>Via Pergolesi 25</ADDRESS>
+                     <TOWN>Milano</TOWN>
+                     <POSTAL_CODE>20124</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">8000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">8000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="12">
+            <LOT_NO>12</LOT_NO>
+            <TITLE>
+               <P>Thomson Reuters (Markets)</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Thomson Reuters (Markets) Italia S.p.A.</OFFICIALNAME>
+                     <ADDRESS>Via Santa Margherita 1/A</ADDRESS>
+                     <TOWN>Milano</TOWN>
+                     <POSTAL_CODE>20121</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">21360.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">21360.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="13">
+            <LOT_NO>13</LOT_NO>
+            <TITLE>
+               <P>Thomson Reuters France</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Thomson Reuters France —Transactive</OFFICIALNAME>
+                     <ADDRESS>6-8 Boulevard Haussmann</ADDRESS>
+                     <TOWN>Paris</TOWN>
+                     <POSTAL_CODE>F-75009</POSTAL_CODE>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR10"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2998.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2998.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="14">
+            <LOT_NO>14</LOT_NO>
+            <TITLE>
+               <P>Truven Health Analytics</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Truven Health Analytics LLC</OFFICIALNAME>
+                     <ADDRESS>100 Phoenix Drive</ADDRESS>
+                     <TOWN>Ann Arbor — MI</TOWN>
+                     <POSTAL_CODE>48108</POSTAL_CODE>
+                     <COUNTRY VALUE="US"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">15635.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">15635.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="15">
+            <LOT_NO>15</LOT_NO>
+            <TITLE>
+               <P>Wolters Kluwer</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Wolters Kluwer Italia Srl</OFFICIALNAME>
+                     <ADDRESS>Centro Direzionale Milanofiori, Strada 1 Palazzo F6</ADDRESS>
+                     <TOWN>Assago</TOWN>
+                     <POSTAL_CODE>20090</POSTAL_CODE>
+                     <COUNTRY VALUE="IT"/>
+                     <n2016:NUTS CODE="ITC4C"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">13000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">13000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="16">
+            <LOT_NO>16</LOT_NO>
+            <TITLE>
+               <P>Henry Stewart Talks</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Henry Stewart Talks Ltd.</OFFICIALNAME>
+                     <ADDRESS>28-30 Little Russell Street</ADDRESS>
+                     <TOWN>London</TOWN>
+                     <POSTAL_CODE>WC1A 2HN</POSTAL_CODE>
+                     <COUNTRY VALUE="UK"/>
+                     <n2016:NUTS CODE="UKI3"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">6731.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">6731.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <AWARD_CONTRACT ITEM="17">
+            <LOT_NO>17</LOT_NO>
+            <TITLE>
+               <P>MYJOVE</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>MYJOVE Corporation</OFFICIALNAME>
+                     <ADDRESS>1 Alewife Center, Suite 200</ADDRESS>
+                     <TOWN>Cambridge — MA</TOWN>
+                     <POSTAL_CODE>02140</POSTAL_CODE>
+                     <COUNTRY VALUE="US"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">8654.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">8654.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>TAR Lombardia Sez. Brescia</OFFICIALNAME>
+               <ADDRESS>Via Zima 5</ADDRESS>
+               <TOWN>Brescia</TOWN>
+               <POSTAL_CODE>25100</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>tarbrescia@tarbrescia.it</E_MAIL>
+               <URL>www.tarbrescia.it</URL>
+            </ADDRESS_REVIEW_BODY>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>TAR Lombardia — Sezione di Brescia — Ufficio Ricorsi</OFFICIALNAME>
+               <ADDRESS>Via Zima</ADDRESS>
+               <TOWN>Brescia</TOWN>
+               <POSTAL_CODE>25100</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>informazioni@tarbrescia.it</E_MAIL>
+               <URL>www.tarbrescia.it</URL>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

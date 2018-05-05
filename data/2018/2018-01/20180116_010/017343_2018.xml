@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="017343-2018"
+            EDITION="2018010">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-010520-001</RECEPTION_ID>
+      <DELETION_DATE>20180419</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>10</NO_OJ>
+         <DATE_PUB>20180116</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 010-017343</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:017343-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LU"/>
+         <IA_URL_GENERAL>www.eif.org</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72310000">Data-processing services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="00">Not specified / Other</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LU000">Luxembourg</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="LU000">Luxembourg</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="FR1">ILE-DE-FRANCE</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">8500000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 148-305775</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180109</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>FIC03</HEADING>
+         <INITIATOR>FI</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Udlicitering af databehandling vedrørende EIF's egenkapitalaktiviteter (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Auslagerung der Datenverarbeitung für Tätigkeiten des EIF im Bereich Eigenkapital (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Outsourcing of data processing for EIF equity activities (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - Externalización del tratamiento de datos para las actividades relativas al capital propio del FEI (Luxemburgo)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIR - Euroopan investointirahaston (EIR) omaa pääomaa koskeviin toimiin liittyvän tietojenkäsittelyn ulkoistaminen (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Luxembourg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - Externalisation du traitement de données pour les activités du FEI relatives aux capitaux propres (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λουξεμβούργο</TI_CY>
+            <TI_TOWN>Λουξεμβούργο</TI_TOWN>
+            <TI_TEXT>
+               <P>ETαE - Εξωτερική ανάθεση της επεξεργασίας δεδομένων για δραστηριότητες του ΕΤαΕ σχετικά με ίδια κεφάλαια (Λουξεμβούργο)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lussemburgo</TI_CY>
+            <TI_TOWN>Lussemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - Esternalizzazione del trattamento dei dati sulle attività del FEI relative alle azioni ordinarie (Lussemburgo)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Uitbesteding van gegevensverwerking voor de vermogensactiviteiten van het EIF (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Luxemburgo</TI_CY>
+            <TI_TOWN>Luxemburgo</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - Externalização do tratamento de dados para as atividades do FEI relativas ao capital próprio (Luxemburgo)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Utkontraktering av databehandling avseende EIF-verksamheter som rör eget kapital (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lucembursko</TI_CY>
+            <TI_TOWN>Lucemburk</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Externí zajištění zpracování dat pro kapitálové činnosti EIF (Lucemburk)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Euroopa Investeerimisfondi omakapitali investeerimistegevuse andmetöötluse väljast tellimine (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EBA - Az EBA tőketevékenységeihez kapcsolódó adatfeldolgozás kiszervezése (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Liuksemburgas</TI_CY>
+            <TI_TOWN>Liuksemburgas</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Duomenų apdorojimo užsakomosios paslaugos EIF akcinio kapitalo veiklai (Liuksemburgas)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Luksemburga</TI_CY>
+            <TI_TOWN>Luksemburga</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Datu apstrādes ārpakalpojumu izmantošana saistībā ar EIF kapitāla vērtspapīru jomas darbībām (Luksemburga)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Lussemburgu</TI_CY>
+            <TI_TOWN>Lussemburgu</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - L-għoti lil terzi ta' pproċessar ta' dejta għal attivitajiet ta' ekwità tal-EIF (Lussemburgu)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luksemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EFI - Outsourcing przetwarzania danych na potrzeby operacji kapitałowych EFI (Luksemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Luxembursko</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Externé zabezpečenie spracovania údajov pre činnosti v oblasti kapitálu EIF (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIS - Zunanje izvajanje obdelave podatkov za kapitalske dejavnosti Evropskega investicijskega sklada (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Lucsamburg</TI_CY>
+            <TI_TOWN>Lucsamburg</TI_TOWN>
+            <TI_TEXT>
+               <P>CEI - Próiseáil sonraí a sheachfhoinsiú le haghaidh gníomhaíochtaí cothromais EIF (Lucsamburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Люксембург</TI_CY>
+            <TI_TOWN>Люксембург</TI_TOWN>
+            <TI_TEXT>
+               <P>ЕИФ - Възлагане на външен изпълнител на обработката на данни за дейности, свързани с дяловете на ЕИФ (Люксембург)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Luxemburg</TI_CY>
+            <TI_TOWN>Luxemburg</TI_TOWN>
+            <TI_TEXT>
+               <P>FEI - Externalizarea prelucrării datelor pentru activitățile cu capitaluri proprii ale FEI (Luxemburg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Luksemburg</TI_CY>
+            <TI_TOWN>Luxembourg</TI_TOWN>
+            <TI_TEXT>
+               <P>EIF - Angažiranje vanjskih suradnika za obradu podataka za aktivnosti EIF-a u pogledu vlasničkog kapitala (Luxembourg)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Den Europæiske Investeringsfond</AA_NAME>
+         <AA_NAME LG="DE">Europäischer Investitionsfonds</AA_NAME>
+         <AA_NAME LG="EN">European Investment Fund</AA_NAME>
+         <AA_NAME LG="ES">Fondo Europeo de Inversiones</AA_NAME>
+         <AA_NAME LG="FI">Euroopan investointirahasto (EIR)</AA_NAME>
+         <AA_NAME LG="FR">Fonds européen d'investissement</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκό Ταμείο Επενδύσεων</AA_NAME>
+         <AA_NAME LG="IT">Fondo europeo per gli investimenti</AA_NAME>
+         <AA_NAME LG="NL">Europees Investeringsfonds</AA_NAME>
+         <AA_NAME LG="PT">Fundo Europeu de Investimento</AA_NAME>
+         <AA_NAME LG="SV">Europeiska investeringsfonden</AA_NAME>
+         <AA_NAME LG="CS">Evropský investiční fond (EIF)</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Investeerimisfond</AA_NAME>
+         <AA_NAME LG="HU">Európai Beruházási Alap</AA_NAME>
+         <AA_NAME LG="LT">Europos investicijų fondas</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Investīciju fonds</AA_NAME>
+         <AA_NAME LG="MT">Il-Fond Ewropew tal-Investiment</AA_NAME>
+         <AA_NAME LG="PL">Europejski Fundusz Inwestycyjny</AA_NAME>
+         <AA_NAME LG="SK">Európsky investičný fond (EIF)</AA_NAME>
+         <AA_NAME LG="SL">Evropski investicijski sklad</AA_NAME>
+         <AA_NAME LG="GA">An Ciste Eorpach Infheistíochta</AA_NAME>
+         <AA_NAME LG="BG">Европейски инвестиционен фонд</AA_NAME>
+         <AA_NAME LG="RO">Fondul european de investiții</AA_NAME>
+         <AA_NAME LG="HR">Europski investicijski fond</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Den Europæiske Investeringsfond</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Udlicitering af databehandling vedrørende EIF's egenkapitalaktiviteter</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Formålet med dette udbud er at tildele en 4-årig tjenesteydelseskontrakt (med en mulig forlængelse på op til højst 3 år) til en tjenesteudbyder, der er i stand til at udføre databehandlingsopgaver vedrørende EIF's egenkapitalaktivitet.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Tjenesteyderen skal være registreret i en EU-medlemsstat. Da tjenesteydelserne ikke vil blive udført i EIF's kontorer, vil EIF sørge for fjernadgang til it-systemet.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>For at styrke aktiviteten med relation til nettoaktivværdien og underliggende porteføljedata søger EIF en egnet tjenesteyder, der er specialiseret i dataindsamling og -administration, som skal bistå MIBO-ETPS-afdelingen med udførelse af primære input og kontrol af data modtaget fra fondsforvaltere.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Tjenesteydelser: kvalitet af arbejdsmetodologi, medarbejdererfaring, forståelse af EIF's forretningsområde og forretningstilgang; 2. Forslag: tilbuddets overordnede kvalitet samt forståelse af udbudsmaterialet</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Udlicitering af databehandling vedrørende EIF's egenkapitalaktiviteter</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Jævnfør oplysningerne i punkt V.2.4) er kontraktens samlede værdi op til 4 857 142,86 EUR over 4 år.</P>
+               <P>Jævnfør oplysningerne i punkt V.2.5) vil den andel, der forventes at blive givet i underentreprise, udgøre op til 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter meddelelse til klageren eller, i mangel heraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäischer Investitionsfonds</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Auslagerung der Datenverarbeitung für Tätigkeiten des EIF im Bereich Eigenkapital</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ziel dieser Ausschreibung ist die Vergabe eines Dienstleistungsauftrags über 4 Jahre (mit einer möglichen Verlängerung um höchstens 3 Jahre) an einen Dienstleister, der in der Lage ist, Aufgaben der Datenverarbeitung im Zusammenhang mit der Tätigkeit des EIF im Bereich Eigenkapital auszuführen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Der Dienstleister sollte in einem EU-Mitgliedstaat eingetragen sein. Da die Dienstleistungen nicht in den Räumlichkeiten des EIF selbst erbracht werden, wird der EIF einen Fernzugang zum IT-System einrichten.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Zur Stärkung der Tätigkeit im Zusammenhang mit dem Nettoinventarwert und zugrunde liegenden Portfoliodaten, möchte der EIF einen auf die Erhebung und Verwaltung von Daten spezialisierten Dienstleister beauftragen, der die Abteilung MIBO-ETPS bei der primären Dateneingabe und der Überprüfung von Daten unterstützt, die von Fondsmanagern bereitgestellt werden.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Dienstleistungen: Qualität der Arbeitsmethodik, Erfahrung der Mitarbeiter, Verständnis der Geschäftsdomäne und des Ansatzes des EIF; 2. Vorschlag: Qualität des Angebots und Verständnis der Leistungsbeschreibung</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Auslagerung der Datenverarbeitung für Tätigkeiten des EIF im Bereich Eigenkapital</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Hinsichtlich der Angaben in Abschnitt V.2.4) beläuft sich der Gesamtauftragswert auf 4 857 142,86 EUR über 4 Jahre.</P>
+               <P>Hinsichtlich der Angaben in Abschnitt V.2.5) beträgt der Anteil der Unterauftragsvergabe bis zu 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Investment Fund</OFFICIALNAME>
+               <ADDRESS>37B avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Outsourcing of data processing for EIF equity activities</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The objective of this call for tenders is to award a 4-year service contract (with a possible extension up to maximum 3 years) to a Service Provider capable of performing data processing tasks related to the equity activity of the EIF.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>The Service Provider should be registered in an EU Member State. Since the services will not be performed at EIF's offices, EIF will provide remote access to the IT system.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>In order to reinforce the activity related to the Net Asset Value and underlying portfolio data, EIF is looking for a suitable Service Provider, specialized in data collection and administration, which will assist the MIBO-ETPS division in performing primary input of and controls on data received from Fund Managers.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Services: quality of work methodology, experience of staff, understanding of EIF's business domain &amp; approach; 2. Proposal: quality of tender and understanding of the Terms of Reference</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Outsourcing of data processing for EIF equity activities</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Re. the information provided under section V.2.4), the total value of the contract is up to EUR 4 857 142,86 over 4 years.</P>
+               <P>Re. the information provided under section V.2.5), the proportion likely to be subcontracted is up to 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fondo Europeo de Inversiones</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externalización del tratamiento de datos para las actividades relativas al capital propio del FEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objetivo de esta licitación es adjudicar un contrato de servicios de 4 años (con una posible prórroga de 3 años como máximo) a un prestador de servicios capaz de realizar tareas de tratamiento de datos relacionadas con las actividades del capital propio del FEI.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>El prestador de servicios deberá estar registrado en un Estado miembro de la Unión Europea. Dado que los servicios no se desarrollarán en las oficinas del FEI, el FEI proporcionará acceso a distancia al sistema informático.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A fin de reforzar la actividad relacionada con el valor neto de los activos de la cartera y los datos de las carteras subyacentes, el FEI busca a un prestador de servicios apropiado, especializado en la administración y la recopilación de datos, que ayude a la división MIBO-ETPS a realizar las entradas principales y las comprobaciones correspondientes de los datos recibidos de administradores de fondos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Servicios: calidad de la metodología del trabajo, experiencia del personal, comprensión del enfoque y ámbito empresarial del FEI; 2. Propuesta: calidad de la oferta y comprensión de los Términos de Referencia</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externalización del tratamiento de datos para las actividades relativas al capital propio del FEI.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Según la información proporcionada en el apartado V.2.4), el importe total máximo del contrato es de 4 857 142,86 EUR por 4 años.</P>
+               <P>Según la información proporcionada en el apartado V.2.5), la proporción objeto de subcontratación es del 10 % como máximo.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan investointirahasto (EIR)</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Euroopan investointirahaston (EIR) omaa pääomaa koskeviin toimiin liittyvän tietojenkäsittelyn ulkoistaminen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tämän tarjouspyynnön tavoitteena on nelivuotisen palvelusopimuksen tekeminen (sopimusta voidaan jatkaa enintään 3 vuoden ajaksi) sellaisen palveluntarjoajan kanssa, jolla on valmiudet suorittaa tietojenkäsittelyä koskevat tehtävät, jotka liittyvät Euroopan investointirahaston (EIR) omaa pääomaa koskeviin toimiin.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Palveluntarjoajan on oltava rekisteröitynyt EU:n jäsenvaltioon. Koska palveluja ei suoriteta EIR:n toimistoissa, EIR toimittaa etäyhteyden tietotekniseen järjestelmäänsä.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nettovarallisuusarvoon ja sen taustalla oleviin salkkua koskeviin tietoihin liittyvän toiminnan vahvistamiseksi EIR etsii sopivaa palveluntarjoajaa, joka on erikoistunut tietojen keruuseen ja hallinnointiin ja joka avustaa middle office -toiminnoista, tiedoista ja back office -toiminnoista sekä omaa pääomaa koskevista liiketoimista ja salkkupalveluista (Middle, Information and Back Office – Equity Transaction and Portfolio Services – MIBO-ETPS) vastaavaa osastoa suorittamaan rahastonhoitajilta saatujen tietojen ensisijaisen syöttämisen ja tarkastukset.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Palvelut: työmenetelmien laatu, henkilöstön kokemus, Euroopan investointirahaston alan ja lähestymistavan ymmärtäminen,2. Ehdotus: tarjouksen laatu ja tehtävänkuvauksen ymmärtäminen</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Euroopan investointirahaston (EIR) omaa pääomaa koskeviin toimiin liittyvän tietojenkäsittelyn ulkoistaminen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Koskien kohdassa V.2.4 annettuja tietoja sopimuksen kokonaisarvo on enintään 4 857 142,86 EUR (neljän vuoden aikana).</P>
+               <P>Koskien kohdassa V.2.5 annettuja tietoja alihankintana teetettävä osuus on arviolta enintään 10 prosenttia.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fonds européen d'investissement</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externalisation du traitement de données pour les activités du FEI relatives aux capitaux propres</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'objectif du présent appel d'offres est d'attribuer un contrat de services de 4 ans (avec possibilité de reconduction pour une période maximale de 3 ans) à un prestataire qui soit en mesure d'exécuter des tâches de traitement de données relatives à l'activité du FEI portant sur les capitaux propres.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Le prestataire de services doit être inscrit dans un État membre de l'UE. Étant donné que les services ne seront pas exécutés dans les bureaux du FEI, celui-ci fournira un accès à distance au système informatique.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Afin de renforcer l'activité relative à la valeur liquidative et aux données de portefeuilles sous-jacentes, le FEI recherche un prestataire de services approprié spécialisé dans la collecte et l'administration de données, qui aidera la division MIBO-ETPS à réaliser la saisie primaire et les contrôles des données reçues de la part des gestionnaires de fonds.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Services : qualité de la méthode de travail, expérience du personnel, connaissance du domaine d’activités et de l’approche du FEI ; 2. Proposition : qualité de l’offre et compréhension des termes de référence</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externalisation du traitement de données pour les activités du FEI relatives aux capitaux propres</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Précisions concernant les renseignements fournis au titre de la section V.2.4), la valeur totale du marché s’élève jusqu’à 4 857 142,86 EUR sur 4 ans.</P>
+               <P>Précisions concernant les renseignements fournis au titre de la section V.2.5), la proportion susceptible d’être sous-traitée est de 10 % maximum.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκό Ταμείο Επενδύσεων</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Εξωτερική ανάθεση της επεξεργασίας δεδομένων για δραστηριότητες του ΕΤαΕ σχετικά με ίδια κεφάλαια</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Στόχος της παρούσας πρόσκλησης υποβολής προσφορών είναι η ανάθεση 4ετούς σύμβασης παροχής υπηρεσιών (με πιθανή ανανέωση έως κατ' ανώτατο όριο 3 έτη) σε πάροχο υπηρεσιών ικανό για την εκτέλεση καθηκόντων επεξεργασίας δεδομένων σχετικών με τη δραστηριότητα του ΕΤαΕ στον τομέα των ιδίων κεφαλαίων.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Ο πάροχος υπηρεσιών θα πρέπει να είναι εγγεγραμμένος σε κράτος μέλος της ΕΕ. Δεδομένου πως οι υπηρεσίες δεν θα εκτελεστούν στα γραφεία του ΕΤαΕ, το ΕΤαΕ θα παράσχει απομακρυσμένη πρόσβαση στο σύστημα ΤΠ.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Προκειμένου να ενισχυθεί η δραστηριότητα όσον αφορά την καθαρή αξία του ενεργητικού και τα οικεία δεδομένα χαρτοφυλακίου, το ΕΤαΕ αναζητά έναν κατάλληλο πάροχο υπηρεσιών, εξειδικευμένο στη συλλογή και διαχείριση δεδομένων, ο οποίος θα παράσχει υποστήριξη στο Τμήμα συναλλαγών καθαρής θέσης και υπηρεσιών χαρτοφυλακίου (MIBO-ETPS) για την εκτέλεση της αρχικής εισαγωγής και των ελέγχων σε δεδομένα που λαμβάνονται από διαχειριστές κεφαλαίων.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Υπηρεσίες: ποιότητα της εργασιακής μεθοδολογίας, εμπειρία προσωπικού, κατανόηση του τομέα επιχειρήσεων και της προσέγγισης του ETαE, 2. Πρόταση: ποιότητα της προσφοράς και κατανόηση των όρων αναφοράς</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Εξωτερική ανάθεση της επεξεργασίας δεδομένων για δραστηριότητες του ΕΤαΕ σχετικά με ίδια κεφάλαια</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Σχετικά με τις πληροφορίες που παρέχονται στο τμήμα V.2.4), η συνολική αξία της σύμβασης φτάνει τα 4 857 142,86 EUR για 4 έτη.</P>
+               <P>Σχετικά με τις πληροφορίες που παρέχονται στο τμήμα V.2.5), το ποσοστό που πιθανόν να ανατεθεί υπεργολαβικά φτάνει το 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fondo europeo per gli investimenti</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Esternalizzazione del trattamento dei dati sulle attività del FEI relative alle azioni ordinarie</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'obiettivo del presente bando di gara è l'aggiudicazione di un contratto di servizi quadriennale (con possibilità di rinnovo per massimo 3 anni) ad un prestatore di servizi in grado di svolgere incarichi di trattamento dei dati sulle attività del FEI relative alle azioni ordinarie.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il fornitore dei servizi dovrà essere registrato in uno Stato membro dell'UE. Poiché i servizi non saranno prestati presso gli uffici del FEI, quest'ultimo fornirà l'accesso remoto al sistema informatico.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Al fine di rafforzare la propria attività connessa ai dati relativi al valore attivo netto e al portafoglio sottostante, il FEI ricerca un fornitore di servizi idoneo, specializzato nella raccolta e amministrazione di dati, che assisterà la divisione MIBO-ETPS nell'input primario e nei controlli relativamente ai dati ricevuti dai gestori di fondi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Servizi: qualità della metodologia di lavoro, esperienza dell'équipe, comprensione del settore di attività e dell’approccio del FEI; 2. Proposta: Qualità dell’offerta e comprensione del capitolato d’oneri</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Esternalizzazione del trattamento dei dati sulle attività del FEI relative alle azioni ordinarie</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Per quanto riguarda l’informazione contenuta alla sezione V.2.4), il valore totale dell’appalto ammonta a 4 857 142,86 EUR per 4 anni.</P>
+               <P>Per quanto riguarda l’informazione contenuta alla sezione V.2.5), la parte che sarà probabilmente oggetto di subappalto corrisponde a massimo il 10%.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Investeringsfonds</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Uitbesteding van gegevensverwerking voor de vermogensactiviteiten van het EIF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Doel van deze oproep tot inschrijving is de gunning van een dienstenovereenkomst voor 4 jaar (met een mogelijke verlenging tot maximaal 3 jaar) aan een dienstverlener die gegevensverwerkingstaken kan uitvoeren met betrekking tot de vermogensactiviteiten van het EIF.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>de dienstverlener moet geregistreerd zijn in een EU-lidstaat. Aangezien de diensten niet in de kantoren van het EIF zullen worden verleend, zal het EIF zorgen voor toegang op afstand tot het IT-systeem.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ter versterking van de activiteiten met betrekking tot de netto-inventariswaarde en de onderliggende portfoliogegevens is het EIF op zoek naar een geschikte dienstverlener die gespecialiseerd is in gegevensverzameling en -beheer die de afdeling aandelentransacties en portfoliodiensten van de middle-, information- en backoffices (MIBO-ETPS) bijstaat bij het leveren van primaire input en het uitvoeren van controles op de van fondsmanagers ontvangen gegevens.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. diensten: kwaliteit van de werkmethodologie, ervaring van het personeel, kennis van het bedrijfsgebied en de aanpak van het EIF; 2. voorstel: kwaliteit van de inschrijving en begrip van de taakomschrijving</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Uitbesteding van gegevensverwerking voor de vermogensactiviteiten van het EIF.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Voor wat de informatie onder V.2.4) betreft, bedraagt de totale opdrachtwaarde maximaal 4 857 142,86 EUR voor 4 jaar.</P>
+               <P>Voor wat de informatie onder V.2.5) betreft, is het aandeel dat waarschijnlijk in onderaanbesteding zal worden gegeven maximaal 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht van de Europese Unie</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fundo Europeu de Investimento</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externalização do tratamento de dados para as atividades do FEI relativas ao capital próprio</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O objetivo do presente concurso consiste em adjudicar um contrato de serviços de 4 anos (com uma possível prorrogação máxima de 3 anos) a um prestador de serviços capaz de realizar tarefas de tratamento de dados relacionadas com a atividade do FEI relativa ao capital próprio.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>O prestador de serviços deve estar registado num Estado-Membro da UE. Dado que os serviços não serão prestados nos gabinetes do FEI, este fornecerá acesso remoto ao sistema informático.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Com vista a reforçar a atividade relacionada com o valor de inventário líquido e os dados da carteira subjacente, o FEI procura um prestador de serviços adequado, especializado na recolha e administração de dados, que prestará assistência à divisão MIBO-ETPS na realização da introdução primária e dos controlos dos dados recebidos dos gestores de fundos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Serviços: metodologia de qualidade do trabalho, experiência do pessoal, compreensão do domínio e abordagem comercial do FEI; 2. Proposta: qualidade do concurso e compreensão dos termos de referência</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externalização do tratamento de dados para as atividades do FEI relativas ao capital próprio</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Consultar as informações fornecidas na secção V.2.4), o valor total do contrato é no máximo de 4 857 142,86 EUR ao longo de 4 anos.</P>
+               <P>Consultar as informações fornecidas na secção V.2.5), a proporção que provavelmente será subcontratada é no máximo de 10%.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska investeringsfonden</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Utkontraktering av databehandling avseende EIF-verksamheter som rör eget kapital</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Syftet med denna anbudsinfordran är att sluta ett 4-årigt tjänsteavtal (med möjlig förlängning upp till högst 3 år) med en tjänsteleverantör som kan utföra arbetsuppgifter med anknytning till databehandling avseende EIF-verksamheter som rör eget kapital.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Tjänsteleverantören ska vara registrerad i en EU-medlemsstat. Eftersom tjänsterna inte ska utföras vid EIF:s kontor kommer EIF att tillhandahålla fjärråtkomst till IT-systemet.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>För att stärka verksamheten med anknytning till andelsvärdet och underliggande portföljdata söker EIF en lämplig tjänsteleverantör som är specialiserad på datainsamling och dataförvaltning. Denna tjänsteleverantör ska bistå enheten för egetkapitaltransaktion och portföljtjänster inom ramen för middle office, informationskontor och backoffice (Middle, Information and Back Offices-Equity Transaction and Portfolio Services – MIBO-ETPS) vid utförandet av primär inmatning och kontroll av data som erhållits från fondförvaltare.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Tjänster: kvalitet på arbetsmetod, personalens erfarenhet, förståelse för Europeiska investeringsfondens verksamhetsområde och tillvägagångssätt; 2. Förslag: kvalitet på anbudet och förståelse av förfrågningsunderlaget</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Utkontraktering av databehandling avseende EIF-verksamheter som rör eget kapital</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Angående den information som anges under avsnitt V.2.4), kontraktets totala värde är högst 4 857 142,86 EUR under 4 år.</P>
+               <P>Angående den information som anges under avsnitt V.2.5), den andel som troligtvis kommer att läggas ut är högst 10%.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropský investiční fond (EIF)</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externí zajištění zpracování dat pro kapitálové činnosti EIF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cílem této výzvy k podání nabídek je zadání 4leté zakázky na služby (s možným prodloužením až na maximálně 3 roky) poskytovateli služeb, který bude schopen provádět úkoly týkající se zpracování dat souvisejících s kapitálovými činnostmi EIF.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Poskytovatel služeb by měl být registrován v členském státě EU. Jelikož služby nebudou plněny v kancelářích EIF, EIF poskytne vzdálený přístup k IT systému.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Za účelem posílení činnosti související s čistou hodnotou aktiv a podkladovými portfoliovými údaji hledá EIF vhodného poskytovatele služeb se specializací na sběr a správu dat, který pomůže oddělení MIBO-ETPS při provádění základního vstupu a kontrol údajů získaných od správců fondů.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Služby: kvalita metodiky práce, zkušenosti zaměstnanců, porozumění předmětu podnikání a přístupu EIF; 2. Návrh: kvalita nabídky a porozumění zadání projektu</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externí zajištění zpracování dat pro kapitálové činnosti EIF</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Pokud jde o informace uvedené v oddíle V.2.4), činí celková hodnota zakázky částku ve výši až 4 857 142,86 EUR za 4 roky.</P>
+               <P>Pokud jde o informace uvedené v oddíle V.2.5), činí podíl, který může být zajištěn formou subdodávek, až 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Investeerimisfond</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Euroopa Investeerimisfondi omakapitali investeerimistegevuse andmetöötluse väljast tellimine</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Selle pakkumiskutse eesmärk on sõlmida 4aastane teenusleping (mida on võimalik maksimaalselt kuni 3 aastat pikendada) teenuseosutajaga, kes suudab täita andmetöötlusülesandeid, mis on seotud Euroopa Investeerimisfondi omakapitali investeerimistegevusega.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>teenuseosutaja peab olema registreeritud ELi liikmesriigis. Kuna teenuseid ei osutata Euroopa Investeerimisfondi ruumides, pakub fond kaugühenduse nende IT-süsteemi.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Et tugevdada oma vara puhasväärtuse ja alusportfelli andmetega seotud tegevusi, soovib Euroopa Investeerimisfond leida sobiva teenuseosutaja, kes on spetsialiseerunud andmete kogumisele ja haldamisele. Selle tegevusega toetatakse MIBO-ETPS üksuse fondijuhtidelt saadud andmete esmasel sisestamisel ja kontrollimisel.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. teenused: töömetoodika kvaliteet, töötajate kogemus, EIFi ärivaldkonna ja lähenemisviisi mõistmine; 2. ettepanek: pakkumuse kvaliteet ja arusaamine pädevustingimustest</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Euroopa Investeerimisfondi omakapitali investeerimistegevuse andmetöötluse väljast tellimine</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>jaos V.2.4 esitatud teabe osas on lepingu kogumaksumus kuni 4 857 142,86 eurot 4 aasta jooksul;</P>
+               <P>Jaos V.2.5 esitatud teabe osas on allhankelepingute osakaal kuni 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest, või kui teavitamist ei toimu, päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Beruházási Alap</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Az EBA tőketevékenységeihez kapcsolódó adatfeldolgozás kiszervezése</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>E pályázati felhívás célja egy 4 évre szóló szolgáltatási szerződés odaítélése (amely legfeljebb 3 évvel meghosszabbítható) egy olyan szolgáltató részére, aki képes az EBA tőketevékenységével kapcsolatos adatfeldolgozási feladatok ellátására.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>A szolgáltatónak valamely EU-tagállamban bejegyzettnek kell lennie. Mivel a szolgáltatásokat nem az EBA irodáiban fogják teljesíteni, az EBA távoli elérést fog biztosítani az IT-rendszerhez.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A nettó eszközérték és az alapul szolgáló portfólió adataival kapcsolatos tevékenység támogatása érdekében az EBA egy megfelelő szolgáltatót kíván kiválasztani, aki az adatgyűjtés és adminisztráció területére specializálódott, és akinek az lesz a feladata, hogy segítséget nyújtson a MIBO-ETPS osztálynak az alapkezelőktől kapott adatok elsődleges bevitelében és ellenőrzésében.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Szolgáltatások: a munkamódszertan minősége, a munkatársak tapasztalata, az EBA üzleti szegmenségnek és megközelítésének helyes értelmezése; 2. Ajánlat: az ajánlat minősége és a feladatmeghatározás helyes értelmezése</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Az EBA tőketevékenységeihez kapcsolódó adatfeldolgozás kiszervezése</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Az V.2.4) szakaszban megadott információval kapcsolatosan: a szerződés teljes értéke 4 857 142,86 EUR-t tesz ki 4 év alatt.</P>
+               <P>Az V.2.5) szakaszban megadott információval kapcsolatosan: az alvállalkozók valószínűsíthető igénybevételének aránya 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos investicijų fondas</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Duomenų apdorojimo užsakomosios paslaugos EIF akcinio kapitalo veiklai</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šio kvietimo pateikti pasiūlymus tikslas yra paskirti 4 metų paslaugų pirkimo sutartį (su galimybe pratęsti daugiausiai iki 3 metų) paslaugų teikėjui, galinčiam atlikti duomenų apdorojimo užduotis, susijusias su EIF akcinio kapitalo veikla.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Paslaugų teikėjas turėtų būti registruotas ES valstybėje narėje. Kadangi paslaugos nebus teikiamos EIF biuruose, EIF suteiks nuotolinę prieigą prie IT sistemos.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Norėdamas sustiprinti su grynąja turto verte ir pagrindiniais portfelio duomenimis susijusią veiklą, EIF ieško tinkamo paslaugų teikėjo, kuris specializuojasi duomenų rinkimo ir administravimo srityje, kuris teiks pagalbą MIBO-ETPS padaliniui vykdant pirminį iš fondo vadovų gautų duomenų indėlį ir kontrolę.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Paslaugos: darbo metodikos kokybė, darbuotojų patirtis, veiklos srities ir metodo supratimas; 2. Pasiūlymas: pasiūlymo kokybė ir techninės užduoties supratimas</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Duomenų apdorojimo EIF akcinio kapitalo veiklos užsakomosios paslaugos</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Atsižvelgiant į V.2.4 dalyje pateiktą informaciją, bendra sutarties vertė neviršija 4 857 142,86 EUR per 4 metus.</P>
+               <P>Atsižvelgiant į V.2.5 dalyje pateiktą informaciją, sutarties dalis, kurią ketinama atlikti subrangos būdu, neviršija 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei nepranešama, nuo dienos, kai apie tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Investīciju fonds</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Datu apstrādes ārpakalpojumu izmantošana saistībā ar EIF kapitāla vērtspapīru jomas darbībām</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Šā uzaicinājuma uz konkursu mērķis ir piešķirt 4 gadu pakalpojumu līguma (ar iespēju to pagarināt maksimāli par 3 gadiem) slēgšanas tiesības pakalpojumu sniedzējam, kas spēj veikt datu apstrādes uzdevumus saistībā ar Eiropas Investīciju fonda (EIF) darbībām kapitāla vērtspapīru jomā.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>pakalpojumu sniedzējam jābūt reģistrētam ES dalībvalstī. Tā kā pakalpojumi netiks veikti EIF birojā, EIF nodrošinās attālo piekļuvi IT sistēmai.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lai atbalstītu darbības, kas saistītas ar neto aktīvu vērtības un bāzes portfeļa datiem, EIF meklē piemērotu pakalpojumu sniedzēju, kurš specializējies datu vākšanā un pārvaldībā un palīdzēs Vidējā līmeņa biroja, informācijas biroja un operāciju biroja daļas Kapitāla vērtspapīru darījumu un portfeļa pakalpojumu nodaļai (Middle, Information and Back Offices – Equity Transaction and Portfolio Services – MIBO-ETPS) no fondu pārvaldniekiem saņemto datu sākotnējā ievadē un pārbaudē.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. pakalpojumi: darba metodikas kvalitāte, darbinieku pieredze, sapratne par EIF darbības jomu un pieeju; 2. piedāvājums: piedāvājuma kvalitāte un darba uzdevuma izpratne</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Datu apstrādes ārpakalpojumu izmantošana saistībā ar EIF kapitāla vērtspapīru jomas darbībām</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Attiecībā uz V.2.4. iedaļā sniegto informāciju – līguma kopējā vērtība uz 4 gadu periodu ir līdz pat 4 857 142,86 EUR.</P>
+               <P>Attiecībā uz V.2.5. iedaļā sniegto informāciju – proporcionālā daļa, par kuru paredzēts slēgt apakšlīgumus, ir līdz pat 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Fond Ewropew tal-Investiment</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>L-għoti lil terzi ta' pproċessar ta' dejta għal attivitajiet ta' ekwità tal-EIF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-objettiv ta' din is-sejħa għall-offerti hu li tagħti kuntratt ta' servizz ta' 4 snin (b'tiġdid possibbli sa mhux iżjed minn 3 snin) lil fornitur tas-servizz kapaċi jwettaq xogħlijiet ta' pproċessar ta' dejta lill-attivita ta' ekwità tal-EIF.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Il-fornitur tas-servizz irid ikun irreġistrat fi Stat Membru tal-UE. Peress li s-servizzi mhux se jitwettqu fl-uffiċċji tal-EIF, l-EIF se jipprovdi aċċess mill-bogħod għas-sistema tat-TI.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Sabiex jirrinforza l-attività relatata mal-valur nett tal-assi u d-dejta tal-portafoll ewlieni, l-EIF qiegħed ifittex fornitur tas-servizz xieraq, speċjalizzat fil-ġbir u l-amministrazzjoni tad-dejta, li se jgħin lit-taqsima MIBO-ETPS fit-twettiq tal-inseriment primarju u l-kontrolli tad-dejta rċevuta mill-maniġers tal-fond.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Servizzi: il-kwalità tal-metodoloġija tax-xogħol, l-esperjenza tal-persunal, il-fehim tad-dominju u l-approċċ tan-negozju tal-EIF; 2. Proposta: il-kwalità tal-offerta u l-fehim tat-Termini ta' Referenza</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>L-għoti lil terzi ta' pproċessar ta' dejta għal attivitajiet ta' ekwità tal-EIF</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Re. l-informazzjoni pprovduta taħt it-taqsima V.2.4), il-valur totali tal-kuntratt huwa sa mhux aktar minn 4 857 142,86 EUR fuq perijodu ta' 4 snin.</P>
+               <P>Re. l-informazzjoni pprovduta taħt it-taqsima V.2.5), il-proporzjon li x'aktarx ikun sottokuntrattat huwa sa mhux aktar minn 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fl-assenza ta' dan, mill-jum li fih sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejski Fundusz Inwestycyjny</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Outsourcing przetwarzania danych na potrzeby operacji kapitałowych EFI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Celem niniejszego zaproszenia do składania ofert jest zawarcie 4-letniej umowy o usługi (z możliwością jej przedłużenia o okres nie dłuższy niż 3 lata) z usługodawcą mogącym wykonywać zadania z zakresu przetwarzania danych związane z operacjami kapitałowymi EFI.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>usługodawca powinien być zarejestrowany w państwie członkowskim UE. Ponieważ usługi nie będą świadczone w lokalach EFI, fundusz zapewni zdalny dostęp do systemu informatycznego.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>W celu wzmocnienia działalności związanej z wartością aktywów netto oraz powiązanymi danymi z portfolio EFI poszukuje odpowiedniego usługodawcy specjalizującego się w gromadzeniu danych i zarządzaniu nimi, który udzieli wsparcia działowi MIBO-ETPS w zakresie danych podstawowych oraz kontroli danych otrzymywanych od zarządzających funduszem.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Usługi: jakość metodologii pracy, doświadczenie pracowników, zrozumienie dziedziny działalności EFI oraz podejście; 2. Oferta: jakość oferty i zrozumienie specyfikacji istotnych warunków zamówienia</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Outsourcing przetwarzania danych na potrzeby operacji kapitałowych EFI</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Informacja podana w części V.2.4); całkowita wartość umowy wynosi 4 857 142,86 EUR na 4 lata.</P>
+               <P>Informacja podana w części V.2.5); część zamówienia, którą można zlecić podwykonawcy wynosi 10%.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európsky investičný fond (EIF)</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externé zabezpečenie spracovania údajov pre činnosti v oblasti kapitálu EIF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cieľom tejto výzvy na súťaž je prideliť 4-ročnú zmluvu na poskytovanie služieb (s možnosťou predĺženia maximálne na 3 roky) poskytovateľovi služieb, ktorý je schopný vykonať úlohy spracovania údajov týkajúce sa činností v oblasti kapitálu EIF.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Poskytovateľ služieb musí byť registrovaný v členskom štáte EÚ. Vzhľadom na to, že služby sa nebudú vykonávať v priestoroch EIF, EIF zabezpečí diaľkový prístup k IT systému.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>S cieľom posilňovať činnosti týkajúce sa čistej hodnoty aktív a podkladových údajov portfólia hľadá EIF vhodného poskytovateľa služieb so špecializáciou na zber a správu údajov, ktorý bude pomáhať oddeleniu MIBO-ETPS pri vykonávaní vkladania primárnych údajov a kontrol údajov získaných od správcov fondov.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Služby: kvalita metodiky práce, skúsenosti zamestnancov, pochopenie podnikateľskej domény a prístupu EIF; 2. Návrh: kvalita ponuky a pochopenie podmienok obstarávania</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externé zabezpečenie spracovania údajov pre činnosti v oblasti kapitálu EIF</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Pokiaľ ide o informácie uvedené v oddiele V.2.4), celková hodnota obstarávania je 4 857 142,86 EUR počas 4 rokov.</P>
+               <P>Pokiaľ ide o informácie uvedené v oddiele V.2.5), výška podielu, ktorý bude pravdepodobne realizovaný v rámci subdodávok, je do 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropski investicijski sklad</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zunanje izvajanje obdelave podatkov za kapitalske dejavnosti Evropskega investicijskega sklada</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cilj tega javnega razpisa je oddati 4-letno naročilo storitev (z možnostjo podaljšanja za največ 3 leta) ponudniku storitev, sposobnemu izvedbe nalog obdelave podatkov, povezanih s kapitalsko dejavnostjo EIS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Ponudnik storitve mora biti registriran v državi članici EU. Ker se storitve ne bodo izvajale v pisarnah EIS, bo EIS zagotovil oddaljen dostop do sistema IT.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Z namenom okrepitve dejavnosti, povezane s podatki o neto vrednosti sredstev in osnovnih portfeljih, išče EIS ustreznega ponudnika storitev, specializiranega na področju zbiranja in upravljanja podatkov, ki bo oddelek MIBO-ETPS podprl pri izvedbi osnovnega vnosa in nadzora podatkov, prejetih od upraviteljev sklada.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Storitve: metodologija kakovosti dela, izkušnje zaposlenih, razumevanje poslovnega področja in pristopa EIS; 2. Predlog: kakovost ponudbe in razumevanje formalnih pogojev</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Zunanje izvajanje obdelave podatkov za kapitalske dejavnosti Evropskega investicijskega sklada</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Dodatne informacije v zvezi s točko V.2.4): skupna vrednost pogodbe znaša do 4 857 142,86 EUR za obdobje 4 let.</P>
+               <P>Dodatne informacije v zvezi s točko V.2.5): delež, ki bo verjetno oddan podizvajalcem, znaša do 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ciste Eorpach Infheistíochta</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Próiseáil sonraí a sheachfhoinsiú le haghaidh gníomhaíochtaí cothromais EIF</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Is é cuspóir an ghlao seo ar thairiscintí conradh seirbhíse 4 bliana a dhámhachtain (le síneadh féideartha suas le 3 bliana ar a mhéad) do sholáthraí seirbhíse ar féidir leis tascanna próiseála sonraí a bhaineann le gníomhaíocht chothromais an Chiste Eorpaigh Infheistíochta a fheidhmiú.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Ba cheart go mbeidh an soláthraí seirbhíse cláraithe i mBallstát AE. Ós rud é nach bhfeidhmeofar na seirbhísí ag oifigí EIF, déanfaidh EIF rochtain chianda ar an gcóras TF a chur ar fáil.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tá soláthraí seirbhíse oiriúnach á lorg ag an gCiste Eorpach Infheistíochta d'fhonn an ghníomhaíocht a bhaineann leis an luach glan sócmhainní agus na sonraí punainne bunúsacha a threisiú, agus é speisialaithe i mbailiú sonraí agus riarachán, trína dtabharfar cúnamh don rannóg MIBO-ETPS ionchur príomhúil agus rialuithe maidir le sonraí arna bhfáil ó bhainisteoirí ciste a fheidhmiú.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Seirbhísí: cáilíocht mhodheolaíocht na hoibre, taithí na mball foirne, tuiscint ar réimse gnó agus ar chur chuige EIF; 2. Togra: cáilíocht na tairisceana agus tuiscint ar na Téarmaí Tagartha</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Próiseáil sonraí a sheachfhoinsiú le haghaidh gníomhaíochtaí cothromais EIF</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Maidir leis an bhfaisnéis a thugtar faoi alt V.2.4), is suas le EUR 4 857 142,86 thar 4 bliana é luach iomlán an chonartha.</P>
+               <P>Maidir leis an bhfaisnéis a thugtar faoi alt V.2.5), is suas le 10 % an cion is dócha a chuirfear amach ar fochonradh.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейски инвестиционен фонд</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Възлагане на външен изпълнител на обработката на данни за дейности, свързани с дяловете на ЕИФ</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Целта на настоящата покана за участие в търг е да се възложи 4-годишна поръчка за услуги (с възможно удължаване с максимум 3 години) на доставчик на услуги, който е в състояние да изпълнява задачи по обработка на данни, свързани с дейността по дяловете на ЕИФ.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Доставчикът на услуги трябва да бъде регистриран в държава — членка на ЕС. Тъй като услугите няма да се изпълняват в офисите на ЕИФ, ЕИФ ще предостави отдалечен достъп до ИТ системата.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>За да се подпомогне дейността, свързана с нетната стойност на активите и базовите данни на портфолиото, ЕИФ търси подходящ доставчик на услуги, специализиран в събирането и администрирането на данни, който ще помогне на отдела MIBO—ETPS при извършването на първичното въвеждане и контрола на данните, получени от управителите на фонда.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Услуги: качество на методологията на работа, опит на персонала, разбиране за сферата на дейност и подхода на ЕИФ; 2 Предложение: качество на офертата и разбиране на референтните условия</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Възлагане на външен изпълнител на обработката на данни за дейности, свързани с дяловете на ЕИФ</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Съгласно информацията, предоставена в раздел V.2.4), общата стойност на поръчката е до 4 857 142 EUR за период от 4 години.</P>
+               <P>Съгласно информацията, предоставена в раздел V.2.5), частта, която може да бъде възложена на подизпълнител, е до 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на два месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Fondul european de investiții</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Externalizarea prelucrării datelor pentru activitățile cu capitaluri proprii ale FEI</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectivul acestei licitații este de a atribui un contract de servicii cu durata de 4 ani (cu posibilitatea unei prelungiri de până la maximum 3 ani) în favoarea unui prestator de servicii care să aibă capacitatea de a executa sarcini de prelucrare a datelor legate de activitatea cu capitaluri proprii a FEI.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Prestatorul de servicii trebuie să fie înregistrat într-un stat membru al UE. Întrucât serviciile nu vor fi executate la sediul FEI, acesta va furniza acces de la distanță la sistemul informatic.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>În scopul de a consolida activitate legată de valoarea netă a activelor și care stă la baza datelor de portofoliu, FEI caută un prestator de servicii corespunzător, specializat în colectarea și administrarea de date, care va asista Diviziunea MIBO-ETPS în ceea ce privește efectuarea de activități primare de introducere și controlare a datelor primite de la administratorii de fonduri.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Servicii: calitatea metodologiei de lucru, experiența personalului, înțelegerea domeniului și abordării afacerii FEI; 2. Calitatea ofertei și înțelegerea termenilor de referință</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Externalizarea prelucrării datelor pentru activitățile cu capitaluri proprii ale FEI</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>Re. informațiile furnizate în secțiunea V.2.4), valoarea totală a contractului este de până la 4 857 142,86 EUR pentru o perioadă de 4 ani.</P>
+               <P>Re. informațiile furnizate în secțiunea V.2.5), proporția care poate fi subcontractată este de până la 10%.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europski investicijski fond</OFFICIALNAME>
+               <ADDRESS>37B, avenue JF Kennedy</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2968</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <CONTACT_POINT>Mrs Claude Mathieu-Loës</CONTACT_POINT>
+               <E_MAIL>EIF-procurement@eif.org</E_MAIL>
+               <n2016:NUTS CODE="LU000"/>
+               <URL_GENERAL>www.eif.org</URL_GENERAL>
+               <URL_BUYER>http://www.eif.org/who_we_are/governance/procurement/index.htm?lang=-en</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Angažiranje vanjskih suradnika za obradu podataka za aktivnosti EIF-a u pogledu vlasničkog kapitala</P>
+            </TITLE>
+            <REFERENCE_NUMBER>2017-MIBO_ETPS-001</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Cilj ovog poziva na nadmetanje je dodjela 4-godišnjeg ugovora o uslugama (s mogućnosti produljenja od najviše 3 godine) pružatelju usluga koji je u mogućnosti provesti zadatke obrade podataka povezanih s aktivnostima EIF-a u pogledu vlasničkog kapitala.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">8500000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="00"/>
+               <MAIN_SITE>
+                  <P>Pružatelj usluga treba biti registriran u državi članici EU-a. S obzirom na to da se usluge neće pružati u uredima EIF-a, EIF će omogućiti daljinski pristup IT sustavu.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kako bi se ojačale aktivnosti povezane s neto vrijednosti imovine i podacima iz portfelja na kojoj se temelji, EIF traži prikladnog pružatelja usluga, specijaliziranog za prikupljanje podataka i upravljanje njima, koji će pomoći odjelu MIBO-ETPS u provedbi primarnog unosa podataka i kontrole podataka zaprimljenih od upravitelja fondom.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>1. Usluge: kvaliteta metodologije rada, iskustva zaposlenika, razumijevanje poslovnog područja i pristupa EIF-a, 2. Prijedlog: kvaliteta ponude i razumijevanje opisa projekta</AC_CRITERION>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 148-305775</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <TITLE>
+               <P>Angažiranje vanjskih suradnika za obradu podataka za aktivnosti EIF-a u pogledu vlasničkog kapitala</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-12-20</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>6</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Europe</OFFICIALNAME>
+                     <TOWN>Luxembourg</TOWN>
+                     <COUNTRY VALUE="LU"/>
+                     <n2016:NUTS CODE="LU000"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Numen Digital</OFFICIALNAME>
+                     <TOWN>Paris</TOWN>
+                     <COUNTRY VALUE="FR"/>
+                     <n2016:NUTS CODE="FR1"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">4857142.86</VAL_TOTAL>
+               <LIKELY_SUBCONTRACTED/>
+               <PCT_SUBCONTRACTING>10</PCT_SUBCONTRACTING>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <INFO_ADD>
+               <P>U pogledu podataka navedenih u odjeljku V.2.4.), ukupna vrijednost ugovora je do 4 857 142,86 EUR kroz 4 godine.</P>
+               <P>U pogledu podataka navedenih u odjeljku V.2.5.), dio koji je moguće dati u podizvođenje iznosi do 10 %.</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>generalcourt.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-01-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="148497-2018"
+            EDITION="2018067">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-151832-001</RECEPTION_ID>
+      <DELETION_DATE>20180511</DELETION_DATE>
+      <FORM_LG_LIST>HU </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>67</NO_OJ>
+         <DATE_PUB>20180406</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 067-148497</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:148497-2018:TEXT:HU:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>HU</LG_ORIG>
+         <ISO_COUNTRY VALUE="HU"/>
+         <IA_URL_GENERAL>http://www.sanatmetal.hu/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>http://kba.kozbeszerzes.hu</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="42621100">CNC lathe</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="42610000">Machine tools operated by laser and machining centres</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="42622000">Threading or tapping machines</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="HU312">Heves</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU312">Heves</n2016:CA_CE_NUTS>
+         <n2016:CA_CE_NUTS CODE="HU313">Nógrád</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="HUF">1</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180404</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180511 10:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="8">Other</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="5">European Union, with participation by GPA countries</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>01B02</HEADING>
+         <INITIATOR>01</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Унгapия</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Струг с цифрово-програмно управление</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC soustruhy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC-drejebænk</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Ungarn</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC-Drehmaschine</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ουγγαρία</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Ηλεκτρονικοί τόρνοι</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Hungary</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC lathe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Hungría</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Torno CNC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Ungari</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC treipingid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Unkari</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC-sorvi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Hongrie</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Tour CNC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Ungáir, an</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC lathe</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Mađarska</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC tokarski stroj</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Magyarország</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC (számítógépes számjegy) vezérlésű eszterga</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Ungheria</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Tornio CNC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Vengrija</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC tekinimo staklės</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Ungārija</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC virpas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Ungerija</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Torn CNC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Hongarije</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC-draaibank</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Węgry</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Tokarki sterowane komputerowo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Hungria</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Torno de comando numérico computorizado</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Ungaria</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>Strung CNC</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Maďarsko</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC sústruhy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Madžarska</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC stružnica</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Ungern</TI_CY>
+            <TI_TOWN>Eger</TI_TOWN>
+            <TI_TEXT>
+               <P>CNC-svarv</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="HU">Sanatmetal Ortopédiai és Traumatológiai Eszközöket Gyártó Korlátolt Felelősségű Társaság</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Sanatmetal Ortopédiai és Traumatológiai Eszközöket Gyártó Korlátolt Felelősségű Társaság</OFFICIALNAME>
+               <NATIONALID>AK24140</NATIONALID>
+               <ADDRESS>Faiskola út 5.</ADDRESS>
+               <TOWN>Eger</TOWN>
+               <POSTAL_CODE>3300</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Kovács Ibolya</CONTACT_POINT>
+               <PHONE>+36 36512901</PHONE>
+               <E_MAIL>kkovacs@sanatmetal.hu</E_MAIL>
+               <FAX>+36 36512941</FAX>
+               <n2016:NUTS CODE="HU312"/>
+               <URL_GENERAL>http://www.sanatmetal.hu/</URL_GENERAL>
+               <URL_BUYER>http://www.sanatmetal.hu/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>http://kba.kozbeszerzes.hu</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO>
+               <OFFICIALNAME>Quadrát Kft.</OFFICIALNAME>
+               <ADDRESS>Mártírok u. 4.</ADDRESS>
+               <TOWN>Salgótarján</TOWN>
+               <POSTAL_CODE>3100</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <CONTACT_POINT>Majorosné Kanyó Mária</CONTACT_POINT>
+               <PHONE>+36 32511714</PHONE>
+               <E_MAIL>quadrat@chello.hu</E_MAIL>
+               <FAX>+36 32511714</FAX>
+               <n2016:NUTS CODE="HU313"/>
+               <URL_GENERAL>http://www.sanatmetal.hu/</URL_GENERAL>
+               <URL_BUYER>http://www.sanatmetal.hu/</URL_BUYER>
+            </ADDRESS_FURTHER_INFO>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE_OTHER>gazdálkodó szervezet</CA_TYPE_OTHER>
+            <CA_ACTIVITY_OTHER>Ortopédiai és Traumatológiai Eszközöket Gyártó Kft</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Adásvételi szerződés GINOP-1.2.1-16-2017-00136 Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése – Technológiai korszerűsítéssel a jövőbe című támogatási szerződéshez kapcsolódóan</P>
+            </TITLE>
+            <CPV_MAIN>
+               <CPV_CODE CODE="42621100"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Az ajánlat 6 részre tehető, a felhívás II.2.1-II.2.14 pontjaiban valamint közbeszerzési dokumentáció 3. kötetében meghatározottak alapján.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="HUF">1</VAL_ESTIMATED_TOTAL>
+            <LOT_DIVISION>
+               <LOT_ALL/>
+            </LOT_DIVISION>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Lézer felíratozó berendezés</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42610000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1 db Lézer felíratozó berendezés</P>
+                  <P>Főbb paraméterek:</P>
+                  <P>Geometria.</P>
+                  <P>— Munkatartomány legalább 110 x 110 mm,</P>
+                  <P>— Elhelyezhető munkadarab mérete legalább 510 x 230 x 120 mm.</P>
+                  <P>Lézer forrás.</P>
+                  <P>— tipusa FIBER vagy HYBRID,</P>
+                  <P>— teljesítménye 20 000 üzemórán át keresztül garantált teljesítmény legalább 8 W.</P>
+                  <P>Gépszekrény:</P>
+                  <P>— CLASS I lézer gépszekrény burkolattal szükséges,</P>
+                  <P>— betekintő ablak szükséges.</P>
+                  <P>Jelölés minőség:</P>
+                  <P>— 0,125 mm-es modulmérettel 20x20-as DMC / Ti és acél ötvözeteken legalább "A" minősítés ISO/IEC 15415 szerint / ívés és fényes felületeken.</P>
+                  <P>Vezérlés:</P>
+                  <P>— operációs rendszer legalább Windows 8,</P>
+                  <P>— monitor legalább 19" TFT.</P>
+                  <P>Vezérlő szoftver:</P>
+                  <P>— TrueType fontkészlet használata szükséges,</P>
+                  <P>— DXF fájlok importálása és felhasználása szükséges,</P>
+                  <P>— BMP fájlok importálása és felhasználása szükséges,</P>
+                  <P>— jelölés lehetősége matrix elrendezésben (=mintázat, vagy kiosztás) szükséges.</P>
+                  <P>Előnyt jelentő opciók.</P>
+                  <P>— autofocus ajánlat szerint,</P>
+                  <P>— automata teljesítmény szabályozás ajánlat szerint,</P>
+                  <P>— beépített ellenőrző rendszer (kamera) ajánlat szerint.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított max. 3 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Gépre legalább 12 hónap.</P>
+                  <P>Lézerforrásra legalább 24 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervizháttér.</P>
+                  <P>A gép szállításához kapcsolódó árban foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— szállító és rakodó eszközök a közbeszerzés tárgya szerinti gép helyszínre szállításához és rakodásához,</P>
+                  <P>— a berendezések telepítése és teljes körű üzembe helyezése,</P>
+                  <P>— a berendezések kezelésének és a vezérlések programozásának oktatása magyar nyelven 2 fő részére 4 órás időtartamban/ berendezés,</P>
+                  <P>— jótállás (garancia)- ajánlat szerint,</P>
+                  <P>— A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza,</P>
+                  <P>— Szervizszolgáltatás – szükség szerint, de min évente történő teljes körű átvizsgálás és karbantartás a jótállás időtartama alatt.</P>
+                  <P>Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+                  <P>A gépek szállításához kapcsolódó árban nem foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— A jótállás letelte után is teljes körű szervizszolgáltatás biztosítása szervizdíjszabás szerint – külön szerződéskötés alapján,</P>
+                  <P>— A Jótállás letelte utáni átalánydíjas karbantartási szolgáltatás a vevő igénye szerint.</P>
+                  <P>A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás gépre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás lézer forrásra (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>autofocus megléte</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>automata teljesítmény szabályozás megléte</AC_CRITERION>
+                  <AC_WEIGHTING>5</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>beépített kamerás ellenőrző rendszer megléte</AC_CRITERION>
+                  <AC_WEIGHTING>15</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">3</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl a II.2.6 pontban meghatározott érték kizárólag a hirdetmény megjelenése miatt szükséges. Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>3+2 tengelyes és 3 tengelyes függőleges CNC megmunkáló központ</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42621100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1 db 3+2 tengelyes függőleges CNC megmunkáló központ</P>
+                  <P>Szakmai specifikáció Ajánlatkérői min. követelmény.</P>
+                  <P>Geometria.</P>
+                  <P>— Szimultán vezérelhető tengelyek száma 5,</P>
+                  <P>— Munkatartomány X legalább 1000 mm.</P>
+                  <P>Y legalább 600 mm.</P>
+                  <P>Z legalább 500 mm.</P>
+                  <P>B (körasztal) legfeljebb -30<FT TYPE="SUP">o</FT> − legalább +110<FT TYPE="SUP">o</FT>.</P>
+                  <P>C (körasztal) 360<FT TYPE="SUP">o</FT>.</P>
+                  <P>— Asztal mérete legalább 1000 x 600,</P>
+                  <P>— 2 tengely mentén elforduló körasztal átmárője legalább 200 mm.</P>
+                  <P>Teljesítmény.</P>
+                  <P>— Maximális előtolási sebesség X legalább 20 000 mm/min.</P>
+                  <P>Y legalább 20 000 mm/min.</P>
+                  <P>Z legalább 20 000 mm/min.</P>
+                  <P>— Gyorsjátari sebesség X legalább 30 m/min.</P>
+                  <P>Y legalább 30 m/min.</P>
+                  <P>Z legalább 20 m/min.</P>
+                  <P>— Főorsó maxiális fordulatszáma legalább 12 000 f/min,</P>
+                  <P>— Főhajtás maxiális teljesítménye legalább 15 kW,</P>
+                  <P>— Előtoló motorok maximális teljesítménye (X,Y,Z) legalább 3 KW.</P>
+                  <P>Szerszámtár.</P>
+                  <P>— Szerszámhelyek száma legalább 25 db,</P>
+                  <P>— Szerszámbefogás módja ISO 40,</P>
+                  <P>— Szerszámtár kialakítása dobtár,</P>
+                  <P>— Szerszámlehívás módja Random.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa Heidenhain,</P>
+                  <P>— CREO CAM rendszerrel kompatibilis gépspecifikus postprocesszor szükséges.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— Szánok megvezetése laposvezetékes, edzett köszörült szánok,</P>
+                  <P>— Főorsón keresztüli hűtés lehetősége legalább 20 bár,</P>
+                  <P>— Hűtött főorsó szükséges,</P>
+                  <P>— Hűtött vezérlőszekrény szükséges,</P>
+                  <P>— Hűtőfolyadék rendszer olajleválasztóval szükséges.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés Szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított 5 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Gépre legalább 12 hónap.</P>
+                  <P>Vezérlésre legalább 24 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervízháttér.</P>
+                  <P>2 db 3 tengelyes függőleges CNC megmunkáló központ:</P>
+                  <P>Szakmai specifikáció Ajánlatkérői min. követelmény.</P>
+                  <P>Geometria.</P>
+                  <P>— Szimultán vezérelhető tengelyek száma 3,</P>
+                  <P>— Munkatartomány X legalább 550 mm.</P>
+                  <P>Y legalább 400 mm.</P>
+                  <P>Z legalább 450 mm.</P>
+                  <P>— Asztal mérete legalább 700 x 400.</P>
+                  <P>Teljesítmény.</P>
+                  <P>— Maximális előtolási sebesség X legalább 20 000 mm/min.</P>
+                  <P>Y legalább 20 000 mm/min.</P>
+                  <P>Z legalább 20 000 mm/min.</P>
+                  <P>— Gyorsjátari sebesség X legalább 40 m/min.</P>
+                  <P>Y legalább 40 m/min.</P>
+                  <P>Z legalább 40 m/min.</P>
+                  <P>— Főorsó maxiális fordulatszáma legalább 12000 f/min,</P>
+                  <P>— Főhajtás maxiális teljesítménye legalább 15 kW,</P>
+                  <P>— Előtoló motorok maximális teljesítménye (X,Y,Z) legalább 2,5 KW.</P>
+                  <P>Szerszámtár.</P>
+                  <P>— Szerszámhelyek száma legalább 20 db,</P>
+                  <P>— Szerszámbefogás módja ISO 40,</P>
+                  <P>— Szerszámtár kialakítása dobtár,</P>
+                  <P>— Szerszámlehívás módja Random.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa Heidenhain.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— C tengelyes körasztal illeszthetőség előkészített illesztési lehetőség,</P>
+                  <P>— Főorsón keresztüli hűtés lehetősége legalább 20 bár,</P>
+                  <P>— Hűtött főorsó szükséges,</P>
+                  <P>— Hűtött vezérlőszekrény szükséges,</P>
+                  <P>— Hűtőfolyadék rendszer olajleválasztóval szükséges.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés Szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított 5 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Gépre legalább 12 hónap.</P>
+                  <P>Vezérlésre legalább 24 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervizháttér.</P>
+                  <P>A gép szállításához kapcsolódó árban foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— szállító és rakodó eszközök a közbeszerzés tárgya szerinti gép helyszínre szállításához és rakodásához,</P>
+                  <P>— a berendezések telepítése és teljes körű üzembe helyezése,</P>
+                  <P>— a berendezések kezelésének és a vezérlések programozásának oktatása magyar nyelven 2 fő részére 4 órás időtartamban/ berendezés,</P>
+                  <P>— jótállás (garancia)- ajánlat szerint,</P>
+                  <P>— A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza.  </P>
+                  <P>– Szervizszolgáltatás – szükség szerint, de min évente történő teljes körű átvizsgálás és karbantartás a jótállás időtartama alatt.</P>
+                  <P>Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+                  <P>A gépek szállításához kapcsolódó árban nem foglalt kötelezően elvárt szolgáltatások:A jótállás letelte után is teljes körű szervizszolgáltatás biztosítása szervizdíjszabás szerint – külön szerződéskötés alapján.A Jótállás letelte utáni átalánydíjas karbantartás.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás gépre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás vezérlésre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">5</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl a II.2.6 pontban meghatározott érték kizárólag a hirdetmény megjelenése miatt szükséges. Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>CNC hosszesztergák</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42621100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>4 db CNC hosszeszterga automata csavar gyártáshoz</P>
+                  <P>Szakmai specifikáció Elvárt.</P>
+                  <P>— Vezérelhető tengelyek száma 7,</P>
+                  <P>— Munkatartomány Orsószekrény hosszlökete legalább 200 mm.</P>
+                  <P>Főorsó áteresztő képesség (ø) legfeljebb 40 mm.</P>
+                  <P>Max átvételi hossz legalább 80 mm.</P>
+                  <P>— Maximális előtolási sebesség lineáris tengelyek legalább 10 000 mm/min.</P>
+                  <P>Forgó tengelyek legalább 20 ford/min.</P>
+                  <P>— Gyorsjátari sebesség lineáris tengelyek legalább 35 000 mm/min.</P>
+                  <P>Forgó tengelyek legalább 500 fordulat/min.</P>
+                  <P>— Főorsó maxiális fordulatszáma legalább 10 000 f/min,</P>
+                  <P>— Ellenorsó maxiális fordulatszáma legalább 8 000 f/min,</P>
+                  <P>— Főhajtás maxiális teljesítménye legalább 3 kW,</P>
+                  <P>— Ellenorsó maxiális teljesítménye legalább 1 kW,</P>
+                  <P>— Eszterga szerszámhelyek száma legalább 5 db,</P>
+                  <P>— Hajtott szerszámhelyek száma legalább 8 db,</P>
+                  <P>— Hajtott szerszámok maximális fordulatszáma legalább 5 000 ford./min,</P>
+                  <P>— Hajtott szerszámok teljesítménye legalább 1 kW,</P>
+                  <P>— Típusa Fanuc vagy azzal kompatibilis,</P>
+                  <P>— Főorsó kialakítása kivehető vezetőpersely,</P>
+                  <P>— Szinkronorsó kialakítás rugós darabkilökő szükséges.</P>
+                  <P>Ellenorsóban a darabkidobás ell. szükséges.</P>
+                  <P>Levegőkifújás szükséges a vezetőpersely tisztításához.</P>
+                  <P>— Automata tűzoltó berendezés szükséges,</P>
+                  <P>— Olajköd elszívó szükséges, olaj visszanyerő rendszerű, legalább 800 m3/h légszállítással,</P>
+                  <P>— Ellenoldali nagy frekvenciás orsó torx maráshoz szükséges, minimum 80 000 f/min,</P>
+                  <P>— Örvénylő menetmaró fej szükséges,</P>
+                  <P>— Nagynyomású egység szükséges, legalább 120 bár nyomással és legalább 15 l/min folyadékszállítással,</P>
+                  <P>— Rúdadagoló szükséges, LNS Hydrobar típusú, 3 méteres szálanyaghoz,</P>
+                  <P>— Gépi merevség külső esztergált felület átlagos felületi érdessége maximum: Ramax=0,6 μm,</P>
+                  <P>— Munkadarab kihordó szalag szükséges.</P>
+                  <P>Szállítási határidő 3 hónap.</P>
+                  <P>1 db CNC hosszeszterga automata velőűrszeg gyártásához</P>
+                  <P>Szakmai specifikáció Elvárt.</P>
+                  <P>— Vezérelhető tengelyek száma legalább 9,</P>
+                  <P>— Munkatartomány Orsószekrény hosszlökete legalább 300 mm.</P>
+                  <P>Főorsó áteresztő képesség (ø) legalább 35 mm.</P>
+                  <P>Max átvételi hossz legalább 150 mm.</P>
+                  <P>B1 (szögben elforduló szerszámkonzol) legalább 110<FT TYPE="SUP">o</FT>.</P>
+                  <P>— Maximális előtolási sebesség Lineáris tengelyek legalább 10 000 mm/min.</P>
+                  <P>Billenő tengely legalább 10 000 fok/min.</P>
+                  <P>Orsók legalább 10 000 fok/min.</P>
+                  <P>— Gyorsjátari sebesség Lineáris tengelyek legalább 24 000 mm/min.</P>
+                  <P>Billenő tengely legalább 24 000 fok/min.</P>
+                  <P>Orsók legalább 180 000 fok/min.</P>
+                  <P>— Főorsó maxiális fordulatszáma legalább 7 000 f/min,</P>
+                  <P>— Ellenorsó maxiális fordulatszáma legalább 7 000 f/min,</P>
+                  <P>— Főhajtás maxiális teljesítménye legalább 8 kW,</P>
+                  <P>— Ellenorsó maxiális teljesítménye legalább 5 kW.</P>
+                  <P>Szerszámtár.</P>
+                  <P>— Eszterga szerszámhelyek száma legalább 5 db,</P>
+                  <P>— Hajtott szerszámhelyek száma legalább 8 db,</P>
+                  <P>— Billenő tengely hajtott szerszámhelyeinek száma legalább 6 db,</P>
+                  <P>— Hajtott szerszámok maximális fordulatszáma legalább 5000 ford./min,</P>
+                  <P>— Hajtott szerszámok teljesítménye főoldalon legalább 2 kW,</P>
+                  <P>— Hajtott szerszámok teljesítménye ellenoldalon legalább 1 kW.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa Fanuc vagy azzal kompatibilis.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— Főorsó kialakítása kivehető vezetőpersely,</P>
+                  <P>— Szinkron oldali szorítás mozgástartománya legalább 4 mm átmérőtartományra szorítást lehetővé tevő,</P>
+                  <P>— Automata tűzoltó berendezés szükséges,</P>
+                  <P>— Olajköd elszívó szükséges, olaj visszanyerő rendszerű, legalább 800 m3/h légszállítással,</P>
+                  <P>— Nagynyomású egység szükséges, legalább 120 bár nyomással és legalább 15 l/min folyadékszállítással,</P>
+                  <P>— Rúdadagoló szükséges, LNS Hydrobar típusú, 3 méteres szálanyaghoz,</P>
+                  <P>— Gépi merevség külső esztergált felület átlagos felületi érdessége maximum: Ramax=0,6 μm,</P>
+                  <P>— Képesség a hossztengelyre merőleges v. egyéb szögben álló furatok pontos pozícióban történő elkészítésére (pozícionálási pontosság + gépi merevség) Pozíció pontosság a munkadarabon mérve legfeljebb: 0,02 mm,</P>
+                  <P>— Hosszlyukfúrási technológia alkalmazhatósága furat hossza mindkét oldalról legalább 90 mm.</P>
+                  <P>Furat átmérő 1,2...7 mm mérettartományban.</P>
+                  <P>Szállítási határidő 7 hónap.</P>
+                  <P>Egyéb lsd 3 kötet.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás gépre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás vezérlésre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">7</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl.Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.Min jótállás gépre 12 hó, vezérlésre 24 hó. A II.7 pontban a 7 hónap az 1 db velőűrszeg hosszesztergára vonatkozik a 4 db csavargyártás hosszeszterga szállítási határideje 3 hónap!!</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="4">
+               <TITLE>
+                  <P>CNC esztergagép</P>
+               </TITLE>
+               <LOT_NO>4</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42621100"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1 db CNC esztergagép</P>
+                  <P>Szakmai specifikáció Ajánlatkérői minimum követelmény.</P>
+                  <P>Geometria.</P>
+                  <P>— Gép kialakítása vízszintes elrendezésű,</P>
+                  <P>— Vezérelhető tengelyek száma 2,</P>
+                  <P>— Munkatartomány X tengely legalább 150 mm, legfeljebb 200 mm.</P>
+                  <P>Z tengely legalább 500 mm, legfeljebb 800 mm.</P>
+                  <P>— Legnagyobb elforduló átmérő a keresztszán felett legalább 80 mm, legfeljebb 120 mm,</P>
+                  <P>— Tengelyek edzett, köszörült ágyvezeték,</P>
+                  <P>— Golyósorsó köszörült, dupla anyás golyósorsó,</P>
+                  <P>— Főorsó főorsó furat átmérő legalább 32 mm,</P>
+                  <P>— Szegnyereg kézi működtetésű.</P>
+                  <P>Teljesítmény.</P>
+                  <P>— Főhajtás maxiális teljesítménye legalább 5,5 kW,</P>
+                  <P>— Főorsó maxiális fordulatszáma legalább 3 000 f/min,</P>
+                  <P>— Gyorsjátari sebesség legalább 7 000 mm/min.</P>
+                  <P>Szerszámtár.</P>
+                  <P>— Késtartó típusa gyorsváltó késtartó fej.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa Fanuc vagy azzal kompatibilis,</P>
+                  <P>— Programozást segítő funkciók AutoCAD DXF konverter,</P>
+                  <P>— Programtár kapacitás legalább 12 Gb.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— Pozícionálási / ismétlési pontosság (/1000 mm) legfeljebb 0,01 / 0,005 mm,</P>
+                  <P>— Útmérő rendszer abszolút mérőrendszer,</P>
+                  <P>— Munkatér kivitel részben zárt burkolat,</P>
+                  <P>— Hűtőfolyadék rendszer szükséges, emulziós,</P>
+                  <P>— Hűtött vezérlőszekrény szükséges,</P>
+                  <P>— Szorító tokmány kézi működtetésű, hárompofás, átmérő 160 mm,</P>
+                  <P>— Kézikerék szükséges.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított max. 3 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Gépre legalább 12 hónap.</P>
+                  <P>Vezérlésre legalább 24 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervizháttér.</P>
+                  <P>A gép szállításához kapcsolódó árban foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— szállító és rakodó eszközök a közbeszerzés tárgya szerinti gép helyszínre szállításához és rakodásához,</P>
+                  <P>— a berendezések telepítése és teljes körű üzembe helyezése,</P>
+                  <P>— a berendezések kezelésének és a vezérlések programozásának oktatása magyar nyelven 2 fő részére 4 órás időtartamban/ berendezés,</P>
+                  <P>— jótállás (garancia) – ajánlat szerint,</P>
+                  <P>— A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza,</P>
+                  <P>— Szervizszolgáltatás – szükség szerint, de min évente történő teljes körű átvizsgálás és karbantartás a jótállás időtartama alatt.</P>
+                  <P>Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+                  <P>A gépek szállításához kapcsolódó árban nem foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— A jótállás letelte után is teljes körű szervizszolgáltatás biztosítása szervizdíjszabás szerint – külön szerződéskötés alapján,</P>
+                  <P>— A Jótállás letelte utáni átalánydíjas karbantartási szolgáltatás a vevő igénye szerint.</P>
+                  <P>A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás gépre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás vezérlésre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">3</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl a II.2.6 pontban meghatározott érték kizárólag a hirdetmény megjelenése miatt szükséges. Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="5">
+               <TITLE>
+                  <P>CNC hosszlyukfúró berendezés</P>
+               </TITLE>
+               <LOT_NO>5</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42622000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1 db CNC hosszlyukfúró berendezés</P>
+                  <P>Szakmai specifikáció Ajánlatkérői min. követelmény.</P>
+                  <P>Geometria.</P>
+                  <P>— Főorsók száma 2,</P>
+                  <P>— Fúrás mélység legalább 600 mm,</P>
+                  <P>— Névleges löket legalább 1200 mm.</P>
+                  <P>Teljesítmény.</P>
+                  <P>— Maximális előtolási sebesség Z legalább 15 000 mm/min,</P>
+                  <P>— Gyorsjátari sebesség Z legalább 15 000 mm/min,</P>
+                  <P>— Főorsó fordulatszám tartománya legalább 2 000-15 000 f/min,</P>
+                  <P>— Főhajtás maxiális teljesítménye Orsónként 3 kW.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa SIEMENS, Fanuc, Mitsubishi.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— Minimális fúrási átmérő legfeljebb 1 mm,</P>
+                  <P>— Maximális fúrási átmérő legalább 10 mm,</P>
+                  <P>— Munkadarab alátámasztó prizma szükséges,</P>
+                  <P>— Munkadarab lünetta hosszú munkadarabokhoz szükséges, csapágyházas kivitelben,</P>
+                  <P>— Szerszámlünetta hosszú szerszámok megvezetéséhez szükséges,</P>
+                  <P>— Szán, orsó, lünetta védőburkolatok (keresztfuratos termékek fúrásához) szükséges,</P>
+                  <P>— Olajtartály kapacitása legalább 600 liter,</P>
+                  <P>— Olajköd elszívás szükséges, olajvisszanyerő rendszerű,</P>
+                  <P>— Munkadarab szorítás szükséges hidraulikus szorítással,</P>
+                  <P>— Fúrási folyamat monitorozása szükséges az orsónkénti fordulatszám, hűtőfolyadék nyomás, hatásos teljesítmény kijelzése,</P>
+                  <P>— Lemosópisztoly munkatér tisztításhoz szükséges,</P>
+                  <P>— Olajhűtő rendszer teljesítménye olajhőmérséklet biztosítása: 25-40 <FT TYPE="SUP">o</FT>C között,</P>
+                  <P>— Hűtött kapcsolószekrény szükséges.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított max. 7 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Komplett berendezésre legalább 12 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervizháttér.</P>
+                  <P>A gép szállításához kapcsolódó árban foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— szállító és rakodó eszközök a közbeszerzés tárgya szerinti gép helyszínre szállításához és rakodásához,</P>
+                  <P>— a berendezések telepítése és teljes körű üzembe helyezése,</P>
+                  <P>— a berendezések kezelésének és a vezérlések programozásának oktatása magyar nyelven 2 fő részére 4 órás időtartamban/ berendezés,</P>
+                  <P>— jótállás (garancia) – ajánlat szerint,</P>
+                  <P>— A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza,</P>
+                  <P>— Szervizszolgáltatás – szükség szerint, de min évente történő teljes körű átvizsgálás és karbantartás a jótállás időtartama alatt.</P>
+                  <P>Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+                  <P>A gépek szállításához kapcsolódó árban nem foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— A jótállás letelte után is teljes körű szervizszolgáltatás biztosítása szervizdíjszabás szerint – külön szerződéskötés alapján,</P>
+                  <P>— A Jótállás letelte utáni átalánydíjas karbantartási szolgáltatás a vevő igénye szerint.</P>
+                  <P>A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás komplett berendezésre (hó)/</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">7</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl a II.2.6 pontban meghatározott érték kizárólag a hirdetmény megjelenése miatt szükséges. Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="6">
+               <TITLE>
+                  <P>CNC örvénylő menetmaró gép</P>
+               </TITLE>
+               <LOT_NO>6</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="42622000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="HU312"/>
+               <MAIN_SITE>
+                  <P>Sanatmetál Kft. 3300 Eger, Faiskola u. 5.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1db CNC örvénylő menetmaró gép</P>
+                  <P>Szakmai specifikáció Ajánlatkérői minimum követelmény.</P>
+                  <P>Geometria.</P>
+                  <P>— Vezérelhető tengelyek száma 3,</P>
+                  <P>— Munkatartomány X tengely legalább ø10 mm.</P>
+                  <P>Z tengely legalább 200 mm.</P>
+                  <P>— Maximális menetmarási hossz legalább 110 mm,</P>
+                  <P>— Minimális menetmarási névleges átmérő legfeljebb 2,7 mm,</P>
+                  <P>— Maximális menetmarási névleges átmérő legalább 6,5 mm.</P>
+                  <P>Teljesítmény.</P>
+                  <P>— Főhajtás maximális teljesítménye legalább 1,5 kW,</P>
+                  <P>— Örvénylőfej maximális fordulatszáma legalább 6 000 f/min.</P>
+                  <P>Szerszámtár.</P>
+                  <P>— Örvénylő fej cserélhető körkéses kivitel legalább 4 késsel.</P>
+                  <P>Vezérlő.</P>
+                  <P>— Típusa Fanuc, vagy azzal kompatibilis.</P>
+                  <P>Egyéb igények.</P>
+                  <P>— Adagoló berendezés leválogató rendszerrel szükséges, rezgő kivitel, mérőrendszerrel csavarhossz ellenőrzéshez,</P>
+                  <P>— Olajköd elszívó berendezés szükséges, olaj visszanyerő rendszerű,</P>
+                  <P>— Munkadarab kihordó szalag szükséges,</P>
+                  <P>— Forgács kihordó tartály szükséges,</P>
+                  <P>— Munkadarab specifikus alkatrészek szükségesek, felkészítés 5 csavar típusra.</P>
+                  <P>Szállítási specifikáció Elvárt.</P>
+                  <P>Üzembe helyezés szállító által.</P>
+                  <P>Szállítási határidő szerződéskötéstől számított max. 5 hónap.</P>
+                  <P>Garancia Elvárt.</P>
+                  <P>Komplett berendezésre legalább 12 hónap.</P>
+                  <P>Szerviz szolgáltatás elérhetősége felkészült szervizháttér.</P>
+                  <P>A gép szállításához kapcsolódó árban foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— szállító és rakodó eszközök a közbeszerzés tárgya szerinti gép helyszínre szállításához és rakodásához,</P>
+                  <P>— a berendezések telepítése és teljes körű üzembe helyezése,</P>
+                  <P>— a berendezések kezelésének és a vezérlések programozásának oktatása magyar nyelven 2 fő részére 4 órás időtartamban/ berendezés,</P>
+                  <P>— jótállás (garancia) – ajánlat szerint,</P>
+                  <P>— A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza,</P>
+                  <P>— Szervizszolgáltatás – szükség szerint, de min évente történő teljes körű átvizsgálás és karbantartás a jótállás időtartama alatt.</P>
+                  <P>Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+                  <P>A gépek szállításához kapcsolódó árban nem foglalt kötelezően elvárt szolgáltatások:</P>
+                  <P>— A jótállás letelte után is teljes körű szervizszolgáltatás biztosítása szervizdíjszabás szerint – külön szerződéskötés alapján,</P>
+                  <P>— A Jótállás letelte utáni átalánydíjas karbantartási szolgáltatás a vevő igénye szerint.</P>
+                  <P>A gép pontos paramétereit a közbeszerzési dokumentumok 3. kötete tartalmazza.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jótállás komplett berendezésre (hó)</AC_CRITERION>
+                  <AC_WEIGHTING>20</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_QUALITY>
+                  <AC_CRITERION>A helyszíni javítás a Megrendelő munkanapon 8:00–20:00 óra között történő értesítését követő első munkanapon 8:00 órától számítottan történő megkezdése (óra)</AC_CRITERION>
+                  <AC_WEIGHTING>10</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <VAL_OBJECT CURRENCY="HUF">1</VAL_OBJECT>
+               <DURATION TYPE="MONTH">5</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <EU_PROGR_RELATED>GINOP-1.2.1-16-2017-00136</EU_PROGR_RELATED>
+               <INFO_ADD>
+                  <P>Ajánlatkérő becsült értéket nem közöl a II.2.6 pontban meghatározott érték kizárólag a hirdetmény megjelenése miatt szükséges. Amennyiben a szervizszolgáltatás nem magyarországi telephelyről és nem magyar nyelven történik, abban az esetben a nyertes ajánlattevő feladata a megfelelő tolmács biztosítása.</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>Minen részajánlat esetében: Az eljárásban nem lehet ajánlattevő, alvállalkozó és nem vehet részt az alkalmasság igazolásában olyan gazdasági szereplő, akivel szemben a Kbt. 62. § (1)-(2) bekezdéseiben meghatározott kizáró okok bármelyike fennáll.</P>
+               <P>A Kbt. 67. § (1) bekezdésében foglaltak alapján az ajánlattevő köteles a kizáró okok fenn nem állása tekintetében az egységes európai közbeszerzési dokumentumba foglalt nyilatkozatát benyújtani. Ajánlatkérő a Kbt. 69. § (4) bekezdésében foglaltak alapján az eljárás eredményéről szóló döntés meghozatalát megelőzően az értékelési szempontokra figyelemmel legkedvezőbbnek tekinthető ajánlattevőt megfelelő határidő tűzésével felhívja a kizáró okokkal kapcsolatban előírt igazolások benyújtására. Ajánlatkérő az eljárást lezáró döntés meghozatalát megelőzően dönthet úgy, hogy nemcsak a legkedvezőbb, hanem az értékelési sorrendben azt követő meghatározott számú következő legkedvezőbb ajánlattevőt is felhívja az igazolások benyújtására.</P>
+               <P>Az ajánlatkérő kizárja az eljárásból azt az ajánlattevőt, alvállalkozót, illetve az alkalmasság igazolásában részt vevő szervezetet, akivel szemben valamely kizáró ok az eljárás során következett be.</P>
+               <P>Az ajánlattevőnek a 321/2015. (X. 30.) Korm. rendelet (a továbbiakban „Kr.”) 8. §, 10. §, 12.§, 14. § és 16. § szakasza szerint kell igazolnia, hogy nem tartozik a kizáró okok hatálya alá.</P>
+               <P>A Kr. 15. §-a alapján az ajánlattevő az alkalmasság igazolásában részt vevő alvállalkozó vagy más szervezet vonatkozásában csak az egységes európai közbeszerzési dokumentumot köteles benyújtani a Kbt. 62. §-ában foglalt kizáró okok hiányának igazolása érdekében.</P>
+               <P>A kizáró okokra vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő - ellenkező bizonyításig - az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.</P>
+            </SUITABILITY>
+            <ECONOMIC_FINANCIAL_INFO>
+               <P>Minden részajánlat esetében: Az ajánlattevőnek a 321/2015. (X. 30.) Korm. rendelete 1. § (1) bekezdése értelmében az egységes európai közbeszerzési dokumentum benyújtásával kell előzetesen igazolnia, hogy megfelel az ajánlatkérő által meghatározott alkalmassági követelményeknek.</P>
+               <P>A gazdasági szereplőnek az egységes európai közbeszerzési dokumentum IV. rész „alfa” mezőt kell kitöltenie anélkül, hogy a IV. rész bármely további szakaszát ki kellene töltenie.</P>
+               <P>— a 321/2015. (X. 30.) Korm. rendelet 3. § (2) és (3) bekezdése alapján:</P>
+               <P>(2) ha egy ajánlattevő az előírt alkalmassági követelményeknek más szervezet vagy személy kapacitásaira támaszkodva kíván megfelelni, az érintett szervezetek vagy személyek mindegyike által kitöltött és aláírt külön formanyomtatványokat is benyújtja. Ilyen esetben a kapacitásaikat rendelkezésre bocsátó szervezetek vagy személyek az alkalmassági feltételek vonatkozásában csak azokról nyilatkoznak, amelyeket az ajánlattevő igénybe kíván venni alkalmasságának igazolásához;</P>
+               <P>(3) közös ajánlattétel esetén a közös ajánlattevők mindegyikének külön formanyomtatványt kell benyújtani.</P>
+               <P>Igazolási mód az ajánlatok elbírálásához:</P>
+               <P>Az ajánlatkérő a Kbt. 69. § (4) bekezdése értelmében az eljárást lezáró döntés meghozatalát megelőzően az értékelési szempontokra figyelemmel a legkedvezőbbnek tekinthető ajánlattevőt felhívja azon dokumentumok benyújtására, amelyek igazolják, hogy az ajánlattevő megfelel az alkalmassági követelményeknek.</P>
+               <P>P/1: Az ajánlattevőnek illetve a közös ajánlattevőknek az alkalmasság igazolásához csatolni kell a 321/2015. (X. 30.) Korm. rendelet 19. § (1) a) pontja alapján a pénzügyi intézménytől származó, az eljárást megindító felhívás feladásától – visszafelé számított 12 hónapra vonatkozó megfelelő nyilatkozatot; attól függően, hogy az ajánlattevő mikor jött létre, illetve mikor kezdte meg tevékenységét, ha ezek az adatok rendelkezésre állnak; az alábbi tartalommal:</P>
+               <P>— a pénzügyi intézmény által vezetett pénzforgalmi számlák felsorolása, ideértve a vizsgált időszakban megszüntetett számlákat is,</P>
+               <P>— mióta vezeti a bankszámláját,</P>
+               <P>— bankszámláján a felhívás feladásától visszafelé számított 12 hónapban 30 napot meghaladó a 2009.évi LXXXV tv.2.§ 25.pontja szerinti sorban állás előfordult-e mind az élő, mind pedig a vizsgált időszakban megszüntetett számlák esetében is.</P>
+            </ECONOMIC_FINANCIAL_INFO>
+            <ECONOMIC_FINANCIAL_MIN_LEVEL>
+               <P>Alkalmatlan az ajánlattevő, ha az alábbi pontokban meghatározott követelmények közül bármelyiknek az alábbiakban megfogalmazott módon nem felel meg minden részajánlat esetén:</P>
+               <P>P/1. ha, a felhívás feladásának napjától visszafelé számított 12 hónapra vonatkozóan a pénzügyi intézmény nyilatkozat alapján, bármelyik számlavezető pénzügyi intézménynél vezetett számlájukon a 30 napon túli lejárt fizetési határidejű sorban állás volt, mind az élő mind pedig a vizsgált időszakban megszüntetésre került számlák esetében.</P>
+            </ECONOMIC_FINANCIAL_MIN_LEVEL>
+            <TECHNICAL_PROFESSIONAL_INFO>
+               <P>Minden részajánlat esetében:A kiválasztási szempontok felsorolása és rövid ismertetése: Az ajánlattevőnek a 321/2015. (X. 30.) Korm. rendelete 1. § (1) bekezdése értelmében az egységes európai közbeszerzési dokumentum benyújtásával kell előzetesen igazolnia, hogy megfelel az ajánlatkérő által meghatározott alkalmassági követelményeknek.</P>
+               <P>A gazdasági szereplőnek az egységes európai közbeszerzési dokumentum IV. rész „alfa” mezőt kell kitöltenie anélkül, hogy a IV. rész bármely további szakaszát ki kellene töltenie.</P>
+               <P>— a 321/2015. (X. 30.) Korm. rendelet 3. § (2) és (3) bekezdése alapján:</P>
+               <P>(2) ha egy ajánlattevő az előírt alkalmassági követelményeknek más szervezet vagy személy kapacitásaira támaszkodva kíván megfelelni, az érintett szervezetek vagy személyek mindegyike által kitöltött és aláírt külön formanyomtatványokat is benyújtja. Ilyen esetben a kapacitásaikat rendelkezésre bocsátó szervezetek vagy személyek az alkalmassági feltételek vonatkozásában csak azokról nyilatkoznak, amelyeket az ajánlattevő igénybe kíván venni alkalmasságának igazolásához;</P>
+               <P>(3) közös ajánlattétel esetén a közös ajánlattevők mindegyikének külön formanyomtatványt kell benyújtani.</P>
+               <P>Igazolási mód az ajánlatok elbírálásához:</P>
+               <P>Az ajánlatkérő a Kbt. 69. § (4) bekezdése értelmében az eljárást lezáró döntés meghozatalát megelőzően az értékelési szempontokra figyelemmel a legkedvezőbbnek tekinthető ajánlattevőt felhívja azon dokumentumok benyújtására, amelyek igazolják, hogy az ajánlattevő megfelel az alkalmassági követelményeknek.</P>
+               <P>M/1: Az ajánlattevőnek illetve a közös ajánlattevőknek ajánlathoz csatolni kell a 321/2015. (X. 30.) Korm. rendelet 21. § (1) bekezdése a) pontjának megfelelően, az eljárást megindító felhívás feladásától visszafelé számított 3 évben befejezett, de legfeljebb 6 éve megkezdett, legjelentősebb a minimum követelménynél meghatározott szállítására vonatkozó referenciájának ismertetését.</P>
+               <P>A 321/2015. (X. 30.) Korm. rendelet 22. § (1) és (2) bekezdésének megfelelően a nyilatkozat/igazolás tartalmazza legalább a következő adatokat: a teljesítés ideje (kezdő és befejező időpontja: év/hó/nap), a szerződést kötő másik fél megnevezése és címe, a szállítás tárgya és mennyisége,valamint az 1,4,5,6 rész esetében az ellenszolgáltatás összegét is, továbbá nyilatkozni kell arról, hogy a teljesítés az előírásoknak és a szerződésnek megfelelően történt-e.</P>
+               <P>M2.) A 321/2015. Korm. rendelet 21. § (1) bekezdés h) pontja alapján ajánlattevő csatolja a megpályázni kívánt részek tárgyára vonatkozó műszaki leírásokat, valamint a közbeszerzési dokumentumok 3. kötetének kitöltött példányát, amelyben be kell mutatnia az ajánlatkérői minimum elvárásokra tett ajánlatot.</P>
+            </TECHNICAL_PROFESSIONAL_INFO>
+            <TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+               <P>Az ajánlattevő, ha az alábbi pontokban meghatározott követelmények közül bár-melyiknek az alábbiakban megfogalmazott módon nem felel meg minden részajánlat esetén:</P>
+               <P>M/1 ha nem rendelkezik az eljárást megindító felhívás feladásától visszafelé számított 3 éven belül befejezett, de legfeljebb hat éven belül megkezdett.</P>
+               <P>— 1. részajánlat esetében legalább 1 db lézer feliratozó berendezés szállítási referenciával, amelynél az ellenszolgáltatás összege min. nettó 6,4 millió Ft volt,</P>
+               <P>— 2. részajánlat esetében legalább 2 db CNC megmunkáló központ szállítási referenciával,</P>
+               <P>— 3. részajánlat esetében legalább 3 db CNC hosszeszterga szállítási referenciával,</P>
+               <P>— 4. részajánlat esetében legalább 1 db CNC esztergagép szállítási referenciával, amelynél az ellenszolgáltatás összege min. nettó 6,4 millió Ft volt,</P>
+               <P>— 5. részajánlat esetében legalább 1 db CNC hosszlyukfúró berendezés szállítási referenciával, amelynél az ellenszolgáltatás összege min. nettó 50 millió Ft volt,</P>
+               <P>— 6. részajánlat esetében legalább 1 db CNC örvénylő menetmaró szállítási referenciával, amelynél az ellenszolgáltatás összege min. nettó 65 millió Ft volt.</P>
+               <P>M2.) Alkalmatlan az ajánlattevő, amennyiben részajánlatonként a megajánlott termékre benyújtott műszaki leírás nem felel meg az ajánlatkérői műszaki leírásban meghatározott minimum követelményeknek.</P>
+            </TECHNICAL_PROFESSIONAL_MIN_LEVEL>
+            <PERFORMANCE_CONDITIONS>
+               <P>Minden részajánlatnál a szerződés finanszírozása „GINOP-1.2.1-16-2017-00136” pályázat terhére 60,000000 %-os mértékben az Európai Unió forrásából, 40,000000 %-ban saját forrásból utófinanszírozással történik.</P>
+               <P>Fizetési szabályok: A számla benyújtására a Kbt 135.§ (1) bekezdése szerint kiállított teljesítésigazolás birtokában van lehetőség.</P>
+               <P>A szerződés teljesítése során 30 % előleg igénylési lehetőség biztosított, 1 db számla nyújtható be az üzembe helyezést követően.</P>
+               <P>Az ellenszolgáltatás, a Megrendelő teljesítésigazolása alapján átutalással – forintban – kerül kiegyenlítésre a Ptk. 6:130 § (1) (2)bekezdései és a Kbt. 135. § (6) bekezdései szerint, a helyesen kiállított számla kézhezvételétől számított 30 napon belül. Az ajánlattétel, az átutalás és az elszámolás pénzneme: HUF. Késedelmes fizetés esetén Ajánlatkérő a Ptk 6:155 § -ában meghatározott mértékű, és a késedelem időtartamához igazodó késedelmi kamatot fizet.</P>
+               <P>Szerződést biztosító mellékkötelezettségek,lsd szerződéses felt.</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="HU"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">2</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-11</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>10:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Quadrát Kft. 3100 Salgótarján, Mártírok u 4. emeleti tárgyaló.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>Az ajánlatok felbontásánál a Kbt. 68. § (3) bekezdésében meghatározott személyek lehetnek jelen.</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <EORDERING/>
+            <EINVOICING/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>1. Formai kötöttség: Az ajánlattevőnek közvetlenül vagy postai úton kell benyújtania ajánlatát az ajánlattételi határidő lejártáig egy papír alapú – összefűzött, oldalanként sorszámozott, tartalomjegyzékkel ellátott – példányban, valamint egy – a papíralapú példánnyal mindenben megegyező – elektronikus másolati példányban (CD vagy DVD). Az elektronikus melléklet nem jelenti az ajánlatnak a 257/2007. (X.4.) Korm. rendelet szerinti elektronikus benyújtását. Az elektronikus dokumentumok kívánt formátuma: *.pdf. Az elektronikus példányt a papíralapú végleges, aláírt ajánlatról kell elkészíteni. Az elektronikus példány és a papíralapú példány közötti eltérés esetén a papíralapú példány az irányadó.</P>
+               <P>2. Az ajánlatok értékelése a Kbt 76.§ (2) c) pontja szerinti legjobb ár-érték arány alapján történik, melyet részletesen a közbeszerzési dokumentum útmutatójának 16. pontja tartalmaz</P>
+               <P>3. A Kbt. 66. § (2) bekezdésében foglaltaknak megfelelően az ajánlatnak tartalmaznia kell különösen az ajánlattevő kifejezett nyilatkozatát az ajánlattételi felhívás feltételeire, a szerződés megkötésére és teljesítésére, valamint a kért ellenszolgáltatásra vonatkozóan, és nyilatkoznia kel a Kbt 66.§ (6) bekezdésére is.</P>
+               <P>4. A Kbt. 66. § (4) bekezdésében foglaltaknak megfelelően az ajánlattevőnek nyilatkoznia kell arról, hogy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint mikro-, kis- vagy középvállalkozásnak minősül-e.</P>
+               <P>5. Cégszerűség és képviseleti jogok ellenőrzése:</P>
+               <P>Az ajánlathoz csatolni kell az ajánlattevő és kapacitásait rendelkezésre bocsátó szervezet tekintetében a képviseleti jogok ellenőrizhetősége érdekében az ajánlatot vagy annak részét képező bármely nyilatkozatot aláíró cégjegyzésre jogosult(ak) aláírási címpéldánya(i)t, vagy a 2006. évi V. törvény szerinti aláírási mintáit. Ha a cégjegyzésre jogosult és az ajánlatot aláíró személye különböző, akkor csatolandó a kötelezettségvállalásra feljogosító, a meghatalmazott aláírását is tartalmazó, eredeti, cégszerűen aláírt meghatalmazás és a meghatalmazást cégszerűen aláírók aláírási címpéldányának egyszerű másolata. Folyamatban lévő változásbejegyzési eljárás esetében az ajánlathoz csatolni kell a cégbírósághoz benyújtott változásbejegyzési kérelmet és az annak érkezéséről a cégbíróság által megküldött igazolást.</P>
+               <P>6. Igazolások, Nyilatkozatok: A felhívás mellékletét képező nyilatkozatminták alkalmazása nem kötelező, de az ajánlatkérő tartalmi előírásait mindenben kielégítő nyilatkozatokat kell benyújtani.</P>
+               <P>7. Az ajánlatkérő nem teszi lehetővé a közös ajánlatot tevő nyertesek részére gazdálkodó szervezet létrehozását.</P>
+               <P>8. A minősített ajánlattevőknek a 321/2015 (X. 30.) Korm. rendelete 30.§ (4) bekezdése alapján a szerződés teljesítésére vonatkozó pénzügyi és gazdasági, valamint műszaki, illetve szakmai alkalmasságának feltételeit és igazolását a Korm. rendelet 28. § (3) bekezdéséhez képest szigorúbban határozta meg, így a minősített ajánlattevőknek külön kell igazolniuk a szerződés teljesítésére való alkalmasságukat.</P>
+               <P>9. A szerződést biztosító mellékkötelezettségeket a szerződéses feltétel tartalmazza.</P>
+               <P>10. Az ajánlatok értékelési szempontok szerinti tartalmi elemeinek értékelése során adható</P>
+               <P>Pontszám alsó és felső határa, amely minden részajánlat és minden értékelési szempont esetében azonos: 0-100 pont. Az értékelési módszert részajánlatonként a felhívás karakterkorlátja miatt a közbeszerzési dokumentumok útmutatójának 16. pontja tartalmazza.</P>
+               <P>11. Ajánlatkérő nem alkalmazza a Kbt 75.§ (2) e) pontját.</P>
+               <P>12. Felelős akkreditált közbeszerzési szaktanácsadó: Majorosné Kanyó Mária, lajstromszám:00183</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828592</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A jogorvoslati kérelmek benyújtásának határidejére vonatkozó pontos információ: A Kbt. 148. §-a szerint.</P>
+            </REVIEW_PROCEDURE>
+            <ADDRESS_REVIEW_INFO>
+               <OFFICIALNAME>Közbeszerzési Döntőbizottság</OFFICIALNAME>
+               <ADDRESS>Riadó utca 5.</ADDRESS>
+               <TOWN>Budapest</TOWN>
+               <POSTAL_CODE>1026</POSTAL_CODE>
+               <COUNTRY VALUE="HU"/>
+               <PHONE>+36 18828592</PHONE>
+               <E_MAIL>dontobizottsag@kt.hu</E_MAIL>
+               <FAX>+36 18828593</FAX>
+            </ADDRESS_REVIEW_INFO>
+            <DATE_DISPATCH_NOTICE>2018-04-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,3600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="112109-2018"
+            EDITION="2018051">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-106837-001</RECEPTION_ID>
+      <DELETION_DATE>20180504</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>51</NO_OJ>
+         <DATE_PUB>20180314</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 051-112109</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:112109-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>IT</LG_ORIG>
+         <ISO_COUNTRY VALUE="IT"/>
+         <IA_URL_GENERAL>https://ec.europa.eu/jrc/</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="09310000">Electricity</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="09330000">Solar energy</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="ITC41">Varese</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="ITC41">Varese</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">3000000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180307</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180504 16:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+         <HEADING>ECB02</HEADING>
+         <INITIATOR>EC</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering af elektricitet til Det Fælles Forskningscenter i Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Lieferung von Strom für die Gemeinsame Forschungsstelle in Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Italy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Supply of electricity for the Joint Research Centre in Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Suministro de electricidad para el Centro Común de Investigación de Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Sähkön toimitus yhteisen tutkimuskeskuksen Ispran-toimipaikkaan (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Italie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fourniture d’électricité pour le Centre commun de recherche d'Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Ιταλία</TI_CY>
+            <TI_TOWN>Ίσπρα</TI_TOWN>
+            <TI_TEXT>
+               <P>Προμήθεια ηλεκτρικής ενέργειας για το Κοινό Κέντρο Ερευνών στην Ίσπρα (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di enegia elettrica per il Centro Comune di Ricerca di Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Italië</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering van elektriciteit aan het Gemeenschappelijk Centrum voor onderzoek in Ispra (VA).</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Itália</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de eletricidade para o Centro Comum de Investigação em Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Italien</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Leverans av elektricitet för Gemensamma forskningscentrumet i Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Itálie</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka elektrické energie pro Společné výzkumné středisko v Ispře (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Itaalia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektrienergia tarne Teadusuuringute Ühiskeskusse Isprasse (Varese)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Olaszország</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Az isprai (VA) Közös Kutatóközpont villamosenergia-ellátása</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektros tiekimas Jungtiniam tyrimų centrui Isproje (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Itāija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Elektroapgāde Kopīgajam pētniecības centram Isprā (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>l-Italja</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Provvista ta' elettriku għaċ-Ċentru Konġunt tar-Riċerka f'Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Włochy</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dostawa energii elektrycznej dla Wspólnego Centrum Badawczego w Isprze (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Taliansko</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dodávka elektrickej energie pre pracovisko Spoločného výskumného centra v Ispre (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Dobava električne energije za Skupno raziskovalno središče v Ispri (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Iodáil, an</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Leictreachas a sholáthar don Airmheán Comhpháirteach Taighde in Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Итaлия</TI_CY>
+            <TI_TOWN>Испра</TI_TOWN>
+            <TI_TEXT>
+               <P>Доставка на електричество за Съвместния изследователски център в Испра (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Italia</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizare de energie electrică pentru Centrul Comun de Cercetare din Ispra (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Italija</TI_CY>
+            <TI_TOWN>Ispra</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava električne energije za Zajednički istraživački centar u Ispri (VA)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Europa-Kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Bruxelles), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="DE">Europäische Kommission, — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="EN">European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="ES">Comisión Europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan komissio, Joint Research Centre (JRC), JRC.R – Resources (Brussels), JRC.R.I.4 – Infrastructure</AA_NAME>
+         <AA_NAME LG="FR">Commission européenne, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="IT">European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="NL">Europese Commissie, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="PT">Comissão Europeia, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="SV">Europeiska kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="CS">Evropská komise, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.I.4 – Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Komisjon, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="HU">Európai Bizottság, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="LT">Europos Komisija, JRC — Joint Research Centre, JRC.R — Resources (Briuselis), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="MT">Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="PL">Komisja Europejska, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="SK">Európska komisia, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.I.4 – Logistics (Ispra)</AA_NAME>
+         <AA_NAME LG="SL">Evropska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="GA">An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="BG">Европейска комисия, Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="RO">Comisia Europeană, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+         <AA_NAME LG="HR">Europska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <NOTICE_UUID>7abf4d87-50ff-4be7-82d7-1b5094a5e5c4</NOTICE_UUID>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europa-Kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Bruxelles), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af elektricitet til Det Fælles Forskningscenter i Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Levering af elektricitet med høj, mellem og lav spænding til Det Fælles Forskningscenter i Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Levering af 132 kV til østsiden af centret, leveret gennem et luftkabel</P>
+                  <P>2) Levering af 15 kV til pumpestationen placeret uden for centret nær Maggiore-søen i udkanten af Ispra</P>
+                  <P>3) Levering af lavspænding (til belysning på via Foresteria 2/4 — ved siden af JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Mødestedet for åbningen er receptionen ved indgangen til anlægsområdet JRC Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Kommission, — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forschung</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Lieferung von Strom für die Gemeinsame Forschungsstelle in Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Stromlieferungen in Hoch- und Mittelspannung, einschließlich Abnahme in Niederspannung, für die Gemeinsame Forschungsstelle in Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132-kV-Lieferung über Freileitung an der Ostseite der Forschungsstelle;</P>
+                  <P>2) 15-kV-Lieferung für die im Verhältnis zur Forschungsstelle dezentral gelegene Pumpstation, die sich in der Nähe des Lago Maggiore am Rand der Ortschaft Ispra befindet;</P>
+                  <P>3) Lieferung in Niederspannung (Beleuchtung via Foresteria 2/4 — angrenzend an die JCR).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Treffpunkt für die Öffnung der Angebote ist der Empfang im Eingangsbereich des Standortes der JRC Ispra.</P>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Research</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Supply of electricity for the Joint Research Centre in Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Supply of high, medium and low voltage electricity to the Joint Research Centre in Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132-kV supply on the eastern side of the Centre, provided via a suspended cable;</P>
+                  <P>2) 15-kV supply for the pumping station located away from the Centre and near Lake Maggiore on the outskirts of Ispra;</P>
+                  <P>3) low-voltage supply (for lighting on via Foresteria 2/4 — next to the JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>The meeting point for the opening is the reception at the entrance to the JRC site of Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italy.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisión Europea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigación</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Suministro de electricidad para el Centro Común de Investigación de Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Suministro de energía eléctrica de alta, media y baja tensión para el Centro Común de Investigación de Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Suministro de 132 kV en la zona este del Centro, a través de un cable suspendido.</P>
+                  <P>2) Suministro de 15 kV para la estación de bombeo situada fuera del Centro, cerca del Lago Maggiore, a las afueras de Ispra.</P>
+                  <P>3) Suministro de baja tensión (para el alumbrado de via Foresteria 2/4, cerca del JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>El punto de encuentro para la sesión de apertura es la recepción situada en la entrada de la sede del JRC de Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan komissio, Joint Research Centre (JRC), JRC.R – Resources (Brussels), JRC.R.I.4 – Infrastructure</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>tutkimus</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Sähkön toimitus yhteisen tutkimuskeskuksen Ispran-toimipaikkaan (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Suur-, keski- ja pienjännitesähkön toimittaminen yhteiseen tutkimuskeskukseen Ispraan</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1. sähkön toimitus (132 kilovolttia) tutkimuskeskuksen itäpuolelle ilmajohdon kautta,</P>
+                  <P>2. sähkön toimitus (15 kilovolttia) keskuksen ulkopuolella ja Maggiorejärven lähellä Ispran laita-alueella sijaitsevaa pumppuasemaa varten,</P>
+                  <P>3. pienjännitesähkön toimitus (kohteen via Foresteria 2/4 valaistusta varten (yhteisen tutkimuskeskuksen vieressä)).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avaustilaisuuden kokoontumispaikkana on vastaanotto, joka sijaitsee yhteisen tutkimuskeskuksen (JRC) Ispran-toimipaikan sisäänkäynnillä.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Commission européenne, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Recherche</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fourniture d’électricité pour le Centre commun de recherche d'Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Fourniture d'électricité à haute, moyenne et basse tension au Centre Commun de recherche d'Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1. alimentation à 132 kV sur le côté oriental du centre, par ligne aérienne ;</P>
+                  <P>2. alimentation à 15 kV pour la station de pompage située hors du lac Majeur et proche du lac Majeur à la périphérie d'Ispra;</P>
+                  <P>3. alimentation à basse tension (éclairage de la Via Foresteria 2/4 — adjacente au JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Le point de rencontre pour la séance d'ouverture des offres est la réception à l'entrée du site d'Ispra du JRC.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italie.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκή Επιτροπή, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Έρευνα</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Προμήθεια ηλεκτρικής ενέργειας για το Κοινό Κέντρο Ερευνών στην Ίσπρα (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Παροχή ηλεκτρικής ενέργειας υψηλής, μέσης και χαμηλής τάσης στο Κοινό Κέντρο Ερευνών στην Ίσπρα.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Ιταλία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) παροχή τάσης 132 kV στην ανατολική πλευρά του Κέντρου, μέσω αιωρούμενου καλωδίου,</P>
+                  <P>2) παροχή τάσης 15 kV για το αντλιοστάσιο που βρίσκεται εκτός του Κέντρου κοντά στη λίμνη Maggiore στα περίχωρα της Ίσπρα,</P>
+                  <P>3) παροχή χαμηλής τάσης (για τον φωτισμό της οδού via Foresteria 2/4 — δίπλα στο JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Το σημείο συνάντησης για την αποσφράγιση των προσφορών είναι το γραφείο υποδοχής στην είσοδο των εγκαταστάσεων του JRC στην Ίσπρα.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Ιταλία.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Commission, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ricerca</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di enegia elettrica per il Centro Comune di Ricerca di Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Fornitura di energia elettrica in AT e MT, inclusa una utenza in BT, per il Centro Comune di Ricerca di Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), IT.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Una consegna a 132 kV situata sul lato orientale del centro, servita mediante linea aerea;</P>
+                  <P>2) Una consegna a 15 kV, a servizio della stazione di pompaggio, decentrata rispetto al centro e situata in prossimità del Lago Maggiore ai margini dell'abitato di Ispra;</P>
+                  <P>3) Una consegna in BT (illuminazione Via Foresteria 2/4 – adiacente il CCR).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Il punto d'incontro per l'apertura è la reception presso l'ingresso del CCR sito di Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), IT.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europese Commissie, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>onderzoek.</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van elektriciteit aan het Gemeenschappelijk Centrum voor onderzoek in Ispra (VA).</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Levering van elektriciteit (bekabeling voor hoog- en middenspanning die ook laagspanning toelaat) aan het Gemeenschappelijk Centrum voor onderzoek in Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italië.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) levering (132 kV) in de oostelijke zone van het centrum via een luchtlijn;</P>
+                  <P>2) levering (15 kV) ten dienste van het pompstation, gelegen buiten het centrum, bij het Lago Maggiore, aan de rand van de bebouwde kom van Ispra;</P>
+                  <P>3) levering van laagspanning (verlichting van via Foresteria 2/4 — aanpalend aan het JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>de ontmoetingsplaats voor de opening is de receptie bij de ingang van de standplaats van het JRC in Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italië.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comissão Europeia, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Investigação</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de eletricidade para o Centro Comum de Investigação em Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Fornecimento de eletricidade de alta, média e baixa tensão para o Centro Comum de Investigação em Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itália.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Fornecimento de 132-kV na parte oriental do Centro, fornecido através de um cabo suspenso;</P>
+                  <P>2) Fornecimento de 15-kV para a estação de bombagem localizada fora do Centro e perto do lago Maggiore na periferia de Ispra;</P>
+                  <P>3) Fornecimento de baixa tensão (para iluminação na via Foresteria 2/4 — perto do JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>O ponto de encontro para a abertura é a receção situada na entrada das instalações de Ispra do JRC.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itália.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska kommissionen, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Forskning</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Leverans av elektricitet för Gemensamma forskningscentrumet i Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Elförsörjning (hög-, medel- och lågspänning) för det Gemensamma forskningscentrumet i Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italien.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Försörjning (132 kV) på centrumets östra sida via en luftledning;</P>
+                  <P>2) Försörjning (15 kV) för pumpstationen belägen på avstånd från centrumet i närheten av sjön Maggiore i utkanten av Ispra;</P>
+                  <P>3) Försörjning av lågspänning (för belysningen på via Foresteria 2/4 som ligger granne med JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Mötesplatsen för öppnandet är receptionen som är belägen vid ingången till JRC:s anläggning i Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italien.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská komise, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.I.4 – Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Výzkum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka elektrické energie pro Společné výzkumné středisko v Ispře (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dodávka vysoko-, středně- a nízkonapěťové elektrické energie do Společného výzkumného střediska v Ispře.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itálie.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1. napájení o výkonu 132 kV východní části Střediska poskytnuté prostřednictvím závěsného kabelu;</P>
+                  <P>2. napájení o výkonu 15 kV pro čerpací stanici nacházející se mimo Středisko a v blízkosti jezera Maggiore na okraji města Ispra;</P>
+                  <P>3. nízkonapěťové napájení (pro osvětlení na ulici via Foresteria 2/4 – vedle JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Místem setkání otevírání nabídek je recepce nacházející se u vchodu do pracoviště JRC v Ispře.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itálie.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Komisjon, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Teadusuuringud</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Elektrienergia tarne Teadusuuringute Ühiskeskusse Isprasse (Varese)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Teadusuuringute Ühiskeskuse (JRC) Ispra asukoha varustamine kõrge-, kesk- ja madalpinge elektriga.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Itaalia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) keskuse idaosa elektriga (132 kV) varustamine õhukaablite kaudu;</P>
+                  <P>2) keskuse pumbajaama (asub keskusest eemal, Maggiore järve ääres Ispra valla äärealal) elektriga (15 kV) varustamine;</P>
+                  <P>3) aadressil via Foresteria 2/4 asuva hoone (keskuse kõrval) valgustamiseks madalpinge elektriga varustamine.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Avamise kohtumiskohaks on Teadusuuringute Ühiskeskuse Ispra tegevuskoha sissepääsu lähedal asuv vastuvõtulaud.</P>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Itaalia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Bizottság, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Kutatás</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Az isprai (VA) Közös Kutatóközpont villamosenergia-ellátása</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Nagy-, közepes és kisfeszültségű villamos energia beszerzése az isprai Közös Kutatóközpont számára.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Olaszország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132 kV-os villamosenergia-ellátás a központ keleti oldalán, függőkábelen keresztül;</P>
+                  <P>2) a központtól távolabb és Ispra külterületén, a Maggiore tó mellett elhelyezkedő szivattyúállomás 15 kV-os villamosenergia-ellátása;</P>
+                  <P>3) kisfeszültségű villamosenergia-ellátás (a Közös Kutatóközpont melletti via Foresteria 2/4 világítása céljára).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>A tenderbontás találkozóhelye a JRC isprai telephelyének bejáratánál lévő recepció.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Olaszország.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos Komisija, JRC — Joint Research Centre, JRC.R — Resources (Briuselis), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Moksliniai tyrimai</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Elektros tiekimas Jungtiniam tyrimų centrui Isproje (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Aukštos, vidutinės ir žemos įtampos elektros tiekimas Jungtiniam tyrimų centrui Isproje.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132 kV tiekimas rytinėje centro pusėje, tiekiant nutiestu ore kabeliu;</P>
+                  <P>2) 15 kV tiekimas siurblinei, esančiai toliau nuo centro ir šalia Madžorės ežero Ispros pakraščiuose;</P>
+                  <P>3) Žemos įtampos tiekimas (norint apšviesti via Foresteria 2/4 – šalia JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Vokų su pasiūlymais atplėšimo susitikimo vieta yra įėjimo į JRC Isproje registratūra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>pētniecība</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Elektroapgāde Kopīgajam pētniecības centram Isprā (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Augsta, vidēja un zema sprieguma elektroapgāde Kopīgajam pētniecības centram Isprā.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itālija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132 kV elektroapgāde centra austrumu daļai, izmantojot uzkārtu kabeli.</P>
+                  <P>2) 15 kV elektroapgāde sūkņu stacijai, kas atrodas ārpus centra teritorijas, blakus Lago Madžore, Ispras nomalē.</P>
+                  <P>3) Zema sprieguma elektroapgāde (apgaismojuma nodrošināšanai via Foresteria 2/4, blakus Kopīgajam pētniecības centram (JRC)).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>tikšanās vieta atvēršanas sanāksmes apmeklētājiem ir reģistratūra, kas atrodas pie ieejas JRC Ispras struktūrvienībā.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Itālija</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Il-Kummissjoni Ewropea, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Ir-riċerka</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provvista ta' elettriku għaċ-Ċentru Konġunt tar-Riċerka f'Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Provvista ta' elettriku fuq vultaġġ għoli, medju u baxx liċ-Ċentru Konġunt tar-Riċerka f'Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), l-Italja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) provvista ta' 132-kV fin-naħa tal-Lvant taċ-Ċentru, ipprovduta permezz ta' kejbil imdendel;</P>
+                  <P>2) provvista ta' 15-il-kV għall-istazzjon tal-ippumpjar li jinsab 'il bogħod miċ-Ċentru u ħdejn Lago Maggiore 'l barra minn Ispra;</P>
+                  <P>3) provvista ta' vultaġġ baxx (għal provvista ta' dawl f'via Foresteria 2/4 — ħdejn il-JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Il-punt tal-laqgħa għall-ftuħ hu l-post fejn jilqgħu lin-nies li jinsab fid-daħla tas-sit tal-JRC ta' Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), l-Italja.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Komisja Europejska, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Badania</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dostawa energii elektrycznej dla Wspólnego Centrum Badawczego w Isprze (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dostawa energii elektrycznej o wysokim, średnim i niskim napięciu do Wspólnego Centrum Badawczego w Isprze.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Włochy.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1. dostawa energii elektrycznej o napięciu 132 kV do wschodniej części Centrum za pomocą napowietrznej linii energetycznej;</P>
+                  <P>2. dostawa energii elektrycznej o napięciu 15 kV do przepompowni zlokalizowanej z dala od Centrum, w pobliżu jeziora Maggiore, na obrzeżach Ispry;</P>
+                  <P>3. dostawa energii elektrycznej o niskim napięciu (do oświetlenia drogi via Foresteria 2/4 — biegnącej obok budynku Wspólnego Centrum Badawczego).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>miejscem spotkania w dniu otwarcia ofert jest recepcja przy wejściu do siedziby JRC w Isprze.</P>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Włochy.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska komisia, JRC – Joint Research Centre, JRC.R – Resources (Brussels), JRC.R.I.4 – Logistics (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>výskum</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dodávka elektrickej energie pre pracovisko Spoločného výskumného centra v Ispre (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dodávka elektrickej energie vysokého, stredného a nízkeho napätia do Spoločného výskumného centra v Ispre.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Taliansko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Dodávka napätia 132 kV do východnej časti centra poskytovaného prostredníctvom závesného kábla;</P>
+                  <P>2) dodávka napätie 15 kV pre čerpaciu stanicu nachádzajúcu sa mimo centra a v blízkosti jazera Maggiore na okraji mesta Ispra;</P>
+                  <P>3) dodávka nízkeho napätia (na osvetlenie ulice via Foresteria 2/4 – vedľa Spoločného výskumného centra).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Miestom stretnutia na otváranie ponúk je recepcia pri vchode na pracovisko JRC v Ispre.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Taliansko.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Raziskave</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Dobava električne energije za Skupno raziskovalno središče v Ispri (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dobava električne energije visoke, srednje in nizke napetosti za Skupno raziskovalno središče v Ispri.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>(1) Oskrba z električno energijo napetosti 132 kV prek nadzemnega voda na vzhodni strani JRC;</P>
+                  <P>(2) oskrba z električno energijo napetosti 15 kV za črpalno postajo, ki se nahaja zunaj JRC, in sicer v bližini jezera Maggiore na obrobju Ispre;</P>
+                  <P>(3) nizkonapetostna oskrba (za razsvetljavo na naslovu via Foresteria 2/4 – poleg JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Zbirno mesto za udeležbo na odpiranju ponudb je sprejemnica pri vhodu na lokacijo JRC Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Coimisiún Eorpach, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Taighde</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Leictreachas a sholáthar don Airmheán Comhpháirteach Taighde in Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Leictreachas ardvoltais, meánvoltais agus ísealvoltais a sholáthar don Airmheán Comhpháirteach Taighde in Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), an Iodáil.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) soláthar 132-kV ar an taobh thoir den Airmheán, curtha ar fáil trí chábla crochta;</P>
+                  <P>2) soláthar 15-kV don stáisiún caidéalaithe atá suite lasmuigh den Airmheán agus gar do Lake Maggiore ar imeall Ispra;</P>
+                  <P>3) soláthar ísealvoltais (le haghaidh soilsiú ar via Foresteria 2/4 - in aice leis an JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Is ionann an pointe cruinnithe le haghaidh na hoscailte agus an oifig fáiltithe atá suite ag bealach isteach láithreán JRC Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), an Iodáil.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска комисия, Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Научни изследвания</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Доставка на електричество за Съвместния изследователски център в Испра (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Доставка на електричество с високо, средно и ниско напрежение за Съвместния изследователски център в Испра.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Италия.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) 132 kV електроподаване на източната страна на центъра, доставено през окачен кабел;</P>
+                  <P>2) 15 kV електроподаване за помпената станция, разположена извън центъра и близо до езерото Маджоре в покрайнините на Испра;</P>
+                  <P>3) Подаване на ниско напрежение (за осветление на via Foresteria 2/4 – в близост до JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Сборният пункт за отварянето е рецепцията, разположена на входа на обекта JRC Испра.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Италия.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Comisia Europeană, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Cercetare</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizare de energie electrică pentru Centrul Comun de Cercetare din Ispra (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Furnizare de energie electrică de joasă, medie și înaltă tensiune pentru Centrul Comun de Cercetare din Ispra.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) Furnizare de energie electrică de 132 kV pe partea de est a Centrului, asigurată prin intermediul unei linii electrice aeriene;</P>
+                  <P>2) furnizare de energie electrică de 15 kV pentru stația de pompare situată la distanță de Centru și aproape de lacul Maggiore la periferia site-ului din Ispra;</P>
+                  <P>3) furnizare de energie electrică de joasă tensiune (pentru iluminarea via Foresteria 2/4 – lângă JRC).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Punctul de întâlnire pentru ședința de deschidere a ofertelor este recepția situată la intrarea în situl JRC din Ispra.</P>
+                  <P>Via Enrico Fermi 2749,I-21027 Ispra (VA), Italia.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europska komisija, JRC — Joint Research Centre, JRC.R — Resources (Brussels), JRC.R.I.4 — Infrastructure (Ispra)</OFFICIALNAME>
+               <ADDRESS>Via Enrico Fermi 2749</ADDRESS>
+               <TOWN>Ispra (VA)</TOWN>
+               <POSTAL_CODE>I-21027</POSTAL_CODE>
+               <COUNTRY VALUE="IT"/>
+               <E_MAIL>jrc-r4nisp-procurement@ec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="ITC41"/>
+               <URL_GENERAL>https://ec.europa.eu/jrc/</URL_GENERAL>
+               <URL_BUYER>https://web.jrc.ec.europa.eu/callsfortender/</URL_BUYER>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <URL_PARTICIPATION>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</URL_PARTICIPATION>
+            <ADDRESS_PARTICIPATION_IDEM/>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY_OTHER>Istraživanje</CA_ACTIVITY_OTHER>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava električne energije za Zajednički istraživački centar u Ispri (VA)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>JRC/IPR/2018/R.I.4/0024/OC</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="09310000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Opskrba Zajedničkog istraživačkog centra (JRC) u Ispri visokonaponskom, srednjenaponskom i niskonaponskom električnom energijom.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">3000000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09310000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="09330000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="ITC41"/>
+               <MAIN_SITE>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>1) opskrba istočne strane Centra električnom energijom napona od 132 kV putem ovješenog kabela;</P>
+                  <P>2) opskrba crpne stanice koja je udaljena od Centra i nalazi se u blizini jezera Maggiore u predgrađu Ispre električnom energijom napona od 15 kV;</P>
+                  <P>3) opskrba niskonaponskom energijom (za osvjetljenje na via Foresteria 2/4 — pored JRC-a).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">3000000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">60</DURATION>
+               <NO_RENEWAL/>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <LEFTI>
+            <SUITABILITY>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </SUITABILITY>
+            <ECONOMIC_CRITERIA_DOC/>
+            <TECHNICAL_CRITERIA_DOC/>
+            <PERFORMANCE_CONDITIONS>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </PERFORMANCE_CONDITIONS>
+         </LEFTI>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-04</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>16:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <DURATION_TENDER_VALID TYPE="MONTH">6</DURATION_TENDER_VALID>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-08</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+               <PLACE>
+                  <P>Mjesto sastanka za otvaranje je recepcija na ulazu lokacije JRC-a Ispra.</P>
+                  <P>Via Enrico Fermi 2749, I-21027 Ispra (VA), Italija.</P>
+               </PLACE>
+               <INFO_ADD>
+                  <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+               </INFO_ADD>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <RECURRENT_PROCUREMENT/>
+            <EPAYMENT/>
+            <INFO_ADD>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </INFO_ADD>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <URL>http://curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3329</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-03-07</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

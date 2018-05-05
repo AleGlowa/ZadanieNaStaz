@@ -1,0 +1,3680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="123125-2018"
+            EDITION="2018056">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-118237-001</RECEPTION_ID>
+      <DELETION_DATE>20180511</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>56</NO_OJ>
+         <DATE_PUB>20180321</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 056-123125</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:123125-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="LV"/>
+         <IA_URL_GENERAL>www.berec.europa.eu</IA_URL_GENERAL>
+         <IA_URL_ETENDERING>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</IA_URL_ETENDERING>
+         <ORIGINAL_CPV CODE="72240000">Systems analysis and programming services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72250000">System and support services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72260000">Software-related services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72320000">Database services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72420000">Internet development services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="50000000">Repair and maintenance services</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48610000">Database systems</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48810000">Information systems</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48750000">Storage media loading software package</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="48326000">Mapping software package</ORIGINAL_CPV>
+         <ORIGINAL_CPV CODE="72413000">World wide web (www) site design services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="LV006">Rīga</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="LV006">Rīga</n2016:CA_CE_NUTS>
+         <VALUES>
+            <VALUE TYPE="ESTIMATED_TOTAL" CURRENCY="EUR">240000.00</VALUE>
+         </VALUES>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180314</DS_DATE_DISPATCH>
+         <DT_DATE_FOR_SUBMISSION>20180511 10:00</DT_DATE_FOR_SUBMISSION>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="3">Contract notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC02</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Letland</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering af redskab til måling af netneutralitet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Lettland</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Bereitstellung eines Messwerkzeugs für die Netzneutralität (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Latvia</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Provision of Net Neutrality (NN) Measurement Tool</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Letonia</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Provisión de una herramienta de medición de la neutralidad de la red</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Latvia</TI_CY>
+            <TI_TOWN>Riika</TI_TOWN>
+            <TI_TEXT>
+               <P>Verkkoneutraliteetin mittaustyökalun toimittaminen</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Lettonie</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Les dispositions relatives à l’outil de mesure de la neutralité du Net (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Λετονία</TI_CY>
+            <TI_TOWN>Ρίγα</TI_TOWN>
+            <TI_TEXT>
+               <P>Παροχή Εργαλείου Μέτρησης Δικτυακής Ουδετερότητας</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Lettonia</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornitura di uno strumento di misurazione della neutralità della rete</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Letland</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Levering van een instrument voor het meten van netneutraliteit (NN).</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Letónia</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Fornecimento de ferramenta de medição da neutralidade da rede</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Lettland</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Tillhandahållande av ett mätverktyg för nätneutralitet (Net Neutrality - NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Lotyšsko</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Zajištění nástroje měření pro neutralitu sítě (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Läti</TI_CY>
+            <TI_TOWN>Riia</TI_TOWN>
+            <TI_TEXT>
+               <P>Võrgu neutraalsuse (NN) mõõtmisvahendi hange</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lettország</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Hálózatsemlegességet mérő eszköz beszerzése</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Latvija</TI_CY>
+            <TI_TOWN>Ryga</TI_TOWN>
+            <TI_TEXT>
+               <P>Tinklo neutralumo vertinimo priemonės teikimas</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Latvija</TI_CY>
+            <TI_TOWN>Rīga</TI_TOWN>
+            <TI_TEXT>
+               <P>Tīkla neitralitātes (NN) mērījumu rīka nodrošināšana</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Latvja</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Il-provvista tal-Għodda għall-Kejl tan-Newtralità tan-Net (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Łotwa</TI_CY>
+            <TI_TOWN>Ryga</TI_TOWN>
+            <TI_TEXT>
+               <P>Udostępnienie narzędzia do pomiaru neutralności sieci</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Lotyšsko</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Poskytnutie nástroja merania neutrality siete (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Latvija</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Zagotovitev orodja za merjenje omrežne nevtralnosti</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Laitvia, an</TI_CY>
+            <TI_TOWN>Ríge</TI_TOWN>
+            <TI_TEXT>
+               <P>Soláthar Uirlise do Thomhas Neodrachta Idirlín (NN - net neutrality)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Лaтвия</TI_CY>
+            <TI_TOWN>Рига</TI_TOWN>
+            <TI_TEXT>
+               <P>Предоставяне на инструмент за измерване на неутралност на мрежата (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Letonia</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Furnizarea unui instrument de măsurare a neutralității nete (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Latvija</TI_CY>
+            <TI_TOWN>Riga</TI_TOWN>
+            <TI_TEXT>
+               <P>Nabava alata za mjerenje neutralnosti interneta (NN)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Støttekontoret for Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation (BEREC-kontoret)</AA_NAME>
+         <AA_NAME LG="DE">Büro des Gremiums Europäischer Regulierungsstellen für elektronische Kommunikation (Büro des GEREK)</AA_NAME>
+         <AA_NAME LG="EN">Office of the Body of European Regulators for Electronic Communications (BEREC Office)</AA_NAME>
+         <AA_NAME LG="ES">Oficina del Organismo de Reguladores Europeos de las Comunicaciones Electrónicas (Oficina del Orece)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelimen virasto (BEREC-virasto)</AA_NAME>
+         <AA_NAME LG="FR">Office de l'Organe des régulateurs européens des communications électroniques (Office de l’ORECE)</AA_NAME>
+         <AA_NAME LG="EL">Υπηρεσία του Φορέα Ευρωπαϊκών Ρυθμιστικών Αρχών για τις Ηλεκτρονικές Επικοινωνίες (Υπηρεσία του BEREC)</AA_NAME>
+         <AA_NAME LG="IT">Ufficio dell'Organismo dei regolatori europei delle comunicazioni elettroniche (Ufficio BEREC)</AA_NAME>
+         <AA_NAME LG="NL">Bureau van het Orgaan van Europese regelgevende instanties voor elektronische communicatie (Bureau van Berec)</AA_NAME>
+         <AA_NAME LG="PT">Gabinete do Organismo de Reguladores Europeus das Comunicações Eletrónicas (gabinete do ORECE)</AA_NAME>
+         <AA_NAME LG="SV">Byrån för Organet för europeiska regleringsmyndigheter för elektronisk kommunikation (Berec-byrån)</AA_NAME>
+         <AA_NAME LG="CS">Úřad Sdružení evropských regulačních orgánů v oblasti elektronických komunikací (Úřad BEREC)</AA_NAME>
+         <AA_NAME LG="ET">Elektroonilise Side Euroopa Reguleerivate Asutuste Ühendatud Ameti büroo (BERECi büroo)</AA_NAME>
+         <AA_NAME LG="HU">Az Európai Elektronikus Hírközlési Szabályozók Testületének Hivatala (BEREC Hivatal)</AA_NAME>
+         <AA_NAME LG="LT">Europos elektroninių ryšių reguliuotojų institucijos biuras (EERRI biuras)</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Elektronisko komunikāciju regulatoru iestādes birojs (BEREC birojs)</AA_NAME>
+         <AA_NAME LG="MT">Uffiċċju tal-Korp ta' Regolaturi Ewropej tal-Komunikazzjonijiet Elettroniċi (l-Uffiċċju BEREC)</AA_NAME>
+         <AA_NAME LG="PL">Urząd Organu Europejskich Regulatorów Łączności Elektronicznej (Urząd BEREC)</AA_NAME>
+         <AA_NAME LG="SK">Úrad Orgánu európskych regulátorov pre elektronické komunikácie (Úrad BEREC)</AA_NAME>
+         <AA_NAME LG="SL">Urad Organa evropskih regulatorjev za elektronske komunikacije (Urad BEREC)</AA_NAME>
+         <AA_NAME LG="GA">Oifig Chomhlacht na Rialálaithe Eorpacha um Chumarsáid Leictreonach (Oifig BEREC)</AA_NAME>
+         <AA_NAME LG="BG">Служба на Органа на европейските регулатори в областта на електронните съобщения (Служба на ОЕРЕС)</AA_NAME>
+         <AA_NAME LG="RO">Biroul Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (Biroul OAREC)</AA_NAME>
+         <AA_NAME LG="HR">Ured Tijela europskih regulatora za elektroničke komunikacije (Ured BEREC-a)</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Støttekontoret for Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation (BEREC-kontoret)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>BEREC-kontoret</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering af redskab til måling af netneutralitet</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Levering af redskab til måling af netneutralitet.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Det første mål med dette udbud er at udvikle, implementere, teste og godkende et måleredskab til netneutralitet over en periode på 12 måneder. Det andet mål er at levere bistand til den ordregivende myndighed (BEREC-kontoret) og de nationale tilsynsmyndigheder inden for den efterfølgende periode på 36 måneder. Det drejer sig om et måleredskab til open source-software til monitorering af servicekvalitet (QoS) med hensyn til internetadgangstjenester såsom hastighed og forsinkelser samt styring af internettrafik såsom blokering og regulering af internetbaserede applikationer, portblokeringer osv. Leveringen skal også omfatte en referencegennemførelse af redskabet og en BEREC-portal for offentliggørelse af resultaterne. Det vil være en »reference« for de nationale tilsynsmyndigheder i den forstand, at den ordregivende myndighed kan tilbyde de nationale tilsynsmyndigheder en prototypisk arbejdsløsning, så de kan vælge at bruge den enten fuldt ud eller benytte visse moduler / funktioner.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Den indledende varighed er 12 måneder, der fornys automatisk op til 3 gange (maksimal varighed må ikke overstige 48 måneder).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Büro des Gremiums Europäischer Regulierungsstellen für elektronische Kommunikation (Büro des GEREK)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Büro des GEREK</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Bereitstellung eines Messwerkzeugs für die Netzneutralität (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Bereitstellung eines Messwerkzeugs für die Netzneutralität (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Das erste Ziel der Ausschreibung besteht in der Entwicklung, Umsetzung, Erprobung und Validierung eines Messwerkzeugs für die Netzneutralität (Net Neutrality — NN) über einen Zeitraum von 12 Monaten. Das zweite Ziel besteht darin, dem öffentlichen Auftraggeber (dem Büro des GEREK) und den nationalen Regulierungsbehörden (National Regulatory Authority — NRA) innerhalb der folgenden 36 Monate Unterstützungsdienste zur Verfügung zu stellen. Das Werkzeug muss ein Open-Source-Software-Messwerkzeug zur Überwachung der Aspekte der Dienstqualität (Quality of Service — QoS) von Internetzugangsdienste (Internet Access Services — IAS) wie Geschwindigkeit und Verzögerung sowie Aspekte des Verkehrsmanagements, wie das Blockieren und Drosseln von internetbasierten Anwendungen, blockierende Ports, usw. umsetzen. Das Ergebnis umfasst auch eine Referenzumsetzung des Werkzeugs und ein GEREK-Portal zur Veröffentlichung der Messergebnisse aus dem Werkzeug. Es wird eine „Referenz“ für die nationalen Regulierungsbehörden (National Regulatory Authority — NRA) in dem Sinne sein, dass es eine vom öffentlichen Auftraggeber für die einzelnen nationalen Regulierungsbehörden erhältliche Prototyp-Arbeitslösung bereitstellt, die die Lösung entweder vollständig oder durch Übernahme bestimmter Module/Funktionen aktivieren und einsetzen kann.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Die anfängliche Vertragslaufzeit beträgt 12 Monate und kann bis zu dreimal verlängert werden (die maximale Gesamtlaufzeit darf 48 Monate nicht überschreiten).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="ORIGINAL" FORM="F02" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Office of the Body of European Regulators for Electronic Communications (BEREC Office)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Berec Office</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provision of Net Neutrality (NN) Measurement Tool</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Provision of network neutrality (NN) measurement tool.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>The 1<FT TYPE="SUP">st</FT> objective of the Tender is to develop, implement, test and validate a Net Neutrality (NN) Measurement Tool, over a period of 12 months. The 2<FT TYPE="SUP">nd</FT> objective is to provide support services to the Contracting Authority (the BEREC Office) and NRAs within the following period of 36 months. The Tool shall implement an open source software Measurement tool for monitoring the Quality of Service (QoS) aspects of Internet Access Services (IAS), such as speed and delay, as well as aspects of traffic management, such as the blocking and throttling of Internet-based applications, ports blocking, etc. The deliverable will also include a reference implementation of the tool and a BEREC Portal for publication of measurement results from the tool. It will be a “Reference” for NRAs in the sense that it will provide a prototype working solution, available from the Contracting Authority for individual NRAs, which may opt-in and deploy the solution, either in full or by adopting certain modules / functions.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Initial contract duration is 12 months, automatically renewable up to 3 times (maximum total duration should not exceed 48 months).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court of the European Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oficina del Organismo de Reguladores Europeos de las Comunicaciones Electrónicas (Oficina del Orece)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Oficina del Orece</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Provisión de una herramienta de medición de la neutralidad de la red</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Provisión de una herramienta de medición de la neutralidad de la red.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>El primer objetivo de la licitación es desarrollar, implementar, probar y validar una herramienta de medición de la neutralidad de la red durante un período de 12 meses. El segundo objetivo es prestar servicios de apoyo al órgano de contratación (la Oficina del Orece) y a las autoridades nacionales de reglamentación (ANR) durante el período posterior de 36 meses. La herramienta deberá implementar una herramienta de «software» de medición de código abierto para hacer un seguimiento de los aspectos relacionados con la calidad del servicio de los servicios de acceso a internet, tales como la velocidad y el retraso, así como aspectos relacionados con la gestión del tráfico, tales como el bloqueo y la aceleración de aplicaciones de internet, el bloqueo de puertos, etc. Los resultados también incluirán una ejecución de referencia de la herramienta y un portal del Orece para la publicación de los resultados de medición de la herramienta. Será una «referencia» para las ANR, en el sentido de que proporcionará un prototipo de solución funcional, disponible por parte del órgano de contratación para las ANR individuales, que pueden adherirse y desplegar la solución, tanto de forma completa como adoptando ciertos módulos o funciones.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La duración inicial del contrato es de 12 meses, renovable automáticamente hasta 3 veces (la duración máxima total no debe exceder los 48 meses).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelimen virasto (BEREC-virasto)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>BEREC-virasto</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Verkkoneutraliteetin mittaustyökalun toimittaminen</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Verkkoneutraliteetin mittaustyökalun toimittaminen</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Tämän tarjouspyynnön ensimmäisenä tavoitteena on kehittää, toteuttaa, testata ja validoida verkkoneutraliteetin mittaustyökalu 12 kuukauden aikana. Tarjouspyynnön toisena tavoitteena on tarjota hankintaviranomaiselle (BEREC-virastolle) ja kansallisille sääntelyviranomaisille tukipalveluja tätä seuraavina 36 kuukautena. Tämä mittaustyökalu tulee toteuttaa avoimen lähdekoodin ohjelmistona, jonka avulla voidaan valvoa sellaisia internetpääsypalveluiden (Internet Access Services – IAS) palvelun laatutekijöitä (Quality of Service – QoS) kuten nopeus ja viive sekä liikenteenohjaukseen liittyviä tekijöitä kuten internet-verkkoon perustuvien sovellusten estämistä ja pullonkauloja, porttien estämistä jne. Hankinnan tuloksena tulee myös saada työkalun mallitoteutus ja BERECin verkkoportaali työkalun mittaustulosten julkaisemiseksi. Mallitoteutuksen tulee olla kansallisille sääntelyviranomaisille työprototyyppi, jonka he voivat saada hankintaviranomaiselta ja jonka he voivat omaksua ja ottaa käyttöönsä joko kokonaisuudessaan tai ottamalla siitä joitain moduuleja/toimintoja omaan käyttöönsä.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Kesto aluksi 12 kuukautta, automaattisesti uusittavissa jopa kolme kertaa (enimmäiskeston ei tulisi ylittää 48 kuukautta).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Office de l'Organe des régulateurs européens des communications électroniques (Office de l’ORECE)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Office de l'Orece</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Les dispositions relatives à l’outil de mesure de la neutralité du Net (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Les dispositions relatives à l’outil de mesure de la neutralité du Net (NN)</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>le 1<FT TYPE="SUP">er</FT> objectif de l’appel d’offres est de développer, mettre en place, tester et valider un outil de mesure de la neutralité du net, sur une période de 12 mois. Le 2<FT TYPE="SUP">ème</FT> objectif est d’apporter un soutien au pouvoir adjudicateur (Office de ORECE) et les ANR dans la période de 36 mois. L’outil doit mettre en place un outil de mesure d’un logiciel ouvert pour la surveillance des aspects de la qualité des services des services d’accès à internet, comme la vitesse et le retard, ainsi que des aspects de la gestion du trafic, come le blocage et l’étranglement d’applications internet le blocage des ports, etc. Le produit portera aussi sur la mise en place d’une référence de l’outil et un portail de ORECE pour la publication des résultats des mesures de l’outil. Ce sera une «Référence» pour les ANR dans le sens qu’il offrira une solution prototype de travail, disponible au niveau du pouvoir adjudicateur pour les ANR individuelles, qui peuvent opter et déployer la solution, soit en totalité ou en adoptant certains modules / fonctions.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Durée initiale du marché : 12 mois, renouvelable automatiquement jusqu’à 3 fois (la durée totale maximale ne doit pas excéder 48 mois).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Υπηρεσία του Φορέα Ευρωπαϊκών Ρυθμιστικών Αρχών για τις Ηλεκτρονικές Επικοινωνίες (Υπηρεσία του BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Υπηρεσία του BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Παροχή Εργαλείου Μέτρησης Δικτυακής Ουδετερότητας</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Παροχή Εργαλείου Μέτρησης Δικτυακής Ουδετερότητας.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Ο πρώτος στόχος του διαγωνισμού είναι η ανάπτυξη, εφαρμογή, δοκιμή και επικύρωση ενός εργαλείου μέτρησης της δικτυακής ουδετερότητας για περίοδο 12 μηνών. Ο δεύτερος στόχος είναι η παροχή υπηρεσιών υποστήριξης στην αναθέτουσα αρχή (Υπηρεσία του BEREC) και τις εθνικές ρυθμιστικές αρχές (NRAs) εντός της επόμενης περιόδου 36 μηνών. Το Εργαλείο θα υλοποιήσει ένα εργαλείο μέτρησης λογισμικού ανοικτού κώδικα για την παρακολούθηση των πτυχών Ποιότητας Υπηρεσίας των Υπηρεσιών Πρόσβασης στο Διαδίκτυο, όπως η ταχύτητα και η καθυστέρηση, καθώς και των πτυχών διαχείρισης της κυκλοφορίας, όπως η παρεμπόδιση και ο περιορισμός των εφαρμογών που βασίζονται στο διαδίκτυο, ο αποκλεισμός θυρών, κ.λπ. Το παραδοτέο θα περιλαμβάνει επίσης μια εφαρμογή αναφοράς του εργαλείου και μια πύλη BEREC για τη δημοσίευση των αποτελεσμάτων μέτρησης από το εργαλείο. Θα πρόκειται για ένα «σημείο αναφοράς» για τις εθνικές ρυθμιστικές αρχές (NRAs) υπό την έννοια ότι θα παρέχει μια πρωτότυπη λύση εργασίας, διαθέσιμη από την αναθέτουσα αρχή για μεμονωμένες εθνικές ρυθμιστικές αρχές (NRAs) , οι οποίες μπορούν να επιλέξουν και να αναπτύξουν τη λύση, είτε πλήρως είτε υιοθετώντας ορισμένες λειτουργικές μονάδες/λειτουργίες.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Η αρχική διάρκεια της σύμβασης είναι 12 μήνες, ανανεώσιμη αυτόματα έως 3 φορές (η μέγιστη συνολική διάρκεια δεν πρέπει να υπερβαίνει τους 48 μήνες).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ufficio dell'Organismo dei regolatori europei delle comunicazioni elettroniche (Ufficio BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Ufficio BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornitura di uno strumento di misurazione della neutralità della rete</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Fornitura di uno strumento di misurazione della neutralità della rete.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Il primo obiettivo della gara consiste nello sviluppo, l’attuazione, il test e la convalida di uno strumento di misurazione della neutralità della rete per un periodo di 12 mesi. Il secondo obiettivo consiste nella prestazione di servizi di supporto all’ente appaltante (l’Ufficio BEREC) e alle autorità di regolamentazione entro il periodo successivo di 36 mesi. Lo strumento applicherà uno strumento open source di misurazione software per il monitoraggio degli aspetti della qualità dei servizi di accesso a Internet, quali velocità e ritardo, nonché degli aspetti di gestione del traffico, come il blocco e la limitazione di applicazioni basate su Internet, blocco delle porte, ecc. Il risultato includerà anche un'attuazione di riferimento dello strumento e un portale BEREC per la pubblicazione dei risultati delle misurazione fatte dallo strumento. Rappresenterà un "riferimento" per le autorità di regolamentazione nel senso che fornirà un prototipo di soluzione di lavoro, disponibile presso l’ente appaltante, per le singole autorità di regolamentazione, che potranno scegliere e applicare la soluzione, in tutto o in parte, adottando determinati moduli/funzioni .</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>La durata iniziale dell’appalto sarà di 12 mesi, rinnovabile automaticamente fino a 3 volte (la durata massima non dovrebbe superare i 48 mesi).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Bureau van het Orgaan van Europese regelgevende instanties voor elektronische communicatie (Bureau van Berec)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Bureau van Berec</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Levering van een instrument voor het meten van netneutraliteit (NN).</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Levering van een instrument voor het meten van netneutraliteit (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>De eerste doelstelling van de aanbesteding is de ontwikkeling, tenuitvoerlegging, het testen en valideren van een instrument voor het meten van netneutraliteit (NN), over een periode van 12 maanden. De tweede doelstelling is de verlening van ondersteunende diensten aan de aanbestedende dienst (het Bureau van Berec) en nationale regelgevende instanties (NRI's) in de volgende periode van 36 maanden. Het instrument moet een meetinstrument op basis van opensourcesoftware ten uitvoer leggen voor het meten van aspecten van de kwaliteit van de dienstverlening van diensten inzake internettoegang, zoals de snelheid en vertraging, alsook aspecten van verkeersbeheer, zoals het blokkeren en beperken van internetgebaseerde toepassingen, het blokkeren van poorten enz. De levering moet ook een referentie-implementatie van het instrument en een Berec-portaal voor de publicatie van de meetresultaten van het instrument omvatten. Dit zal een „referentie” vormen voor de NRI's in de zin dat het een prototype van een werkoplossing biedt die beschikbaar is bij de aanbestedende dienst voor individuele NRI's die de oplossing in zijn totaliteit kunnen kiezen en inzetten of die er bepaalde modules/functies van kunnen overnemen.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>De initiële looptijd van de opdracht bedraagt 12 maanden, automatisch maximaal driemaal verlengbaar (de maximale totale looptijd mag niet langer zijn dan 48 maanden).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Gabinete do Organismo de Reguladores Europeus das Comunicações Eletrónicas (gabinete do ORECE)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Gabinete do Orece</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Fornecimento de ferramenta de medição da neutralidade da rede</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Fornecimento de ferramenta de medição da neutralidade da rede.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>O 1<FT TYPE="SUP">o</FT> objetivo do concurso é o desenvolvimento, implementação, ensaio e validação de uma ferramenta de medição da neutralidade da rede, ao longo de um período de 12 meses. O 2<FT TYPE="SUP">o</FT> objetivo é o de fornecer serviços de apoio à entidade adjudicante (gabinete do ORECE) e autoridades reguladoras nacionais dentro do período seguinte de 36 meses. A ferramenta deverá implementar uma ferramenta de medição de software de fonte aberta para monitorização de aspetos de qualidade de serviço (QS) dos serviços de acesso à internet, tais como velocidade e atraso, bem como aspectos de gestão de tráfego, tais como o bloqueio e estrangulamento de aplicações baseadas em internet, bloqueio de portas, etc. Os resultados também deverão incluir uma implementação de referência da ferramenta e um Portal ORECE para publicação dos resultados de medição da ferramenta. Será uma referência para entidades reguladoras nacionais no sentido em que fornecerá uma solução de trabalho protótipo, disponível a partir da entidade adjudicante para autoridades reguladoras nacionais individuais, que poderão aderir e implementar a solução, quer totalmente ou adotando determinados módulos/funções.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A duração inicial do contrato é de 12 meses, renovável automaticamente até 3 vezes (duração máxima total inferior a 48 meses).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Byrån för Organet för europeiska regleringsmyndigheter för elektronisk kommunikation (Berec-byrån)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Berec-byrån</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tillhandahållande av ett mätverktyg för nätneutralitet (Net Neutrality - NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tillhandahållande av ett mätverktyg för nätneutralitet (Net Neutrality - NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Det första målet med anbudet är att utveckla, implementera, testa och validera ett mätverktyg för nätneutralitet (NN), under en period på 12 månader. Det andra målet är att tillhandahålla stödtjänster till den upphandlande myndigheten (Berec-byrån) och de nationella regleringsmyndigheterna (NRAs) inom den påföljande perioden på 36 månader. Verktyget ska implementera ett mätverktyg i form av en programvara med öppen källkod, för övervakning av tjänstekvaliteten (Quality of Service - QoS) hos internetanslutningstjänster (Internet Access Services - IAS), såsom hastighet och fördröjning, samt trafikhantering såsom blockering och strypning av internetbaserade applikationer, blockering av portar, etc. Produkten ska även inbegripa ett referensgenomförande av verktyget och en Berec-portal för publicering av mätresultat från verktyget. Det kommer att utgöra en “referens” för nationella regleringsmyndigheter på så sätt att det tillhandahåller en prototypisk arbetslösning, tillgänglig från den upphandlande myndigheten för enskilda nationella regleringsmyndigheter, som kan välja att använda och sprida lösningen, antingen i sitt fullständiga utförande eller genom att anta vissa moduler/funktioner.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Initial varaktighet för kontraktet är 12 månader, som automatiskt förnyas upp till 3 gånger (maximal total varaktighet ska inte överstiga 48 månader).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úřad Sdružení evropských regulačních orgánů v oblasti elektronických komunikací (Úřad BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Úřad BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zajištění nástroje měření pro neutralitu sítě (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zajištění nástroje měření pro neutralitu sítě (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Prvním cílem zakázky je vývoj, realizace, zkouška a ověření nástroje měření pro neutralitu sítě v průběhu 12 měsíců. Druhým cílem zakázky je poskytování služeb podpory veřejnému zadavateli (Úřad BEREC) a národním regulačním orgánům (NRA) v průběhu následujících 36 měsíců. Nástroj by měl zavést otevřený zdrojový software pro sledování aspektů kvality služeb (QoS) v případě služby přístupu k internetu (IAS), jako je rychlost a prodlení, rovněž aspekty řízení internetového provozu, např. blokování a regulace internetových aplikací, blokování bran atd. Poskytované služby budou také zahrnovat referenční provedení nástroje a portálu BEREC pro účely zveřejnění výsledků měření týkajících se nástroje. „Referenčním“ se pro NRA rozumí prototyp pracovního řešení, poskytovaný veřejným zadavatelem jednotlivým  NRA, které umožňuje vybrat a aplikovat řešení, buď v plném rozsahu nebo přijetím určitých modulů/funkcí.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Počáteční doba trvání zakázky – 12 měsíců, automaticky obnovitelná až třikrát (maximální doba trvání by neměla překročit 48 měsíců).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Elektroonilise Side Euroopa Reguleerivate Asutuste Ühendatud Ameti büroo (BERECi büroo)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>BERECi büroo</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Võrgu neutraalsuse (NN) mõõtmisvahendi hange</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Võrgu neutraalsuse (NN) mõõtmisvahendi hange.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Pakkumise esimene eesmärk on töötada välja, teostada, testida ja valideerida võrgu neutraalsuse mõõtmisvahend („instrument“), 12-kuise ajavahemiku jooksul. Teine eesmärk on osutada avaliku sektori hankijale (BERECi büroo) ja reguleerivatele riigiasutustele (NRA) tugiteenuseid eelnimetatud perioodile järgneva 36-kuise ajavahemiku jooksul. Instrumendiga võetakse lähtekoodtarkvara mõõtmisvahend kasutusele järgmiste järelevalvetoimingute teostamiseks: interneti pääsuteenuste (IAS) teenuse kvaliteedi (QoS) aspektide (nagu kiirus ja hilistus) ning liikluse halduse aspektide (nagu internetipõhiste rakenduste blokeerimine ja ahendus, portide blokeerimine jne) seire. Valmistoode hõlmab ka instrumendi etalonteostust ning BERECi portaali – instrumendiga saadud mõõtetulemuste avaldamiseks. Instrumendist saab NRAdele „etalon“, andes töötava lahenduse prototüübi, mis on avaliku sektori hankijalt kättesaadav individuaalsetele NRAdele, kes võivad liituda ja võtta lahenduse kasutusele kas täismahus või võttes kasutusele teatud kindlad moodulid/funktsioonid.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Esialgse lepingu kestus on 12 kuud, leping on automaatselt uuendatav kuni 3 korda (maksimaalne kogukestus ei tohiks ületada 48 kuud).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Az Európai Elektronikus Hírközlési Szabályozók Testületének Hivatala (BEREC Hivatal)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>BEREC Hivatal</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Hálózatsemlegességet mérő eszköz beszerzése</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Hálózatsemlegességet mérő eszköz beszerzése.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>A pályázat 1. célja egy hálózatsemlegességet mérő eszköz kidolgozása, megvalósítása, tesztelése és hitelesítése egy 12 hónapos időszakban. A 2. cél támogatási szolgáltatások nyújtása az ajánlatkérő (a BEREC Hivatal) és a nemzeti szabályozó hatóságok részére az elkövetkezendő 36 hónapos időszakban. Az eszköznek egy nyílt forráskódú mérőeszköz-szoftvert kell alkalmaznia az internet-hozzáférési szolgáltatások QoS (szolgáltatások minőségére irányuló szempontok) szempontjai nyomon követése céljából, pl. sebesség és késleltetés, valamint a forgalomszabályozás szempontjaiból, pl. az internetalapú alkalmazások letiltása és lelassítása, portok letiltása stb. A megvalósítandó célok közé tartozik továbbá az eszköz referenciaalkalmazása, valamint egy BEREC oldal az eszközzel végzett mérési eredmények közzététele céljából. Ez „referenciaként“ szolgál majd a nemzeti szabályozó hatóságok részére abban a tekintetben, hogy egy olyan működő megoldás prototípusát biztosítja, amely az ajánlatkérőtől elérhető az egyes nemzeti szabályozó hatóságoknak, amelyek a részvétel és a megoldás teljes körű vagy csak bizonyos modulokat/funkciókat tartalmazó alkalmazása mellett dönthetnek.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>A szerződés kezdeti időtartama 12 hónap, amely automatikusan meghosszabbítható legfeljebb 3 alkalommal (a maximális időtartam nem haladhatja meg a 48 hónapot).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos elektroninių ryšių reguliuotojų institucijos biuras (EERRI biuras)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>EERRI biuras</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tinklo neutralumo vertinimo priemonės teikimas</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tinklo neutralumo vertinimo priemonės teikimas.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Pirmasis konkurso tikslas – parengti, įgyvendinti, išbandyti ir patvirtinti tinklo neutralumo vertinimo priemonę per 12 mėnesių laikotarpį. Antrasis tikslas – teikti perkančiajai organizacijai (BEREC biurui) ir nacionalinėms reguliavimo institucijoms pagalbines paslaugas per ateinantį 36 mėnesių laikotarpį. Priemonė įgyvendina atvirojo šaltinio programinės įrangos matavimo priemonę, skirtą stebėti interneto prieigos paslaugų kokybės aspektus, pavyzdžiui, greitį ir delsą, taip pat srauto valdymo aspektus, pavyzdžiui, internetinių programų blokavimą ir ribojimą, prievadų blokavimą ir t. t. Rezultatas taip pat apims orientacinį priemonės ir BEREC portalo, skirto vertinimo rezultatams skelbti, įgyvendinimą. Įgyvendinimas „orientacinis“ todėl, kad suteiks nacionalinėms reguliavimo institucijoms sprendimo prototipą, kurį jos galės įsigyti iš perkančiosios organizacijos (pastaroji gali nuspręsti įgyvendinti visą sprendimą arba tam tikrus jo modulius ar funkcijas).</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Pradinė sutarties trukmė – 12 mėnesių, automatiškai atnaujinama ne daugiau nei 3 kartus (ilgiausia bendra trukmė neturėtų viršyti 48 mėnesių).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Elektronisko komunikāciju regulatoru iestādes birojs (BEREC birojs)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>BEREC birojs</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tīkla neitralitātes (NN) mērījumu rīka nodrošināšana</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tīkla neitralitātes (NN) mērījumu rīka nodrošināšana.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Konkursa 1. mērķis ir izstrādāt, īstenot, pārbaudīt un validēt tīkla neitralitātes (Net Neutrality – NN) mērījumu rīku uz 12 mēnešu periodu. 2. mērķis ir sniegt atbalsta pakalpojumus līgumslēdzējai iestādei (BEREC birojam) un valsts regulatīvajām iestādēm 36 mēnešu periodā. Rīka funkciju ietvaros jānodrošina atklātā pirmkoda programmatūras mērījumu rīks, lai pārraudzītu interneta piekļuves pakalpojumu (Internet Access Services – IAS) aspektu pakalpojumu kvalitāti (Quality of Service – QoS), piemēram, ātrumu un aizkavi, kā arī datplūsmas pārvaldību, piemēram, interneta lietojumprogrammu pieprasījumu ierobežošanu un datu bloķēšanu, portu bloķēšanu utt. Nodevumā jāietver arī ieteicamais īstenošanas rīks un BEREC portāls rīka mērījumu rezultātu publicēšanai. Ieteicamais īstenošanas rīks būs kā paraugs valsts regulatīvajām iestādēm, sniedzot pagaidu risinājuma prototipu, ko atsevišķas valsts regulatīvās iestādes var saņemt no līgumslēdzējas iestādes, pieteikties risinājumam un izvietot to pilnībā vai, piemērojot noteiktus moduļus/funkcijas.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>līguma sākotnējais darbības laiks – 12 mēneši, kas automātiski pagarināms līdz 3 reizēm (kopējais maksimālais darbības laiks nevar pārsniegt 48 mēnešus).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Uffiċċju tal-Korp ta' Regolaturi Ewropej tal-Komunikazzjonijiet Elettroniċi (l-Uffiċċju BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>L-Uffiċċju BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Il-provvista tal-Għodda għall-Kejl tan-Newtralità tan-Net (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il-provvista tal-Għodda għall-Kejl tan-newtralità tan-Net (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>L-ewwel objettiv tas-sejħa għall-offerti huwa l-iżvilupp, l-implimentazzjoni, l-ittestjar u l-validazzjoni ta' Għodda għall-Kejl tan-Newtralità tan-Net (NN), fuq perjodu ta' 12-il xahar. It-2 objettiv huwa l-provvista ta' servizzi ta' appoġġ lill-Awtorità li qiegħda toħroġ il-kuntratt (l-Uffiċċju BEREC) u l-NRAs fil-perjodu sussegwenti ta' 36 xahar. L-għodda għandha timplimenta softwer open source ta' għodda għall-Kejl għall-monitoraġġ tal-aspetti tal-Kwalità tas-Servizz (QoS) tas-Servizzi tal-Aċċess għall-Internet (IAS), bħall-veloċità u d-dewmien, kif ukoll aspetti ta' mmaniġġjar tat-traffiku, bħall-ibblokkjar u t-trażżin ta' applikazzjonijiet ibbażati fuq l-Internet, ibblokkjar ta' ports, eċċ. Is-servizzi kkunsinjati ser jinkludu wkoll implimentazzjoni ta' referenza tal-għodda u Portal BEREC għall-pubblikazzjoni tar-riżultati tal-kejl mill-għodda. Dan ser ikun "Referenza" għall-NRAs fis-sens li dan ser jipprovdi soluzzjoni prattika prototipika , disponibbli mill-Awtorità li qiegħda toħroġ il-kuntratt għall-NRAs individwali, li jistgħu jagħżlu u jużaw is-soluzzjoni, jew kollha kemm hi, jew billi jadottaw ċerti moduli / funzjonijiet.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>It-tul inizjali tal-kuntratt huwa ta' 12-il xahar, li jiġġedded b'mod awtomatiku sa 3 darbiet (it-tul massimu ma għandux jeċċedi 48 xahar).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urząd Organu Europejskich Regulatorów Łączności Elektronicznej (Urząd BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Urząd BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Udostępnienie narzędzia do pomiaru neutralności sieci</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Udostępnienie narzędzia do pomiaru neutralności sieci.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Pierwszym celem zamówienia jest opracowanie, wdrożenie, przetestowanie i zatwierdzenie narzędzia do pomiaru neutralności w okresie 12 miesięcy. Drugim celem jest świadczenie usług wsparcia na rzecz instytucji zamawiającej (biura BEREC) i krajowych organów regulacyjnych w okresie kolejnych 36 miesięcy. Wykonawca powinien wdrożyć otwarte narzędzie pomiarowe do monitorowania parametrów jakości usług dostępu do Internetu, takich jak szybkość i opóźnienie, a także aspektów zarządzania ruchem, takich jak blokowanie i ograniczanie aplikacji internetowych, blokowanie portów itp. Należy również dostarczyć oprogramowanie wzorcowe oraz portal BEREC do publikowania wyników pomiarów. Będzie to oprogramowanie wzorcowe dla krajowych organów regulacyjnych w tym sensie, służące jako prototypowe rozwiązanie robocze, dostępne za pośrednictwem instytucji zamawiającej dla poszczególnych krajowych organów regulacyjnych, które mogą przystąpić do programu i wdrożyć niniejsze rozwiązanie w całości lub poprzez przyjęcie określonych modułów/funkcji.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Początkowy czas trwania umowy wynosi 12 miesięcy, automatycznie odnawiany do 3 razy (maksymalny czas trwania nie powinien przekraczać 48 miesięcy).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Úrad Orgánu európskych regulátorov pre elektronické komunikácie (Úrad BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Berec Office</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Poskytnutie nástroja merania neutrality siete (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Poskytnutie nástroja merania neutrality siete (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>1. cieľom obstarávania je vývoj, implementácia, testovanie a overenie nástroja na meranie neutrality siete (NN) počas obdobia 12 mesiacov. 2. cieľom je poskytovanie podporných služieb pre verejného obstarávateľa (úrad BEREC) a vnútroštátne regulačné orgány počas ďalšieho obdobia 36 mesiacov. Nástroj na meranie neutrality siete zavedie merací nástroj so softvérom s otvoreným zdrojovým kódom na monitorovanie aspektov kvality služieb internetového prístupu, ako sú rýchlosť a omeškanie; ako aj aspekty riadenia prenosov dát, ako sú blokovanie a spomaľovanie internetových aplikácií, blokovanie brán atď. Výstup bude obsahovať aj referenčnú implementáciu nástroja a portál úradu BEREC na zverejňovanie výsledkov meraní nástroja. To poslúži ako „referencia“ pre vnútroštátne regulačné orgány v tom zmysle, že poskytne prototypové pracovné riešenie, ktoré verejný obstarávateľ sprístupní jednotlivým vnútroštátnym regulačným orgánom. Tie sa môžu na základe slobodnej voľby rozhodnúť pre riešenie a nasadiť ho buď v plnom rozsahu, alebo s prevzatím určitých modulov/funkcií.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Počiatočné trvanie obstarávania je 12 mesiacov, automaticky obnoviteľné až 3-krát (maximálne trvanie nesmie presiahnuť 48 mesiacov).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Urad Organa evropskih regulatorjev za elektronske komunikacije (Urad BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Urad BEREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Zagotovitev orodja za merjenje omrežne nevtralnosti</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zagotovitev orodja za merjenje omrežne nevtralnosti.</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Prvi cilj razpisa je razviti, izvesti, preskusiti in potrditi orodje za merjenje omrežne nevtralnosti v obdobju 12 mesecev. Drugi cilj je zagotavljati podporne storitve naročniku (Uradu BEREC) in nacionalnim regulativnim organom za obdobje 36 mesecev. Razvita bo odprtokodno programsko orodje za merjenje za spremljanje vidikov zagotavljanja kakovosti storitev dostopa do interneta, kot so hitrost in zakasnitve, ter vidikov upravljanja prometa, kot so blokiranje in zaviranje internetnih aplikacij, blokiranje vrat itd. Zagotoviti bo treba tudi referenčno izvedbo orodja in portal BEREC za objave merilnih rezultatov orodja. Predstavljalo bo „referenco“ za nacionalne regulativne organe v smislu, da bo zagotovilo prototipno delovno rešitev, ki jo bo naročnik dajal na voljo posameznim nacionalnim regulativnim organom, ki se lahko odločijo za to rešitev in jo uporabijo bodisi v celoti bodisi le določene module/funkcije.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Začetno trajanje pogodbe je 12 mesecev z možnostjo samodejnega podaljšanja največ 3-krat (najdaljše trajanje ne sme presegati 48 mesecev).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Oifig Chomhlacht na Rialálaithe Eorpacha um Chumarsáid Leictreonach (Oifig BEREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Oifig Berec</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Soláthar Uirlise do Thomhas Neodrachta Idirlín (NN - net neutrality)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Soláthar Uirlise do Thomhas Neodrachta Idirlín (NN - net neutrality).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Is é an chéad chuspóir leis an tairiscint chun Uirlis do thomhas neodrachta Idirlín (NN) a fhorbairt, a chur chun feidhme, a thástáil agus a bhailíochtú, thar thréimhse 12 mí. Is é an dara cuspóir chun seirbhísí tacaíochta a sholáthar don Údarás Conarthachta (Oifig BEREC) agus do na NRAí laistigh den tréimhse leantach 36 mí. Cuirfear chun feidhme leis an Uirlis uirlis tomhais de bhogearraí foinse oscailte chun faireachán ar ghnéithe na cáilíochta seirbhíse (QoS - quality of service) de na Seirbhísí rochtana Idirlín (IAS - Internet access services), amhail luas agus moille, chomh maith le gnéithe den bhainistiú tráchta, ar nós bhlocáil agus scóigeadh na bhfeidhmchlár Idirlín-bhunaithe, blocáil na bport, etc. Áireofar leis an uirlis inseachadta freisin forfheidhmiú teistiméireachta den uirlis agus Tairseach BEREC d’fhoilsiú na dtorthaí tomhais ón uirlis. Beidh sí ina “Teistiméireacht” do na NRAí sa bhrí go soláthrófar réiteach oibre is fréamhshamhail, ar fáil ón Údarás Conarthach do na NRAí aonair, ar féidir leo liostáil agus an réiteach a imscaradh, ina hiomláine nó ach glacadh le roinnt modúl / feidhmeanna.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Is ionann achar tosaigh an chonartha agus 12 mí, agus is féidir é a athnuachan go huathoibríoch suas le 3 huaire (ní bheidh an fad uasta níos mó ná 48 mí).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Служба на Органа на европейските регулатори в областта на електронните съобщения (Служба на ОЕРЕС)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Служба на ОЕРЕС</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Предоставяне на инструмент за измерване на неутралност на мрежата (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Предоставяне на инструмент за измерване на неутралност на мрежата (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>1та цел на търга е да разработи, изпълни, тества и валидира инструмент за измерване на неутралност на мрежата (NN), за период от 12 месеца. 2та цел е да предостави помощни услуги на възлагащия орган (Службата на ОЕРЕС) и ядрените регулаторни органи (NRA) в следващия период от 36 месеца. Инструментът ще използва софтуерен инструмент за измерване с отворен код за мониторинг на аспектите по качеството на услугите (QoS) на услугите за интернет достъп (IAS), като скорост и забавяне, както и аспекти на управлението на трафика, като блокиране и ограничаване на интернет-базирани приложения, блокиране на портове и др. Продуктът ще включва също референтно изпълнение на инструмента и портал на ОЕРЕС за публикация на резултати от измерването от инструмента. Това ще бъде „референция“ за NRA в смисъл, че ще предоставя прототипно работно решение, налично от възлагащия орган за отделните NRA, които могат да се абонират и да използват решението, или изцяло, или чрез използване на определени модули/функции.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Първоначална продължителност на поръчката — 12 месеца, с автоматично подновяване до 3 пъти (максималната обща продължителност не трябва да надвишава 48 месеца).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Biroul Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (Biroul OAREC)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Oficiul OAREC</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Furnizarea unui instrument de măsurare a neutralității nete (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Furnizarea unui instrument de măsurare a neutralității nete (NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Primul obiectiv al licitației este dezvoltarea, implementarea, testarea și validarea unui instrument de măsurare a neutralității nete (NN), pe o perioadă de 12 luni. Al 2-lea obiectiv este de a furniza servicii de asistență Autorității Contractante (Oficiul OAREC) și ANR-urlor în perioada următoare de 36 de luni. Instrumentul va implementa un instrument de măsurare software cu sursă deschisă pentru monitorizarea aspectelor privind calitatea serviciilor (QoS) ale serviciilor de acces la Internet, cum ar fi viteza și întârzierea, precum și aspecte de gestionare a traficului, cum ar fi blocarea și reducerea accesului la aplicații bazate pe Internet, blocarea porturilor etc. Produsul va include, de asemenea, o implementare de referință a instrumentului și un portal OAREC pentru publicarea rezultatelor măsurătorilor înregistrate cu ajutorul instrumentului. Acesta va fi o "referință" pentru ANR-uri în sensul că va oferi o soluție prototip de lucru, disponibilă de la Autoritatea Contractantă pentru ANR-urile individuale, care pot opta pentru și implementa soluția fie integral, fie prin adoptarea anumitor module / funcții .</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Durata inițială a contractului este de 12 luni, reînnoită automat de maximum 3 ori (durata maximă nu trebuie să depășească 48 de luni).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+      <F02_2014 CATEGORY="TRANSLATION" FORM="F02" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ured Tijela europskih regulatora za elektroničke komunikacije (Ured BEREC-a)</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <DOCUMENT_FULL/>
+            <URL_DOCUMENT>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3097</URL_DOCUMENT>
+            <ADDRESS_FURTHER_INFO_IDEM/>
+            <ADDRESS_PARTICIPATION>
+               <OFFICIALNAME>Ured BEREC-a</OFFICIALNAME>
+               <ADDRESS>ZA Meierovica Bulvaris 14, 2nd Floor</ADDRESS>
+               <TOWN>Riga</TOWN>
+               <POSTAL_CODE>LV-1050</POSTAL_CODE>
+               <COUNTRY VALUE="LV"/>
+               <CONTACT_POINT>Procurement team</CONTACT_POINT>
+               <E_MAIL>procurement@berec.europa.eu</E_MAIL>
+               <n2016:NUTS CODE="LV006"/>
+               <URL_GENERAL>www.berec.europa.eu</URL_GENERAL>
+            </ADDRESS_PARTICIPATION>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nabava alata za mjerenje neutralnosti interneta (NN)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>BEREC/2018/01/OT</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72240000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Nabava alata za mjerenje neutralnosti interneta (Net Neutrality – NN).</P>
+            </SHORT_DESCR>
+            <VAL_ESTIMATED_TOTAL CURRENCY="EUR">240000.00</VAL_ESTIMATED_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72250000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72260000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72320000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72420000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="50000000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48610000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48810000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48750000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="48326000"/>
+               </CPV_ADDITIONAL>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72413000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="LV006"/>
+               <SHORT_DESCR>
+                  <P>Prvi je cilj nadmetanja razvoj, provedba, ispitivanje i provjera alata za mjerenje neutralnosti interneta (NN) tijekom razdoblja od 12 mjeseci. Drugi je cilj pružanje usluga podrške javnom naručitelju (ured BEREC-a) i nacionalnim regulatornim tijelima (national regulatory authority – NRA) tijekom sljedećeg razdoblja od 36 mjeseci. Alatom se provodi alat za mjerenje sa softverom otvorenog izvora za praćenje aspekata kvalitete usluge (Quality of Service – QoS) usluga pristupa internetu (Internet Access Services – IAS), poput brzine i kašnjenja te aspekata upravljanja prometom poput blokiranja i ograničavanja internetskih aplikacija, blokiranja priključaka itd. Predmeti isporuke uključivat će i referentnu provedbu alata i portal BEREC-a za objavu rezultata mjerenja iz alata. Predstavljat će „Referencu” za NRA-ove tako da će pružiti prototip radnog rješenja, dostupan pojedinačnim NRA-ovim od javnog naručitelja, koji se mogu odlučiti za rješenje i implementirati ga ili u potpunosti ili tako da usvoje određene module/funkcije.</P>
+               </SHORT_DESCR>
+               <AC_PROCUREMENT_DOC/>
+               <VAL_OBJECT CURRENCY="EUR">240000.00</VAL_OBJECT>
+               <DURATION TYPE="MONTH">12</DURATION>
+               <RENEWAL/>
+               <RENEWAL_DESCR>
+                  <P>Početno trajanje ugovora je 12 mjeseci, može se automatski obnoviti najviše 3 puta (maksimalno ukupno trajanje ne smije biti dulje od 48 mjeseci).</P>
+               </RENEWAL_DESCR>
+               <NO_ACCEPTED_VARIANTS/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK>
+               <SINGLE_OPERATOR/>
+            </FRAMEWORK>
+            <NO_CONTRACT_COVERED_GPA/>
+            <DATE_RECEIPT_TENDERS>2018-05-11</DATE_RECEIPT_TENDERS>
+            <TIME_RECEIPT_TENDERS>10:00</TIME_RECEIPT_TENDERS>
+            <LANGUAGES>
+               <LANGUAGE VALUE="BG"/>
+               <LANGUAGE VALUE="CS"/>
+               <LANGUAGE VALUE="DA"/>
+               <LANGUAGE VALUE="DE"/>
+               <LANGUAGE VALUE="EL"/>
+               <LANGUAGE VALUE="EN"/>
+               <LANGUAGE VALUE="ES"/>
+               <LANGUAGE VALUE="ET"/>
+               <LANGUAGE VALUE="FI"/>
+               <LANGUAGE VALUE="FR"/>
+               <LANGUAGE VALUE="GA"/>
+               <LANGUAGE VALUE="HR"/>
+               <LANGUAGE VALUE="HU"/>
+               <LANGUAGE VALUE="IT"/>
+               <LANGUAGE VALUE="LT"/>
+               <LANGUAGE VALUE="LV"/>
+               <LANGUAGE VALUE="MT"/>
+               <LANGUAGE VALUE="NL"/>
+               <LANGUAGE VALUE="PL"/>
+               <LANGUAGE VALUE="PT"/>
+               <LANGUAGE VALUE="RO"/>
+               <LANGUAGE VALUE="SK"/>
+               <LANGUAGE VALUE="SL"/>
+               <LANGUAGE VALUE="SV"/>
+            </LANGUAGES>
+            <OPENING_CONDITION>
+               <DATE_OPENING_TENDERS>2018-05-22</DATE_OPENING_TENDERS>
+               <TIME_OPENING_TENDERS>11:00</TIME_OPENING_TENDERS>
+            </OPENING_CONDITION>
+         </PROCEDURE>
+         <COMPLEMENTARY_INFO>
+            <NO_RECURRENT_PROCUREMENT/>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2018-03-14</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F02_2014>
+   </FORM_SECTION>
+</TED_EXPORT>
