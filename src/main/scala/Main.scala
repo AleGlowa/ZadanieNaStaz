@@ -52,7 +52,7 @@ object Main {
         // Do szybkiego wczytywania danych
         .option("samplingRatio", 0.1)
         .schema(customSchema)
-        // Wczytanie danych z początku roku 2018 do dziś
+        // Wczytanie danych z początku roku 2018 do końca kwietnia
         .load("data/2018/2018-*/2018*/*.xml")
 
     // Utworzenie tymczasowego widoku do późniejszego wykorzystania w zapytaniu SQL
@@ -66,7 +66,7 @@ object Main {
     newDF = sqlContext.sql(
       """ SELECT ISO_COUNTRY['@VALUE'] AS country_code,
         |        ROUND(AVG(VALUES.VALUE['_VALUE']), 2) AS average_price_in_euro,
-        |        ROUND(COUNT(*) / 30, 2) AS monthly_average_of_no_procurements
+        |        ROUND(COUNT(*) / 4, 2) AS monthly_average_of_no_procurements
         | FROM Procurements
         | GROUP BY country_code """.stripMargin)
 
